@@ -587,3 +587,60 @@ Setelah menemukan ide pokok di paragraf tersebut, langsung kamu tandai. Hal ini 
 ### 5. Tandai info penting
 
 Jika ada info penting dalam paragraf tersebut, tidak ada salahnya untuk menandai. Biasanya akan ditanyakan dalam soal-soal di nomor selanjutnya yang menggunakan paragraf yang sama.
+
+# 8. Teks Prosedur
+## Definisi dan Tujuan
+Knapp dan Watkins mendefinisikan teks prosedur sebagai teks yang bertujuan untuk memberitahukan orang mengenai bagaimana suatu hal dilakukan, menggunakan bahasa ajakan atau persuasi. Berdasarkan penjabaran Keraf, pengertian teks prosedur secara sederhana adalah urutan tindakan untuk menciptakan atau menghasilkan suatu. Sementara itu, menurut Kosasih, teks prosedur adalah teks yang menjelaskan langkah-langkah secara lengkap, jelas, dan terperinci tentang cara melakukan sesuatu.
+
+Lalu, apa tujuan dari teks prosedur? Seperti definisinya, tujuan teks prosedur adalah memberikan petunjuk bagi pembacanya tentang langkah-langkah secara urut dalam melakukan aktivitas atau menyelesaikan sesuatu. Selain itu, teks prosedur juga memudahkan pembaca untuk mengetahui cara yang benar dalam melakukan sesuatu dan memberikan petunjuk jelas agar mendapatkan hasil maksimal.
+
+## Struktur Teks Prosedur
+
+Dalam penyusunannya, struktur teks prosedur terdiri dari 4 bagian, yaitu tujuan, material, langkah-langkah penyusunan/pengerjaan, dan penegasan ulang (kesimpulan). Penjelasan lengkapnya sebagai berikut:
+
+### 1. Tujuan
+
+Pada awal pembuatan teks prosedur, penulis biasanya memberikan penjelasan terkait tujuan dalam penyusunan teks prosedur. Hal ini juga bisa menginformasikan hasil akhir yang akan dicapai.
+
+### 2. Material
+
+Merupakan hal-hal apa saja yang perlu dipersiapkan dan yang dibutuhkan dalam pelaksanaan atau pembuatan kegiatan tersebut. Bagian ini berisi informasi tentang alat/bahan yang dibutuhkan dalam pelaksanaan kegiatan.
+
+### 3. Langkah-langkah
+
+Bagian ini menjelaskan tentang proses atau tahapan yang harus dilakukan demi mendapatkan hasil maksimal sesuai dengan tujuan dari teks prosedur. Langkah-langkah yang dibuat harus secara berurutan. Selain itu, susunannya harus logis, sistematis, dan mudah dipahami oleh pembaca.
+
+### 4. Penegasan Ulang/Kesimpulan
+
+Bagian terakhir ini menjelaskan tentang simpulan dari suatu prosedur yang telah dilakukan. Bagian ini bersifat opsional, yakni boleh ada dan boleh tidak ada dalam teks prosedur.
+
+## Ciri-Ciri Teks Prosedur
+
+Sama halnya dengan teks yang lain, teks prosedur memiliki beberapa ciri antara lain:
+
+1. Menggunakan kalimat perintah;
+2. Terdapat panduan yang harus dilakukan;
+3. Menggunakan kata kerja aktif;
+4. Menggunakan **[konjungsi (kata hubung)](https://www.ruangguru.com/blog/pengertian-dan-jenis-jenis-konjungsi-antarkalimat)**;
+5. Terdapat aturan dalam hal bahan atau kegiatan;
+6. Menggunakan kata keterangan untuk menyatakan rincian waktu, tempat dan cara;
+7. Terdapat isi kegiatan yang dilakukan secara urut;
+## Jenis-Jenis Teks Prosedur
+
+Teks prosedur juga ternyata memiliki beberapa jenisnya, lho! Penasaran? Berikut jenis-jenis teks prosedur:
+
+### 1. Teks Prosedur Sederhana
+
+Teks prosedur sederhana hanya berisi dua atau tiga langkah saja. Contohnya prosedur untuk mengoperasikan setrika.
+
+**Baca Juga: [Contoh-Contoh Teks Prosedur Sederhana & Ciri-Cirinya](https://www.ruangguru.com/blog/contoh-teks-prosedur-sederhana)**
+
+### 2. Teks Prosedur Kompleks
+
+Teks prosedur kompleks terdiri atas banyak langkah dan jenjang untuk tiap tahapannya. Contoh teks prosedur kompleks adalah cara pembayaran tilang oleh polisi.
+
+### 3. Teks Prosedur Protokol
+
+Teks prosedur protokol merupakan teks prosedur yang langkah-langkahnya bisa dibolak-balik, tapi tujuannya tetap bisa tercapai. Contohnya cara memasak mi instan.
+
+Kalau kamu ingin menyusun teks prosedur, pastikan menggunakan struktur tersebut ya. Karena struktur teks prosedur yang lengkap, akan membuat arahannya menjadi jelas, dan bisa membantu pembaca dalam memahaminya.
