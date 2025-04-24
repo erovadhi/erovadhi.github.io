@@ -644,3 +644,851 @@ Teks prosedur kompleks terdiri atas banyak langkah dan jenjang untuk tiap tahapa
 Teks prosedur protokol merupakan teks prosedur yang langkah-langkahnya bisa dibolak-balik, tapi tujuannya tetap bisa tercapai. Contohnya cara memasak mi instan.
 
 Kalau kamu ingin menyusun teks prosedur, pastikan menggunakan struktur tersebut ya. Karena struktur teks prosedur yang lengkap, akan membuat arahannya menjadi jelas, dan bisa membantu pembaca dalam memahaminya.
+
+# 9. Kata Rujukan
+Menurut Taufiqur Rahman dalam buku _Teks dalam Kajian Struktur dan Kebahasaan_ (2018), kata rujukan adalah kata yang merujuk pada kata lain yang telah diungkapkan sebelumnya.
+
+Keterangan lanjutan tentang satu hal yang berdasarkan data dan merujuk pada pendapat adalah definisi dari kata rujukan.
+## Jenis-Jenis Kata Rujukan
+### Kata rujukan benda
+
+Adalah kata ganti yang digunakan untuk merujuk pada suatu benda atau hal yang dianggap sebagai sebuah benda. Beberapa [contoh kata rujukan](https://www.kompas.com/tag/contoh-kata-rujukan) benda adalah _ini, itu_, dan _tersebut_.
+
+Contoh kalimatnya:
+
+- _Kemarin Thomas membeli buku pelajaran. Buku **ini** harganya cukup murah karena mendapatkan diskon khusus._ (Kata **_ini_** merujuk pada buku yang dibeli Thomas).
+- _Adi baru saja membayar uang iuran keamanan di lingkungan rumahnya. Uang **tersebut** didapatkan Adi dari kakaknya._ (Kata **_tersebut_** merujuk pada uang yang dibayarkan Adi untuk iuran keamanan).
+
+### Kata rujukan orang
+
+Adalah kata rujukan yang mengacu pada orang atau suatu hal yang diperlakukan seperti orang. [Contoh kata rujukan](https://www.kompas.com/tag/contoh-kata-rujukan) orang adalah _dia, ia, mereka, beliau_, dan lain-lain.
+
+Contoh kalimatnya:
+
+- _Bian adalah anak yang rajin. Karena **dia** sering membantu orangtuanya membersihkan rumah dan merawat kebun._ (Kata **_dia_** merujuk kepada Bian).
+- _Andi, Bela, Ian, dan Rita pergi ke kebun binatang. **Mereka** berangkat pagi tadi dan baru saja pulang._ (Kata **_mereka_** merujuk pada Andi, Bela, Ian, dan Rita).
+
+### Kata rujukan tempat
+
+Adalah kata rujukan yang digunakan sebagai kata ganti tempat atau acuan pada suatu tempat. Beberapa contoh kata rujukan tempat, antara lain _di sana, di sini, di situ_, dan sebagainya.
+
+Contoh kalimatnya:
+
+- _Bali menjadi salah satu destinasi wisata favorit di Indonesia. **Di sana** ada banyak tempat wisata, contohnya Pantai Kuta._ (Kata _di sana_ merujuk pada Bali).
+- _Toko Wijaya banyak diminati karena menjual berbagai kebutuhan. **Di situ**, kamu bisa membeli peralatan sekolah._ (Kata _di situ_ merujuk pada Toko Wijaya).
+
+# 10. Tanda Baca
+**Tanda baca adalah simbol yang nggak ada hubungannya sama suara, kata, atau frasa dalam suatu bahasa**. Tanda baca itu sendiri berperan **menunjukkan sebuah struktur tulisan, intonasi, dan jeda pada saat pembacaan**.
+## Penggunaan Tanda Baca Titik
+### 1. Penanda Akhir Kalimat
+
+Fungsi tanda titik yang paling umum dan paling banyak dipahami orang-orang ialah sebagai penanda pada akhir kalimat. Bukan kalimat seruan atau kalimat tanya. Kamu biasa memahaminya sebagai kalimat berita.
+
+Contoh:
+
+- Ayah baru saja berangkat ke Yogyakarta.
+- Ida sudah menyelesaikan artikel tentang [Ketimpangan Sosial](https://www.ruangguru.com/blog/faktor-faktor-penyebab-ketimpangan-sosial) kemarin.
+
+### 2. Tanda di Penulisan Bagan, Ikhtisar, atau Daftar
+
+Tanda titik bisa digunakan di belakang satu huruf atau angka dalam penulisan bagan, ikhtisar, atau daftar.
+
+Contoh:
+
+II. Provinsi Jawa Barat
+
+1. Kota Bekasi
+2. Kabupaten Bekasi
+
+3. Pembahasan
+
+3.1 Isi
+
+3.2 Analisa Tabel
+
+3.3 Analisa Grafik
+
+### 3. Pemisah Angka pada Penanda Waktu (Jam, Menit, dan Detik)
+
+Jarang diketahui, tanda titik juga dapat digunakan sebagai pemisah angka jam, menit, dan detik. Hal ini disebabkan tanda tersebut sering digantikan oleh titik dua (:) 
+
+Contoh:
+
+- Pukul 06.05 (Pukul 6 lewat 5 menit)
+- Pukul 10.18 (Pukul 10 lewat 18 menit)
+
+### 4. Penunjukkan Jangka Waktu
+
+Hampir serupa dengan fungsi yang ketiga, tanda titik juga berfungsi sebagai penunjukkan jangka waktu tertentu.
+
+Contoh:
+
+- 01.03.47 (1 jam 3 menit 47 detik)
+- 07.00.38 (7 jam 38 detik)
+
+### 5. Memperjelas Jumlah
+
+Tanda titik digunakan untuk memperjelas bilangan ribuan atau kelipatannya.
+
+Contoh:
+
+- Kasus COVID-19 di Indonesia tembus 1.000.000 kasus.
+- Kecelakaan di tol bulan lalu mencapai 1.200 kejadian.
+
+Tapi, perlu kamu ingat nih, tanda titik tidak berlaku kepada angka yang tidak menyatakan jumlah meskipun angkanya ribuan ya.
+
+Contoh:
+
+- Tsunami di Aceh terjadi pada tahun 2004.
+- Perempuan itu kelahiran tahun 1999.
+
+### 6. Peran dalam Penulisan Referensi
+
+Dalam penulisan daftar pustaka, tanda titik digunakan setelah nama penulis, judul tulisan yang tidak mengandung tanda seru atau tanda tanya, dan tempat terbit.
+
+Contoh:
+
+Agung, Muhammad. 2007. _Media Belajar yang Asyik_. Solo: Ragam Cendekia
+
+### 7. Tidak Digunakan pada Akhir Judul
+
+Kamu tidak boleh menggunakan tanda titik pada akhir judul karangan/artikel yang merupakan kepala karangan. Selain itu pada bagian kepala tabel, grafik, dan ilustrasi juga tidak boleh diakhiri dengan tanda titik.
+
+Contoh:
+
+- [Pengertian, Jenis, dan Contoh Majas](https://www.ruangguru.com/blog/pengertian-jenis-dan-contoh-majas)
+- Grafik 3.2 Angka Kematian COVID-19 di Provinsi Jawa Timur
+- [Cara Memulai Bisnis Rumahan di Bulan Ramadan](https://blog.skillacademy.com/cara-memulai-bisnis-rumahan)
+
+### 8. Tidak Digunakan pada Kepala Surat
+
+Oh iya tanda titik ini juga tidak boleh dipakai dalam kepala surat ya. Artinya, tanda titik tidak diperbolehkan di belakang alamat pengirim dan penerima surat, nama pengirim dan penerima surat, dan tanggal surat.
+
+Contoh:
+
+Kepada
+
+HRD PT Jaya Sentosa
+
+Jalan Pandawa
+
+Sukabumi
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/FS%20-%20Tanda%20Baca-01.jpg)
+
+## Penggunaan Tanda Baca Koma
+## Penggunaan Tanda Baca Koma (,)
+
+### 1. Diletakkan di Tengah Kalimat
+
+Tanda ini sangat sering digunakan pada tengah-tengah kalimat. Nah, tanda koma biasanya dipakai dalam suatu perincian atau pun penyebutan bilangan. Untuk penempatannya ada di belakang kata yang mengikutinya.
+
+Contoh:
+
+- Satu, dua, tiga, ….. mulai!
+- Ibu berbelanja keperluan memasak seperti garam, gula, kecap, dan minyak goreng.
+
+### 2. Perbandingan Kalimat
+
+Tanda koma berperan dalam membentuk sebuah kalimat perbandingan. Tanda ini dipakai memisahkan kalimat yang setara yang didahului kata yang menunjukkan perbandingan seperti tetapi, namun, atau melainkan.
+
+Contoh:
+
+Wahana wisata itu sungguh menyenangkan, namun cukup berbahaya bagi anak-anak.
+
+### 3. Memisahkan Anak Kalimat dengan Induk Kalimat
+
+Tanda koma juga dipakai untuk memisahkan anak kalimat dari induk kalimatnya. Dengan catatan, jika anak kalimatnya mendahului induk kalimat.
+
+Contoh:
+
+Jika tempatnya terlalu sempit, kita tidak akan gunakan tempat itu.
+
+### 4. Pemisah Partikel
+
+Tanda koma dipakai untuk memisahkan partikel dengan inti kalimat. Partikel ini bukan seperti partikel di materi IPA ya. Partikel dalam  bahasa Indonesia seperti oh, ya, hmm, wah, aduh, dan bentuk lainnya.
+
+Contoh:
+
+- Wah, ternyata pemandangan di sini tak kalah indahnya!
+- Hmm, baiklah kalau seperti itu.
+
+### 5. Kata Penghubung Antarkalimat
+
+Kamu wajib meletakkan tanda koma di belakang kata atau ungkapan yang menjadi penghubung antarkalimat. Kata atau ungkapan tersebut misalnya oleh karena itu, namun, akan tetapi, maka dari itu, dan meskipun begitu.
+
+Contoh:
+
+…. oleh karena itu, kita harus merencanakan dengan matang.
+
+…… akan tetapi, peluang tim ini untuk menang masih terbuka lebar.
+
+### 6. Identitas yang Ditulis Berurutan
+
+Maksud identitas itu ialah penulisan nama dan alamat, bagian alamat, tempat dan tanggal, serta nama tempat atau wilayah yang ditulis secara berurutan harus memakai tanda koma.
+
+Contohnya:
+
+- Jakarta, 13 April 2021
+- Jalan Raya Bogor KM 19, Kramat Jati, Jakarta Timur
+
+### 7. Memisahkan Petikan Langsung
+
+Kalau kamu menemukan percakapan dalam sebuah cerita, baik di cerpen atau novel, tanda koma dipakai untuk memisahkan petikan langsung dari bagiannya yang lain dalam kalimat.
+
+Contoh:
+
+- Roro bertanya, “Apakah kamu lupa materi tentang [konjungsi temporal](https://www.ruangguru.com/blog/konjungsi-temporal)?”
+- “Baiklah,” jawab Pak Adi, “segera akan saya kerjakan hari ini.”
+
+### 8. Catatan Kaki
+
+Dalam penyusunan catatan kaki, tanda koma digunakan dalam penyusunannya.
+
+Contoh:
+
+Anton M. Moeliono, Tata Bahasa Baku Bahasa Indonesia Edisi Keempat (Jakarta: Badan Pengembangan dan Pembinaan Bahasa, Kementerian Pendidikan dan Kebudayaan. 2017), hlm 48.
+
+### 9. Penulisan Daftar Pustaka
+
+Pada penyusunan daftar pustaka, tanda koma berfungsi sebagai pemisah bagian nama yang dibalik susunannya.
+
+Dalam penulisan daftar pustaka, tanda koma digunakan untuk menceraikan bagian nama yang dibalik susunannya.
+
+Contoh:
+
+Moeliono, Anton M., dkk. 2017. Tata Bahasa Baku Bahasa Indonesia Edisi Keempat. Jakarta: Badan Pengembangan dan Pembinaan Bahasa, Kementerian Pendidikan dan Kebudayaan
+
+### 10. Penulisan Bilangan
+
+Tanda koma dalam hal ini dipakai pada angka persepuluhan atau bisa dipakai di antara rupiah dan sen yang dinyatakan dengan angka.
+
+Contoh:
+
+- 17,2 km
+- Rp90,12
+
+### 11. Penulisan Gelar
+
+Dalam penulisan gelar akademik, tanda koma dipakai di antara nama orang dan gelar yang mengikutinya untuk membedakan dari singkatan nama diri, marga, atau keluarga.
+
+Contoh:
+
+- Hani Ammariah, S.Si
+- Ny. Ratu Regina, S.Kom
+
+### 12. Kalimat Bertingkat
+
+Nah, tanda koma juga berperan dalam kalimat bertingkat nih. Ia dipakai buat mengapit keterangan tambahan yang sifatnya tidak membatasi.
+
+Contoh:
+
+- Kakak pertamaku, Kresno, adalah orang yang sangat kreatif.
+- Di sekolah kami, misalnya, masih banyak siswa dari latar belakang keluarga yang kurang mampu.
+
+### 13. Menghindari Salah Baca
+
+Ternyata tanda koma berfungsi juga untuk menghindari salah baca/salah penafsiran lho. Tanda ini digunakan di belakang keterangan yang terdapat pada awal kalimat.
+
+Contoh:
+
+Dalam upaya pembinaan warga, kita memerlukan semangat gotong royong.
+
+**Bandingan dengan**
+
+Kita memerlukan semangat gotong royong dalam upaya pembinaan warga.
+### 14. Tidak Digunakan untuk Pemisahan Petikan Langsung
+
+Tanda koma TIDAK dipakai untuk memisahkan petikan langsung dalam kalimat jika petikan langsung diakhiri tanda tanya atau tanda seru.
+
+Contoh:
+
+- “Kenapa kamu berbohong?” tanya Devi.
+- “_Visitor_ blog jangan sampai turun lagi!” tegas Fahri.
+## Penggunaan Tanda Baca Seru (!)
+
+### 1. Kalimat Perintah
+
+Kalau kamu memerintahkan atau menyeru kepada seseorang, maka berlaku penggunaan tanda seru di sini jika ucapanmu dituliskan. Tanda seru ini dipakai baik perintah yang sifatnya keras maupun tidak.
+
+Contoh:
+
+- Tolong matikan lampu di ruang itu!
+- Kerjakan tugas ini sekarang juga!
+
+### 2. Menunjukkan Ekspresi Terkejut/Kaget
+
+Ketika kamu merasa kaget, terkejut, atau rasa emosi yang kuat, maka wajib menggunakan tanda seru dalam penulisan kalimatnya.
+
+Contoh:
+
+- Astaga! Apakah aku lupa mengirimkan kabar ke kamu?
+- Kita berangkat sekarang, ayo semangat!
+## Penggunaan Tanda Baca Tanya (?)
+
+### 1. Menanyakan Sesuatu
+
+Namanya aja tanda tanya, sudah pasti fungsi yang pertama bertujuan untuk kalimat yang menanyakan sesuatu.
+
+Contoh:
+
+- Kapan Gulman pergi ke Bandung?
+- Apakah Devi sudah tahu kabar itu?
+
+Eits, tapi tanda tanya tidak digunakan dalam kalimat tanya yang berubah bentuk menjadi penjelas ya.
+
+Contoh:
+
+- Sampai sekarang dia tidak tahu kenapa gurunya selalu memberikan nilai yang jelek.
+- Pak Hasan sudah mengerti bagaimana cara mengoperasikan mesin tersebut.
+
+### 2. Digunakan dalam Tanda Kurung
+
+Tanda tanya bisa diletakkan di dalam tanda kurung untuk menyatakan bagian dari sebuah kalimat yang masih kurang dapat dibuktikan keabsahannya.
+
+Contoh:
+
+Total dana yang dikorupsi sekitar 500 juta rupiah (?)
+## Penggunaan Tanda Baca Titik Koma (;)
+
+### 1. Memisahkan Bagian Kalimat
+
+Tanda titik koma dipakai untuk memisahkan bagian kalimat yang sejenis dan setara.
+
+Contoh:
+
+Malam semakin larut; tugasnya tak kunjung selesai.
+
+### 2. Memisahkan Kalimat Setara
+
+Tanda ini bisa dipakai sebagai pengganti kata hubung untuk memisahkan kalimat yang masih setara dalam kalimat majemuk.
+
+Contoh:
+
+Ibu memasak di dapur; Nanda menonton TV di ruang tamu.
+
+## Penggunaan Tanda Baca Titik Dua (:)
+
+### 1. Akhir Pernyataan Lengkap
+
+Tanda titik dua digunakan pada akhir pernyataan yang lengkap. Tapi, hal ini hanya berlaku jika masih dalam rangkaian yang sama ya.
+
+Contoh:
+
+Kita persiapkan perlengkapan berkemah: tenda, ransel, jaket, dan pakaian tidur.
+
+Lain halnya jika rangkaian tadi merupakan pelengkap yang mengakhiri pernyataan. Tanda titik dua tidak digunakan.
+
+Contoh:
+
+Kita memerlukan tenda, ransel, jaket, dan pakaian tidur.
+
+### 2. Sesudah Kata atau Ungkapan
+
+Tanda titik dua ini bisa digunakan sesudah kata/ungkapan juga lho
+
+Contoh:
+
+Ketua: Dwi Hatmojo Kresnoadi
+
+Wakil Ketua: Hani Ammariah
+
+Sekretaris: Salsabila Nanda
+
+Hari/Tanggal: Senin, 19 April 2021
+
+Waktu: 07.00 – selesai
+
+### 3. Di antara Identitas Penerbit
+
+Tanda titik dua bisa dipakai di antara
+
+Tanda titik dua di antara:
+
+(a) jilid atau nomor dan halaman,
+
+(b) bab dan ayat dalam kitab suci,
+
+(c) judul dan subjudul suatu karangan, serta
+
+(d) nama kota dan penerbit buku dalam daftar pustaka..
+
+Contoh:
+
+- Republika, 1 (2020), 34:7
+- Al-Kahfi: 10
+- Karangan Regina Kayo, Rahasia Hidup: Kisah di Kota Hujan, sudah terbit.
+- Abdillah, Fahri. 2020. 7 Jurus Jitu Melakukan Negosiasi. Purwokerto: Penerbit Lampion.
+
+### 4. Dalam Teks Drama Setelah Kata yang Menunjukkan Pelaku
+
+Tanda titik dua dipakai dalam teks drama setelah kata yang menunjukkan pelaku dalam percakapan.
+
+Contoh:
+
+Ratu: (sambil memandang ke bawah) “Sudahlah. Mungkin memanglah ini takdirku”
+
+Hani: (menepuk pundak Ratu) “Hei, ngapain ngelamun aja?”
+
+Ratu: (kaget) “Eh, kamu Hani..”
+## Penggunaan Tanda Baca Elipsis/Titik-titik (…)
+
+### 1. Penulisan Kalimat yang Terputus-putus
+
+Tanda elipsis ditulis dengan cara titik-spasi-titik-spasi-titik ( . . . ). Tanda ini dipakai dalam penulisan kalimat yang terputus-putus.
+
+Contoh:
+
+Hmm . . . . aku juga tidak habis pikir dengan kejadian itu.
+
+### 2. Penunjukkan Ada Bagian Naskah yang Dihilangkan
+
+Tanda elipsis dipakai juga untuk menunjukkan kalau di sebuah kalimat ada bagian yang dihilangkan.
+
+Contoh:
+
+Hal yang patut dihindari . . . serta menjadi masalah yang cukup besar dalam teknik membuat website.
+
+Kalau bagian yang dihilangkan itu akhir dari kalimat, maka kamu perlu memakai empat titik (… .), tiga titik penanda hilangnya bagian teks, dan satu sebagai tanda akhir kalimat.
+
+Contoh:
+
+Dia termasuk orang yang setuju dengan … .
+## Penggunaan Tanda Baca Hubung (-)
+
+### 1. Menyambung Huruf Kata dan Penulisan Tanggal
+
+Tanda hubung dipakai untuk menyambung huruf dari kata yang dieja satu per satu dan digunakan juga pada penulisan tanggal.
+
+Contoh:
+
+R-u-a-n-g-g-u-r-u
+
+19-08-1998
+
+### 2. Menyambung Suku
+
+Tanda hubung berfungsi untuk menyambung suku dari kata dasar dan imbuhan yang terpisah oleh pergantian baris.
+
+Contoh:
+
+– Ririn membeli baju lengan pan-
+
+jang di Pasar Tanah Abang.
+
+– Jangan sampai kamu memberi-
+
+kan berita yang tidak benar.
+
+**Pengecualian** terhadap pemotongan suku kata jika huruf terakhir pada kata tersebut ialah huruf vokal
+
+Contoh
+
+Sejak diperketatnya aturan tersebut, para pemudik itu
+
+seperti kesulitan mencari celah untuk pulang kampung.
+
+**Bukan**
+
+Sejak diperketatnya aturan tersebut, para pemudik i-
+
+tu seperti kesulitan mencari celah untuk pulang kampung.
+
+### 3. Memperjelas Hubungan
+
+Tanda hubung dipakai untuk memperjelas hubungan bagian kata/ungkapan serta penghilangan bagian kelompok kata.
+
+Contoh:
+
+- ber-evolusi
+- dua puluh lima-ribuan (25 x 1.000)
+
+Coba kamu bandingakan dengan ini:
+
+- ber-revolusi
+- dua-puluh-lima-ribuan (20 x 5.000)
+
+### 4. Menyambung Unsur Kata Ulang  
+
+Tanda hubung dipakai untuk menyambung unsur kata yang berulang.
+
+Contoh:
+
+- mondar-mandir, kanan-kiri
+- anak-anak, kuda-kuda
+
+### 5. Merangkai Kata Depan dengan Huruf Kapital
+
+Tanda hubung juga dipakai untuk merangkai:
+
+(a) se- dengan kata selanjutnya dengan awalan kapital,
+
+(b) ke- dengan angka,
+
+(c) angka dengan ­­–an,
+
+(d) singkatan berhuruf kapital dengan imbuhan atau kata, dan
+
+(e) nama jabatan rangkap.
+
+Contoh:
+
+- se-Jawa Barat
+- era 90-an
+- mem-PHK-kan
+- Menteri-Sekretaris Negara
+
+### 6. Merangkai Unsur Bahasa Indonesia dengan Bahasa Asing
+
+Dalam rangkaian unsur Bahasa Indonesia dengan bahasa asing, juga diperlukan tanda hubung lho.
+
+Contoh:
+
+- Dia menata rambutnya se-_stylish_ mungkin.
+- Jangan sampai sistem peng-_upload_-an data nanti mengalami gangguan.
+- Pekerjaan Ratu tolong di-_backup_ ya.
+## Penggunaan Tanda Baca Pisah (—)
+
+### 1. Membatasi Penyisipan Kata
+
+Jika ada pembatasan penyisipan kata atau kalimat yang memberikan penjelasan khusus di luar konteks kalimat, maka digunakan tanda pisah.
+
+Contoh:
+
+Kesuksesan itu—saya yakin akan tercapai—harus diperjuangkan oleh dirinya sendiri.
+
+### 2. Tanda Pisah Dua Bilangan
+
+Tanda pisah dipakai juga di antara dua bilangan/tanggal yang menunjukkan arti “sampai”
+
+Contoh:
+
+- 2019 – 2020
+- Medan, 13 – 20 Januari 2015
+- Bandung – Surabaya
+
+### 3. Penegasan Keterangan Aposisi
+
+Tanda pisah bisa dipakai untuk penegasan keterangan aposisi (keterangan lain) sehingga kalimat menjadi lebih jelas.
+
+Contoh:
+
+Anggota komunitas itu – Shabrina, Devi, dan Nanda – sudah memberi dampak positif yang cukup besar bagi lingkungan sekitarnya.
+
+## Penggunaan Tanda Baca Kurung (())
+
+### 1. Mengapit Angka
+
+Kamu bisa memakai tanda baca kurung untuk digunakan mengapit angka atau huruf yang merinci suatu urutan.
+
+Contoh:
+
+Harta kekayaannya meliputi (a) logam mulia, (b) properti, dan (c) saham.
+
+### 2. Mengapit Huruf
+
+Tanda kurung dipakai mengapit huruf atau kata yang kemunculannya di kalimat dapat dihilangkan.
+
+Contoh:
+
+Pendaki amatiran tidak diperkenankan untuk mendaki sampai (puncak) Mahameru.
+
+### 3. Mengapit Keterangan
+
+Kamu juga bisa menggunakan tanda kurung untuk mengapit keterangan/penjelasan yang bukan bagian pokok dari sebuah kalimat.
+
+– Bukti tersebut (lihat halaman 109) mendukung pernyataannya bahwa dalam melakukan teknik negosiasi harus dilakukan secara serius.
+
+### 4. Tambahan Keterangan
+
+Untuk menjelaskan keterangan yang berupa abreviasi, digunakan pula tanda kurung.
+
+Kementerian Keuangan Republik Indonesia (Kemenkeu RI) telah mengeluarkan kebijakan penggunaan meterai 10000 dalam dokumen berharga.
+
+## Penggunaan Tanda Baca Kurung Siku ([ ])
+
+### 1. Mengapit Keterangan
+
+Tanda kurung siku dipakai untuk mengapit keterangan yang ada di kalimat penjelas. Nah, kalimat penjelas ini sebelumnya sudah bertanda kurung ya.
+
+Contoh:
+
+– Persamaan dari metode pengajaran itu (perbedaannya [lihat halaman 33-45] cukup signifikan) memberikan output yang kurang lebih sama dengan tujuan awal.
+
+### 2. Mengapit Huruf, Kata, atau Kelompok
+
+Tanda kurung siku ini bisa dipakai dalam hal pengoreksian kalimat yang ditulis oleh orang lain. Tanda ini menyatakan bahwa ada kesalahan atau kekurangan huruf pada naskah aslinya.
+
+Contoh:
+
+Para pemuda juga wajib berperan dalam pemberdaya[a]n masyarakat di lingkungan sekitar tempat mereka tinggal.
+
+## Penggunaan Tanda Baca Garis Miring (/)
+
+### 1. Pengganti Kata Hubung
+
+Garis miring digunakan sebagai pengganti kata dan, atau, serta tiap (per).
+
+Contoh:
+
+- pria/wanita
+- harga permen itu Rp1.000,00/butir
+
+### 2. Dipakai pada Nomor Surat dan Kalimat
+
+Tanda garis miring juga dipakai dalam nomor surat serta penanda rentang masa tahun yang terbagi dalam dua tahun takwim.
+
+Contoh:
+
+- No. 036/Kep/BKD/2020
+- Tahun Ajaran 2020/2021
+## Penggunaan Tanda Baca Apostrof (‘)
+
+### 1. Penggunaan Kata Khusus
+
+Dalam penulisan, tanda ini digunakan dalam penulisan nama serta kata khusus dari serapan bahasa asing.
+
+Contoh:
+
+- Ahmad Syafi’i (bukan ‘Syafi i’ atau ‘Syafii’)
+- Surat Al-An’am (bukan Al-An am atau Al-Anam)
+
+### 2. Menunjukkan Penghilangan Bagian Kata
+
+Tanda apostrof juga dipakai untuk menunjukkan penghilangan bagian kata atau angka dalam tahun.
+
+Contoh:
+
+- Deni ‘lah orang yang menyelamatmu (‘lah = adalah)
+- 19 Februari ’21 (’21 = 2021)
+
+## Penggunaan Tanda Baca Petik (“)
+
+### 1. Petikan Langsung
+
+Tanda petik berfungsi sebagai pengapit petikan langsung dari pembicaraan dalam naskah atau bahan tertulis lain.
+
+Contoh:
+
+- “Aku lapar,” ucap Ratu.
+- Pasal 36 UUD 1945 berbunyi, “Bahasa negara ialah Bahasa Indonesia.”
+
+### 2. Penutup Kalimat
+
+Tanda petik dipakai sebagai tanda baca ungkapan yang dipakai dengan arti khusus pada ujung atau bagian kalimat.
+
+Contoh:
+
+Tedy sering menjadi “pengacau” dalam setiap kegiatan tim di tempatnya bekerja.
+
+### 3. Mengapit Istilah Ilmiah
+
+Tanda ini juga bisa dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau memiliki arti khusus.
+
+Contoh:
+
+Dalam istilah asing, keadaan semacam inilah yang disebut sebagai “jetlag”.
+
+### 4. Mengapit Judul
+
+Tanda petik dipakai untuk mengapit judul syair, karangan, atau bab buku yang dipakai dalam kalimat.
+
+Contoh:
+
+Karangan Salsabila Nanda yang berjudul “Peran UKM terhadap Ekonomi Indonesia” telah diterbitkan di surat kabar Republika sebagai tema besar halaman Keuangan.
+
+## Penggunaan Tanda Baca Petik Tunggal (‘)
+
+### 1. Mengapit Makna
+
+Tanda petik tunggal dipakai untuk mengapit petikan yang ada di dalam petikan lain.
+
+Contoh:
+
+“Kau dengar bunyi ‘ngiung-ngiung’ tadi kah?” tanya Fahri kepada Adi.
+
+### 2. Mengapit Petikan di dalam Petikan Lain
+
+Petik tunggal juga digunakan dalam penulisan untuk mengapit makna, terjemahan, atau ungkapan asing.
+
+Contoh:
+
+- feedback ‘umpan balik’
+- shut down ‘nonaktif’
+# 11. Kalimat Rumpang
+## Apa Itu Kalimat Rumpang?
+
+Kalimat rumpang adalah kalimat yang memiliki kekosongan, sehingga tidak memenuhi struktur kalimat standar. Tujuannya adalah untuk menguji kemampuan pembaca dalam mengenali dan memperbaiki kekurangan dalam kalimat tersebut.
+
+Pada tes UTBK SNBT, soal mengenai kalimat rumpang ini seringkali muncul dalam soal Kemampuan Memahami Bacaan dan Menulis, serta Soal Literasi Bahasa Indonesia. Oleh karena itu, penting banget buatmu untuk mengetahui cara menyelesaikan soal ini dan melengkapi kalimat rumpang yang ada. 
+
+## Cara Melengkapi Kalimat Rumpang
+
+### 1. Pahami struktur kalimatnya
+
+Untuk melengkapi kalimat rumpang, khususnya jika yang kosong adalah kata-kata, kamu harus tahu terlebih dahulu struktur kalimat tersebut. Karena kata yang digunakan untuk mengisi bagian subjek tentu akan memiliki imbuhan yang berbeda dibandingkan dengan kata yang digunakan sebagai kata kerja atau keterangan. 
+
+### 2. Pahami EYD
+
+Tidak jarang, kata yang hilang adalah kata berimbuhan, kata sambung atau kata depan. Oleh karena itu, untuk menjawab soal seperti ini dengan benar, kamu harus paham EYD atau PUEBI terlebih dahulu. Jangan sampai kamu tidak tahu kapan di harus disambung dan kapan ia harus dipisah dengan kata dibelakangnya. 
+
+### 3. Gabungkan pemahaman dengan kalimat sebelum dan sesudahnya
+
+Cara melengkapi kalimat rumpang yang ketiga adalah dengan menggabungkan pemahaman dari kalimat sebelum dan sesudahnya. Dengan demikian, kamu akan tahu kata atau kalimat apa yang seharusnya mengisi bagian rumpang tersebut. 
+
+### 4. Perbanyak membaca
+
+Agar bisa tahu kata atau kalimat apa yang tepat untuk mengisi kalimat rumpang, kamu harus banyak membaca berbagai teks dalam Bahasa Indonesia.Tujuannya adalah supaya kamu terbiasa dengan alur penulisan dalam bahasa nasional kita ini, sehingga ketika dihadapkan pada soal tipe seperti ini, kamu bisa mengerjakannya dengan lebih cepat. Jika kamu sudah mahir membaca dengan teknik [_skimming_ dan _scanning_](https://skuling.id/teknik-membaca-skimming-dan-scanning/)_,_ proses pengerjaan tipe soal seperti ini pun akan terasa lebih mudah.
+
+### 5. Fokus
+
+Sama seperti [soal menentukan kalimat efektif,](https://skuling.id/soal-literasi-bahasa-indonesia-menentukan-kalimat-efektif/) maupun soal literasi Bahasa Indonesia lainnya, kamu juga perlu fokus dalam mengerjakan soal ini. Hal ini karena soal ini berbentuk paragraf yang perlu dibaca dengan hati-hati.
+# 12. Surat Pribadi dan Surat Resmi
+## Surat Pribadi
+Sesuai namanya, **surat pribadi adalah** surat yang **digunakan untuk berkomuniasi secara pribadi**. Surat pribadi ditulis oleh seseorang untuk orang lain atau suatu instansi, yang isinya **menyangkut kepentingan pribadi**. Oleh karena itu, **bahasa yang digunakan dalam surat pribadi bersifat tidak resmi, santai, dan komunikatif**.
+
+Meskipun bahasa dalam surat pribadi tidak lebih baku daripada surat dinas, namun dalam surat pribadi tetap ada hal yang perlu diperhatikan, yaitu tata etika atau sopan santun. Khususnya jika kita menulis kepada orang lain yang lebih dewasa.
+
+Contoh surat pribadi yang dibuat dari seseorang untuk orang lain, yakni surat bertukar kabar kepada kerabat. Sementara itu, contoh surat pribadi yang dikirim ke suatu instansi, yakni surat izin tidak masuk sekolah karena suatu hal.
+## Tujuan Surat Pribadi
+Tujuan surat pribadi seringkali digunakan untuk **mengungkapkan perasaan, pikiran, dan emosi kepada orang-orang terdekat**, seperti keluarga, sahabat, atau pasangan. Selain itu, surat pribadi juga dapat membantu mempererat hubungan antara pengirim dengan penerima, lewat cerita dan perasaan yang disampaikan.
+### Ciri-Ciri Surat Pribadi
+Berikut ciri-ciri surat pribadi yang bisa kamu perhatikan:
+
+- Bahasa yang digunakan bersifat subjektif, pribadi, menggunakan kata-kata sapaan, tidak begitu formal (resmi), namun tetap sopan.
+- Surat pribadi akan menggunakan kata ganti orang pertama dan orang ketiga.
+- Tidak ada peraturan yang mengikat untuk menulis surat pribadi, seperti kop surat dan berbagai elemen lainnya.
+- Bebas menggunakan jenis kertas maupun sampul surat.
+### Unsur-Unsur Surat Pribadi
+Nah, meskipun tidak ada aturan yang mengikat dalam penulisan surat pribadi, masih ada unsur-unsur atau bagian-bagian surat pribadi yang perlu kamu pahami, nih. Tujuannya, supaya kamu bisa menyampaikan informasi sejelas-jelasnya kepada penerima. Berikut unsur-unsur surat pribadi yang bisa kamu perhatikan:
+
+#### 1. Tempat dan tanggal surat
+
+Saat menulis surat, tentu saja kamu harus mencantumkan tempat dan tanggal surat itu dibuat. Kamu bisa meletakkannya di bagian kiri atas halaman kertas.
+
+#### 2. Alamat penerima
+
+Selanjutnya, kamu juga perlu mencantumkan detail alamat penerima surat, untuk memudahkan dalam pengiriman surat.
+
+#### 3. Salam pembuka
+
+Ketiga, surat pribadi biasanya mencantumkan kata sapaan kepada orang yang dikirimi surat. Contoh kata sapaan dalam surat pribadi dibuat lebih santai, seperti hai, halo, teruntuk, dear, ucapan salam, dsb.
+
+#### 4. Paragraf pembuka
+
+Lalu, paragraf pembuka surat pribadi biasanya berisi pengenalan/pembukaan mengenai topik yang sedang dibahas.
+
+#### 5. Isi surat
+
+Isi surat pribadi berisi inti dari topik yang sedang dibahas.
+
+#### 6. Salam penutup
+
+Setelah itu, kamu bisa menulis beberapa kalimat untuk penutup surat. Bisa berupa ucapan terima kasih, harapan, doa, maupun ucapan salam.
+
+#### 7. Nama pengirim
+
+Di sebelah kanan bawah surat, kamu bisa cantumkan nama kamu, disertai tanda tangan (opsional).
+
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/surat%20pribadi%20dan%20surat%20dinas%20-%20contoh%20surat.png)
+## Surat Dinas
+**Surat dinas adalah** surat yang **dikirim oleh suatu instansi atau lembaga kepada perseorangan atau ke instansi lain**, yang berisi hal-hal kedinasan. Surat dinas biasa juga disebut dengan surat resmi. Surat dinas hanya dapat ditulis oleh sebuah instansi. Dengan kata lain, surat dinas tidak boleh ditulis oleh perorangan. Maka, pada surat dinas ada kepala surat dan nomor surat.
+
+Dalam menulis surat dinas, ada beberapa hal yang perlu diperhatikan, yaitu **penggunaan bahasanya**. Namun, bahasa yang digunakan pada surat dinas ini lebih formal dibanding surat pribadi. Selain itu, gaya bahasa surat dinas juga lebih singkat dan jelas. Contoh surat dinas, di antaranya surat undangan, surat jual beli, surat perjanjian, nota dinas, dan lain-lain.
+## Tujuan Surat Dinas
+1. Salah satu tujuan utama dari surat dinas adalah untuk menyampaikan pesan secara resmi antara suatu instansi kepada perorangan atau instansi lain. Surat dinas akan memastikan bahwa komunikasi yang dibuat memiliki keabsahan dan kredibilitas yang diperlukan.
+2. Surat dinas sering digunakan untuk memberikan instruksi atau perintah kepada staf atau pegawai. Instruksi tersebut bisa berupa tugas, penugasan, atau kebijakan baru yang harus diikuti.
+3. Surat dinas juga digunakan untuk melaporkan berbagai kegiatan atau perkembangan yang terjadi dalam sebuah instansi kepada pihak yang berwenang atau yang membutuhkan informasi tersebut.
+4. Surat dinas dapat digunakan untuk mengajukan permohonan kepada pihak lain, bisa berupa permintaan, dukungan, atau tindakan tertentu.
+5. Surat dinas dapat digunakan untuk mengajukan usulan atau saran kepada pihak yang berwenang dalam sebuah instansi. Usulan tersebut bisa berupa ide, proyek, atau kebijakan baru yang ingin diterapkan.
+6. Tujuan lain dari surat dinas juga dapat digunakan untuk memberi peringatan atau sanksi kepada pegawai yang melanggar aturan atau kebijakan instansi.
+7. Tidak hanya itu, surat dinas juga dapat digunakan untuk memberi penghargaan atau apresiasi kepada pegawai yang telah berprestasi dalam menjalankan tugasnya.
+## Ciri-Ciri Surat Dinas
+Berikut ciri-ciri surat dinas atau surat resmi yang bisa kamu perhatikan:
+
+- Terdapat kop surat atau kepala surat. Kop surat ini berisi nama dan alamat sebuah instansi.
+- Terdapat nomor surat dan lampiran.
+- Menggunakan bahasa yang resmi/formal, tidak terlalu panjang dan bertele-tele, jelas, dan langsung pada intinya.
+- Terdapat stampel instansi pada surat.
+## Unsur-Unsur Surat Dinas
+
+#### 1. Kop surat/Kepala surat
+
+Kop atau kepala surat dinas terletak di bagian paling atas surat. Kepala surat akan memuat nama instansi, logo instansi, alamat, nomor telepon, email atau faksimile.
+
+#### 2. Tempat dan tanggal surat
+
+Kemudian, surat dinas juga memuat tempat dan tanggal surat dibuat. Contohnya, Jakarta, 6 Maret 2024.
+
+#### 3. Nomor surat
+
+Nomor surat berhubungan dengan nomor surat instansi yang berkaitan. Biasanya, dalam nomor surat terdapat kode, angka, serta lampiran tahun saat surat itu dibuat.
+
+Contoh format nomor surat: nomor surat/kode surat/angka bulan/angka tahun
+
+Contoh nomor surat: 03/KHS-1/V/2023
+
+#### 4. Lampiran
+
+Lampiran adalah komponen dalam surat yang berfungsi untuk mencantumkan dokumen lain yang disertakan. Misalnya, lampiran berkas atau foto. Contoh penulisan lampiran:
+
+Lampiran: 2 lembar
+
+Lampiran: tiga berkas
+
+#### 5. Hal/perihal
+
+Perihal surat adalah pernyataan tentang masalah yang ingin disampaikan dalam surat dinas. Contohnya:
+
+Hal: Undangan rapat
+
+#### 6. Alamat penerima
+
+Selanjutnya, surat dinas juga akan mencantumkan alamat dari penerima surat. Contoh penulisannya:
+
+Yth. Ibu Hani Ammariah  
+Jalan Puskesmas No.87  
+Tangerang Selatan
+
+#### 7. Salam Pembuka
+
+Tidak hanya pada surat pribadi, surat dinas juga terdapat salam pembuka. Namun, sapaannya dibuat lebih formal. Contohnya:
+
+Dengan hormat,
+
+Assalamualaikum Wr. Wb,
+
+#### 8. Isi surat
+
+Kemudian, isi surat dinas terbagi menjadi tiga bagian, yaitu paragraf pembuka, paragraf inti, dan paragraf penutup.
+
+#### 9. Salam penutup
+
+Setelah itu, kamu bisa menulis beberapa kalimat untuk penutup surat. Bisa berupa ucapan terima kasih, harapan, doa, maupun ucapan salam.
+
+#### 10. Nama pengirim dan tanda tangan
+
+Di akhir surat, kamu perlu mencantumkan identitas pengirim surat, seperti jabatan pengirim, tanda tangan, stempel atau cap instansi, nama lengkap pengirim, dan keterangan lain seperti Nomor Induk Pegawai (NIP).
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/surat%20pribadi%20dan%20surat%20dinas%20-%20contoh%20surat%20resmi.png)
+
+## Perbedaan Surat Pribadi dan Surat Dinas
+Nah, dari penjelasan di atas, bisa ditarik kesimpulan nih kalau perbedaan surat pribadi dan surat dinas, bisa dilihat dari beberapa poin, sebagai berikut:
+
+### 1. Tujuan penulisan
+
+- Surat pribadi: Ditujukan kepada individu atau instansi tertentu dengan maksud untuk berkomunikasi secara pribadi. Isi surat pribadi bisa berupa pesan, ucapan, atau cerita pribadi antara dua individu atau lebih.
+- Surat dinas: Bertujuan untuk komunikasi resmi dalam konteks pekerjaan atau urusan institusi. Surat dinas bisa digunakan untuk memberikan informasi, instruksi, atau pemberitahuan kepada rekan kerja, atasan, atau institusi terkait.
+
+### 2. Format penyusunan
+
+- Surat pribadi: Tidak ada format baku yang harus diikuti, dan kontennya bisa disesuaikan dengan keinginan penulis.
+- Surat dinas: Mengikuti format baku yang telah ditetapkan, seperti penggunaan kop surat, nomor surat, tanggal, perihal, salam pembuka, tubuh surat, dan salam penutup. Format ini harus diikuti untuk menjaga profesionalitas dan keseragaman dalam komunikasi pada surat resmi.
+
+### 3. Bahasa dan gaya penulisan
+
+- Surat pribadi: Surat pribadi akan menggunakan bahasa yang lebih santai dan personal, tergantung pada hubungan antara pengirim dan penerima.
+- Surat dinas: Surat dinas menggunakan bahasa yang formal, to the point, dan jelas. Gaya penulisan harus sopan dan mengikuti norma-norma keprofesionalan dalam komunikasi resmi.
+
+### 4. Penandatanganan dan legalitas
+
+- Surat pribadi: Surat pribadi tidak memerlukan tanda tangan resmi, kecuali jika diinginkan oleh pengirim, atau diperlukan dalam konteks tertentu karena surat ini tidak memiliki kekuatan hukum.
+- Surat dinas: Biasanya, surat dinas ditandatangani oleh pejabat atau individu yang berwenang, dan kadang-kadang memerlukan cap instansi. Surat dinas memiliki kekuatan hukum dalam konteks kegiatan resmi atau administratif.
