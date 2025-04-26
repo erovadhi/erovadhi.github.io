@@ -354,6 +354,21 @@ Di bawah ini adalah beberapa contoh konjungsi kausalitas dalam sebuah kalimat:
 1. Pertandingan antar kelas SD 5 Semarang sempat dihentikan karena hujan deras tiba-tiba turun
 2. Dia selalu pergi ke sekolah awal sehingga tidak pernah terlambat piket
 3. Andi memiliki cita-cita kuliah di luar negeri oleh karena itu dia belajar bahasa Inggris sejak sekarang
+## Konjungsi Pertentangan
+### Pengertian
+Menurut La Ode Sidu dalam buku Sintaksis Bahasa Indonesia (2012), konjungsi pertentangan adalah kata yang menghubungkan dua hal bertentangan. Dalam konjungsi ini, ada dua bagian kalimat setara yang bertentangan. Kalimat kedua posisinya lebih penting dibanding yang pertama. 
+### Contoh:
+
+1. _Dia rajin belajar, **tetapi** sayang tidak lolos seleksi perguruan tinggi itu._
+2. _Anda boleh pulang sekarang, **akan tetapi** gajimu akan saya potong._
+3. _Nastiti bukannya membawa buku pelajaran, **melainkan** komik yang dibacanya tadi malam._
+4. _Ian bukannya tidak menyukaimu, **sebaliknya** ia sangat menghormati dan menghargai apa pun keputusanmu._
+5. _Kakak dan adik itu sangat berbeda. Adiknya ramah kepada semua orang, **sedangkan** kakaknya sering cemberut dan ketus ketika berbicara._
+6. _Reno dan Rani telanjur pulang ke rumah mereka. **Padahal** aku baru saja sampai di toko buku._
+7. _Semasa kecilnya Dinda sangat rajin membantu ibu dan ayahnya di rumah. **Namun** ketika beranjak dewasa, ia berubah menjadi pemalas._
+8. _Saya setuju dengan pendapat dan pemikiranmu, **tetapi** jangan memaksakan kehendakmu kepada orang lain._
+9. _Restoran itu sangat enak makanannya, **akan tetapi** harganya mahal dan pelayanannya kurang memuaskan._
+10. _Gita tidak sedang sibuk mengerjakan tugas, **melainkan** bermain bersama adik dan keluarganya._
 
 # 4. Teks Deskripsi
 Apa itu teks deskripsi? Menurut **KBBI, yang dimaksud dengan deskripsi adalah pemaparan atau penggambaran dengan kata-kata secara jelas dan terperinci**. Hal yang akan dideskripsikan disebut dengan objek. Adapun objek yang digambarkan dalam teks deskripsi merupakan objek yang bisa ditangkap oleh panca indera.
@@ -368,6 +383,18 @@ Apa sih tujuan dibuatnya teks deskripsi? Menurut Utorodewo (2007), tujuan teks d
 3. Objektif
 4. Disusun dengan terstruktur
 5. Non-bias
+6. Bahasa Deskriptif
+## Jenis-Jenis Teks Deskripsi
+1. Deskripsi Subjektif:
+	Menggambarkan objek berdasarkan kesan yang dimiliki penulis (bersifat subjektif)
+2. Deskripsi Spatial:
+	Menggambarkan suatu ruang atau tempat secara rinci.
+3. Deskripsi Objektif:
+	Menggambarkan suatu objek dengan keadaan sebenarnya, faktual dan akurat.
+4. Deskripsi Imajinatif:
+	Menggambarkan suatu objek imaninatif secra detail sehingga pembaca mampu merasakan dengan imajinasinya sendiri.
+5. Deskripsi Faktual:
+	Menggambark objek dengan apa adanya yang dilihat dan dirasakan penulis.
 ## Struktur Teks Deskripsi
 ### **1. Identifikasi**
 
@@ -560,6 +587,11 @@ Untuk menemukan ide pokok dalam sebuah paragraf, lebih mudah jika kamu mengetahu
 2. Memiliki kalimat pendukung atau kalimat penjelas.
 3. Ide pokok dinyatakan secara jelas (tidak berbelit-belit).
 4. Hanya ada satu ide pokok dalam sebuah paragraf.
+## Jenis-Jenis
+1. Deduktif -> Diawal
+2. Induktif -> Diakhir
+3. Variatif -> Ide pokok di awal dan di akhir
+4. Ineratif -> Di tengah
 ## Fungsi Ide Pokok
 
 Apa manfaat mengetahui ide pokok dari teks? Kamu harus ingat ya, nama lain ide pokok adalah gagasan pokok suatu paragraf. Jadi, **fungsi ide pokok bacaan tentunya untuk menjelaskan inti dari suatu paragraf/bacaan**. Manfaat mengetahui ide pokok dari teks ini, ketika kamu membaca sebuah paragraf, kamu akan mengerti inti dari informasi yang ingin disampaikan.
@@ -1492,3 +1524,938 @@ Nah, dari penjelasan di atas, bisa ditarik kesimpulan nih kalau perbedaan surat 
 
 - Surat pribadi: Surat pribadi tidak memerlukan tanda tangan resmi, kecuali jika diinginkan oleh pengirim, atau diperlukan dalam konteks tertentu karena surat ini tidak memiliki kekuatan hukum.
 - Surat dinas: Biasanya, surat dinas ditandatangani oleh pejabat atau individu yang berwenang, dan kadang-kadang memerlukan cap instansi. Surat dinas memiliki kekuatan hukum dalam konteks kegiatan resmi atau administratif.
+## 13. Kalimat Saran
+Tujuan utama [kalimat saran](https://www.kompas.com/tag/kalimat-saran) adalah mengubah atau memberi saran mengenai suatu hal. Oleh sebab itu, penggunaan dan pemilihan kalimat saran cenderung halus.
+
+Saran tidak bersifat memaksa atau harus dilakukan. Karena pada akhirnya, sang penerima saran yang akan memutuskan apakah akan menggunakan atau melakukan saran tersebut atau tidak.
+
+## [Pengertian kalimat saran](https://www.kompas.com/tag/pengertian-kalimat-saran)
+
+Dikutip dari jurnal _Analisis Penggunaan Kalimat Efektif pada Penulisan Kritik dan Saran Mahasiswa FKIP UNA_ (2019) karya Eva Mizkat, kalimat saran adalah kalimat yang berisikan harapan atau himbauan kepada sesuatu atau seseorang.
+
+Ciri kalimat saran adalah:
+
+- Biasanya menggunakan kata penanda. Misal: _sebaiknya, seharusnya, alangkah baiknya, lebih baik jika, perlu diingat bahwa,_ dan sebagainya.
+- Ketika diucapkan, intonasi nada kalimat saran cenderung menurun atau rendah di akhir kata.
+
+Dilansir dari jurnal _Tindak Tutur Direktif dalam Family Development Session (FDS)_ (2018) oleh Muhammad Nur Kholis Mughofar, dkk, kalimat saran bermaksud untuk menyarankan orang lain untuk melakukan suatu hal.
+
+Perlu diperhatikan bahwa ciri utama kalimat saran adalah menggunakan kata penanda, seperti _s__ebaiknya, seharusnya_, dan lain-lain.
+
+**Buatlah 5 [contoh kalimat saran](https://www.kompas.com/tag/contoh-kalimat-saran)!**
+
+- _**Sebaiknya** kamu tetap berada di rumah dan tidak bepergian, karena kamu sedang sakit._ 
+- _Menurut saya, **seharusnya** kamu meminta maaf kepadanya._
+- _**Alangkah baiknya** jika kalian semua saling mengenal satu sama lain._
+- _**Perlu diketahui bahwa** tu__gas Matematika yang kamu kerjakan kemarin masih salah, jadi coba kerjakan kembali ya._
+- _Sekarang sudah malam, **lebih baik** kita lanjutkan besok saja diskusinya._
+# 14. Kalimat Kohesi dan Koherensi
+Dalam menyusun suatu kalimat atau paragraf, dibutuhkan pemahaman baik pada kohesif dan koheren. Sebab paragraf yang disusun memang idealnya memenuhi seluruh unsur kohesif maupun koheren tersebut. 
+
+Penguasaan yang baik dalam dua aspek ini akan membantu seorang penulis untuk menyusun kalimat dengan baik dan benar. Sehingga enak untuk dibaca dan pesan yang ingin disampaikan bisa dipahami dengan baik oleh pembaca. 
+
+## Apa Itu Kohesif?
+
+Hal pertama yang akan dibahas adalah definisi dari kohesif dan koheren itu sendiri. Kohesif atau kohesi adalah keserasian hubungan antara unsur-unsur yang satu dengan unsur yang lain dalam wacana sehingga tercipta pengertian yang baik (koheren)
+
+Secara sederhana, kohesif dalam paragraf akan menunjukan hubungan antara satu kalimat dengan kalimat lain. Sehingga menunjukan suatu penjelasan pada satu topik saja. Hal ini akan memudahkan pembaca memahami makna dari paragraf tersebut. 
+
+Jika suatu paragraf tidak kohesif maka makna dari paragraf akan susah dipahami. Hal ini tentu menjadikan kualitas paragraf tersebut dipandang tidak maksimal oleh para pembaca. Kemudian, kohesif memiliki dua jenis atau bentuk, yaitu: 
+
+### a. Kohesif Gramatikal 
+
+Kohesif gramatikal adalah kohesi yang membangun gramatik wacana. Gramatik yang dimaksud disini adalah memiliki tata bahasa yang baik dan benar. Unsurnya mencakup referensi, substitusi, elipsis dan konjungsi. 
+
+Sehingga suatu paragraf akan terbangun dari kumpulan kalimat yang terpadu dan selaras dengan menggunakan penambahan beberapa kata. Misalnya konjungsi atau kata hubung. Kata hubung akan menghubungkan dua kalimat agar terlihat jelas kaitan satu sama lain. 
+
+### b. Kohesif Leksikal 
+
+Kohesif leksikal adalah hubungan leksikal antara bagian-bagian wacana untuk mendapatkan keserasian struktur secara kohesif. Sehingga disini akan digunakan suatu kata yang membantu menghubungkan dua kalimat dalam satu paragraf. 
+
+Kalimat ini bisa dalam bentuk repetisi atau pengulangan kata, bisa juga dalam bentuk penambahan sinonim sampai hiponim. Unsur di dalam kohesif leksikal mencakup sinonim, hiponim, repetisi, kolokasi, dan ekuivalensi.
+
+## Unsur Paragraf Kohesif
+
+Sesuai dengan penjelasan sebelumnya, unsur paragraf kohesif dan koheren dimulai dari memenuhi seluruh unsur kohesif. Unsur kohesif disesuaikan dengan jenis kohesif suatu paragraf. Apakah termasuk gramatikal atau leksikal. Berikut penjelasannya: 
+
+### 1. Unsur Kohesif Gramatikal 
+
+Unsur kohesif dalam jenis gramatikal ada empat dan setiap penulis bebas hendak menggunakan unsur yang mana. Unsur tersebut adalah: 
+
+#### a. Referensi 
+
+Referensi merupakan bagian kohesi yang berkaitan dengan penggunaan kata atau kelompok kata untuk menunjuk kata atau kelompok kata lainnya. Referensi kemudian terbagi menjadi dua yakni referensi endoforis dan eksoforis. 
+
+#### b. Substitusi 
+
+Menurut Tarigan (2008: 101), substitusi adalah proses dan hasil penggantian bahasa oleh unsur lain dalam satuan yang lebih besar. Kata pengganti ini untuk menyebutkan suatu hal yang sudah disebutkan di kalimat sebelumnya.
+#### c. Elipsis 
+
+Unsur ketiga adalah elipsis, yaitu adalah peniadaan atau penghilangan kata atau satuan lain, yang wujud asalnya dapat diramalkan dari konteks bahasa atau konteks luar bahasa (Kridalaksana, 2008: 50). 
+
+#### d. Konjungsi 
+
+Konjungsi adalah kategori yang menghubungkan kata dengan kata, klausa dengan klausa, atau kalimat dengan kalimat, dapat juga paragraf dengan paragraf (Chaer, 2009: 81). Konjungsi terbagi menjadi konjungsi koordinatif dan konjungsi subordinatif.
+### 2. Unsur Kohesif Leksikal 
+
+Sementara unsur kohesif jenis leksikal dalam penyusunan sebuah paragraf ada 5 (lima). Yaitu: 
+
+#### a. Sinonim 
+
+Sinonim adalah persamaan kata. Dalam menyusun paragraf yang kohesif seorang penulis bisa menggunakan sinonim dibanding menyebut suatu objek, subjek, atau hal sampai berulang kali di paragraf yang sama. 
+
+#### b. Hiponim 
+
+Hiponim adalah  jenis dari suatu hipernim. Hipernim adalah suatu kata yang sifatnya umum dan menunjukan jenis. Misalnya hipernim burung, maka hiponimnya ada burung gagak, merpati, cendrawasih, dll. 
+
+#### c. Repetisi 
+
+Repetisi adalah pengulangan kata. Misalnya mengulang penyebutan subjek dalam kalimat untuk memperjelas dan menegaskan dari apa yang dimaksud. 
+
+#### d. Kolokasi 
+
+Kolokasi adalah tindakan memindahkan makna teks suatu bahasa ke bahasa lain. Biasanya teknik ini digunakan untuk menerjemahkan suatu istilah atau kata, sehingga maksud dari kalimat asli sama persis dengan hasil terjemahan. 
+
+#### e. Antonim
+
+Antonim adalah lawan kata. Digunakan untuk menyempurnakan kalimat dengan menyebut lawan kata yang bisa memperjelas maksud atau makna dari kalimat tersebut. 
+
+#### f. Ekuivalensi 
+
+Ekuivalensi adalah penggunaan kata berbeda yang memiliki makna yang sebanding atau setara.
+## Apa Itu Koheren?
+
+Menurut Tarigan koherensi adalah hubungan timbal balik antar unsur dalam wacana yang serasi. Unsur wacana yang dimaksudkan disini mencakup kata dan kalimat yang disusun membentuk suatu paragraf. 
+
+Pada dasarnya semua paragraf harus kohesif dan koheren. Maka penting sekali untuk memahami betul apa itu koheren. Tujuannya agar kalimat yang disusun bisa baik dan benar atau sempurna karena memenuhi standar yang berlaku secara umum. 
+
+Sama seperti kohesif, kalimat dan paragraf dikatakan koheren ketika menunjukan unsur dari koheren secara umum. Koheren dalam suatu paragraf ditandai dengan pola berikut: 
+
+- Hubungan sebab-akibat, 
+- Hubungan sarana-hasil, 
+- Hubungan alasan-sebab, 
+- Hubungan sarana-tujuan, 
+- Hubungan latar kesimpulan, 
+- Hubungan kelonggaran-hasil, 
+- Hubungan syarat-hasil, 
+- Hubungan perbandingan, 
+- Hubungan parafrasis, 
+- Hubungan amplikatif, 
+- Hubungan aditif waktu, 
+- Hubungan aditif non waktu, 
+- Hubungan identifikasi, 
+- Hubungan generik spesifik, dan 
+- Hubungan ibarat.
+# 15. Puisi
+## Pengertian Puisi
+
+**Puisi adalah karangan teks yang mengungkapkan pikiran dan perasaan penyairnya dengan mengutamakan keindahan kata-kata**. Jadi dalam puisi, kita dapat menyampaikan rasa kerinduan, kegelisahan, atau pengagungan yang kamu ungkapkan dalam bahasa yang indah.
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/08IND%20-%20Teks%20Puisi-03.jpg)
+
+## Ciri-Ciri Puisi
+
+Nah, untuk membedakan puisi dengan jenis-jenis karya sastra lainnya, kamu bisa memperhatikan dari **ciri-ciri puisi** berikut ini:
+
+1. Puisi terdiri dari beberapa bait. Umumnya, setiap bait terdiri dari empat baris atau larik.
+
+2. Puisi akan menggunakan diksi atau kata-kata yang bersifat kiasan untuk memperindah bunyi. Contoh penggunaan kata dalam puisi:
+
+_Wahai, rembulan yang bundar_  
+_Jenguklah jendela kekasihku!_
+
+3. Pada puisi tertentu, diksi pada puisi kerap memperhatikan rima. Rima adalah pengulangan bunyi, baik dalam baris (larik) atau akhir sajak. Rima bisa berbunyi a-a-a-a atau a-b-a-b.
+
+_Bukan kematian benar menusuk kalb**u**_  
+_Keridhaanmu menerima segala tib**a**_  
+_Tak kutahu setinggi itu atas deb**u**_  
+_dan duka maha tuan bertakht**a**_
+
+4. Puisi biasanya menggunakan **[majas atau peribahasa](https://www.ruangguru.com/blog/pengertian-jenis-dan-contoh-majas)**.
+
+## Tujuan Puisi
+
+Puisi memiliki berbagai tujuan yang dapat bervariasi tergantung pada niat penulis dan konteksnya, _guys_. Berikut beberapa tujuan umum dari puisi:
+
+### 1. Ekspresi Emosi dan Pengalaman Pribadi
+
+Puisi sering digunakan sebagai medium untuk mengekspresikan perasaan, emosi, dan pengalaman pribadi penulis. Melalui kata-kata yang dipilih dengan hati-hati, penulis puisi dapat menyampaikan nuansa dan makna yang mendalam. _Hayooo_, siapa di sini kalau lagi galau sukanya nulis puisi? Hehehe
+
+### 2. Pemikiran Filosofis dan Refleksi
+
+Beberapa puisi bertujuan untuk menyelidiki pertanyaan filosofis atau mengeksplorasi pemikiran mendalam. Dalam hal ini, puisi dapat menjadi wadah untuk refleksi dan pemikiran yang lebih mendalam tentang kehidupan, cinta, kehidupan manusia, dan topik filosofis lainnya.
+
+Kalau kamu baca puisi-puisi karya Afrizal Malna dan Subagio Sastrowardoyo, kemungkinan kamu tidak akan langsung ‘menelan mentah-mentah’ isi puisi yang dibuat oleh mereka. Melainkan, kamu akan merenungi dengan lebih dalam, apa yang ingin disampaikan oleh pensyair tersebut, termasuk apa maksud dari puisi yang mereka buat.
+
+### 3. Pemberian Makna Simbolik
+
+Puisi sering kali memanfaatkan simbolisme untuk menyampaikan makna yang lebih dalam dan kompleks. Puisi dapat menjadi cara untuk menggambarkan kehidupan dan konsep-konsep abstrak melalui gambaran-gambaran simbolik. Bahkan, Afrizal Malna membuat puisi digtal. _Wah_, _kayak gimana tuh_? Coba, kamu cari-cari sendiri yaa!
+
+### **4. Estetika dan Keindahan**
+
+Puisi sering kali mengejar keindahan estetika dalam pemilihan kata, ritme, dan pengaturan struktural. Tujuan ini adalah untuk menciptakan pengalaman membaca yang estetis dan memikat. Apalagi, kalau kamu suka membaca puisi karya Sapardi Djoko Damono dan M. Aan Mansyur, kamu akan menemui keindahan dari setiap diksi yang mereka utarakan, lho!
+
+**Baca Juga: [Kumpulan Contoh Puisi Rakyat: Pantun, Gurindam & Syair, Lengkap!](https://www.ruangguru.com/blog/contoh-puisi-rakyat)**
+
+—
+
+Sampai sini, sudah mulai paham belum dengan materi puisi? Kalo masih ada poin-poin yang belum kamu mengerti, mending belajar sama ahlinya, deh. Belajar bareng kakak-kakak pengajar di [**Ruangguru Privat Bahasa Indonesia**](https://www.ruangguru.com/privat/bahasa-indonesia) misalnya.
+
+Belajar nggak cuma menyenangkan, tapi kamu juga bakal diajari konsepnya sampai paham! Para pengajar di Ruangguru Privat juga sudah terstandarisasi kualitasnya, loh. Kamu juga bisa pilih nih, mau diajarkan secara langsung (_offline_) atau daring (_online_). Fleksibel, kan? Untuk info lebih lanjut, cuss klik link berikut!
+## Jenis-Jenis Puisi
+
+Terdapat beberapa jenis puisi berdasarkan cara penyair mengungkapkan isi atau gagasannya, yaitu puisi naratif, puisi lirik, dan puisi deskriptif. Kita bahas satu per satu, ya!
+
+### 1. Puisi Naratif
+
+Puisi naratif adalah **puisi yang mengungkapkan cerita atau penjelasan penyair**. Puisi naratif terbagi menjadi dua, yaitu **balada dan romansa**.
+
+Wah, apa tuh bedanya?
+
+Nah, balada adalah jenis puisi yang bercerita tentang orang-orang perkasa maupun tokoh pujaan. Contoh puisi balada ini pernah ditulis oleh W.S. Rendra yang berjudul Balada Orang-Orang Tercinta.
+
+Sementara itu, romansa adalah jenis puisi yang bercerita tentang kisah percintaan, dan diselingi perkelahian atau petualangan. Contohnya puisi karya Sitor Situmorang yang berjudul Lagu Gadis Itali.
+
+### 2. Puisi Lirik
+
+Puisi lirik adalah **puisi yang mengungkapkan berbagai perasaan penyairnya**. Puisi lirik dibagi menjadi tiga macam, yaitu **elegi, serenada, dan ode**.
+
+Elegi adalah puisi yang mengungkapkan perasaan duka dari si penyairnya. Contohnya, Elegi Jakarta I karya Asrul Sani.
+
+Selanjutnya, serenada adalah sajak percintaan yang dapat dinyanyikan. Nyanyian serenada ini tepat dinyanyikan pada waktu senja. Contohnya puisi Serenada Biru karya W.S. Rendra.
+
+Terakhir, ode merupakan jenis puisi yang berisi pujian yang dapat ditunjukkan untuk seseorang, suatu hal, maupun suatu keadaan. Contohnya, puisi yang ditulis oleh Chairil Anwar yang berjudul Diponegoro.
+
+### 3. Puisi Deskriptif
+
+Puisi deskriptif adalah **puisi di mana penyair bertindak sebagai pemberi kesan terhadap suatu keadaan, peristiwa, benda, maupun suasana yang menarik perhatiannya**. Puisi deskriptif terbagi menjadi dua, yaitu **satire dan puisi kritik sosial**.
+
+Satire adalah puisi yang mengungkapkan perasaan tidak puas penyair terhadap suatu keadaan, tetapi dengan cara menyindir atau menyatakan hal yang sebaliknya. Contohnya, puisi karya KH A Mustofa Bisri yang berjudul Negeriku.
+
+Sementara itu, puisi kritik sosial juga merupakan jenis puisi yang mengungkapkan ketidakpuasan penyair terhadap suatu keadaan, tetapi dengan cara membeberkan atau menyebarkan ketidakadilan yang terjadi. Contohnya, puisi yang berjudul Aku Tulis Pamplet Ini karya W.S. Rendra.
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/08IND%20-%20Teks%20Puisi-04.jpg)
+## Bentuk Penyampaian Puisi
+
+Oke, setelah kamu memahami pengertian, ciri, dan jenis-jenis puisi, selanjutnya kita belajar cara menyampaikan suatu puisi, ya. Teks puisi dibuat seindah mungkin, oleh karena itu, saat membacanya pun ada beberapa teknik, supaya isi puisi dapat dihayati oleh pendengar.
+
+Beberapa cara yang bisa kita lakukan untuk menyampaikan puisi, di antaranya membacakan puisi, deklamasi puisi, atau bisa juga dalam bentuk pertunjukan puisi. Lalu, bedanya apa, ya?
+
+### 1. Membacakan Puisi
+
+Sesuai dengan namanya, membacakan puisi berarti **menyampaikan puisi dengan bahasa lisan atau melalui ucapan**. Saat membacakan puisi, teks puisi bisa kamu bawa ke atas pentas.
+
+### 2. Deklamasi Puisi
+
+Deklamasi puisi adalah **menyampaikan puisi secara lisan juga**, namun bedanya, **penyampaiannya dilakukan dengan penuh penghayatan dan luapan kejiwaan**, bisa disertai dengan gerakan tangan atau kaki. Nah, saat kamu ingin mendeklamasikan puisi, kamu nggak perlu membawa teks puisi, melainkan harus dihafal.
+
+### 3. Pertunjukkan Puisi
+
+Penyampaian puisi dalam bentuk pertunjukkan dibagi menjadi **musikalisasi puisi dan dramatisasi puisi**. Pada **musikalisasi puisi**, kamu akan **mengubah puisi menjadi sebuah lagu**. Oleh karena itu, penyampaian puisi dan irama lagu harus memiliki keselarasan, supaya lebih hikmat didengar.
+
+Disamping itu, **dramatisasi puisi** dilakukan dengan **memperagakan atau memerankan tokoh sesuai peristiwa yang ada di dalam puisi** itu sendiri. Dramatisasi puisi bisa dilakukan secara individu maupun berkelompok layaknya pementasan drama.
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/08IND%20-%20Teks%20Puisi-05.jpg)
+## Unsur Pembentuk Puisi
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/08IND%20-%20Teks%20Puisi-06.jpg)
+
+Sampai sini, apakah kamu tertarik untuk mencoba membuat karangan puisi kamu sendiri? Supaya puisi kamu terangkai dengan indah, mari kita simak apa saja unsur-unsur pembentuk puisi, ya.
+### 1. Majas dan Irama
+
+Teks puisi merupakan **teks atau karangan yang mengungkapkan pikiran dan perasaan penyairnya** dengan mengutamakan keindahan kata-kata. Teks puisi mengutamakan majas dan juga irama.
+
+Majas (_figurative language_) adalah **bahasa kias yang dipergunakan untuk menciptakan kesan tertentu** bagi penyimak atau pembacanya. Untuk menimbulkan kesan-kesan tersebut, bahasa yang dipergunakan berupa perbandingan, pertentangan, perulangan, dan perumpamaan. Majas yang biasanya digunakan adalah majas personifikasi, majas paralelisme, majas metafora, majas hiperbola, dan majas perumpamaan.
+
+Irama (musikalitas) adalah **alunan bunyi yang teratur dan berulang-ulang**. Irama berfungsi untuk memberi jiwa pada kata-kata dalam sebuah puisi yang pada akhirnya dapat membangkitkan emosi tertentu seperti sedih, kecewa, marah, rindu, dan bahagia.
+
+### 2. Penggunaan Kata-Kata Konotasi
+
+Kata konotasi adalah **kata yang bermakna tidak sebenarnya**. Kata itu telah mengalami penambahan-penambahan, baik itu berdasarkan pengalaman, kesan, maupun imajinasi, dan perasaan penyair. Puisi memang banyak menggunakan kata-kata bermakna konotatif. Hal itu merupakan kiasan atau merupakan suatu perbandingan.
+
+### 3. Kata-Kata Berlambang
+
+Puisi juga mengandung kata-kata yang memiliki lambang. Lambang atau simbol adalah sesuatu, seperti **gambar, tanda, ataupun kata yang menyatakan maksud tertentu**. Misalnya, rantai dan padi kapas dalam gambar Garuda Pancasila, tunas kelapa sebagai lambang Pramuka. Lambang-lambang itu menyatakan arti tertentu yang bisa dipahami umum.
+
+Untuk kata-kata dalam puisi, seperti kata putih yang melambangkan kesucian atau kebersihan, bunga yang melambangkan kecantikan, api yang melambangkan kemarahan, dan baja yang melambangkan kekuatan atau ketangguhan.
+
+### 4. Pengimajinasian dalam Puisi
+
+Pengimajinasian adalah **kata atau susunan kata yang dapat menimbulkan khayalan atau imajinasi**. Dengan daya imajinasi tersebut, pembaca seolah-olah merasa, mendengar, atau melihat sesuatu yang diungkapkan penyair.
+
+Kata-kata yang digunakan penyair membuat pembaca seolah-olah mendengar suara (imajinasi auditif), melihat benda-benda (imajinasi visual), atau meraba dan menyentuh benda-benda (imajinasi taktil).
+## **Struktur Puisi**
+
+Selanjutnya, terdapat 4 struktur puisi, yaitu tema, nada dan suasana, perasaan, serta amanat. Berikut penjelasan lengkapnya:
+
+### 1. Tema
+
+Tema adalah **gagasan pokok** yang ingin diungkapkan oleh penyair. Tema biasanya tersirat dalam keseluruhan isi puisi. Tema yang diungkapkan merupakan penggambaran suasana batin atau juga berupa respons penyair terhadap kenyataan sosial budaya.
+
+### 2. Nada dan Suasana
+
+Nada mengungkapkan **sikap penyair terhadap pembaca**, sedangkan suasana adalah keadaan jiwa pembaca setelah membaca puisi akibat psikologis yang ditimbulkan puisi terhadap pembaca. Nada dan suasana puisi saling berkaitan karena nada puisi menimbulkan suasana terhadap pembacanya.
+
+### 3. Perasaan dalam Puisi
+
+Puisi mengungkapkan perasaan dari penyair. Jika penyair hendak mengungkapkan keindahan alam, maka sebagai sarana ekspresi ia akan **menggunakan imaji-imaji, majas serta diksi** yang mewakili makna tentang keindahan alam.
+
+### 4. Amanat
+
+Amanat merupakan suatu **pesan yang ingin disampaikan penyair** dalam puisinya. Pesan tersebut dihadirkan dalam ungkapan yang tersembunyi. Amanat akan selaras dengan tema dari puisi tersebut.
+## Puisi Berdasarkan Gaya Bahasa
+### Puisi Diafan
+
+[Apa yang dimaksud dengan puisi diafan](https://www.kompas.com/tag/apa-yang-dimaksud-dengan-puisi-diafan)?
+
+Puisi diafan merupakan puisi anak-anak yang mudah dipahami, karena tidak menggunakan kata kiasan atau yang sukar dipahami.
+
+Dikutip dari jurnal _Peningkatan Keterampilan Menulis Puisi dengan Menggunakan Metode Video Critic_ (2018) karya Dariyanti, berikut pengertian puisi diafan:
+
+_"Puisi diafan adalah puisi dengan kata terbuka yang tidak mengandung lambang atau kiasan tertentu."_
+
+Puisi diafan memakai bahasa sehari-hari dalam penulisannya. Puisi ini juga dapat ditulis dengan mendeskripsikan bentuk di sekitar penulis.
+
+Salah satu bentuk puisi diafan yaitu puisi anak-anak yang baru belajar menulis puisi
+### Puisi prismatis
+
+[Apa itu puisi prismatis](https://www.kompas.com/tag/apa-itu-puisi-prismatis)?
+
+Puisi prismatis merupakan puisi yang mengandung diksi, kata konkret, imaji, majas, dan gaya bahasa yang sangat baik.
+
+Puisi prismatis disebut sebagai puisi yang sukar dipahami. Puisi ini bersifat _multy interpretable_ atau memiliki banyak makna.
+
+Salah satu contoh puisi prismatis dapat dilihat dalam karya Saparti Djoko Damono.
+
+Puisi prismatis memerlukan penafsiran, karena menggunakan kata dan kalimat yang bermakna ganda. Puisi prismatis tidak bisa dipahami secara langsung seperti puisi diafan.
+
+Namun, pembaca dapat merasakan apa yang disampaikan penulis dalam puisi setelah membaca kedua kalinya atau lebih.
+
+# 16. Majas
+
+Majas adalah gaya bahasa dalam sastra yang digunakan untuk menyampaikan makna atau perasaan melalui penggunaan bahasa yang indah, imajinatif, dan kreatif atau berupa kiasan. Ketika mengiaskan sesuatu dengan menggunakan majas, gaya bahasa kita pun menjadi lebih indah – dan lebih "hidup!" Suasana "hidup" itu membuat pembaca atau pendengar merasakan emosi yang ingin kita ungkapkan.
+
+## Majas Yang Paling Sering Digunakan
+### Majas Metafora
+Majas metafora adalah penggunaan kata atau kelompok kata yang tidak memiliki makna harfiah, melainkan sebagai penggambaran atau perbandingan berdasarkan kesamaan atau kemiripan. Ciri-cirinya meliputi ==penggunaan kata atau frasa dengan makna kiasan, perbandingan langsung tanpa kata penghubung seperti "seperti" atau "bagai", dan tidak menggunakan kata konjungsi atau penghubung saat membandingkan dua objek==. 
+
+Ciri-ciri majas metafora:
+
+- **Tidak menggunakan kata hubung/konjungsi:**
+    
+    Majas metafora tidak menggunakan kata-kata seperti "seperti", "bagai", "laksana", atau kata penghubung lainnya untuk membandingkan. Perbandingan dilakukan secara langsung. 
+    
+- **Menggunakan kata atau frasa dengan makna kiasan:**
+    
+    Kata atau frasa yang digunakan dalam majas metafora tidak memiliki makna harfiah, melainkan sebagai penggambaran atau perbandingan berdasarkan kesamaan atau kemiripan. 
+    
+- **Perbandingan langsung:**
+    
+    Majas metafora membandingkan dua objek atau hal secara langsung tanpa kata pembanding seperti "seperti", "bagai", atau "laksana". 
+    
+- **Penggunaan kata atau frasa untuk menyamakan atau membandingkan:**
+    
+    Majas metafora menggunakan kata atau frasa yang memiliki makna kiasan untuk menyamakan atau membandingkan satu objek dengan objek lain. 
+    
+- **Tujuan utama adalah perbandingan:**
+    
+    Majas metafora bertujuan untuk membandingkan dua hal atau objek, biasanya yang memiliki kesamaan atau kemiripan.
+### Majas Repetisi
+Majas repetisi adalah gaya bahasa yang mengulang kata, frasa, atau klausa dalam sebuah kalimat atau wacana untuk menegaskan makna atau memberi tekanan pada bagian yang diulang. Ciri utamanya adalah ==adanya pengulangan kata atau frasa yang sama==. Pengulangan ini bertujuan untuk memperkuat maksud dan kesan yang ingin disampaikan. 
+
+Ciri-ciri Majas Repetisi:
+
+- **Pengulangan Kata/Frasa:**
+    
+    Ciri paling mendasar adalah pengulangan kata, frasa, atau klausa yang sama. 
+    
+- **Penekanan Makna:**
+    
+    Pengulangan digunakan untuk menyoroti atau menekankan bagian kalimat yang dianggap penting. 
+    
+- **Peningkatan Kesan:**
+    
+    Repetisi dapat menciptakan kesan yang lebih kuat, menarik, atau berkesan dalam benak pembaca atau pendengar. 
+    
+- **Efek Ritme:**
+    
+    Pengulangan kata atau frasa dapat menciptakan ritme atau irama tertentu dalam kalimat, terutama dalam puisi atau karya sastra lain.
+### Majas Simile
+Majas simile adalah majas perbandingan yang menggunakan kata penghubung seperti "seperti," "laksana," atau "bagaikan" untuk membandingkan dua hal yang berbeda. Ciri-cirinya meliputi ==penggunaan kata hubung tersebut, kalimat yang terkesan berlebihan atau tidak sesuai kenyataan, serta penggunaan kata-kata kiasan==. 
+
+Ciri-ciri majas simile:
+
+- **Penggunaan kata hubung:**
+    
+    Majas simile selalu menggunakan kata penghubung seperti "seperti," "laksana," "bagaikan," "layaknya," "umpama," "serupa," dan lain-lain untuk menghubungkan dua hal yang dibandingkan. 
+    
+- **Perbandingan eksplisit:**
+    
+    Majas simile secara eksplisit membandingkan satu hal dengan hal lain, dengan kata hubung sebagai penunjuk perbandingan. 
+    
+- **Kalimat berlebihan:**
+    
+    Kalimat yang menggunakan majas simile cenderung terdengar berlebihan atau tidak sesuai kenyataan karena perbandingan yang dibuat. 
+    
+- **Kata-kata kiasan:**
+    
+    Majas simile sering menggunakan kata-kata kiasan atau analogi untuk membuat perbandingan lebih menarik dan ekspresif. 
+    
+- **Tujuan retorika:**
+    
+    Majas simile digunakan sebagai alat bahasa untuk membandingkan dua hal yang berbeda, dengan tujuan memberikan pemahaman yang lebih baik kepada pembaca atau pendengar.
+
+## Majas Perbandingan
+**1. Personifikasi**
+
+Majas personifikasi membandingkan manusia dan benda mati. Gaya bahasa yang digunakan seolah-olah benda tersebut bersikap selayaknya manusia.
+
+Contoh:
+
+- Laut yang biru seakan menatapku dalam keheningan.
+
+- Angin berbisik di telingaku.
+
+- Matahari tersenyum di langit.
+
+- Hujan menangis di atas atap.
+
+- Bulan mengejar awan.
+
+- Pohon-pohon menari dengan indah di taman.
+
+**2. Metafora**
+
+Majas metafora menyamakan dua hal yang tidak sama secara harfiah atau literal. Gaya bahasa ini sering digunakan dalam sastra, puisi, dan prosa untuk menambah daya tarik atau memberikan makna yang lebih dalam sehingga teks menjadi lebih indah, memukau, dan menyentuh perasaan pembacanya.
+
+Contoh:
+
+- Sang raja siang bersinar dan membawa kehangatan.
+
+- Dia adalah pelita dalam kegelapan.
+
+- Dia adalah musik dalam hidupku.
+
+**3. Asosiasi**
+
+Gaya bahasa perbandingan dalam majas asosiasi digunakan untuk menyampaikan perasaan atau emosi dengan suatu objek, simbol, atau situasi yang berbeda.
+
+Contoh:
+
+- Langit yang biru mengingatkan aku pada kenangan indah masa kecil.
+
+- Bunga mawar merah mengingatkan aku pada cinta yang dahulu.
+
+- Hangatnya api unggun mengingatkan aku pada kedamaian dan kebahagiaan.
+
+- Suara gemericik air mengingatkan aku pada kesegaran dan kebebasan.
+
+- Suasana malam yang gelap mengingatkan aku pada ketakutan dan ketidakpastian.
+
+**4. Hiperbola**
+
+Mengekspresikan sesuatu dengan sedemikian rupa sehingga meninggalkan kesan berlebihan itu... _lebay._ Eh, bukan, Sobat. Itulah majas hiperbola. Hiperbola merupakan majas yang mengandung unsur exaggerasi atau pembesaran. Gaya bahasa ini digunakan saat kita membandingkan sesuatu dengan sesuatu yang lain dan tak masuk akal untuk disandingkan sebagai perbandingan.
+
+Contoh:
+
+- Katanya dia berlatih bernyanyi, tapi suaranya bikin pecah gendang telingaku setiap hari.
+
+- Sudah kubilang berjuta kali.
+
+- Kamu bikin aku gila.
+
+**5. Simile**
+
+Majas Simile digunakan untuk membandingkan dua hal yang berbeda dengan menggunakan kata-kata 'seperti' atau 'sebagai.' Simile digunakan untuk memberikan efek khusus, meningkatkan deskripsi atau memperkuat perasaan.
+
+Contoh:
+
+- Dia berbicara seperti air yang mengalir.
+
+- Wajahnya segar seperti buah delima.
+
+- Dia berlari sekuat lembu.
+
+- Wajahnya sebening kristal.
+
+- Ia berlari secepat kilat.
+
+**6. Alegori**
+
+Majas Alegori digunakan untuk menyampaikan pesan moral atau filosofis yang lebih dalam atau untuk memberikan interpretasi yang lebih kaya atas suatu cerita atau teks. Dalam alegori, suatu bentuk atau konsep digunakan untuk mewakili atau merepresentasikan suatu hal yang lain.
+
+Contoh:
+
+- Kupu-kupu yang melintas mewakili kebebasan dan transformasi.
+
+- Lumbung padi yang penuh mewakili kesuksesan dan kekayaan.
+
+- Cahaya mentari yang menembus awan mewakili harapan di tengah kesulitan.
+
+- Kapal yang terdampar di tepi pantai mewakili kesendirian dan keputusasaan.
+
+**7. Antonomasia**
+
+Majas antonomasia biasanya digunakan dengan nama atau gelar yang secara umum mewakili seseorang atau sesuatu yang lebih spesifik. Majas ini sering digunakan untuk menyampaikan suatu ide atau perasaan secara implisit atau memberikan efek khusus dalam teks.
+
+Contoh:
+
+- "Bapak Proklamator" mengacu pada Bung Karno sebagai proklamator kemerdekaan Indonesia.
+
+- "Guru Besar" mengacu pada seseorang yang diakui sebagai ahli dalam bidang tertentu.
+
+- "Raja Komedi" mengacu pada seseorang yang diakui sebagai ahli dalam komedi.
+
+**8. Eufemisme**
+
+Majas eufemisme digunakan untuk mengganti kata-kata atau frasa yang kasar atau tidak sopan dengan kata-kata atau frasa yang lebih halus atau sopan. Eufimisme sering digunakan untuk menghindari konfrontasi atau menyampaikan pesan yang lebih halus.
+
+Contoh:
+
+- Dia telah pergi ke alam sana (artinya dia meninggal).
+
+- Dia sedang mengalami kesulitan finansial (artinya dia miskin).
+
+- Dia sedang berada dalam masa transisi (artinya dia sedang dalam masa kesulitan atau mengalami perubahan).
+## Majas Pertentangan
+Dalam majas perbandingan, kata kiasan yang digunakan memiliki makna yang berkebalikan atau bertentangan dengan maksud yang sesungguhnya. Berikut ini beberapa majas dan contohnya.
+
+**9. Sinekdoke**
+
+Majas sinekdoke digunakan untuk menyamakan atau menyamarkan maksud sebenarnya dengan menggunakan kata atau frasa yang tidak sesuai dengan arti sesungguhnya atau dengan menyebut sesuatu yang sebenarnya bukan inti dari masalah yang dibicarakan. digunakan untuk menyampaikan ide atau perasaan secara implisit atau memberikan efek khusus dalam teks. Ciri khas majas sinekdoke adalah pada kata atau frasa dengan makna sebenarnya yang berbeda dari yang dimaksud.
+
+Contoh:
+
+- Kepala sekolah memuji murid-murid yang rajin (tetapi dia sendiri sering terlambat datang ke sekolah).
+
+- Politisi itu berbicara tentang korupsi (tapi dia sendiri terlibat dalam skandal korupsi).
+
+- Kapten tim bola berbicara tentang persatuan (tapi dia selalu menyalahkan rekan satu timnya saat kalah).
+
+**10. Litotes**
+
+Litotes adalah jenis majas yang menggunakan kata-kata negatif atau kata sifat negatif untuk menyatakan sesuatu yang positif, dengan harapan memberikan kesan yang lebih kuat. Gaya bahasa ini digunakan untuk menyatakan sesuatu dengan cara yang tidak biasa atau untuk menghindari kemunculan ekspresi yang terlalu berlebihan.
+
+Contoh:
+
+- Ini bukan hal yang mudah (berarti sangat sulit).
+
+- Dia tidak terlalu buruk dalam bermain musik (berarti sangat hebat dalam bermain musik).
+
+- Tidak ada sesuatu yang tidak dia bisa lakukan (berarti dia sangat berkompeten dalam apa saja).
+
+**11. Paradoks**
+
+Paradoks adalah pernyataan atau situasi yang muncul kontradiktif atau tidak masuk akal. Majas paradoks adalah jenis khusus dari paradoks yang muncul dalam karya sastra, terutama dalam puisi, di mana kalimat atau frasa digunakan secara metaforis atau sarkastis untuk menyampaikan ide yang kontradiktif.
+
+Contoh:
+
+- Isi kepalanya begitu bising ketika ia duduk sendiri di ruang keluarga yang begitu sepi.
+
+- Semua orang hidup untuk mati, tidak ada yang mati untuk hidup.
+
+- Kedatangannya adalah kebahagiaan yang menyedihkan.
+
+**12. Antitesis**
+
+Ciri khas gaya bahasa ini adalah penggunaan dua konsep, ide, atau pernyataan yang kontradiktif secara bersamaan dalam satu kalimat atau frasa. Antitesis biasanya digunakan dalam puisi dan prosa untuk menunjukkan kontras yang kuat.
+
+Contoh:
+
+- Kemarau panjang, hujan yang sangat dibutuhkan.
+
+- Dia adalah cahaya dalam kegelapan, dia juga adalah bayangan dalam cahaya.
+
+- Hidup miskin dengan hati yang kaya, lebih baik daripada hidup kaya dengan hati yang miskin.
+
+- Dia pandai bicara tapi tidak pandai bertindak.
+
+- Kau bicara dari mulut, tapi aku bicara dari hati.
+## Majas Sindiran
+Gaya bahasa bermajas sindiran bertujuan menyindir perilaku, seseorang, maupun kondisi tertentu. Untuk tujuan tersebut, kita menggunakan kata kiasan. Di bawah ini ragam sindiran majas dan contohnya, Sobat.
+
+**13. Ironi**
+
+Kita menggunakan majas ironi untuk mengejek atau mengejutkan dengan mengungkapkan sesuatu yang sebenarnya tidak sesuai dengan apa yang diharapkan atau diinginkan. Pernyataan yang dibuat kelihatannya sesuai dengan konteks, tetapi sebenarnya bertolak belakang dengan apa yang dimaksudkan atau diharapkan.
+
+ Contoh:
+
+- Santun sekali perilakunya, bertanya saja pakai teriak-teriak.
+
+- Hari ini hujan deras sekali, benar-benar cocok untuk berenang.
+
+- Ibu bilang tidak boleh makan es krim, tapi dia yang pertama yang menyentuh es krim itu.
+
+**14. Sinisme**
+
+Dalam majas sinisme, kita menyindir secara langsung. Meskipun tanpa memperhalus seperti pada majas ironi, gaya bahasa sinisme tidak dapat serta-merta disebut kasar.
+
+Contoh:
+
+- Kakakku pelit sekali, tak mau berbagi penganannya denganku.
+
+- Keberuntungan? Itu hanyalah istilah yang digunakan orang-orang untuk menutupi kesalahan mereka.
+
+- Semua orang berbicara tentang persatuan, tapi tindakan mereka justru menunjukkan sebaliknya.
+
+**15. Sarkasme**
+
+Kata-kata sindiran dalam sarkasme disampaikan secara langsung dan cenderung pedas. Majas ini digunakan untuk mengejek, mengecilkan, atau mengolok-olok sesuatu atau seseorang dengan menggunakan bahasa yang tidak langsung dan seringkali bertentangan dengan apa yang sebenarnya dikatakan. Biasanya sarkasme digunakan untuk menyampaikan kritik atau komentar yang tidak serius atau untuk menimbulkan humor dalam percakapan atau tulisan.
+
+Contoh:
+
+- Oh, terima kasih banyak untuk bantuanmu. Tanpa bantuanmu, pasti aku tidak akan bisa menyelesaikannya
+
+- Ya, benar sekali. Kenapa tidak kita pikirkan hal yang benar-benar penting seperti ini selama ini?
+
+- Ah, ini pasti cara yang paling efektif untuk menyelesaikan masalah.
+
+- Senang sekali bisa bertemu dengan seseorang yang begitu cerdas dan bijaksana.
+## Majas Penegasan
+Majas penegasan bertujuan untuk memperkuat pengaruh dan mendapatkan persetujuan pembaca atau pendengar. Sebagian majas dan contohnya ada di bawah ini.
+
+**16. Pleonasme**
+
+Majas pleonasme menggunakan kata-kata dengan makna yang sama. Dengan adanya penambahan kata atau frasa yang tidak diperlukan memberi kesan kalimat menjadi kurang efektif, tapi memang sengaja dilakukan agar kita mendapatkan efek penegasan yang diinginkan. Di sisi lain, pleonasme juga bisa digunakan untuk mengejek atau mengolok-olok sesuatu yang dianggap sudah jelas, atau menekankan satu kata atau frasa dengan memberikan kata atau frasa yang sama atau berarti sama sehingga bisa menimbulkan efek komik dalam kalimat yang digunakan
+
+Contoh:
+
+- Berusahalah berhenti terus mengingat sejarah masa lalu.
+
+- Kita harus berkumpul bersama-sama.
+
+- Dia selalu bangun pagi-pagi sekali.
+
+**17. Repetisi**
+
+Gaya bahasa ini tampak pada pengulangan suatu kata, frasa, atau kalimat. Tujuan majas repetisi masih sama, yaitu pengulangan yang dilakukan untuk menegaskan, meningkatkan ritme, memperkuat pesan atau perasaan, ataupun menciptakan efek dendangan.
+
+Contoh:
+
+- Rumah adalah tempat yang paling nyaman, rumah juga menjadi tempat bernaung dari panas dan hujan.
+
+- Tepat, tepat waktu, tepat pada waktunya.
+
+- Sendiri, sendiri, terus-menerus sendiri.
+
+**18. Retorika**
+
+Majas retorika berbentuk kalimat tanya. Sobat tentu sudah tahu bahwa kalimat tanya retorika tak memerlukan jawaban. Iya, tujuan kalimat tanya tersebut memang untuk membuat penegasan.
+
+Contoh:
+
+- Siapa yang tak ingin kuliah di kampus terbaik?
+
+- Siapa yang akan menjaga negara ini jika tidak kita semua?
+
+- Bagaimana kita bisa berharap masa depan yang baik jika kita tidak bekerja untuk itu sekarang?
+
+- Siapakah yang akan membela hak-hak kita jika tidak kita sendiri?
+
+- Bagaimana kita bisa mencapai kesuksesan jika kita tidak berusaha?
+
+- Apakah kita akan terus diam saat keadilan diinjak-injak?
+
+**19. Aliterasi**
+
+Majas aliterasi digunakan untuk meningkatkan ritme, memperkuat perasaan, atau untuk memberikan efek khusus lainnya. Ciri khas yang tampak dalam majas aliterasi adalah pengulangan kata atau kalimat yang sama atau serupa dengan kata atau kalimat yang berdekatan.
+
+Contoh:
+
+- Si Siti tidur di atas selimut sutra yang sama.
+
+- Bunga berguguran di bumi yang basah.
+
+- Sudah sangat lama sejak sang surya terbenam.
+
+- Mendung mengambang di atas muka air laut yang merah.
+
+- Keras keringat mengalir dari kening ke kening.
+
+**20. Metonimia**
+
+Majas metonimia digunakan untuk menyampaikan suatu ide atau perasaan secara implisit atau memberikan efek khusus dalam teks. Caranya adalah dengan menggunakan suatu kata atau frasa untuk mewakili suatu hal yang lain.
+
+Contoh:
+
+- "Kursi kepresidenan" tidak diartikan sebagai kursi yang digunakan oleh presiden, tetapi lebih mengarah pada posisi dan kekuasaan presiden.
+
+- "Mata uang" bukanlah sebuah mata fisik, melainkan bentuk uang.
+
+- "Tangan industri" bukanlah tangan fisik, melainkan sebuah organisasi di sektor ekonomi.
+
+- "Langkah kebijakan" bukanlah langkah fisik, melainkan keputusan atau tindakan yang diambil oleh pemerintah atau organisasi.
+
+- "Kekaisaran" digunakan untuk menyatakan pemerintahan yang dipegang oleh seorang kaisar.
+
+**21. Simbolik**
+
+Majas simbolik menggunakan simbol atau lambang untuk mewakili suatu konsep, perasaan, atau ide. Simbol tersebut dapat berupa kata, frasa, gambar, atau benda yang dapat memberikan kesan mendalam dalam teks dan membantu dalam menyampaikan pesan.
+
+Contoh:
+
+- Mawar merah simbol dari cinta yang romantis.
+
+- Gerbang simbol dari kesempatan baru.
+
+- Burung hantu simbol dari kebijaksanaan.
+
+**22. Paralelisme**
+
+Lumrah digunakan dalam puisi, majas paralelisme ditunjukkan oleh pengulangan kata. Meskipun diulang-ilang, definisi kata tersebut tak sama antara satu dengan lainnya. Anafora adalah pengulangan di bagian awal kalimat, sedangkan epifora adalah pengulangan di bagian akhir kalimat.
+
+Contoh:
+
+Cinta itu sabar.
+
+Cinta itu lemah lembut.
+
+Cinta itu memaafkan.
+
+Cinta itu tidak serakah.
+
+Kasih itu penyabar.
+
+Kasih itu tidak pernah marah.
+
+Kasih itu selalu mengerti.
+
+Yang terbaik itu cinta.
+
+Yang terkasih itu cinta.
+
+Yang paling sempurna itu cinta.
+
+Perempuan paling hebat itulah ibuku.
+
+Perempuan yang penuh kasih sayang itulah ibuku.
+
+Perempuan yang penuh pengertian adalah ibuku.
+
+Perempuan paling sempurna adalah ibuku.
+# 17. Teks Pidato
+## **Pengertian Pidato**
+
+Menurut KBBI, pidato adalah pengungkapan pikiran dalam bentuk kata-kata yang ditujukan kepada orang banyak. Selain itu, disebutkan juga arti lain dari pidato yaitu wacana yang disiapkan untuk diucapkan di depan khalayak. 
+
+Jika disimpulkan, pidato merupakan aktivitas berbicara di depan umum yang dilakukan untuk menyatakan pendapat atau memberikan gambaran mengenai suatu topik. Dengan begitu, **teks pidato adalah sebuah teks yang berisi gagasan, pendapat, dan pengetahuan terhadap suatu topik yang nantinya akan disampaikan di depan umum.**
+
+## **Tujuan Pidato**
+
+Pidato memiliki beberapa tujuan yang berbeda, antara lain adalah sebagai berikut.
+
+### **1. Informatif**
+
+Pidato yang disampaikan bertujuan untuk memberikan informasi atau pemahaman kepada audiens.
+
+### **2. Sambutan**
+
+Pidato yang disampaikan bertujuan untuk menyambut atau menyapa para tamu yang hadir dalam sebuah kegiatan, contohnya pidato peresmian gedung atau pidato pembukaan suatu acara.
+
+### **3. Rekreatif**
+
+Pidato yang disampaikan bertujuan untuk membuat orang lain senang dengan pidato yang disampaikan karena bersifat menghibur.
+
+### **4. Persuasif** 
+
+Pidato yang disampaikan bertujuan untuk memberikan pengaruh kepada orang lain agar bersedia mengikuti kemauan yang diinginkan oleh orator atau orang yang berpidato.
+## **Ciri-Ciri Teks Pidato**
+
+Teks pidato juga memiliki ciri-ciri yang perlu kamu tahu. Ciri-ciri teks pidato di antaranya yaitu:
+
+- Memiliki tujuan yang jelas
+- Isi materi jelas dan mudah dimengerti
+- Materi harus objektif
+- Berisi wawasan yang menarik perhatian
+- Memiliki kesimpulan
+
+## **Struktur Teks Pidato**
+
+Lalu, seperti apa sih, struktur teks pidato itu? Yuk, simak struktur teks pidato pada penjelasan berikut ini.
+
+### **1. Pembukaan**
+
+Pada bagian pembukaan, umumnya mengandung salam pembuka, sapaan kehormatan, ucapan syukur, dan pengantar mengenai isi pidato.
+
+### **2. Isi**
+
+Pada bagian isi, umumnya mengandung informasi penting yang ingin disampaikan dan diselingi dengan data atau fakta pendukung agar pendengar antusias.
+
+### **3. Penutup**
+
+Pada bagian penutup, umumnya mengandung kesimpulan dari pidato yang disampaikan, harapan, ucapan terima kasih, dan salam penutup.
+
+**Baca juga: [Pengertian Teks Inspiratif, Ciri, Struktur, Jenis, dan Kebahasaannya](https://www.brainacademy.id/blog/teks-cerita-inspirasi)**
+
+## **Metode Penyampaian Pidato**
+
+Terdapat beberapa metode atau cara yang bisa digunakan ketika menyampaikan pidato di depan umum, antara lain yaitu:
+
+### **1. Impromptu**
+
+Metode impromptu adalah metode pidato yang dilakukan secara langsung atau spontan tanpa adanya persiapan terlebih dahulu.
+
+### **2. Memoriter**
+
+Memoriter adalah metode berpidato dengan cara menghapalkan naskah teks pidato terlebih dahulu sebelum menyampaikannya di depan umum.
+
+### **3. Naskah**
+
+Metode naskah adalah metode berpidato dengan cara membawa naskah pidato yang telah disiapkan, lalu membacakan naskah tersebut saat berpidato.
+
+### **4. Ekstemporan**
+
+Ekstemporan adalah metode berpidato dengan membuat dan membawa catatan kecil yang berisi poin penting atau garis besar isi pidato. Catatan kecil ini berguna sebagai pengingat saat sedang berpidato agar tidak lupa.
+# 18. Teks Visual
+## Pengertian Teks Visual
+Teks visual banyak digunakan untuk menyampaikan sebuah informasi, pesan, atau bujukan kepada masyarakat umum. Berbeda dengan teks biasa, teks visual lebih mengutamakan gambar ketimbang susunan kata atau kalimatnya.  
+  
+Dikutip dari situs _Study_, [teks visual adalah](https://www.kompas.com/tag/teks-visual-adalah) gambar atau ilustrasi tidak bergerak, yang di dalamnya mungkin memuat tulisan atau teks.
+
+Untuk mengetahui makna atau pesannya, kita bisa menganalisis ilustrasi yang ada. Dengan begitu, kita bisa paham makna apa yang hendak disampaikan penciptanya.
+
+Sementara itu, dalam situs _IGI Global_, dituliskan bahwa _visual text_ atau teks visual adalah teks yang mengandung gambar atau elemen ilustrasi tertentu.
+
+Adapun salah satu [contoh teks visual](https://www.kompas.com/tag/contoh-teks-visual) adalah poster. Biasanya poster berisi informasi yang sifatnya membujuk dan atau edukatif.
+
+Jadi, [pengertian teks visual](https://www.kompas.com/tag/pengertian-teks-visual) adalah gambar atau ilustrasi tidak bergerak yang kadang dipadukan dengan teks, untuk memberi makna tertentu.
+
+# 19. Sudut Pandang
+## Pengertian
+Sudut pandang merupakan cara penulis dalam menempatkan atau memandang dirinya dalam suatu cerita. Terdapat sudut pandang, dimana pengarang seolah-olah menjadi pelaku utama ataupun menjadi orang lain dalam sebuah cerita yang dibuat. Berikut di bawah ini beberapa pengertian sudut.
+## Jenis-Jenis Sudut Pandang
+### Sudut Pandang Orang Pertama
+Sudut pandang orang pertama yang kemudian menggunakan kata ganti “aku” atau “saya” atau “kami” (sebagai sudut pandang jamak). Pada saat menggunakan sudut pandang orang pertama, kamu kemudian seakan-akan menjadi salah satu tokoh dalam suatu cerita yang sedang dibuat. Si pembaca juga akan merasa melakoni setiap cerita yang dikisahkan.
+#### Sudut Pandang Orang Pertama sebagai Tokoh Utama
+Sesuai dengan namanya–sudut pandang orang pertama atau tokoh utama si penulis seolah-olah ‘masuk’ ke dalam cerita tersebut sebagai tokoh utama atau tokoh sentral dalam cerita (first person central).  Segala hal yang berkaitan dengan pikiran, perasaan, serta tingkah laku, ataupun kejadian tokoh “aku” yang digambarkan di cerita tersebut. Ia kemudian akan menjadi pusat kesadaran serta pusat dari cerita.
+
+#### Sudut Pandang Orang Pertama sebagai Tokoh Sampingan
+Pada teknik ini, tokoh “aku” hadir bukan sebagai peran utama, melainkan peran pendukung ataupun tokoh tambahan (first personal peripheral). Kehadiran tokoh “aku” dalam suatu cerita juga berfungsi dalam memberikan penjelasan mengenai cerita kepada para pembaca.   
+Sementara tokoh utamanya kemudian dibiarkan dalam menceritakan dirinya sendiri lengkap dengan dinamika yang tengah terjadi. Dengan kata lain, tokoh “aku” pada teknik ini berperan sebagai saksi dari rangkaian peristiwa yang dialami oleh tokoh utama.
+### Sudut Pandang Orang Kedua
+Lazimnya, pada suatu karya sastra umumnya menggunakan jenis sudut pandang persona pertama serta sudut pandang persona ketiga. Secara faktual, jenis sudut pandang dalam cerita orang kedua sendiri hanya menjadi selingan. 
+
+Dapat dikatakan, jenis sudut pandang orang kedua ini menggunakan gaya “kau” sebagai suatu variasi cara memandang tokoh aku dan dia. Pemahaman lainnya dari jenis sudut pandang orang kedua adalah adanya narator yang kemudian berbicara kepadamu.
+### Sudut Pandang Orang Ketiga
+Teknik jenis sudut pandang dalam cerita orang ketiga biasanya menggunakan kata ganti “dia”, “ia”, atau nama tokoh dalam bentuk jamak “mereka”.
+
+Perbedaan penggunaan jenis sudut pandang pada orang pertama dan sudut pandang orang ketiga kemudian terletak pada kebebasan peran di dalam suatu cerita. Di mana jenis sudut pandang orang pertama, si penulis dapat menjadi sosok dirinya, tetapi hal ini tidak berlaku untuk sudut pandang orang ketiga.
+# 21. Poster
+Pengertian poster adalah suatu pengumuman ataupun iklan dalam bentuk gambar ataupun tulisan yang berisi mengenai himbauan atau ajakan untuk melakukan sesuatu dan umumnya poster tersebut akan ditempelkan di dinding atau di tempat-tempat strategis yang kerap dilalui banyak orang dan juga mudah untuk dibaca.
+
+Adapun pengertian lain dari poster yaitu media pemberitahuan suatu gagasan, ide, ataupun hal penting kepada khalayak umum. Poster adalah karya seni hasil desain grafis yang mengandung teks, gambar, atau keduanya yang bertujuan untuk memberikan pesan atau informasi pada masyarakat.
+
+Umumnya, poster ditempel pada media datar seperti dinding ataupun permukaan yang datar. Poster tersebut berisi warna-warna dan juga gambar yang mencolok dan kalimat dalam bentuk slogan. Akan tetapi, tidak hanya berbentuk cetak, di zaman sekarang poster banyak yang dipakai dalam bentuk digital.
+
+# 22. Kalimat Petunjuk
+Pengertian kalimat ini bisa dipahami dari dua kata penyusunnya, yakni "kalimat" serta "petunjuk".
+
+Dikutip dari buku _Estetika Berbahasa_ (2018) karya Syihaabul Hudaa, kalimat adalah satuan bahasa terkecil yang mengungkapkan pikiran dan pendapat seseorang.
+
+Bisa juga diartikan bahwa kalimat adalah penyusunan kata sedemikian rupa, agar mencapai kesamaan dan kesatuan makna.
+
+Menurut _Kamus Besar Bahasa Indonesia (KBBI)_, petunjuk adalah tanda atau isyarat untuk menunjukkan atau memberi tahu sesuatu.
+
+Petunjuk adalah ketentuan yang memberi arah tentang bagaimana sesuatu harus dilakukan. Bisa juga diartikan bahwa petunjuk merupakan ajaran, tuntunan, serta ilham.
+
+Kesimpulannya, [kalimat petunjuk adalah](https://www.kompas.com/tag/kalimat-petunjuk-adalah) susunan beberapa kata yang menjadi tanda atau isyarat untuk menunjukkan suatu hal.
+
+[Kalimat petunjuk adalah](https://www.kompas.com/tag/kalimat-petunjuk-adalah) kalimat yang memberi arahan soal bagaimana sesuatu harus dilakukan.
+
+## Contoh
+1. _Buka bungkus kemasan dan usahakan bagian dalamnya tidak robek._
+2. _Cek kembali semua kelengkapan barang sebelum membayar._
+3. _Masukkan mi ke dalam air mendidih, dan rebus selama kurang lebih tiga menit._
+4. _Tuangkan air panas ke dalam gelas berisi serbuk teh._
+5. _Beri gula secukupnya sesuai selera agar teh terasa manis._
+6. _Hidupkan kompor dengan api sedang dan masak daging hingga matang._
+7. _Potong ayam menjadi dua bagian dan buang kulitnya._
+8. _Hidupkan mesin mobil dan pastikan semua indikatornya menyala._
+9. _Pasang pengharum ruangan di bawah AC atau kipas angin._
+10. _Gunakan jalur kanan hanya untuk menyelip._
+11. _Isi air ember secukupnya dan matikan keran bila tidak digunakan._
+12. _Minum obat ini setengah jam sebelum makan._
+13. _Jika mata terasa kering, berikan satu hingga dua tetes pada tiap mata._
+14. _Jangan mencuci pakaian ini menggunakan mesin cuci._
+15. _Buka bungkusnya perlahan dan pastikan bahwa headset dalam kondisi baik._
+16. _Basahi rambut dan tuang sampo secukupnya._
+17. _Tuang air secukupnya ke dalam panci._
+18. _Santaplah makanan ini menggunakan sendok dan garpu._
+19. _Cuci bersih piring ini seusai dipakai._
+20. _Gunakan tonik rambut ini setelah keramas._
+# 23. Teks Rekonstruksi
+## Pengertian
+Teks rekon adalah teks yang menceritakan kembali pengalaman atau kejadian di masa lalu.
+## Tujuan
+Tujuan dari teks rekon adalah untuk menceritakan kembali pengalaman atau peristiwa yang dialami sehingga pembaca bisa memahami dan merasakan kembali peristiwa tersebut. Teks ini bisa memberikan wawasan, hiburan, bahkan pelajaran berharga dari suatu kejadian.
+## Ciri-Ciri
+
+1. Berdasarkan pengalaman atau peristiwa nyata yang terjadi di masa lalu.
+
+2. Disajikan secara kronologis atau berurutan, sesuai urutan waktu kejadian.
+
+3. Menggunakan bahasa naratif dan deskriptif yang mudah dipahami.
+
+4. Berfokus pada tokoh dan kejadian yang dialami oleh tokoh tersebut.
+
+5. Menggunakan kata-kata penghubung waktu (konjungsi temporal) seperti "kemudian", "lalu", "setelah itu", "akhirnya", dll.
+## Jenis-Jenis
+### Teks Rekon Pribadi
+Teks rekon pribadi adalah teks yang menceritakan pengalaman atau peristiwa yang dialami langsung oleh penulis. Biasanya bersifat reflektif, karena penulis sering menyertakan kesan atau pandangan pribadi mengenai kejadian yang diceritakan.
+#### Tujuan
+Menyampaikan pengalaman pribadi kepada pembaca, sering kali untuk berbagi perasaan atau kesan yang dirasakan penulis.
+#### Contoh
+Kisah perjalanan liburan, pengalaman pertama kali mencoba sesuatu yang baru, atau kejadian yang berkesan dalam hidup penulis.
+
+### Teks Rekon Faktual
+Teks rekont faktual adalah teks yang menceritakan peristiwa-peristiwa atau kejadian nyata yang dialami oleh orang lain atau yang terjadi di sekitar kita, tanpa harus melibatkan pengalaman pribadi penulis. Teks ini lebih berfokus pada fakta dan peristiwa yang terjadi.
+#### Tujuan
+Memberikan informasi kepada pembaca tentang suatu kejadian atau peristiwa yang benar-benar terjadi dan diharapkan dapat menambah pengetahuan pembaca tentang topik tersebut.
+#### Contoh
+Laporan perjalanan wisata sekolah, peristiwa sejarah, atau kejadian penting yang dilaporkan secara urut.
+### Teks Rekon Imajinatif
+Teks rekon imajinatif adalah teks rekont yang menceritakan peristiwa yang seolah-olah dialami penulis, namun sebenarnya merupakan hasil dari imajinasi atau rekaan penulis. Teks ini biasanya berisi peristiwa fiktif yang digambarkan seakan nyata.
+#### Tujuan
+Menghibur pembaca dan membawa mereka ke dalam imajinasi atau dunia rekaan yang menarik.
+#### Contoh
+Cerita tentang “liburan impian” yang seolah-olah benar terjadi, atau pengalaman bertemu dengan tokoh imajinatif seperti superhero atau makhluk luar angkasa.
+### Teks Rekon Historis
+Teks rekon historis adalah teks yang menceritakan kembali peristiwa atau kejadian bersejarah yang memiliki nilai penting, biasanya berdasarkan data atau sumber yang dapat dipertanggungjawabkan.
+#### Tujuan
+Teks rekon historis adalah teks yang menceritakan kembali peristiwa atau kejadian bersejarah yang memiliki nilai penting, biasanya berdasarkan data atau sumber yang dapat dipertanggungjawabkan.
+#### Tujuan
+Menyampaikan peristiwa bersejarah kepada pembaca dengan detail yang kronologis, membantu pembaca memahami konteks sejarah secara mendalam.
+#### Contoh
+Cerita mengenai Proklamasi Kemerdekaan Indonesia, Peristiwa Rengasdengklok, atau kejadian besar lainnya dalam sejarah.
+### Teks Rekon Biografi
+Teks rekon biografi adalah teks yang menceritakan kehidupan seseorang atau pengalaman hidup dari tokoh terkenal atau inspiratif. Teks ini biasanya mencakup peristiwa-peristiwa penting dalam hidup tokoh tersebut.
+#### Tujuan
+Menginspirasi pembaca dan memberikan informasi mengenai perjalanan hidup seseorang yang dianggap berpengaruh atau penting.
+#### Contoh
+Kisah hidup tokoh terkenal seperti Ki Hajar Dewantara, R.A. Kartini, atau penemu seperti Thomas Edison.
+## Struktur
+### 1. Orientasi
+Struktur teks rekon umumnya terdiri dari tiga bagian utama:
+
+1. Orientasi
+    
+    - Fungsi: Bagian awal yang berfungsi untuk memperkenalkan peristiwa yang akan diceritakan.
+        
+    - Isi: Biasanya berisi informasi tentang siapa saja yang terlibat dalam peristiwa, kapan, di mana, dan apa yang menjadi latar belakang peristiwa tersebut.
+        
+    - Contoh: "Pada hari Minggu yang cerah, aku bersama teman-temanku pergi ke pantai. Kami sangat senang karena sudah lama tidak bermain di pantai."
+2. Urutan Peristiwa
+	- Fungsi: Bagian inti dari teks rekon yang berisi rangkaian peristiwa secara  
+	    kronologis (berurutan berdasarkan waktu).
+	    
+	- Isi: Setiap peristiwa diceritakan secara detail dan runtut, mulai dari awal  
+	    hingga akhir kejadian.
+	    
+	- Contoh: "Sesampainya di pantai, kami langsung berlari menuju bibir pantai.  
+	    Kami bermain pasir, berenang, dan membuat istana pasir. Saat matahari  
+	    mulai terbenam, kami memutuskan untuk pulang."
+3. Reorientasi
+- Fungsi: Bagian akhir yang berfungsi untuk memberikan komentar atau  
+    kesimpulan mengenai peristiwa yang telah diceritakan.
+    
+- Isi: Bisa berupa pendapat pribadi penulis tentang peristiwa tersebut,  
+    pelajaran yang diambil, atau perasaan yang dirasakan.
+    
+- Contoh: "Perjalanan ke pantai kemarin sangat menyenangkan. Aku berharap  
+    bisa mengulanginya lagi suatu saat nanti."
