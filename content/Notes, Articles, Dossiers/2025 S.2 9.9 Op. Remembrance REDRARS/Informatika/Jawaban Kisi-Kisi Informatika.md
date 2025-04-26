@@ -82,3 +82,51 @@ Di bawah ini ada beberapa contoh macam perangkat lunak, yaitu:
 - [Perangkat lunak uji coba](https://id.wikipedia.org/wiki/Perangkat_lunak_uji_coba "Perangkat lunak uji coba") (_shareware_ / trialware_)_
 - [Perangkat lunak perusak](https://id.wikipedia.org/wiki/Perangkat_lunak_perusak "Perangkat lunak perusak") (_malware_)
 # Menjelaskan Fungsi Sistem Operasi
+**[Sistem](https://id.wikipedia.org/wiki/Sistem_komputer "Sistem komputer") operasi** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _operating system_; disingkat **OS**) adalah [perangkat lunak sistem](https://id.wikipedia.org/wiki/Perangkat_lunak_sistem "Perangkat lunak sistem") yang mengatur sumber daya dari [perangkat keras](https://id.wikipedia.org/wiki/Perangkat_keras "Perangkat keras") dan [perangkat lunak](https://id.wikipedia.org/wiki/Perangkat_lunak "Perangkat lunak"), serta sebagai [daemon](https://id.wikipedia.org/wiki/Daemon "Daemon") untuk [program komputer](https://id.wikipedia.org/wiki/Program_komputer "Program komputer"). Tanpa sistem operasi, pengguna tidak dapat menjalankan program [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") pada komputer mereka, kecuali program [booting](https://id.wikipedia.org/wiki/Booting "Booting").
+
+Sistem operasi mempunyai penjadwalan yang sistematis mencakup perhitungan penggunaan memori, pemrosesan data, penyimpanan data, dan sumber daya lainnya.
+
+Untuk fungsi-fungsi perangkat keras sebagai masukan dan keluaran serta alokasi memori, sistem operasi bertindak sebagai perantara antara program aplikasi dan perangkat keras [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer"), meskipun kode aplikasi biasanya dieksekusi langsung oleh perangkat keras dan sering kali akan menghubungi OS atau terputus oleh itu. Sistem operasi yang ditemukan pada hampir semua perangkat yang berisi komputer-dari [ponsel](https://id.wikipedia.org/wiki/Ponsel "Ponsel") dan [konsol permainan video](https://id.wikipedia.org/wiki/Konsol_permainan_video "Konsol permainan video") untuk [superkomputer](https://id.wikipedia.org/wiki/Superkomputer "Superkomputer") dan [server web](https://id.wikipedia.org/wiki/Server_web "Server web").
+
+Contoh sistem operasi modern adalah [Linux](https://id.wikipedia.org/wiki/Linux "Linux"), [Android](https://id.wikipedia.org/wiki/Android_\(sistem_operasi\) "Android (sistem operasi)"), [iOS](https://id.wikipedia.org/wiki/IOS "IOS"), [macOS](https://id.wikipedia.org/wiki/MacOS "MacOS"), dan [Microsoft Windows](https://id.wikipedia.org/wiki/Microsoft_Windows "Microsoft Windows").
+
+Sistem operasi komputer adalah perangkat lunak yang bertanggung jawab untuk mengelola sumber daya komputer, seperti perangkat keras dan perangkat lunak. [**Sistem operasi kompute**r](https://dce.telkomuniversity.ac.id/memahami-apa-itu-web-security-fungsi-tips-keamanan/) juga berfungsi sebagai jembatan antara pengguna dan perangkat komputer, menyediakan lingkungan kerja yang terorganisir dan memungkinkan pengoperasian yang efisien.
+
+### Poin Kunci:
+
+- **Sistem operasi komputer** adalah perangkat lunak yang mengelola sumber daya komputer.
+- Fungsi utama **sistem operasi komputer** antara lain mengatur akses pengguna, menyediakan antarmuka pengguna yang intuitif, dan menjalankan program.
+- Beberapa jenis **sistem operasi komputer** yang umum digunakan termasuk Microsoft Windows, Linux, Android, dan iOS.
+- **Sistem operasi komputer** bekerja dengan menjalankan tugas seperti manajemen memori dan penjadwalan tugas.
+- Contoh **sistem operasi komputer** yang populer adalah Microsoft Windows, MacOS, Linux, Android, dan iOS.
+
+## Fungsi Sistem Operasi Komputer
+
+Setiap **sistem operasi komputer** memiliki fungsi-fungsi penting yang berperan dalam pengoperasian perangkat keras dan perangkat lunak. Fungsi-fungsi ini memastikan bahwa semua bagian sistem dapat bekerja bersama secara efisien. Berikut ini adalah beberapa fungsi utama dari sistem operasi komputer:
+
+### Mengatur dan Mengontrol Akses Pengguna
+
+**Sistem operasi komputer** bertanggung jawab untuk mengatur dan mengontrol akses pengguna ke **perangkat keras** dan **perangkat lunak.** Dengan menggunakan hak akses dan izin yang ditetapkan oleh sistem operasi, pengguna dapat melakukan tugas-tugas tertentu dan hanya mengakses sumber daya yang relevan dengan peranan mereka.
+
+### Antarmuka Pengguna yang Intuitif
+
+**Sistem operasi komputer** menyediakan antarmuka pengguna yang intuitif untuk memfasilitasi interaksi antara pengguna dan komputer. Antarmuka ini dapat berupa GUI (Graphic User Interface) yang menggunakan ikon, menu, dan jendela untuk memudahkan penggunaan komputer tanpa harus menguasai perintah command line.
+
+> “Melalui antarmuka pengguna yang intuitif, pengguna dapat dengan mudah berinteraksi dengan komputer dan menjalankan aplikasi-aplikasi yang mereka butuhkan.” **–** Mark Zuckerberg
+
+### Manajemen File dan Pengelolaan Memori
+
+**[Sistem operasi komputer](https://dce.telkomuniversity.ac.id/pengertian-penjelasan-pemrograman-website-secara-lengkap/)** juga bertanggung jawab untuk manajemen file dan pengelolaan memori. Fungsi ini meliputi penentuan hak akses terhadap file, pengelompokan file ke dalam direktori, serta penyediaan ruang memori yang efisien untuk menyimpan dan menjalankan program-program secara optimal.
+
+### Menjalankan Program secara Efisien
+
+**Sistem operasi komputer** bekerja dengan mengelola sumber daya komputer, seperti CPU (Central Processing Unit) dan memori. **Fungsi sistem operasi** ini memastikan bahwa program-program dijalankan secara efisien, dengan memberikan prioritas tugas dan menjadwalkan eksekusi program sesuai dengan kebutuhan pengguna.
+
+Pada bagian ini, saya akan mengidentifikasi berbagai jenis sistem operasi komputer yang umum digunakan. **Sistem Operasi Komputer** adalah perangkat lunak yang penting untuk mengoperasikan dan mengontrol komputer kita. Berikut adalah beberapa jenis **sistem operasi komputer** yang populer:
+
+1. **_Microsoft Windows_:** Merupakan sistem operasi komputer yang paling banyak digunakan di seluruh dunia. Windows memiliki antarmuka pengguna yang familiar dan menyediakan berbagai fitur dan aplikasi yang berguna.
+2. **_Linux_:** Sebuah sistem operasi open source yang sangat populer di kalangan pengguna teknis dan pengembang perangkat lunak. Linux menawarkan fleksibilitas yang tinggi dan mendukung berbagai lingkungan pengembangan.
+3. _**Android**_: Merupakan sistem operasi yang biasanya digunakan pada perangkat mobile, seperti smartphone dan tablet. Android dikembangkan oleh Google dan sangat populer karena fleksibilitas dan kemampuannya untuk mengakses berbagai aplikasi.
+4. _**iOS**_: Sistem operasi yang dikembangkan oleh Apple dan dirancang khusus untuk perangkat iPhone, iPad, dan iPod Touch. iOS dikenal karena keamanannya yang tinggi dan antarmuka pengguna yang intuitif.
+
+Jenis-jenis **sistem operasi komputer** di atas adalah hanya beberapa contoh dari banyaknya pilihan yang ada. Setiap sistem operasi memiliki kelebihan dan kelemahan tergantung pada kebutuhan pengguna yang bersangkutan. Penting untuk memahami perbedaan antara jenis sistem operasi ini agar dapat memilih yang sesuai dengan kebutuhan dan preferensi Anda.
