@@ -1088,3 +1088,92 @@ DHCP juga memastikan bahwa setiap perangkat mendapatkan [alamat IP](https://eda
 
 # Keamanan Digital
 ## Malware
+_**Malware**_ (sebutan untuk **perangkat lunak berbahaya**) atau **perangkat pembahaya** adalah [perangkat lunak](https://id.wikipedia.org/wiki/Perangkat_lunak "Perangkat lunak") apa pun yang sengaja dirancang untuk menyebabkan kerusakan pada komputer, [peladen](https://id.wikipedia.org/wiki/Peladen "Peladen"), klien, atau jaringan komputer (sebaliknya, perangkat lunak yang menyebabkan kerusakan yang _tidak disengaja_ karena beberapa kekurangan biasanya digambarkan sebagai [kutu perangkat lunak](https://id.wikipedia.org/wiki/Kutu_\(komputer\) "Kutu (komputer)")) Berbagai jenis _malware_ ada, termasuk [virus komputer](https://id.wikipedia.org/wiki/Virus_komputer "Virus komputer"), [cacing komputer](https://id.wikipedia.org/wiki/Cacing_komputer "Cacing komputer"), [kuda troya](https://id.wikipedia.org/wiki/Trojan_horse "Trojan horse"), [perangkat pemeras](https://id.wikipedia.org/wiki/Perangkat_pemeras "Perangkat pemeras"), [perangkat pengintai](https://id.wikipedia.org/wiki/Perangkat_pengintai "Perangkat pengintai"), [perangkat lunak beriklan](https://id.wikipedia.org/wiki/Perangkat_lunak_beriklan "Perangkat lunak beriklan"), dan _[scareware](https://id.wikipedia.org/w/index.php?title=Scareware&action=edit&redlink=1 "Scareware (halaman belum tersedia)")_.
+
+Program juga dianggap sebagai _malware_ jika diam-diam bertindak melawan kepentingan pengguna komputer. Misalnya, pada satu titik, cakram Compact musik [Sony](https://id.wikipedia.org/wiki/Sony "Sony") [secara diam-diam memasang rootkit](https://id.wikipedia.org/w/index.php?title=Skandal_rootkit_perlindungan_salinan_BMG_Sony&action=edit&redlink=1 "Skandal rootkit perlindungan salinan BMG Sony (halaman belum tersedia)") pada komputer pembeli dengan maksud mencegah penyalinan ilegal, tetapi juga melaporkan kebiasaan mendengarkan pengguna, dan secara tidak sengaja menciptakan kerentanan ekstra terhadap keamanan.
+
+Serangkaian [perangkat lunak antivirus](https://id.wikipedia.org/wiki/Perangkat_lunak_antivirus "Perangkat lunak antivirus"), [tembok api](https://id.wikipedia.org/wiki/Tembok_api "Tembok api"), dan strategi lain digunakan untuk membantu melindungi terhadap diperkenalkannya _malware_, untuk membantu mendeteksi jika _malware_ tersebut sudah ada, dan untuk pulih dari aktivitas dan serangan berbahaya yang terkait dengan _malware_.
+
+Banyak program infeksi awal, termasuk [Worm Internet pertama](https://id.wikipedia.org/w/index.php?title=Morris_worm&action=edit&redlink=1 "Morris worm (halaman belum tersedia)"), ditulis sebagai eksperimen atau lelucon. Saat ini, _malware_ digunakan oleh [peretas topi hitam](https://id.wikipedia.org/wiki/Peretas_topi_hitam "Peretas topi hitam") dan pemerintah, untuk mencuri informasi pribadi, keuangan, atau bisnis.
+
+_Malware_ kadang-kadang digunakan secara luas terhadap situs web pemerintah atau perusahaan untuk mengumpulkan informasi yang dijaga, atau untuk mengganggu operasi mereka secara umum. Namun, malware dapat digunakan melawan individu untuk mendapatkan informasi seperti nomor identifikasi pribadi atau detail, nomor bank atau [kartu kredit](https://id.wikipedia.org/wiki/Kartu_kredit "Kartu kredit"), dan [kata sandi](https://id.wikipedia.org/wiki/Kata_sandi "Kata sandi").
+
+Program yang dirancang untuk memantau penelusuran web pengguna, menampilkan [iklan yang tidak diminta](https://id.wikipedia.org/w/index.php?title=Iklan_yang_tidak_diminta&action=edit&redlink=1 "Iklan yang tidak diminta (halaman belum tersedia)"), atau mengalihkan pendapatan [pemasaran afiliasi](https://id.wikipedia.org/wiki/Pemasaran_afiliasi "Pemasaran afiliasi") disebut [perangkat pengintai](https://id.wikipedia.org/wiki/Perangkat_pengintai "Perangkat pengintai"). Program perangkat pengintai tidak menyebar seperti virus; sebaliknya mereka umumnya dipasang dengan memanfaatkan celah keamanan. Mereka juga bisa disembunyikan dan dikemas bersama dengan perangkat lunak yang diinstal pengguna yang tidak terkait. Rootkit Sony BMG dimaksudkan untuk mencegah penyalinan ilegal; tetapi juga melaporkan kebiasaan mendengarkan pengguna, dan secara tidak sengaja menciptakan kerentanan keamanan tambahan.
+
+_Malware_ dapat menyerang berkas yang dimiliki seseorang dan melakukan duplikasi diri, sehingga merusak sistem kerja hardisk dan software, mengambil data, serta merusak sistem operasi pada PC target. _Malware_ bisa berupa software atau kode yang kemudian menyamar menjadi user dan menjalankan sistem tanpa persetujuan. Perangkat lunak ini merusak dengan cara menggambarkan program atau mematikannya. Malware yang ganas bahkan dapat mematikan antivirus yang terpasang pada sistem komputer.
+
+## Jenis-Jenis Malware
+1. Virus
+Hampir semua jenis file perusahaan rentan terkena virus. Jenis malware ini akan menduplikasi dirinya sendiri tanpa sepengetahuan Anda. Virus memodifikasi program komputer dan memasukkan serangkaian kode. Setelah berhasil, folder atau drive Anda akan terinfeksi oleh virus.
+
+Pelaku pembuat virus ingin menghasilkan keuntungan sendiri melalui tindakan sabotase yang dilakukannya. Virus disebarkan melalui e-mail, file atau software hasil unduhan, pesan instan, koneksi jaringan, bahkan media yang dipindahkan melalui port USB.
+
+2. Keylogger
+Keylogger atau perekam keyboard merupakan tindakan merekam aktivitas pengetikan di keyboard tanpa sepengetahuan Anda. Hasil record yang terekam akan dikirimkan ke pelaku keylogger. 
+
+Biasanya, keylogging digunakan untuk mengetahui data sensitif seperti password, OTP, atau PIN. Jenis malware ini biasanya dipasang oleh Trojan atau bisa pula berupa kabel fisik yang terhubung ke jaringan periferal keyboard.
+
+3. Worm
+Worm memiliki cara kerja yang sama seperti virus, yakni menduplikasi dirinya sendiri dan menyebar ke seluruh komputer. Bedanya, worm lebih efektif dan bisa berjalan sendiri tanpa bantuan Anda, sementara virus biasanya bekerja apabila mengeklik file yang telah terinfeksi.
+
+Efektivitas worm membuat jenis malware ini digunakan untuk menyerang server website, e-mail, dan database. Worm bisa pula menyebar cepat melalui internet dan jaringan komputer setelah berhasil menginfeksi suatu server.
+
+4. Trojan
+Trojan Horse merupakan malware yang menyamar menjadi program yang sah atau valid untuk mengelabui Anda. Trojan akan terus bersembunyi di komputer sampai Anda membuka program tersebut.
+
+Program Trojan yang terbuka digunakan oleh pelaku untuk mengintai aktivitas Anda. Mereka akan mencuri data sensitif, bahkan bisa mengakses sistem komputer Anda. Trojan berasal dari aktivitas phising yang dilakukan melalui e-mail atau website yang Anda kunjungi.
+
+5. Rootkit
+Rootkit merupakan sekumpulan malware yang dibuat oleh pelaku untuk menahan perintah dan kontrol terhadap komputer tanpa diketahui oleh pengguna. Alhasil, komputer Anda akan dikontrol secara penuh oleh pelaku setelah terinfeksi rootkit.
+
+Pelaku akan mengintai penggunaan komputer Anda, mengambil file, bahkan mengubah pengaturan sistem secara jarak jauh. Rata-rata software antivirus sulit menghapus rootkit sehingga Anda harus membangun ulang sistem komputer yang telah disusupi.
+
+6. Ransomware
+Ransom berarti tebusan. Artinya, malware ini akan menolak akses ke data atau sistem komputer sampai Anda membayar uang tebusan. Selama tebusannya belum dibayarkan, pelaku akan berusaha untuk mencuri data atau menyebarkan virus ke komputer Anda.
+
+Ada pula istilah cryptoware yang memiliki cara kerja mirip seperti ransomware. Bedanya, Anda harus membayar uang tebusan menggunakan mata uang digital sehingga transaksinya tidak mudah dilacak.
+
+7. Adware
+Jenis malware ini sebenarnya tidak berbahaya, tetapi sangat mengganggu kenyamanan Anda saat browsing. Adware akan memunculkan pop-up iklan secara terus-menerus di layar ketika Anda mengunjungi sebuah website.
+
+Malahan, adware merupakan taktik pelaku untuk mengelabui pengguna. Adware mendukung program lain sehingga ada file atau software yang terinstal di perangkat tanpa Anda sadari.
+
+8. Spyware
+Spyware merupakan jenis malware yang bisa memperoleh akses atau informasi rahasia mengenai perusahaan Anda. Malware ini akan berusaha untuk mencuri informasi penggunaan internet, keuangan, atau bahkan karyawan Anda. 
+
+Spyware juga mengintai kebiasaan Anda saat mengakses internet dan riwayat penelusuran. Data yang didapat dari malware kemudian dijual ke perusahaan kompetitor atau oknum yang tidak bertanggung jawab.
+
+9. Logic Bombs
+Jenis malware ini hanya beroperasi ketika ada yang memicunya, contohnya tanggal atau waktu yang diatur oleh pelaku. Logic bombs biasanya dipasang pada virus dan worm agar mereka bisa menyebar pada waktu atau kondisi tertentu.
+
+Akibat kerusakan logic bombs bisa berupa perubahan byte data dan hard disk drive yang tidak terbaca. Namun, Anda bisa melumpuhkan serangan ini dengan antivirus sehingga tidak aktif lagi sampai waktu berbulan-bulan.
+
+10. Botnet
+Robot network alias botnet merupakan kumpulan bot yang dikendalikan dari jarak jauh. Botnet akan menyusup ke suatu jaringan keamanan yang terhubung pada sistem komputer Anda. Botnet lebih berbahaya karena bisa menyebar ke peralatan lain yang memerlukan internet (internet of things) seperti printer. 
+
+Botnet juga menyerang website melalui serangan DDoS sehingga website tidak bisa diakses untuk sementara. Masalah ini tentu merugikan bagi Anda yang menggunakan website sebagai toko online.
+# Konversi Sistem Bilangan
+## Sistem Bilangan Biner
+Sistem bilangan biner atau sistem bilangan basis dua adalah sistem penulisan angka untuk dengan menggunakan dua simbol, umumnya "0" (nol) dan "1" (satu). Bilangan yang dituliskan dengan cara ini disebut dengan bilangan biner. Bilangan biner juga dapat merujuk pada bilangan rasional yang memiliki representasi terbatas dalam sistem bilangan biner.
+
+Sistem bilangan biner adalah suatu notasi posisional dengan nilai basis 2. Setiap digit pada sistem ini disebut bit (binary digit). Karena penerapannya yang mudah sebagai gerbang logika dalam rangkaian-rangkaian elektronik, sistem biner digunakan oleh hampir semua perangkat komputer dan berbasis-komputer karena kesederhanaan bahasa dan kekebalannya terhadap derau (noise) dalam penerapan dunia nyata.
+## Sistem Bilangan Desimal
+Sistem bilangan desimal adalah sistem standar yang melambangkan bilangan bulat dan bukan bilangan bulat. Sistem bilangan ini merupakan perluasan untuk bilangan dari sistem bilangan Hindu–Arab. Cara melambangkan bilangan dalam bentuk sistem desimal seringkali disebut sebagai notasi desimal.
+
+Bilangan desimal (juga seringkali disebut desimal, atau istilah yang kurang tepat, bilangan desimal) mengacu pada notasi suatu bilangan dalam sistem bilangan desimal. Desimal terkadang dapat diidentifikasi dengan pemisah desimal, yakni suatu bilangan yang biasanya menggunakan tanda titik "." atau tanda koma "," sebagai pemisah. Sebagai contoh, 25.9703 atau 3,1415. Desimal juga dapat mengacu khususnya pada digit setelah pemisah desimal, sebagai contoh "3,14 merupakan hampiran dari nilai π dengan dua desimal". Digit-digit nol setelah pemisah desimal memiliki tujuan khusus untuk menandai ketepatan suatu nilai.
+
+Bilangan yang dapat diwakili dalam sistem desimal merupakan pecahan dengan bentuk a/10, dimana a bilangan bulat dan n bilangan bulat taknegatif. Pecahan tersebut disebut pecahan desimal.
+
+Sistem bilangan desimal telah diperluas ke desimal takhingga untuk mewakili setiap bilangan real, dengan mengunakan sebuah barisan digit takhingga setelah pemisah desimal (lihat representasi desimal). Pada konteks ini, bilangan desimal dengan jumlah terhingga dari digit bukan nol setelah pemisah desimal terkadang disebut terminating decimal. Desimal berulang merupakan sebuah desimal takhingga yang mengulangi barisan digit yang sama, yang terletak pada barisan tersebut (sebagai contoh, 5,123144144144144... = 5.123144). Sebuah desimal takhingga mewakili sebuah bilangan rasional jika dan hanya jika barisannya merupakan desimal berulang atau memiliki jumlah terhingga dari digit bukan nol.
+## Sistem Bilangan Heksadesimal
+**Heksadesimal** atau **bilangan perenambelasan** adalah sebuah [sistem bilangan](https://id.wikipedia.org/wiki/Sistem_bilangan "Sistem bilangan") yang menggunakan 16 simbol. Berbeda dengan [sistem bilangan desimal](https://id.wikipedia.org/wiki/Sistem_bilangan_desimal "Sistem bilangan desimal"), simbol yang digunakan dari sistem ini adalah angka 0 sampai 9, ditambah dengan 6 simbol lainnya dengan menggunakan huruf A hingga F. Sistem bilangan ini digunakan untuk menampilkan nilai alamat [memori](https://id.wikipedia.org/wiki/Memori_\(komputer\) "Memori (komputer)") dalam [pemrograman komputer](https://id.wikipedia.org/wiki/Pemrograman "Pemrograman").
+## Sistem Bilangan Oktal
+**Oktal** adalah sistem bilangan dengan basis **delapan**. Sehingga memiliki anggota dari 0-7.
+## Konversi
+### Konversi Desimal Ke Biner
+$500_{10}$ -> $x_2$
+$500 : 2 = 250 \hspace{1mm} R = 0$
+$250 : 2 = 125 \hspace{1mm} R = 0$
+$125 : 2 = 62 \hspace{1mm} R =1$
+$62 : 2 = 31 \hspace{1mm} R = 0$
+$31 : 2 = 15 \hspace{1mm}R = 1$
