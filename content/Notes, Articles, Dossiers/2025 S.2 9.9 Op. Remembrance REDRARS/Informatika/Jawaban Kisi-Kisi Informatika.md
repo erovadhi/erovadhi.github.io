@@ -1170,10 +1170,920 @@ Sistem bilangan desimal telah diperluas ke desimal takhingga untuk mewakili seti
 ## Sistem Bilangan Oktal
 **Oktal** adalah sistem bilangan dengan basis **delapan**. Sehingga memiliki anggota dari 0-7.
 ## Konversi
-### Konversi Desimal Ke Biner
-$500_{10}$ -> $x_2$
-$500 : 2 = 250 \hspace{1mm} R = 0$
-$250 : 2 = 125 \hspace{1mm} R = 0$
-$125 : 2 = 62 \hspace{1mm} R =1$
-$62 : 2 = 31 \hspace{1mm} R = 0$
-$31 : 2 = 15 \hspace{1mm}R = 1$
+![{D6F2D480-03D6-4DFD-9B4E-15FF1510F344}.png](D6F2D480-03D6-4DFD-9B4E-15FF1510F344.png)
+### Konversi dari Desimal
+#### Desimal Ke Biner
+![](https://1.bp.blogspot.com/-8EkAemfI7bw/Uz_k3KmrscI/AAAAAAAAA6M/TNDScAvHwAc/s1600/dec2bin.png)
+#### Desimal Ke Oktal
+![](https://1.bp.blogspot.com/-4ZmoxI1o_pw/Uz_k30h9VPI/AAAAAAAAA6A/hNeBX6cHwns/s1600/dec2oct.png)
+#### Desimal Ke Heksadesimal
+![](https://3.bp.blogspot.com/-xvOTw2IlqgI/Uz_k3S--OsI/AAAAAAAAA5w/nC97TklRyns/s1600/dec2hex.png)
+### Konversi Ke Desimal
+#### Biner ke Desimal
+![](https://2.bp.blogspot.com/-NjBQ7aO-cTk/Uz_k2jaMnsI/AAAAAAAAA5k/LrO-FaSO6Zw/s1600/bin2dec.png)
+#### Oktal ke Desimal
+![](https://3.bp.blogspot.com/-mvRC00wjeVs/Uz_k5JnpCQI/AAAAAAAAA6Y/Ewm1XEtQAu0/s1600/oct2dec.png)
+#### Heksadesimal ke Desimal
+![](https://2.bp.blogspot.com/-RBJqp0uHTH8/Uz_k4Z_iDnI/AAAAAAAAA6E/a2rv4yO0T0Y/s1600/hex2dec.png)
+# Mengenal HTML
+**HyperText Markup Language** (**HTML**) adalah [bahasa markah](https://id.wikipedia.org/wiki/Bahasa_markah "Bahasa markah") standar untuk dokumen yang dirancang untuk ditampilkan di [peramban internet](https://id.wikipedia.org/wiki/Browser "Browser"). Ini dapat dibantu oleh teknologi seperti [Cascading Style Sheets](https://id.wikipedia.org/wiki/Cascading_Style_Sheets "Cascading Style Sheets") (CSS) dan [bahasa skrip](https://id.wikipedia.org/wiki/Bahasa_skrip "Bahasa skrip") lainnya seperti [JavaScript](https://id.wikipedia.org/wiki/JavaScript "JavaScript"), [VBScript](https://id.wikipedia.org/wiki/VBScript "VBScript"), dan [PHP](https://id.wikipedia.org/wiki/PHP "PHP").
+
+[Peramban internet](https://id.wikipedia.org/wiki/Browser "Browser") menerima dokumen HTML dari [server web](https://id.wikipedia.org/wiki/Server_web "Server web") atau dari penyimpanan lokal dan [membuat](https://id.wikipedia.org/wiki/Mesin_peramban "Mesin peramban") dokumen menjadi halaman web multimedia. HTML menggambarkan struktur [halaman web](https://id.wikipedia.org/wiki/Halaman_web "Halaman web") secara [semantik](https://id.wikipedia.org/wiki/Web_semantik "Web semantik") dan isyarat awal yang disertakan untuk penampilan dokumen.
+
+Elemen HTML digambarkan oleh _tag_, ditulis menggunakan tanda [kurung siku](https://id.wikipedia.org/wiki/Tanda_kurung#tanda_kurung_siku "Tanda kurung"). Tag seperti `<img />` dan `<input />` langsung perkenalkan konten ke dalam halaman. Tag lain seperti `<p>` mengelilingi dan memberikan informasi tentang teks dokumen dan mungkin menyertakan tag lain sebagai sub-elemen. Peramban tidak menampilkan tag HTML, tetapi menggunakannya untuk menafsirkan konten halaman.
+
+HTML dapat menyematkan program yang ditulis dalam [bahasa skrip](https://id.wikipedia.org/wiki/Bahasa_skrip "Bahasa skrip") seperti [JavaScript](https://id.wikipedia.org/wiki/JavaScript "JavaScript"), yang memengaruhi perilaku dan konten halaman web. Dimasukkannya CSS mendefinisikan tampilan dan tata letak konten. [World Wide Web Consortium](https://id.wikipedia.org/wiki/World_Wide_Web_Consortium "World Wide Web Consortium") (W3C), mantan pengelola HTML dan pemelihara standar CSS saat ini, telah mendorong penggunaan CSS pada HTML presentasi eksplisit sejak 1997.
+
+Pada tahun 1980 seorang ahli fisika, [Tim Berners-Lee](https://id.wikipedia.org/wiki/Tim_Berners-Lee "Tim Berners-Lee"), dan juga seorang kontraktor di CERN (Organisasi Eropa untuk Riset Nuklir) mengusulkan dan menyusun ENQUIRE, sebuah sistem untuk ilmuwan CERN dalam membagi dokumen. Sembilan tahun kemudian, Berners-Lee mengusulkan adanya sistem markah berbasis internet. Berners-Lee menspesifikasikan HTML dan menulis jaringan beserta perangkat lunaknya di akhir 1990. Pada tahun yang sama, Berners-Lee dan [Robert Cailliau](https://id.wikipedia.org/w/index.php?title=Robert_Cailliau&action=edit&redlink=1 "Robert Cailliau (halaman belum tersedia)"), insinyur sistem data CERN berkolaborasi dalam sebuah permintaan untuk pendanaan, namun tidak diterima secara resmi oleh CERN. Di catatan pribadinya sejak 1990 dia mendaftar "beberapa dari banyak daerah yang menggunakan hypertext" dan pertama-tama menempatkan sebuah ensiklopedia.
+
+Penjelasan pertama yang dibagi untuk umum dari HTML adalah sebuah dokumen yang disebut "Tanda HTML", pertama kali disebutkan di Internet oleh Tim Berners-Lee pada akhir 1991. Tanda ini menggambarkan 18 elemen awal mula, versi sederhana dari HTML. Kecuali untuk _tag hyperlink_, yang sangat dipengaruhi oleh SGMLguid, in-house Standard Generalized Markup Language (SGML) berbasis format dokumen di CERN. Sebelas elemen ini masih ada di HTML 4.
+
+HTML adalah bahasa markah yang digunakan peramban untuk menafsirkan dan menulis teks, gambar dan bahan lainnya ke dalam halaman web secara visual maupun suara. Karakteristik dasar untuk setiap item dari markah HTML didefinisikan di dalam peramban, dan karakteristik ini dapat diubah atau ditingkatkan dengan menggunakan tambahan halaman web desainer [CSS](https://id.wikipedia.org/wiki/CSS "CSS"). Banyak elemen teks ditemukan di laporan teknis ISO pada tahun 1988 TR 9537 _Teknik untuk menggunakan SGML_, yang pada gilirannya meliputi fitur bahasa format teks awal seperti yang digunakan oleh komandan _RUNOFF_ dikembangkan pada awal 1960-an untuk sistem operasi: perintah-perintah format ini berasal dari perintah yang digunakan oleh pengetik untuk memformat dokumen CTSS secara manual. Namun, konsep SGML dari markah umum didasarkan pada unsur-unsur daripada hanya efek cetak, dengan pemisahan struktur dan markah juga; HTML telah semakin bergerak ke arah ini dengan CSS.
+
+### Sejarah versi HTML
+
+24 November 1995
+
+HTML 2.0 dipublikasikan sebagai IETF [RFC 1866](https://datatracker.ietf.org/doc/html/rfc1866). Penambahan [RFC](https://id.wikipedia.org/wiki/Request_for_Comments "Request for Comments") memperbanyak kemampuan untuk:
+
+- November 25, 1995: [RFC 1867](https://datatracker.ietf.org/doc/html/rfc1867) (mengunggah file berdasarkan bentuk)
+- Mei 1996: [RFC 1942](https://datatracker.ietf.org/doc/html/rfc1942) (tabel)
+- Agustus 1996: [RFC 1980](https://datatracker.ietf.org/doc/html/rfc1980) (peta gambar berbasis klien)
+- Januari 1997: [RFC 2070](https://datatracker.ietf.org/doc/html/rfc2070) (internasionalisasi)
+
+14 Januari 1997
+
+HTML 3.2 dipublikasikan sebagai [Konsorsium World Wide Web](https://id.wikipedia.org/wiki/Konsorsium_World_Wide_Web "Konsorsium World Wide Web"). Versi ini merupakan versi pertama yang dikembangkan dan distandardisasi secara khusus oleh Konsorsium World Wide Web, sebagaimana IETF sudah menutup kelompok kerja HTMLnya pada 12 September, 1996.
+
+Pada awalnya disebut "Wilbur", HTML 3.2 menghilangkan rumus matematika sama sekali yang sedang berkonsiliasi atas kasus tumpang tindih antara berbagai kepemilikan dan mengadopsi sebagian besar tanda markah visual dari [Netscape](https://id.wikipedia.org/wiki/Netscape "Netscape"). Elemen kedip dari Netscape dan elemen _marquee_ besutan Microsoft dihilangkan karena kesepakatan bersama antara kedua perusahaan. Sebuah markup untuk rumus matematika serupa dengan yang ada dalam HTML tidak memiliki standar sampai 14 bulan kemudian di MathML.
+
+18 December 1997
+
+HTML 4.0 dipublikasikan sebagai rekomendasi W3C. Versi ini memiliki 3 variasi, yaitu:
+
+- Ketat, di mana elemen terdeprekasi dilarang.
+- Transisional, di mana elemen terdeprekasi diperbolehkan.
+- Frameset, di mana sebagian besar hanya elemen yang berkaitan dengan frame diperbolehkan.
+
+Dulunya memiliki kode nama "Cougar", HTML 4.0 mengadopsi banyak tipe elemen dan atribut yang spesifik untuk peramban.HTML 4 adalah sebuah aplikasi SGML sesuai dengan ISO 8879 – SGML.
+
+- [HTML 2.0](http://www.ietf.org/rfc/rfc1866.txt) [Diarsipkan](https://web.archive.org/web/20050305063804/http://www.ietf.org/rfc/rfc1866.txt) 2005-03-05 di [Wayback Machine](https://id.wikipedia.org/wiki/Wayback_Machine "Wayback Machine").—([RFC](https://id.wikipedia.org/wiki/Request_for_Comments "Request for Comments") 1866) disetujui sebagai standar [22 September](https://id.wikipedia.org/wiki/22_September "22 September") [1995](https://id.wikipedia.org/wiki/1995 "1995"),
+- [HTML 3.2](http://www.w3.org/TR/REC-html32) [Diarsipkan](https://web.archive.org/web/20100619054311/http://www.w3.org/TR/REC-html32) 2010-06-19 di [Wayback Machine](https://id.wikipedia.org/wiki/Wayback_Machine "Wayback Machine").—[14 Januari](https://id.wikipedia.org/wiki/14_Januari "14 Januari") [1996](https://id.wikipedia.org/wiki/1996 "1996"),
+- [HTML 4.0](http://www.w3.org/TR/REC-html40-971218/) [Diarsipkan](https://web.archive.org/web/20110606002650/http://www.w3.org/TR/REC-html40-971218/) 2011-06-06 di [Wayback Machine](https://id.wikipedia.org/wiki/Wayback_Machine "Wayback Machine").—[18 Desember](https://id.wikipedia.org/wiki/18_Desember "18 Desember") [1997](https://id.wikipedia.org/wiki/1997 "1997"),
+- [HTML 4.01](http://www.w3.org/TR/html401) [Diarsipkan](https://web.archive.org/web/20050306015517/http://www.w3.org/TR/html401/) 2005-03-06 di [Wayback Machine](https://id.wikipedia.org/wiki/Wayback_Machine "Wayback Machine"). (minor fixes)—[24 Desember](https://id.wikipedia.org/wiki/24_Desember "24 Desember") [1999](https://id.wikipedia.org/wiki/1999 "1999"),
+- [ISO/IEC 15445:2000](http://www.purl.org/NET/ISO+IEC.15445/15445.html) ("[ISO](https://id.wikipedia.org/wiki/ISO "ISO") HTML", berdasar pada HTML 4.01 Strict)—[15 Mei](https://id.wikipedia.org/wiki/15_Mei "15 Mei") [2000](https://id.wikipedia.org/wiki/2000 "2000").
+- [HTML 5](http://www.w3.org/TR/html5/) [Diarsipkan](https://web.archive.org/web/20120606064040/http://www.w3.org/TR/html5/) 2012-06-06 di [Wayback Machine](https://id.wikipedia.org/wiki/Wayback_Machine "Wayback Machine"). (stabil) rekomendasi W3C—[28 Oktober](https://id.wikipedia.org/wiki/28_Oktober "28 Oktober") [2014](https://id.wikipedia.org/wiki/2014 "2014").
+
+Dokumen HTML mirip dengan dokumen tulisan biasa, hanya dalam dokumen ini sebuah tulisan bisa memuat instruksi yang ditandai dengan kode atau lebih dikenal dengan tag tertentu. Sebagai contoh jika ingin membuat tulisan ditampilkan menjadi tebal seperti: **TAMPIL TEBAL**, maka penulisannya dilakukan dengan cara: `<b>TAMPIL TEBAL</b>`. Tanda `<b>` digunakan untuk mengaktifkan instruksi cetak tebal, diikuti oleh tulisan yang ingin ditebalkan, dan diakhiri dengan tanda `</b>` untuk menonaktifkan cetak tebal tersebut. HTML lebih menekankan pada penggambaran komponen-komponen struktur dan format di dalam halaman web daripada menentukan penampilannya. Sedangkan penjelajah web digunakan untuk menginterpretasikan susunan halaman ke gaya built-in penjelajah web dengan menggunakan jenis tulisan, tab, warna, garis, dan perataan text yang dikehendaki ke komputer yang menampilkan halaman web. Salah satu hal Penting tentang eksistensi HTML adalah tersedianya _Lingua franca_ (bahasa Komunikasi) antar komputer dengan kemampuan berbeda. Pengguna [Macintosh](https://id.wikipedia.org/wiki/Macintosh "Macintosh") tidak dapat melihat tampilan yang sama sebagaimana tampilan yang terlihat dalam PC berbasis Windows. Pengguna [Microsoft Windows](https://id.wikipedia.org/wiki/Microsoft_Windows "Microsoft Windows") pun tidak akan dapat melihat tampilan yang sama sebagaimana tampilan yang terlihat pada pengguna yang menggunakan [Produk-produk](https://id.wikipedia.org/wiki/Produk "Produk") [Sun Microsystems](https://id.wikipedia.org/wiki/Sun_Microsystems "Sun Microsystems"). namun demikian pengguna-pengguna tersebut dapat melihat semua halaman web yang telah diformat dan berisi [Grafika](https://id.wikipedia.org/wiki/Grafika "Grafika") dan [Pranala](https://id.wikipedia.org/wiki/Pranala "Pranala").
+
+### Kegunaan lain
+
+- Mengintegrasikan gambar dengan tulisan.
+- Membuat [pranala](https://id.wikipedia.org/wiki/Pranala "Pranala").
+- Mengintegerasikan berkas suara dan rekaman gambar hidup.
+- Membuat form interaktif.
+
+### Menyunting format tulisan
+
+HTML memungkinkan seseorang untuk menyunting tampilan atau format berkas yang akan dikirimkan melalui media daring. Beberapa hal yang dapat dilakukan dalam menentukan format berkas adalah:
+
+- Menampilkan suatu kelompok kata dalam beberapa ukuran yang dapat digunakan untuk judul, heading dan sebagainya.
+- Menampilkan tulisan dalam bentuk cetakan tebal
+- Menampilkan sekelompok kata dalam bentuk miring
+- Menampilkan naskah dalam bentuk huruf yang mirip dengan hasil ketikan mesin ketik
+- Mengubah-ubah ukuran tulisan untuk suatu karakter tertentu.
+
+# Mengenal CSS
+**Cascading Style Sheet** (disingkat **CSS**) adalah bahasa lembar gaya yang digunakan sebagai penentu [presentasi](https://id.wikipedia.org/wiki/Presentasi "Presentasi") dan gaya dokumen yang ditulis dalam [bahasa markup](https://id.wikipedia.org/wiki/Bahasa_markup "Bahasa markup") seperti [HTML](https://id.wikipedia.org/wiki/HTML "HTML") dan [XML](https://id.wikipedia.org/wiki/XML "XML"). CSS termasuk ke dalam teknologi dasar [World Wide Web](https://id.wikipedia.org/wiki/Waring_Wera_Wanua "Waring Wera Wanua"), bersama dengan [HTML](https://id.wikipedia.org/wiki/HTML "HTML") dan [JavaScript](https://id.wikipedia.org/wiki/JavaScript "JavaScript").
+
+Nama _cascading_ berasal dari skema prioritas yang ditetapkan untuk menentukan deklarasi mana yang berlaku jika lebih dari satu deklarasi properti cocok dengan elemen tertentu. Skema prioritas _cascading_ ini dapat diprediksi.
+
+Sama halnya _styles_ dalam [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") pengolahan kata seperti [Microsoft Word](https://id.wikipedia.org/wiki/Microsoft_Word "Microsoft Word") yang dapat mengatur beberapa _style_, misalnya _heading_, _subbab_, _bodytext_, _footer_, _images_, dan _style_ lainnya untuk digunakan secara bersamaan dalam beberapa berkas (_[file](https://id.wikipedia.org/wiki/File "File")_). Pada umumnya CSS digunakan untuk memformat tampilan halaman web yang dibuat dengan [bahasa](https://id.wikipedia.org/wiki/Bahasa "Bahasa") [HTML](https://id.wikipedia.org/wiki/HTML "HTML") dan [XHTML](https://id.wikipedia.org/wiki/XHTML "XHTML").
+
+CSS dapat mengendalikan [ukuran](https://id.wikipedia.org/wiki/Ukuran "Ukuran") [gambar](https://id.wikipedia.org/wiki/Gambar "Gambar"), [warna](https://id.wikipedia.org/wiki/Warna "Warna") bagian tubuh pada teks, warna [tabel](https://id.wikipedia.org/wiki/Tabel "Tabel"), ukuran border, warna border, warna [hyperlink](https://id.wikipedia.org/wiki/Hyperlink "Hyperlink"), warna _[mouse](https://id.wikipedia.org/wiki/Mouse "Mouse") over_, spasi antar paragraf, spasi antar teks, margin kiri, kanan, atas, bawah, dan parameter lainnya. CSS adalah bahasa [style sheet](https://id.wikipedia.org/wiki/Stylesheet "Stylesheet") yang digunakan untuk mengatur tampilan dokumen.
+
+Nama CSS didapat dari fakta bahwa setiap deklarasi _style_ yang berbeda dapat diletakkan secara berurutan, yang kemudian membentuk hubungan ayah-anak (_parent-child_) pada setiap _style_. CSS sendiri merupakan sebuah [teknologi](https://id.wikipedia.org/wiki/Teknologi "Teknologi") [internet](https://id.wikipedia.org/wiki/Internet "Internet") yang direkomendasikan oleh [World Wide Web Consortium](https://id.wikipedia.org/wiki/World_Wide_Web_Consortium "World Wide Web Consortium") atau [W3C](https://id.wikipedia.org/wiki/W3C "W3C") pada [tahun](https://id.wikipedia.org/wiki/Tahun "Tahun") [1996](https://id.wikipedia.org/wiki/1996 "1996"). Setelah CSS distandarisasikan, [Internet Explorer](https://id.wikipedia.org/wiki/Internet_Explorer "Internet Explorer") dan [Netscape](https://id.wikipedia.org/wiki/Netscape_Navigator "Netscape Navigator") melepas [browser](https://id.wikipedia.org/wiki/Browser "Browser") terbaru mereka yang telah sesuai atau paling tidak hampir mendekati dengan standar CSS.
+
+Untuk saat ini terdapat tiga versi CSS, yaitu [CSS1](https://id.wikipedia.org/wiki/CSS_1 "CSS 1"), [CSS2](https://id.wikipedia.org/w/index.php?title=CSS_2&action=edit&redlink=1 "CSS 2 (halaman belum tersedia)"), dan [CSS3](https://id.wikipedia.org/wiki/CSS_3 "CSS 3"). CSS1 dikembangkan berpusat pada pemformatan dokumen HTML, CSS2 dikembangkan untuk memenuhi kebutuhan terhadap format dokumen agar bisa ditampilkan di printer, sedangkan CSS3 adalah versi terbaru dari CSS yang mampu melakukan banyak hal dalam desain website. CSS3 mendukung penentuan posisi konten, downloadable, huruf font, tampilan pada tabel /table layout dan media tipe untuk printer. Kehadiran versi CSS yang ketiga diharapkan lebih baik dari versi pertama dan kedua.
+
+[CSS3](https://id.wikipedia.org/wiki/CSS_3 "CSS 3") juga dapat melakukan animasi pada halaman website, di antaranya animasi warna hingga animasi 3D. Dengan CSS3 desainer lebih dimudahkan dalam hal kompatibilitas websitenya pada smartphone dengan dukungan fitur baru yakni media query. Selain itu, banyak fitur baru pada CSS3 seperti: multiple background, border-radius, drop-shadow, border-image, CSS Math, dan CSS Object Model.
+
+# Pemrograman Web dan Javascript
+Pemrograman web adalah ==proses menulis, menguji, dan memelihara kode yang membangun suatu aplikasi web==. Ini melibatkan penggunaan bahasa pemrograman untuk mengembangkan logika dan fungsi di balik fitur interaktif pada sebuah situs web. Pengembangan web juga mencakup berbagai aspek seperti rekayasa, desain antarmuka pengguna, dan pengujian.
+
+**JavaScript** ([/ˈdʒɑːvəˌskrɪpt/](https://id.wikipedia.org/wiki/Bantuan:IPA_untuk_bahasa_Inggris "Bantuan:IPA untuk bahasa Inggris")) (disingkat **JS**) adalah suatu [bahasa](https://id.wikipedia.org/wiki/Bahasa "Bahasa") pemrograman [tingkat tinggi](https://id.wikipedia.org/wiki/Bahasa_pemrograman_tingkat_tinggi "Bahasa pemrograman tingkat tinggi") dan [dinamis](https://id.wikipedia.org/wiki/Bahasa_pemrograman_dinamis "Bahasa pemrograman dinamis"). JavaScript populer di [internet](https://id.wikipedia.org/wiki/Internet "Internet") dan dapat bekerja di sebagian besar [penjelajah web](https://id.wikipedia.org/wiki/Penjelajah_web "Penjelajah web") populer seperti [Google Chrome](https://id.wikipedia.org/wiki/Google_Chrome "Google Chrome"), [Internet Explorer](https://id.wikipedia.org/wiki/Internet_Explorer "Internet Explorer") (IE), [Mozilla Firefox](https://id.wikipedia.org/wiki/Mozilla_Firefox "Mozilla Firefox"), [Netscape](https://id.wikipedia.org/wiki/Netscape_Navigator "Netscape Navigator") dan [Opera](https://id.wikipedia.org/wiki/Opera_\(peramban_web\) "Opera (peramban web)"). [Kode](https://id.wikipedia.org/wiki/Kode "Kode") JavaScript juga dapat disisipkan dalam [halaman](https://id.wikipedia.org/wiki/Halaman "Halaman") [web](https://id.wikipedia.org/wiki/Web "Web") menggunakan [tag](https://id.wikipedia.org/wiki/Tag "Tag") _script_. JavaScript merupakan salah satu teknologi inti [World Wide Web](https://id.wikipedia.org/wiki/World_Wide_Web "World Wide Web") selain [HTML](https://id.wikipedia.org/wiki/HTML "HTML") dan [CSS](https://id.wikipedia.org/wiki/Cascading_Style_Sheets "Cascading Style Sheets"). JavaScript membantu membuat halaman web interaktif dan merupakan bagian aplikasi web yang esensial.
+
+Awalnya hanya diimplementasi sebagai _client-side_ dalam penjelajah web, kini _engine_ JavaScript disisipkan ke dalam perangkat lunak lain seperti dalam _server-side_ dalam [server web](https://id.wikipedia.org/wiki/Server_web "Server web") dan basis data, dalam program non web seperti perangkat lunak [pengolah kata](https://id.wikipedia.org/wiki/Pengolah_kata "Pengolah kata") dan pembaca [PDF](https://id.wikipedia.org/wiki/Portable_Document_Format "Portable Document Format"), dan sebagai _runtime environment_ yang memungkinkan penggunaan JavaScript untuk membuat aplikasi desktop maupun mobile. JavaScript adalah [merek dagang](https://id.wikipedia.org/wiki/Merek_dagang "Merek dagang") yang dikeluarkan dari [Oracle Corporation](https://id.wikipedia.org/wiki/Oracle_Corporation "Oracle Corporation") di [Amerika Serikat](https://id.wikipedia.org/wiki/Amerika_Serikat "Amerika Serikat").
+
+JavaScript pertama kali dikembangkan oleh [Brendan Eich](https://id.wikipedia.org/wiki/Brendan_Eich "Brendan Eich") dari Netscape di bawah nama _Mocha_, yang nantinya namanya diganti menjadi _LiveScript_, dan akhirnya menjadi _JavaScript_.
+
+_Navigator_ sebelumnya telah mendukung Java untuk lebih bisa dimanfaatkan para [pemrogram](https://id.wikipedia.org/wiki/Pemrogram "Pemrogram") yang non-Java. Maka dikembangkanlah [bahasa pemrograman](https://id.wikipedia.org/wiki/Bahasa_pemrograman "Bahasa pemrograman") bernama _LiveScript_ untuk mengakomodasi hal tersebut. Bahasa pemrograman inilah yang akhirnya berkembang dan diberi nama JavaScript, walaupun tidak ada hubungan bahasa antara Java dengan JavaScript.
+
+JavaScript bisa digunakan untuk banyak tujuan, misalnya untuk membuat efek _rollover_ baik di gambar maupun teks, dan yang penting juga adalah untuk membuat [AJAX](https://id.wikipedia.org/wiki/AJAX "AJAX"). JavaScript adalah bahasa yang digunakan untuk AJAX.
+
+### Pembuatan oleh Netscape
+
+[[sunting](https://id.wikipedia.org/w/index.php?title=JavaScript&veaction=edit&section=2 "Sunting bagian: Pembuatan oleh Netscape") | [sunting sumber](https://id.wikipedia.org/w/index.php?title=JavaScript&action=edit&section=2 "Sunting kode sumber bagian: Pembuatan oleh Netscape")]
+
+[Browser web](https://id.wikipedia.org/wiki/Penjelajah_web "Penjelajah web") pertama dengan [antarmuka pengguna grafis](https://id.wikipedia.org/wiki/Antarmuka_pengguna_grafis "Antarmuka pengguna grafis"), [Mosaic](https://id.wikipedia.org/w/index.php?title=Mosaik_\(peramban_web\)&action=edit&redlink=1 "Mosaik (peramban web) (halaman belum tersedia)"), dirilis pada tahun 1993. Dapat diakses oleh orang-orang non-teknis, ini memainkan peran penting dalam pertumbuhan pesat [World Wide Web yang](https://id.wikipedia.org/wiki/Waring_Wera_Wanua "Waring Wera Wanua") baru lahir. Pengembang utama Mosaic kemudian mendirikan [perusahaan Netscape](https://id.wikipedia.org/wiki/Netscape "Netscape"), yang merilis browser yang lebih halus, [Netscape Navigator](https://id.wikipedia.org/wiki/Netscape_Navigator "Netscape Navigator"), pada tahun 1994. Ini dengan cepat menjadi yang paling banyak digunakan.
+
+Selama tahun-tahun awal Internet, halaman web hanya bisa statis, tanpa perilaku dinamis setelah dimuat ke browser. Karena ada permintaan untuk bahasa scripting di komunitas pengembangan web yang sedang berkembang, Netscape memutuskan untuk memasukkannya ke Navigator pada tahun 1995. Untuk melakukan ini, mereka bekerja dengan Sun Microsystems untuk mengintegrasikan bahasa pemrograman Java, serta merekrut Brendan Eich untuk menanamkan bahasa Skema.
+
+Manajemen Netscape dengan cepat memutuskan bahwa solusi terbaik adalah bagi Eich untuk membuat bahasa baru dengan sintaks yang lebih mirip Java daripada Skema atau [bahasa skrip](https://id.wikipedia.org/wiki/Bahasa_skrip "Bahasa skrip") lain yang ada. Meskipun bahasa baru dan [implementasi penerjemahnya](https://id.wikipedia.org/wiki/Penerjemah_\(komputasi\) "Penerjemah (komputasi)") disebut LiveScript ketika pertama kali dikirimkan sebagai bagian dari Navigator [beta](https://id.wikipedia.org/wiki/Daur_hidup_rilis_perangkat_lunak "Daur hidup rilis perangkat lunak") pada bulan September 1995, nama tersebut diubah menjadi JavaScript untuk rilis resmi pada bulan Desember.
+
+Nama JavaScript telah menyebabkan beberapa kebingungan karena menyiratkan bahwa itu terkait langsung dengan Java. Karena ledakan dot-com baru saja dimulai dan Java adalah bahasa baru terpanas saat ini, Eich melihat moniker JavaScript sebagai taktik pemasaran oleh Netscape.
+
+### Pengadopsian oleh Microsoft
+
+[[sunting](https://id.wikipedia.org/w/index.php?title=JavaScript&veaction=edit&section=3 "Sunting bagian: Pengadopsian oleh Microsoft") | [sunting sumber](https://id.wikipedia.org/w/index.php?title=JavaScript&action=edit&section=3 "Sunting kode sumber bagian: Pengadopsian oleh Microsoft")]
+
+[Microsoft](https://id.wikipedia.org/wiki/Microsoft "Microsoft") memulai debut dengan [Internet Explorer](https://id.wikipedia.org/wiki/Internet_Explorer "Internet Explorer") ditahun 1995, sebagai pengarah [perang browser](https://id.wikipedia.org/wiki/Perang_peramban_web "Perang peramban web") dengan Netscape. Di bagian depan JavaScript, Microsoft [merekayasa balik](https://id.wikipedia.org/wiki/Rekayasa_balik "Rekayasa balik") [penerjemah](https://id.wikipedia.org/wiki/Penerjemah_\(komputasi\) "Penerjemah (komputasi)") Navigator untuk membuatnya sendiri, yang disebut [JScript](https://id.wikipedia.org/wiki/JScript "JScript").
+
+JScript pertama kali diluncurkan pada tahun 1996, bersamaan dukungan awal untuk [CSS](https://id.wikipedia.org/wiki/Cascading_Style_Sheets "Cascading Style Sheets") dan ekstensi ke [HTML](https://id.wikipedia.org/wiki/HTML "HTML") . Masing-masing implementasi ini sangat berbeda dari rekan-rekan mereka di Navigator. Karena perbedaan ini, sulit bagi perancang web untuk membuat situs mereka tampil efektif di kedua browser, oleh karena itu logo "terbaik dilihat di Netscape" dan "terbaik dilihat di Internet Explorer" banyak digunakan selama beberapa tahun.
+
+# Mengenal Cloud Storage
+**Penyimpanan awan** atau **penyimpanan gemawan** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _cloud storage_) adalah model [penyimpanan data komputer](https://id.wikipedia.org/wiki/Penyimpanan_data_komputer "Penyimpanan data komputer") di mana data digital disimpan dalam kumpulan yang logis. Penyimpanan fisik mencakup banyak [server](https://id.wikipedia.org/wiki/Server "Server") (terkadang di beberapa lokasi), dan lingkungan fisik biasanya dimiliki dan dikelola oleh [perusahaan hosting](https://id.wikipedia.org/wiki/Layanan_hos_web "Layanan hos web"). Penyedia penyimpanan awan bertanggung jawab untuk menjaga agar data tersedia dan dapat diakses, dan lingkungan fisik terlindungi dan berjalan. Orang dan organisasi membeli atau menyewa kapasitas penyimpanan dari penyedia untuk menyimpan data pengguna, organisasi, atau aplikasi.
+
+Layanan penyimpanan awan dapat diakses melalui layanan [komputasi awan](https://id.wikipedia.org/wiki/Komputasi_awan "Komputasi awan") colocation, [antarmuka pemrograman aplikasi](https://id.wikipedia.org/wiki/Antarmuka_pemrograman_aplikasi "Antarmuka pemrograman aplikasi") (API) layanan [web](https://id.wikipedia.org/wiki/World_Wide_Web "World Wide Web") atau oleh aplikasi yang menggunakan API, seperti penyimpanan desktop awan, gateway penyimpanan awan atau [sistem manajemen konten berbasis Web](https://id.wikipedia.org/wiki/Sistem_manajemen_konten "Sistem manajemen konten").
+
+Penyimpanan awan didasarkan pada infrastruktur yang sangat tervirtualisasi dan seperti [komputasi awan](https://id.wikipedia.org/wiki/Komputasi_awan "Komputasi awan") yang lebih luas dalam hal antarmuka yang dapat diakses, elastisitas dan skalabilitas yang mendekati instan, multi-tenancy, dan sumber daya terukur. Layanan penyimpanan awan dapat digunakan dari layanan di luar lokasi (Amazon S3) atau disebarkan di tempat (ViON Capacity Services).
+
+Penyimpanan awan biasanya mengacu pada layanan penyimpanan objek yang di-host, tetapi istilah ini telah diperluas untuk menyertakan jenis penyimpanan data lain yang sekarang tersedia sebagai layanan, seperti penyimpanan blok.
+
+Layanan penyimpanan objek seperti Amazon S3, Oracle Cloud Storage, dan [Microsoft Azure](https://id.wikipedia.org/wiki/Microsoft_Azure "Microsoft Azure") Storage, perangkat lunak penyimpanan objek seperti Openstack Swift, sistem penyimpanan objek seperti EMC Atmos, EMC ECS dan Hitachi Content Platform, dan proyek penelitian penyimpanan terdistribusi seperti OceanStore dan VISION Cloud semua contoh penyimpanan yang dapat dihosting dan disebarkan dengan karakteristik penyimpanan cloud.
+
+Penyimpanan awan adalah:
+
+- Terbuat dari banyak sumber daya terdistribusi, tetapi masih berfungsi sebagai salah satu, baik dalam federasi atau arsitektur cloud penyimpanan kooperatif
+- Sangat toleran terhadap kesalahan melalui redundansi dan distribusi data
+- Sangat tahan lama melalui pembuatan salinan berversi
+- Biasanya akhirnya konsisten dengan data replika
+# Cloud Computing
+**Komputasi awan** atau **komputasi gemawan** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _cloud computing_) adalah gabungan pemanfaatan [teknologi](https://id.wikipedia.org/wiki/Teknologi "Teknologi") [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") ('[komputasi](https://id.wikipedia.org/wiki/Komputasi "Komputasi")') dan pengembangan berbasis [Internet](https://id.wikipedia.org/wiki/Internet "Internet") ('awan'). _Awan (cloud)_ adalah metafora dari [internet](https://id.wikipedia.org/wiki/Internet "Internet"), sebagaimana awan yang sering digambarkan di diagram [jaringan komputer](https://id.wikipedia.org/wiki/Jaringan_komputer "Jaringan komputer"). Sebagaimana awan dalam diagram [jaringan komputer](https://id.wikipedia.org/wiki/Jaringan_komputer "Jaringan komputer") tersebut, _awan (cloud)_ dalam _Cloud Computing_ juga merupakan [abstraksi](https://id.wikipedia.org/wiki/Abstraksi_\(ilmu_komputer\) "Abstraksi (ilmu komputer)") dari [infrastruktur](https://id.wikipedia.org/wiki/Infrastruktur "Infrastruktur") kompleks yang disembunyikannya. Ia adalah suatu metoda [komputasi](https://id.wikipedia.org/wiki/Komputasi "Komputasi") di mana kapabilitas terkait [teknologi informasi](https://id.wikipedia.org/wiki/Teknologi_informasi) disajikan sebagai suatu layanan ([_as a service_](https://id.wikipedia.org/w/index.php?title=Everything_as_a_service&action=edit&redlink=1 "Everything as a service (halaman belum tersedia)")), sehingga pengguna dapat mengaksesnya lewat [Internet](https://id.wikipedia.org/wiki/Internet "Internet") ("di dalam awan") tanpa mengetahui apa yang ada didalamnya, ahli dengannya, atau memiliki kendali terhadap infrastruktur teknologi yang membantunya. Menurut sebuah makalah tahun 2008 yang dipublikasi _IEEE Internet Computing_ "_Cloud Computing_ adalah suatu paradigma di mana informasi secara permanen tersimpan di [server](https://id.wikipedia.org/wiki/Peladen "Peladen") [internet](https://id.wikipedia.org/wiki/Internet "Internet") dan tersimpan secara sementara di [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") [pengguna](https://id.wikipedia.org/wiki/Pengguna_aktif "Pengguna aktif") (client) termasuk di dalamnya adalah [desktop](https://id.wikipedia.org/wiki/Komputer_meja "Komputer meja"), [komputer tablet](https://id.wikipedia.org/wiki/Komputer_tablet "Komputer tablet"), [notebook](https://id.wikipedia.org/wiki/Laptop "Laptop"), komputer dinding, [handheld](https://id.wikipedia.org/wiki/Handheld_computer "Handheld computer"), [sensor-sensor](https://id.wikipedia.org/wiki/Sensor "Sensor"), [monitor](https://id.wikipedia.org/wiki/Monitor_komputer "Monitor komputer") dan lain-lain."
+
+Komputasi awan adalah suatu konsep umum yang mencakup [SaaS](https://id.wikipedia.org/wiki/SaaS "SaaS"), [Web 2.0](https://id.wikipedia.org/wiki/Web_2.0 "Web 2.0"), dan tren [teknologi](https://id.wikipedia.org/wiki/Teknologi_informasi "Teknologi informasi") terbaru lain yang dikenal luas, dengan tema umum berupa ketergantungan terhadap [Internet](https://id.wikipedia.org/wiki/Internet "Internet") untuk memberikan kebutuhan [komputasi](https://id.wikipedia.org/wiki/Komputasi "Komputasi") [pengguna](https://id.wikipedia.org/wiki/Pengguna_aktif "Pengguna aktif"). Sebagai contoh, [Google Apps](https://id.wikipedia.org/wiki/Google_Apps "Google Apps") menyediakan [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") bisnis umum secara [daring](https://id.wikipedia.org/wiki/Daring "Daring") yang diakses melalui suatu [penjelajah web](https://id.wikipedia.org/wiki/Penjelajah_web "Penjelajah web") dengan [perangkat lunak](https://id.wikipedia.org/wiki/Perangkat_lunak "Perangkat lunak") dan data yang tersimpan di [server](https://id.wikipedia.org/wiki/Server "Server"). Komputasi awan saat ini merupakan trend [teknologi](https://id.wikipedia.org/wiki/Teknologi_informasi "Teknologi informasi") terbaru, dan contoh bentuk pengembangan dari [teknologi](https://id.wikipedia.org/wiki/Teknologi_informasi "Teknologi informasi") _Cloud Computing_ ini adalah [iCloud](https://id.wikipedia.org/wiki/ICloud "ICloud")
+
+Dari penjelasan tentang _cloud computing_ diatas, ada banyak manfaat yang bisa kita ambil dari _cloud computing_, yaitu:
+
+- [Skalabilitas](https://id.wikipedia.org/wiki/Skalabilitas "Skalabilitas"), yaitu dengan _cloud computing_ kita bisa menambah kapasitas [penyimpanan data](https://id.wikipedia.org/wiki/Penyimpanan_data_komputer "Penyimpanan data komputer") kita tanpa harus membeli peralatan tambahan, misalnya [hardisk](https://id.wikipedia.org/wiki/Hardisk "Hardisk") dll. Kita cukup menambah kapasitas yang disediakan oleh penyedia layanan _cloud computing_.
+- [Aksesibilitas](https://id.wikipedia.org/wiki/Aksesibilitas "Aksesibilitas"), yaitu kita bisa mengakses data kapanpun dan di manapun kita berada, asal kita terkoneksi dengan [internet](https://id.wikipedia.org/wiki/Internet "Internet"), sehingga memudahkan kita mengakses data disaat yang penting.
+- [Keamanan](https://id.wikipedia.org/wiki/Keamanan "Keamanan"), yaitu data kita bisa terjamin keamanan nya oleh penyedia layanan _cloud computing_, sehingga bagi perusahaan yang berbasis [IT](https://id.wikipedia.org/wiki/Teknologi_informasi "Teknologi informasi"), data bisa disimpan secara aman di penyedia _cloud computing_. Itu juga mengurangi biaya yang diperlukan untuk mengamankan data perusahaan.
+- [Kreasi](https://id.wikipedia.org/w/index.php?title=Kreasi&action=edit&redlink=1 "Kreasi (halaman belum tersedia)"), yaitu para user bisa melakukan/mengembangkan kreasi atau project mereka tanpa harus mengirimkan project mereka secara langsung ke perusahaan, tapi [user](https://id.wikipedia.org/wiki/Pengguna_aktif "Pengguna aktif") bisa mengirimkan nya lewat penyedia [layanan](https://id.wikipedia.org/wiki/Layanan_elektronik "Layanan elektronik") _cloud computing_.
+- [Kecemasan](https://id.wikipedia.org/wiki/Kecemasan "Kecemasan"), ketika terjadi bencana alam data milik kita tersimpan aman di _cloud_ meskipun [hardisk](https://id.wikipedia.org/wiki/Cakram_keras "Cakram keras") atau [gadget](https://id.wikipedia.org/wiki/Gadget "Gadget") kita rusak
+
+### Infrastructure as a Service (IaaS)
+
+[[sunting](https://id.wikipedia.org/w/index.php?title=Komputasi_awan&veaction=edit&section=9 "Sunting bagian: Infrastructure as a Service (IaaS)") | [sunting sumber](https://id.wikipedia.org/w/index.php?title=Komputasi_awan&action=edit&section=9 "Sunting kode sumber bagian: Infrastructure as a Service (IaaS)")]
+
+_Infrastructure as a Service_ adalah [layanan](https://id.wikipedia.org/wiki/Layanan_elektronik "Layanan elektronik") komputasi awan yang menyediakan infrastruktur IT berupa [CPU](https://id.wikipedia.org/wiki/Cpu "Cpu"), [RAM](https://id.wikipedia.org/wiki/RAM "RAM"), _storage_, [bandwith](https://id.wikipedia.org/wiki/Bandwith "Bandwith") dan konfigurasi lain. Semua komponen tersebut digunakan untuk membangun komputer virtual. Komputer virtual dapat diinstal [sistem operasi](https://id.wikipedia.org/wiki/Sistem_operasi "Sistem operasi") dan [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") sesuai kebutuhan. Keuntungan layanan _IaaS_ ini adalah tidak perlu membeli [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") fisik sehingga lebih menghemat biaya. Konfigurasi komputer virtual juga bisa diubah sesuai kebutuhan. Misalkan saat _storage_ hampir penuh, _storage_ bisa ditambah dengan segera. Perusahaan yang menyediakan _IaaS_ adalah [Amazon](https://id.wikipedia.org/wiki/Amazon_\(perusahaan\) "Amazon (perusahaan)") EC2, [Telkom](https://id.wikipedia.org/wiki/Telkom_Indonesia "Telkom Indonesia") Cloud dan [BizNet](https://id.wikipedia.org/wiki/Biznet_Home "Biznet Home")Cloud.
+
+### Platform as a Service (PaaS)
+
+[[sunting](https://id.wikipedia.org/w/index.php?title=Komputasi_awan&veaction=edit&section=10 "Sunting bagian: Platform as a Service (PaaS)") | [sunting sumber](https://id.wikipedia.org/w/index.php?title=Komputasi_awan&action=edit&section=10 "Sunting kode sumber bagian: Platform as a Service (PaaS)")]
+
+_Platform as a Service_ adalah layanan yang menyediakan _computing platform_. Biasanya sudah terdapat [sistem operasi](https://id.wikipedia.org/wiki/Sistem_operasi "Sistem operasi"), [database](https://id.wikipedia.org/wiki/Database "Database"), [web server](https://id.wikipedia.org/wiki/Web_server "Web server") dan _framework aplikasi_ agar dapat menjalankan [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") yang telah dibuat. Perusahaan yang menyediakan [layanan](https://id.wikipedia.org/wiki/Layanan_web "Layanan web") tersebutlah yang bertanggung jawab dalam pemeliharaan _computing platform_ ini. Keuntungan layanan _PaaS_ ini bagi pengembang adalah mereka bisa fokus pada [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") yang mereka buat tanpa memikirkan tentang pemeliharaan dari _computing platform_. Contoh penyedia [layanan](https://id.wikipedia.org/wiki/Layanan_web "Layanan web") _PaaS_ adalah [Amazon Web Service](https://id.wikipedia.org/wiki/Amazon_Web_Services "Amazon Web Services") dan [Windows Azure.](https://id.wikipedia.org/wiki/Microsoft_Azure "Microsoft Azure")
+
+### Software as a Service (SaaS)
+
+[[sunting](https://id.wikipedia.org/w/index.php?title=Komputasi_awan&veaction=edit&section=11 "Sunting bagian: Software as a Service (SaaS)") | [sunting sumber](https://id.wikipedia.org/w/index.php?title=Komputasi_awan&action=edit&section=11 "Sunting kode sumber bagian: Software as a Service (SaaS)")]
+
+_Software as a Service_ adalah layanan komputasi awan di mana kita bisa langsung menggunakan [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") yang telah disediakan. [Penyedia layanan](https://id.wikipedia.org/wiki/Penyedia_layanan_aplikasi "Penyedia layanan aplikasi") mengelola infrastruktur dan platform yang menjalankan [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") tersebut. Contoh layanan aplikasi [E-mail](https://id.wikipedia.org/wiki/EMAIL "EMAIL") yaitu [Gmail](https://id.wikipedia.org/wiki/Gmail "Gmail"), [Yahoo Mail](https://id.wikipedia.org/wiki/Yahoo!_Mail "Yahoo! Mail") dan [Microsoft Outlook](https://id.wikipedia.org/wiki/Microsoft_Outlook "Microsoft Outlook") sedangkan contoh [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") [media sosial](https://id.wikipedia.org/wiki/Media_sosial "Media sosial") adalah [Twitter](https://id.wikipedia.org/wiki/Twitter "Twitter"), [Facebook](https://id.wikipedia.org/wiki/Facebook "Facebook") dan [Google+](https://id.wikipedia.org/wiki/Google%2B "Google+"). Keuntungan dari [layanan](https://id.wikipedia.org/wiki/Layanan_web "Layanan web") ini adalah pengguna tidak perlu membeli [lisensi](https://id.wikipedia.org/wiki/Lisensi_perangkat_lunak "Lisensi perangkat lunak") untuk mengakses [aplikasi](https://id.wikipedia.org/wiki/Aplikasi_web "Aplikasi web") tersebut. Pengguna hanya membutuhkan perangkat klien komputasi awan yang terhubung ke [internet](https://id.wikipedia.org/wiki/Internet "Internet"). Ada juga [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") yang mengharuskan pengguna untuk [berlangganan](https://id.wikipedia.org/w/index.php?title=Berlangganan&action=edit&redlink=1 "Berlangganan (halaman belum tersedia)") agar bisa mengakses [aplikasi](https://id.wikipedia.org/wiki/Aplikasi "Aplikasi") yaitu [Office 365](https://id.wikipedia.org/wiki/Microsoft_Office_365 "Microsoft Office 365") dan [Adobe Creative Cloud.](https://id.wikipedia.org/w/index.php?title=Adobe_Creative_Cloud.&action=edit&redlink=1 "Adobe Creative Cloud. (halaman belum tersedia)")
+
+### Implementasi komputasi awan
+
+Ada tiga poin utama yang diperlukan dalam implementasi _cloud computing,_ yaitu:
+
+- **Computer front end**
+
+Biasanya merupakan [Komputer desktop](https://id.wikipedia.org/wiki/Komputer_meja "Komputer meja") biasa.
+
+- **Computer back end**
+
+_Computer back end_ dalam skala besar biasanya berupa server komputer yang dilengkapi dengan [data center](https://id.wikipedia.org/wiki/Pusat_data "Pusat data") dalam rak-rak besar. Pada umumnya _Computer back end_ harus mempunyai kinerja yang tinggi, karena harus melayani mungkin hingga ribuan permintaan data.
+
+- **Penghubung antara keduanya**
+
+Penghubung keduanya bisa berupa jaringan [LAN](https://id.wikipedia.org/wiki/LAN "LAN") atau [internet](https://id.wikipedia.org/wiki/Internet "Internet").
+
+# Kecerdasan Buatan
+**Akal imitasi,** **kecerdasan buatan** atau **kecerdasan artifisial** (disingkat **AI**, [bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _artificial intelligence_) adalah kecerdasan yang ditambahkan kepada suatu sistem yang bisa diatur dalam konteks ilmiah, AI juga didefinisikan sebagai kecerdasan [entitas](https://id.wikipedia.org/wiki/Entitas "Entitas") ilmiah. [Andreas Kaplan](https://id.wikipedia.org/wiki/Andreas_Kaplan "Andreas Kaplan") dan [Michael Haenlein](https://id.wikipedia.org/w/index.php?title=Michael_Haenlein&action=edit&redlink=1 "Michael Haenlein (halaman belum tersedia)") mendefinisikan kecerdasan buatan sebagai “kemampuan [sistem](https://id.wikipedia.org/wiki/Sistem "Sistem") untuk menafsirkan [data](https://id.wikipedia.org/wiki/Data "Data") eksternal dengan benar, untuk belajar dari data tersebut, dan menggunakan pembelajaran tersebut guna mencapai tujuan dan tugas tertentu melalui [adaptasi](https://id.wikipedia.org/wiki/Adaptasi "Adaptasi") yang fleksibel”. Sistem seperti ini umumnya dianggap komputer. Kecerdasan diciptakan dan dimasukkan ke dalam [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") agar dapat melakukan pekerjaan seperti yang dapat dilakukan [manusia](https://id.wikipedia.org/wiki/Manusia "Manusia"). Beberapa macam bidang yang menggunakan kecerdasan buatan antara lain [sistem pakar](https://id.wikipedia.org/wiki/Sistem_pakar "Sistem pakar"), [permainan komputer](https://id.wikipedia.org/wiki/Permainan_komputer "Permainan komputer"), [logika kabur](https://id.wikipedia.org/wiki/Logika_kabur "Logika kabur"), [jaringan saraf tiruan](https://id.wikipedia.org/wiki/Jaringan_saraf_tiruan "Jaringan saraf tiruan") dan [robotika](https://id.wikipedia.org/wiki/Robot "Robot"). Secara teknis, kecerdasan buatan adalah model statistik yang digunakan untuk mengambil keputusan dengan menggeneralisir karakteristik dari suatu objek berbasis data yang kemudian dipasang di berbagai perangkat elektronik.
+
+Banyak hal yang kelihatannya sulit untuk kecerdasan manusia, tetapi untuk [informatika](https://id.wikipedia.org/wiki/Informatika "Informatika") relatif tidak bermasalah. Seperti contoh: mentransformasikan persamaan, menyelesaikan persamaan integral, atau membuat permainan [catur](https://id.wikipedia.org/wiki/Catur "Catur"). Di sisi lain, hal yang bagi manusia kelihatannya menuntut sedikit kecerdasan, sampai sekarang masih sulit untuk direalisasikan dalam [Informatika](https://id.wikipedia.org/wiki/Informatika "Informatika"). Seperti contoh: Pengenalan Objek/Muka, bermain [sepak bola](https://id.wikipedia.org/wiki/Sepak_bola "Sepak bola").
+
+Walaupun AI memiliki konotasi fiksi ilmiah yang kuat, AI membentuk cabang yang sangat penting pada ilmu komputer, berhubungan dengan perilaku, pembelajaran dan adaptasi yang cerdas dalam sebuah mesin. Penelitian dalam AI menyangkut pembuatan mesin dan program komputer untuk mengotomatisasikan tugas-tugas yang membutuhkan perilaku cerdas. Termasuk contohnya adalah pengendalian, perencanaan dan penjadwalan, kemampuan untuk menjawab diagnosa dan pertanyaan pelanggan, serta pengenalan tulisan tangan, suara dan wajah. Hal-hal seperti itu telah menjadi disiplin ilmu tersendiri, yang memusatkan perhatian pada penyediaan solusi masalah kehidupan yang nyata. Sistem AI sekarang ini sering digunakan dalam bidang ekonomi, sains, obat-obatan, teknik dan militer, seperti yang telah dibangun dalam beberapa aplikasi perangkat lunak komputer rumah dan video gim.
+
+Kecerdasan buatan ini bukan hanya ingin mengerti apa itu sistem kecerdasan, tetapi juga mengkonstruksinya.
+
+Tidak ada definisi yang memuaskan untuk 'kecerdasan':
+
+1. kecerdasan: kemampuan untuk memperoleh pengetahuan dan menggunakannya
+2. atau kecerdasan yaitu apa yang diukur oleh sebuah 'Test Kecerdasan'
+
+Secara garis besar, AI terbagi ke dalam dua paham pemikiran yaitu AI Konvensional dan [Kecerdasan Komputasional](https://id.wikipedia.org/w/index.php?title=Kecerdasan_Komputasional&action=edit&redlink=1 "Kecerdasan Komputasional (halaman belum tersedia)") (CI, Computational Intelligence). AI konvensional kebanyakan melibatkan metode-metode yang sekarang diklasifiksikan sebagai [pembelajaran mesin](https://id.wikipedia.org/wiki/Pembelajaran_mesin "Pembelajaran mesin"), yang ditandai dengan formalisme dan [analisis statistik](https://id.wikipedia.org/wiki/Analisis_statistik "Analisis statistik"). Dikenal juga sebagai AI [simbolis](https://id.wikipedia.org/w/index.php?title=Simbolis&action=edit&redlink=1 "Simbolis (halaman belum tersedia)"), AI [logis](https://id.wikipedia.org/wiki/Logis "Logis"), AI murni dan AI cara lama (GOFAI, Good Old Fashioned Artificial Intelligence). Metode-metodenya meliputi:
+
+1. [Sistem pakar](https://id.wikipedia.org/wiki/Sistem_pakar "Sistem pakar"): menerapkan kapabilitas pertimbangan untuk mencapai kesimpulan. Sebuah sistem pakar dapat memproses sejumlah besar informasi yang diketahui dan menyediakan kesimpulan-kesimpulan berdasarkan pada informasi-informasi tersebut.
+2. [Petimbangan berdasar kasus](https://id.wikipedia.org/w/index.php?title=Petimbangan_berdasar_kasus&action=edit&redlink=1 "Petimbangan berdasar kasus (halaman belum tersedia)")
+3. [Jaringan Bayesian](https://id.wikipedia.org/w/index.php?title=Jaringan_Bayesian&action=edit&redlink=1 "Jaringan Bayesian (halaman belum tersedia)")
+4. [AI berdasar tingkah laku](https://id.wikipedia.org/w/index.php?title=AI_berdasar_tingkah_laku&action=edit&redlink=1 "AI berdasar tingkah laku (halaman belum tersedia)"): metode modular pada pembentukan sistem AI secara manual
+
+Kecerdasan komputasional melibatkan pengembangan atau pembelajaran iteratif (misalnya penalaan parameter seperti dalam sistem koneksionis. Pembelajaran ini berdasarkan pada data empiris dan diasosiasikan dengan AI non-simbolis, AI yang tak teratur dan perhitungan lunak. Metode-metode pokoknya meliputi:
+
+1. [Jaringan Saraf](https://id.wikipedia.org/w/index.php?title=Jaringan_Saraf_Tiruan_\(Artificial_Neural_Networks\)&action=edit&redlink=1 "Jaringan Saraf Tiruan (Artificial Neural Networks) (halaman belum tersedia)"): sistem dengan kemampuan pengenalan pola yang sangat kuat
+2. [Logika kabur](https://id.wikipedia.org/wiki/Logika_kabur "Logika kabur"): teknik-teknik untuk pertimbangan di bawah ketidakpastian, telah digunakan secara meluas dalam industri modern dan sistem kendali produk konsumen.
+3. [Komputasi Evolusioner](https://id.wikipedia.org/w/index.php?title=Komputasi_Evolusioner&action=edit&redlink=1 "Komputasi Evolusioner (halaman belum tersedia)"): menerapkan konsep-konsep yang terinspirasi secara biologis seperti populasi, mutasi dan _[Sintasan yang paling layak](https://id.wikipedia.org/wiki/Sintasan_yang_paling_layak "Sintasan yang paling layak")_ untuk menghasilkan pemecahan masalah yang lebih baik.
+
+Metode-metode ini terutama dibagi menjadi algoritme evolusioner (misalnya [algoritme genetik](https://id.wikipedia.org/w/index.php?title=Algoritme_Genetik&action=edit&redlink=1 "Algoritme Genetik (halaman belum tersedia)")) dan kecerdasan berkelompok (misalnya [algoritme semut](https://id.wikipedia.org/w/index.php?title=Algoritme_Semut_\(Ant_Algorithm\)&action=edit&redlink=1 "Algoritme Semut (Ant Algorithm) (halaman belum tersedia)"))
+
+Dengan sistem cerdas hibrid, percobaan-percobaan dibuat untuk menggabungkan kedua kelompok ini. Aturan inferensi pakar dapat dibangkitkan melalui jaringan saraf atau aturan produksi dari pembelajaran statistik seperti dalam [ACT-R](https://id.wikipedia.org/w/index.php?title=ACT-R&action=edit&redlink=1 "ACT-R (halaman belum tersedia)"). Sebuah pendekatan baru yang menjanjikan disebutkan bahwa penguatan kecerdasan mencoba untuk mencapai kecerdasan buatan dalam proses pengembangan evolusioner sebagai efek samping dari penguatan kecerdasan manusia melalui teknologi.
+
+# Perangkat Input, Process, Output dan Storage
+Pada sebuah komputer terdapat beberapa komponen yang bekerja dan saling mendukung, salah satunya hardware. 
+
+Komponen komputer hardware (perangkat keras) adalah perangkat komputer dengan wujud fisik, sehingga bisa disentuh. Seperti motherboard, prosesor, memoy, dan masih banyak lainnya. 
+
+Hardware umumnya terbagi menjadi empat bagian, yaitu input device (perangkat masukan), output device (perangkat keluaran), proccesing device (perangkat pemrosesan), dan storage device (perangkat penyimpanan). 
+## Input device
+
+Menurut Shelly Cashman Vermaat dalam buku _Discovering Computers: Menjelajah Dunia Komputer (Edisi 3)_ (2007), _input_ adalah perangkat keras yang digunakan untuk memasukkan data serta perintah ke dalam komputer.
+
+Raya Fahreza dalam buku _Belajar Mudah Merakit Komputer untuk Pemula (2008)_ menjelaskan jika keyboard merupakan papan berisikan tombol huruf dan angka. Keyboard sering digunakan untuk memberi perintah kepada komputer, mengetik dokumen, atau menjalankan proses input lainnya.
+
+Adalah alat yang bisa digunakan untuk mengendalikan pergerakan kursor yang ada di layar. Mouse memiliki dua bagian tombol yang ketika diklik bisa menghasilkan perintah tertentu. Fungsi utama mouse ialah menggerakkan kursor, membuka dan menutup program, dan lain sebagainya.
+
+Alat input ini sering dipakai untuk memasukkan data atau perintah dalam bentuk suara. Mikrofon juga sering digunakan untuk berbicara dengan lawan bicara yang terhubung dengan internet.
+
+Merupakan alat yang sering dimanfaatkan untuk mengubah materi cetak, seperti teks atau gambar, ke bentuk yang bisa dibaca atau dilihat di komputer.
+
+Alat ini sering dipasang di bagian atas komputer atau laptop. Web cam dimanfaatkan untuk mengambil dan gambar atau video dan kemudian dikirim ke orang lain.
+
+Adalah salah satu alat _input_ komputer yang bisa digerakkan ke berbagai arah. Dalam Bahasa Indonesia, joystick sering disebut tuas kontrol. Umumnya joystick dipakai oleh gamers, agar lebih leluasa saat bermain.
+
+## Output device 
+
+Mengutip dari buku _Pengantar Teknologi Informasi (2014)_ karya Edy Irwansyah dan Jurike V. Moniaga, _output_ merupakan perangkat keras yang digunakan untuk menyampaikan informasi kepada satu orang atau lebih.
+
+Contoh output dalam [komponen komputer](https://www.kompas.com/tag/komponen-komputer) adalah:
+
+- Monitor  
+    Monitor adalah bagian unit komputer yang menampilkan visual data, gambar atau program yang sedang dijalankan. Monitor terdiri atas berbagai jenis, ada yang LCD, flat dan lain sebagainya.
+- Speaker  
+    Speaker sering juga disebut pengeras suara. Biasanya speaker dipakai untuk mendengarkan musik, suara ataupun bentuk audio lainnya.
+- Printer  
+    Adalah [alat output komputer](https://www.kompas.com/tag/alat-output-komputer) yang sering dipakai untuk memproduksi data dalam bentuk fisik. Data yang bisa dihasilkan lewat printer diantaranya teks, gambar dan tangkapan layar video.
+- Plotter  
+    Adalah alat output komputer yang dimanfaatkan untuk mencetak hasil desain grafis dalam ukuran besar. Fungsinya hampir sama seperti printer, hanya saja plotter berfokus untuk mencetak hasil grafis dengan ukuran besar.
+- Proyektor  
+    Alat ini sering digunakan untuk menampilkan data ke dalam bentuk tampilan yang lebih besar. Proyektor digunakan dengan cara dihubungkan ke komputer atau laptop, untuk layar proyektornya bisa berupa dinding atau layar putih besar.
+- Headset  
+    Headset adalah peralatan _output_ yang bisa digunakan di laptop, komputer ataupun gadget. Fungsi alat ini adalah untuk mendengarkan suara dan berbicara.
+
+## Processing device
+
+_Processing_ adalah peralatan atau komponen komputer yang digunakan untuk menjalankan aktivitas atau perintah. Keseluruhan komponen processing harus dirakit dengan benar dan tepat.
+
+Contoh processing dalam komponen komputer adalah:
+
+Prosesor dapat juga disebut CPU (Central Processing Unit). Prosesor merupakan komponen elektronik yang digunakan untuk menafsirkan serta menjalankan perintah. Prosesor menjadi bagian terpenting dalam komputer yang menjadi pengontrol aktivitas.
+
+Sering disebut pula mainboard. Motherboard merupakan papan sirkuit yang terdiri atas semua komponen penting dalam komputer, seperti CPU, VGA Port, USB Port dan lain sebagainya.
+
+Adalah perangkat yang digunakan untuk mengisi daya atau tegangan ke dalam komponen komputer. Power supply berfungsi untuk mengubah tegangan AC ke taraf tegangan lainnya.
+
+Merupakan singkatan dari Random Access Memory. RAM merupakan media penyimpanan sementara untuk komputer. RAM hanya bekerja saat komputer dalam kondisi menyala, ketika sudah mati maka penyimpanannya akan kosong kembali.
+
+## Storage device
+
+_Storage device_ adalah peralatan atau komponen komputer yang digunakan untuk penyimpanan, baik data, file ataupun program komputer.
+
+Contoh _storage device_ dalam komponen komputer adalah:
+
+- Floppy disk  
+    Merupakan perangkat penyimpanan yang berbentuk tipis, bundar dan ditutup plastik berbentuk segi empat. Floppy disk bisa menyimpan lebih dari 1,4 juta karakter.
+- USB flash drive  
+    Adalah perangkat penyimpanan yang bentuknya kecil dan tergolong mudah dibawa. Jika dibandingkan dengan floppy disk, USB memiliki ukuran fisik yang lebih kecil, tapi kapasitasnya jauh lebih besar.
+- Hard disk  
+    Hard disk merupakan perangkat penyimpanan yang ukuran dan kapasitasnya jauh lebih besar dibanding floppy disk dan USB. Biasanya hard disk disimpan di dalam kerangka komputer, namun ada pula yang diletakkan di luar atau hard disk eksternal.
+- CD  
+    CD adalah perangkat penyimpanan yang bentuknya pipih dan bundar. CD terbuat dari bahan logam dan dilapisi plastik. Ada banyak jenis CD, contohnya CD-ROM, CD drive dan lainnya.
+# SQL
+**Bahasa Kueri Terstruktur** atau **SQL** ([/ˌɛsˌkjuːˈɛl/](https://id.wikipedia.org/wiki/Bantuan:IPA_untuk_bahasa_Inggris "Bantuan:IPA untuk bahasa Inggris") [simak](https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/En-us-SQL.ogg/En-us-SQL.ogg.mp3 "Putar audio") _S-Q-L_, [/ˈsiːkwəl/](https://id.wikipedia.org/wiki/Bantuan:IPA_untuk_bahasa_Inggris "Bantuan:IPA untuk bahasa Inggris") "sequel"; **Structured Query Language**) adalah sebuah [bahasa](https://id.wikipedia.org/wiki/Bahasa_pemrograman "Bahasa pemrograman") yang digunakan untuk mengakses [data](https://id.wikipedia.org/wiki/Data "Data") dalam [basis data](https://id.wikipedia.org/wiki/Basis_data "Basis data") [relasional](https://id.wikipedia.org/wiki/RDBMS "RDBMS"). Bahasa ini secara _[de facto](https://id.wikipedia.org/wiki/De_facto "De facto")_ merupakan bahasa standar yang digunakan dalam manajemen basis data relasional. Saat ini hampir semua [server basis data](https://id.wikipedia.org/wiki/Server_basis_data "Server basis data") yang ada mendukung bahasa ini untuk melakukan manajemen datanya.
+
+Sejarah SQL dimulai dari artikel seorang peneliti dari [IBM](https://id.wikipedia.org/wiki/IBM "IBM") bernama Jhonny Oracle yang membahas tentang ide pembuatan [basis data](https://id.wikipedia.org/wiki/Basis_data "Basis data") relasional pada bulan [Juni](https://id.wikipedia.org/wiki/Juni "Juni") [1970](https://id.wikipedia.org/wiki/1970 "1970"). Artikel ini juga membahas kemungkinan pembuatan bahasa standar untuk mengakses data dalam basis data tersebut. Bahasa tersebut kemudian diberi nama **SEQUEL** (Structured English Query Language).
+
+Setelah terbitnya artikel tersebut, [IBM](https://id.wikipedia.org/wiki/IBM "IBM") mengadakan proyek pembuatan basis data relasional berbasis bahasa SEQUEL. Akan tetapi, karena permasalahan hukum mengenai penamaan SEQUEL, IBM pun mengubahnya menjadi **SQL**. Implementasi basis data relasional dikenal dengan _System/R_.
+
+Di akhir tahun [1970](https://id.wikipedia.org/wiki/1970 "1970")-an, muncul perusahaan bernama [Oracle](https://id.wikipedia.org/wiki/Oracle "Oracle") yang membuat [server basis data](https://id.wikipedia.org/wiki/Server_basis_data "Server basis data") populer yang bernama sama dengan nama perusahaannya. Dengan naiknya kepopuleran John Oracle, maka SQL juga ikut populer sehingga saat ini menjadi standar [de facto](https://id.wikipedia.org/wiki/De_facto "De facto") bahasa dalam manajemen basis data.
+
+Standardisasi SQL dimulai pada tahun [1986](https://id.wikipedia.org/wiki/1986 "1986"), ditandai dengan dikeluarkannya standar SQL oleh [ANSI](https://id.wikipedia.org/w/index.php?title=ANSI&action=edit&redlink=1 "ANSI (halaman belum tersedia)"). Standar ini sering disebut dengan [SQL86](https://id.wikipedia.org/w/index.php?title=SQL86&action=edit&redlink=1 "SQL86 (halaman belum tersedia)").Standar tersebut kemudian diperbaiki pada tahun [1989](https://id.wikipedia.org/wiki/1989 "1989") kemudian diperbaiki lagi pada tahun [1992](https://id.wikipedia.org/wiki/1992 "1992"). Versi terakhir dikenal dengan [SQL92](https://id.wikipedia.org/w/index.php?title=SQL92&action=edit&redlink=1 "SQL92 (halaman belum tersedia)"). Pada tahun 1999 dikeluarkan standar baru yaitu [SQL99](https://id.wikipedia.org/w/index.php?title=SQL99&action=edit&redlink=1 "SQL99 (halaman belum tersedia)") atau disebut juga SQL99, akan tetapi kebanyakan implementasi mereferensi pada SQL92.
+
+Saat ini sebenarnya tidak ada server basis data yang 100% mendukung SQL92. Hal ini disebabkan masing-masing server memiliki dialek masing-masing.
+
+Bahasa kueri terstruktur (SQL) adalah bahasa kueri populer yang sering digunakan di semua jenis aplikasi. Analis data dan developer mempelajari dan menggunakan SQL karena terintegrasi dengan baik dengan berbagai bahasa pemrograman. Misalnya, mereka dapat menanamkan kueri SQL dengan bahasa pemrograman Java untuk membangun aplikasi pemrosesan data berkinerja tinggi dengan [sistem basis data SQL](https://aws.amazon.com/what-is/sql-database/) utama seperti Oracle atau MS SQL Server. SQL juga cukup mudah dipelajari karena menggunakan kata kunci bahasa Inggris umum dalam pernyataannya
+
+Sistem manajemen basis data relasional menggunakan bahasa kueri terstruktur (SQL) untuk menyimpan dan mengelola data. Sistem ini menyimpan beberapa tabel basis data yang saling berhubungan satu sama lain. MS SQL Server, MySQL, atau MS Access adalah contoh sistem manajemen basis data relasional. Berikut adalah komponen dari sistem tersebut.
+
+Tabel SQL adalah elemen dasar dari basis data relasional. Tabel basis data SQL terdiri dari baris dan kolom. Rekayasawan basis data menciptakan hubungan antara beberapa tabel basis data untuk mengoptimalkan ruang penyimpanan data.
+
+Misalnya, rekayasawan basis data membuat tabel SQL untuk produk di sebuah toko:
+
+| ID Produk | Nama Produk | ID Warna |
+| --------- | ----------- | -------- |
+| 0001      | Kasur       | Warna 1  |
+| 0002      | Bantal      | Warna 2  |
+
+Kemudian, rekayasawan basis data menghubungkan tabel produk ke tabel warna dengan _ID Warna:_
+
+
+| ID Warna | Nama Warna |
+| -------- | ---------- |
+| Warna 1  | Biru       |
+| Warna 2  | Merah      |
+### **Pernyataan SQL**
+
+Pernyataan SQL atau kueri SQL adalah instruksi valid yang dipahami oleh sistem manajemen basis data relasional. Developer perangkat lunak membangun pernyataan SQL dengan menggunakan elemen bahasa SQL yang berbeda. Elemen bahasa SQL adalah komponen, seperti pengidentifikasi, variabel, dan kondisi pencarian yang membentuk pernyataan SQL yang benar.
+
+Misalnya, pernyataan SQL berikut menggunakan perintah INSERT SQL untuk menyimpan _Kasur Merek A,_ dengan harga _499 USD,_ ke dalam tabel bernama _Mattress_table,_ dengan nama kolom _brand_name_ dan _biaya:_
+
+INSERT INTO _Mattress_table (brand_name, biaya)_
+
+VALUES(‘A’,’499’);
+
+### **Prosedur tersimpan**
+
+Prosedur tersimpan adalah kumpulan dari satu atau lebih pernyataan SQL yang disimpan dalam basis data relasional. Developer perangkat lunak menggunakan prosedur tersimpan untuk meningkatkan efisiensi dan performa. Misalnya, mereka dapat membuat prosedur tersimpan untuk memperbarui tabel penjualan alih-alih menulis pernyataan SQL yang sama di aplikasi yang berbeda. 
+
+## Bagaimana cara kerja SQL?
+
+Implementasi bahasa kueri terstruktur (SQL) melibatkan mesin server yang memproses kueri basis data dan mengembalikan hasilnya. Proses SQL melalui beberapa komponen perangkat lunak, termasuk yang berikut ini. 
+
+### **Pengurai**
+
+Pengurai memulai dengan melakukan tokenisasi atau mengganti beberapa kata dalam pernyataan SQL dengan simbol khusus. Kemudian, pengurai memeriksa pernyataan untuk hal-hal berikut:
+
+#### ****_Kebenaran_****
+
+Pengurai memverifikasi bahwa pernyataan SQL sesuai dengan semantik SQL atau aturan yang memastikan kebenaran pernyataan kueri. Misalnya, pengurai memeriksa apakah perintah SQL diakhiri dengan tanda titik koma. Jika tanda titik koma tidak ada, pengurai akan mengembalikan kesalahan.
+
+#### ****_Otorisasi_****
+
+Pengurai juga memvalidasi bahwa pengguna yang menjalankan kueri memiliki otorisasi yang diperlukan untuk memanipulasi data masing-masing. Misalnya, hanya pengguna admin yang mungkin memiliki hak untuk menghapus data. 
+
+### **Mesin relasional**
+
+Mesin relasional atau prosesor kueri membuat rencana untuk mengambil, menulis, atau memperbarui data terkait dengan cara yang paling efektif. Misalnya, memeriksa kueri serupa, menggunakan kembali metode manipulasi data sebelumnya, atau membuat yang baru. Mesin itu menulis rencana dalam representasi tingkat menengah dari pernyataan SQL yang disebut dengan kode bita. Basis data relasional menggunakan kode bita untuk melakukan pencarian dan modifikasi basis data secara efisien. 
+
+### **Mesin penyimpanan**
+
+Mesin penyimpanan atau mesin basis data adalah komponen perangkat lunak yang memproses kode bita dan menjalankan pernyataan SQL yang dimaksud. Mesin itu membaca dan menyimpan data dalam _file_ basis data pada penyimpanan _disk_ fisik. Setelah selesai, mesin penyimpanan mengembalikan hasilnya ke aplikasi yang meminta.
+
+## Apa saja perintah SQL?
+
+Perintah bahasa kueri terstruktur (SQL) adalah kata kunci tertentu atau pernyataan SQL yang digunakan developer untuk memanipulasi data yang disimpan dalam basis data relasional. Anda dapat mengategorikan perintah SQL sebagai berikut.
+
+### **Bahasa definisi data** 
+
+Bahasa definisi data (DDL) mengacu pada perintah SQL yang merancang struktur basis data. Rekayasawan basis data menggunakan DDL untuk membuat dan memodifikasi objek basis data berdasarkan persyaratan bisnis. Misalnya, rekayasawan basis data menggunakan perintah CREATE untuk membuat objek basis data, seperti tabel, tampilan, dan indeks.
+
+### **Bahasa kueri data**
+
+Bahasa kueri data (DQL) terdiri dari instruksi untuk mengambil data yang disimpan dalam basis data relasional. Aplikasi perangkat lunak menggunakan perintah SELECT untuk memfilter dan mengembalikan hasil tertentu dari tabel SQL. 
+
+### **Bahasa manipulasi data**
+
+Pernyataan bahasa manipulasi data (DML) menulis informasi baru atau memodifikasi catatan yang ada dalam basis data relasional. Misalnya, sebuah aplikasi menggunakan perintah INSERT untuk menyimpan catatan baru dalam basis data.
+
+### **Bahasa kontrol data**
+
+Administrator basis data menggunakan bahasa kontrol data (DCL) untuk mengelola atau melakukan otorisasi akses basis data untuk pengguna lain. Misalnya, mereka dapat menggunakan perintah GRANT untuk mengizinkan aplikasi tertentu memanipulasi satu atau lebih tabel. 
+
+### **Bahasa kontrol transaksi**
+
+Mesin relasional menggunakan bahasa kontrol transaksi (TCL) untuk membuat perubahan basis data secara otomatis. Misalnya, basis data menggunakan perintah ROLLBACK untuk membatalkan transaksi yang salah. 
+
+## Apa saja standar SQL?
+
+Standar SQL adalah serangkaian panduan yang ditentukan secara formal dari bahasa kueri terstruktur (SQL). American National Standards Institute (ANSI) dan International Organization for Standardization (ISO) mengadopsi standar SQL pada tahun 1986. Vendor perangkat lunak menggunakan standar SQL ANSI guna membangun perangkat lunak basis data SQL untuk developer.
+
+## Apa itu injeksi SQL?
+
+Injeksi SQL adalah serangan siber yang melibatkan penipuan basis data dengan kueri SQL. Peretas menggunakan injeksi SQL untuk mengambil, memodifikasi, atau merusak data dalam sebuah basis data SQL. Misalnya, mereka mungkin mengisi kueri SQL alih-alih nama seseorang dalam formulir pengiriman untuk melakukan serangan injeksi SQL.
+
+## Apa itu MySQL?
+
+MySQL adalah sistem manajemen basis data relasional sumber terbuka yang ditawarkan oleh Oracle. Developer dapat mengunduh dan menggunakan MySQL tanpa membayar biaya lisensi. Mereka dapat menginstal MySQL pada sistem operasi atau server _cloud_ yang berbeda. MySQL adalah sistem basis data populer untuk aplikasi web. 
+
+### **SQL vs. MySQL**
+
+Bahasa kueri terstruktur (SQL) adalah bahasa standar untuk pembuatan dan manipulasi basis data. MySQL adalah program basis data relasional yang menggunakan kueri SQL. Perintah SQL ditentukan oleh standar internasional, sedangkan perangkat lunak MySQL terus mengalami pemutakhiran dan peningkatan berkelanjutan.
+
+## Apa itu NoSQL?
+
+[NoSQL](https://aws.amazon.com/nosql/) mengacu pada basis data non-relasional yang tidak menggunakan tabel untuk menyimpan data. Developer menyimpan informasi dalam berbagai jenis basis data NoSQL, termasuk grafik, dokumen, dan nilai kunci. Basis data NoSQL populer untuk aplikasi modern karena dapat diskalakan secara horizontal. Penskalaan horizontal berarti meningkatkan daya pemrosesan dengan menambahkan lebih banyak komputer yang menjalankan perangkat lunak NoSQL.
+
+### **SQL vs. NoSQL**
+
+Bahasa kueri terstruktur (SQL) menyediakan bahasa manipulasi data yang seragam, tetapi implementasi NoSQL bergantung pada teknologi yang berbeda. Developer menggunakan SQL untuk aplikasi transaksional dan analitis, sedangkan NoSQL cocok untuk aplikasi penggunaan berat yang responsif. 
+
+## Apa itu SQL server?
+
+SQL Server adalah nama resmi dari sistem manajemen basis data relasional Microsoft yang memanipulasi data dengan SQL. MS SQL Server memiliki beberapa edisi dan masing-masing dirancang untuk beban kerja dan persyaratan tertentu.
+
+# Jaringan Komputer
+## Apa itu jaringan komputer?
+
+Jaringan komputer mengacu pada perangkat komputasi yang saling terhubung serta dapat bertukar data dan berbagi sumber daya satu sama lain. Perangkat jaringan ini menggunakan sistem aturan, yang disebut sebagai protokol komunikasi, untuk mentransmisikan informasi melalui teknologi fisik atau nirkabel.
+
+Mari menjawab beberapa FAQ umum mengenai jaringan komputer.
+
+## Bagaimana cara kerja jaringan komputer?
+
+Simpul dan tautan adalah blok bangunan dasar dalam jaringan komputer. Suatu simpul jaringan dapat berupa peralatan komunikasi data (DCE) seperti modem, hub atau switch, maupun peralatan terminal data (DTE) seperti dua atau beberapa komputer dan printer. Tautan adalah media pengiriman yang menghubungkan dua simpul. Tautan dapat berbentuk fisik, seperti kabel atau fiber optik, atau berupa ruang bebas yang digunakan oleh jaringan nirkabel.  
+  
+Dalam jaringan komputer yang sedang bekerja, simpul akan mengikuti serangkaian aturan atau protokol yang menentukan cara mengirim dan menerima data elektronik melalui tautan tersebut. Arsitektur jaringan komputer menentukan desain dari komponen fisik dan logis ini. Arsitektur jaringan komputer menyediakan spesifikasi untuk komponen fisik jaringan, organisasi fungsional, protokol, dan prosedur.
+
+## Apa kegunaan jaringan komputer?
+
+Jaringan komputer dibuat pertama kali pada akhir tahun 1950-an untuk digunakan di militer dan departemen pertahanan. Pada awalnya, jaringan komputer digunakan untuk mentransmisikan data melalui saluran telepon dan memiliki aplikasi saintifik dan komersial yang terbatas. Dengan kehadiran teknologi internet, jaringan komputer menjadi hal yang sangat dibutuhkan oleh korporasi.
+
+Solusi jaringan modern memberikan lebih dari sekadar konektivitas. Solusi jaringan menjadi sangat penting bagi transformasi digital dan kesuksesan bisnis saat ini. Kemampuan jaringan yang mendasarinya sudah lebih dapat diprogram, terotomatisasi, dan aman.
+
+Jaringan komputer modern mampu:
+
+### Beroperasi secara virtual
+
+Infrastruktur jaringan fisik yang mendasarinya dapat dipartisi secara logis untuk membuat banyak jaringan “_overlay_”. Di dalam sebuah jaringan komputer _overlay_, simpul ditautkan secara virtual, dan data dapat saling ditransmisikan melalui beberapa jalur fisik. Misalnya, banyak jaringan korporasi yang di-_overlay_ di internet.
+
+### Berintegrasi pada skala yang besar
+
+Layanan jaringan modern menghubungkan jaringan komputer yang terdistribusi secara fisik. Layanan ini dapat mengoptimisasi fungsi jaringan melalui otomatisasi dan pemantauan untuk membuat jaringan skala besar dengan performa tinggi. Layanan jaringan dapat diskalakan naik atau turun berdasarkan permintaan.
+
+### Merespons perubahan kondisi secara cepat
+
+Banyak jaringan komputer yang kerjanya ditentukan oleh perangkat lunak. Lalu lintas dapat dirutekan dan dikontrol secara terpusat dengan menggunakan antarmuka digital. Jaringan komputer ini mendukung manajemen lalu lintas virtual.
+
+### Memberikan keamanan data
+
+Semua solusi jaringan hadir dengan fitur keamanan bawaan seperti enkripsi dan kontrol akses. Solusi pihak ketiga seperti perangkat lunak antivirus, _firewall_, dan _antimalware_ dapat diintegrasikan untuk membuat jaringan menjadi lebih aman.
+
+## Apa saja tipe arsitektur jaringan komputer?
+
+Desain jaringan komputer digolongkan berdasarkan dua kategori umum:
+
+### 1. Arsitektur klien-server
+
+Dalam tipe jaringan komputer ini, simpul dapat berupa server atau klien. Simpul server memberikan sumber daya seperti memori, tenaga pemrosesan, atau data ke simpul klien. Simpul server juga dapat mengelola perilaku simpul klien. Klien dapat saling berkomunikasi satu sama lain, tetapi tidak dapat berbagi sumber daya. Misalnya, beberapa perangkat komputer di jaringan korporasi menyimpan data dan pengaturan konfigurasi. Perangkat ini merupakan server dalam jaringan tersebut. Klien dapat mengakses data ini dengan membuat permintaan ke mesin server.
+
+### 2. Arsitektur _peer-to-peer_
+
+Dalam arsitektur _peer-to-peer_ (P2P), komputer yang terhubung memiliki kedudukan dan hak istimewa yang sama. Tidak ada server pusat untuk melakukan koordinasi. Masing-masing perangkat dalam jaringan komputer dapat bertindak baik sebagai klien maupun server. Masing-masing _peer_ dapat berbagi beberapa sumber dayanya, seperti memori dan tenaga pemrosesan (_processing power_), dengan seluruh jaringan komputer. Misalnya, beberapa perusahaan menggunakan arsitektur P2P untuk meng-_host_ aplikasi yang boros memori, seperti _rendering_ grafis 3-D, di beberapa perangkat digital.
+
+## Apa itu topologi jaringan?
+
+Susunan simpul dan tautan disebut sebagai topologi jaringan. Simpul dapat dikonfigurasikan dengan berbagai cara untuk mendapatkan hasil yang berbeda. Beberapa tipe topologi jaringan antara lain:
+
+### Topologi bus
+
+Masing-masing simpul ditautkan hanya ke satu simpul lainnya. Transmisi data dalam koneksi jaringan terjadi secara satu arah.
+
+### Topologi cincin (_ring_)
+
+Masing-masing simpul ditautkan ke dua simpul lainnya, sehingga membentuk cincin. Data dapat mengalir secara dua arah. Namun, satu kegagalan simpul dapat melumpuhkan seluruh jaringan.
+
+### Topologi bintang (_star_)
+
+Simpul server pusat ditautkan ke beberapa perangkat jaringan klien. Topologi ini memiliki performa yang lebih baik karena data tidak mengalir melewati masing-masing simpul. Topologi ini juga lebih reliabel.
+
+### Topologi jala (_mesh_)
+
+Masing-masing simpul terhubung ke banyak simpul lain. Dalam topologi jala penuh, masing-masing simpul terhubung ke semua simpul lainnya di dalam jaringan.
+
+## Apa saja tipe jaringan komputer korporasi?
+
+Berdasarkan pada ukuran dan kebutuhan organisasi, ada tiga tipe umum jaringan privat korporasi:
+
+### Jaringan area lokal (LAN)
+
+LAN merupakan sistem yang saling terhubung, yang terbatas pada ukuran dan geografinya. Pada umumnya, LAN menghubungkan komputer dan perangkat dalam satu kantor atau gedung. Jaringan ini digunakan oleh perusahaan kecil atau jaringan pengujian untuk pembuatan prototipe berskala kecil.
+
+### Jaringan area luas (WAN)
+
+Jaringan korporasi yang mencakup gedung, kota, dan bahkan negara disebut sebagai jaringan area luas (WAN). Jaringan area lokal digunakan untuk mentransmisikan data dengan kecepatan lebih tinggi dalam jarak dekat, sedangkan WAN digunakan untuk komunikasi jarak jauh yang aman dan dapat diandalkan.
+
+SD-WAN atau WAN yang ditentukan oleh perangkat lunak adalah arsitektur WAN yang dikontrol oleh teknologi perangkat lunak. SD-WAN menawarkan layanan konektivitas yang lebih fleksibel dan dapat diandalkan, yang dapat dikontrol pada tingkat aplikasi tanpa menurunkan keamanan dan kualitas layanan.
+
+### Jaringan penyedia layanan
+
+Jaringan penyedia layanan memungkinkan pelanggan untuk menyewakan kapasitas dan fungsionalitas jaringan dari penyedia. Penyedia layanan jaringan dapat terdiri atas perusahaan telekomunikasi, operator data, penyedia komunikasi nirkabel, penyedia layanan internet, dan operator televisi kabel yang menawarkan akses internet berkecepatan tinggi.
+
+### Jaringan _cloud_
+
+Secara konsep, jaringan _cloud_ mirip dengan WAN yang infrastrukturnya disediakan dengan layanan berbasis _cloud_. Beberapa atau semua kemampuan dan sumber daya jaringan organisasi di-_host_ dalam sebuah platform _cloud_ publik atau privat dan disediakan sesuai permintaan. Sumber daya jaringan ini dapat termasuk _router_ virtual, _firewall_, _bandwidth_, dan perangkat lunak manajemen jaringan beserta alat dan fungsi lain yang dibutuhkan.
+
+Saat ini, bisnis menggunakan jaringan _cloud_ untuk mempercepat waktu masuk pasar (TTM), meningkatkan skala, dan mengelola biaya secara efektif. Model jaringan _cloud_ telah menjadi pendekatan standar dalam membangun dan mengirimkan aplikasi bagi korporasi modern.
+
+# Format File Gambar
+Macam-macam gambar dan ekstensi file yang banyak digunakan di antaranya:
+
+- **JPEG** – untuk gambar web, sharing, menyimpan file ke kamera, dan mencetak. Kurang cocok untuk visual yang mengandung teks.
+- **PNG** – bagus untuk gambar web, gambar teks, logo, dan gambar beresolusi tinggi. Kurang tepat untuk pencetakan.
+- **BMP** – didukung oleh semua browser dan image viewer, termasuk versi lama. Sayangnya sudah ketinggalan zaman.
+- **GIF** – cocok untuk animasi sederhana dan menunjukkan arahan. Tidak cocok untuk gambar yang perlu banyak warna.
+- **TIFF/TIF** – format gambar yang sangat cocok untuk printing dan scanning dokumen. Tidak cocok untuk website.
+- **HEIF** – untuk menyimpan gambar berkualitas tinggi di perangkat keluaran baru karena ukuran dan kualitas yang dioptimalkan. Kurang cocok ketika Anda perlu mengakses gambar di berbagai browser dan OS.
+- **RAW** – untuk foto berkualitas tinggi. Tidak cocok untuk penggunaan di website atau berbagi gambar.
+- **PSD** – format Adobe Photoshop untuk proyek desain grafis yang bisa diedit. Tidak cocok untuk penggunaan di website dan gambar siap cetak.
+- **SVG** – cocok untuk gambar web, gambar sederhana, ilustrasi 2D, dan mengimpor gambar 2D ke software 3D modeling. Tidak cocok untuk menampilkan gambar detail dengan color depth tinggi, seperti foto.
+- **EPS** – sesuai untuk pencetakan, ilustrasi, dan karya desain grafis. Tidak cocok untuk foto.
+- **PDF** – bagus untuk printing, laporan visual interaktif, dan infografis. Kurang sesuai kalau Anda perlu mengedit gambar lebih lanjut.
+- **INDD** – format Adobe InDesign untuk menyimpan layout atau desain halaman yang bisa diedit. Kurang cocok untuk penggunaan di website.
+- **AI** – digunakan di Adobe Illustrator untuk menyimpan grafik vektor yang bisa diedit. Tidak cocok untuk penggunaan web.
+# Motherboard, RAM dan CPU
+## Motherboard
+**Papan induk** (juga disebut **mainboard**, **papan sirkuit utama**, **papan sistem**, **baseboard** **papan planar**, **papan logika**, dan **mobo**) adalah [papan sirkuit cetak](https://id.wikipedia.org/wiki/Printed_circuit_board "Printed circuit board") utama (**P**rinted **C**ircuit **B**oard (**PCB**)) di komputer. Komponen ini memungkinkan perangkat-perangkat elektronik penting pada suatu sistem terhubung satu sama lain, misalnya [unit pemrosesan sentral](https://id.wikipedia.org/wiki/Unit_Pemroses_Sentral "Unit Pemroses Sentral") (**C**entral **P**rocessing **U**nit (**CPU**)) dan [memori](https://id.wikipedia.org/wiki/Memori_\(komputer\) "Memori (komputer)"). Selain itu juga menyediakan konektor untuk [perangkat tambahan](https://id.wikipedia.org/wiki/Periferal "Periferal") lain seperti mesin pencetak, pemindai, atau mikrofon. Tidak seperti [backplane](https://id.wikipedia.org/w/index.php?title=Backplane&action=edit&redlink=1 "Backplane (halaman belum tersedia)"), papan induk biasanya berisi sub-sistem penting, seperti prosesor pusat, pengontrol [input/output](https://id.wikipedia.org/wiki/Input/output "Input/output") dan memori chipset, konektor [antarmuka](https://id.wikipedia.org/w/index.php?title=Antarmuka_\(komputasi\)&action=edit&redlink=1 "Antarmuka (komputasi) (halaman belum tersedia)"), dan komponen lain yang terintegrasi untuk penggunaan umum.
+
+_Papan induk_ secara khusus berarti PCB dengan kemampuan yang dapat diperluas. Seperti namanya, papan ini sering disebut sebagai "ibu" dari semua komponen yang menyertainya, yang sering kali mencakup periferal, kartu antarmuka, dan [daughtercards](https://id.wikipedia.org/w/index.php?title=Daughtercards&action=edit&redlink=1 "Daughtercards (halaman belum tersedia)"): [kartu suara](https://id.wikipedia.org/wiki/Kartu_suara "Kartu suara"), [kartu video](https://id.wikipedia.org/wiki/Kartu_video "Kartu video"), [kartu jaringan](https://id.wikipedia.org/wiki/Kartu_jaringan "Kartu jaringan"), [hard drive](https://id.wikipedia.org/wiki/Hard_drive "Hard drive"), dan bentuk lain dari penyimpanan [persisten](https://id.wikipedia.org/w/index.php?title=Persisten_\(ilmu_komputer\)&action=edit&redlink=1 "Persisten (ilmu komputer) (halaman belum tersedia)"); [Kartu TV tuner](https://id.wikipedia.org/w/index.php?title=Kartu_TV_tuner&action=edit&redlink=1 "Kartu TV tuner (halaman belum tersedia)"), kartu yang menyediakan slot [USB](https://id.wikipedia.org/wiki/USB "USB") atau [FireWire](https://id.wikipedia.org/wiki/FireWire "FireWire") ekstra; dan berbagai komponen kustom lainnya.
+
+Demikian pula, istilah _mainboard_ menggambarkan perangkat dengan papan tunggal dan tidak ada perluasan atau kemampuan tambahan, seperti papan pengendali di mesin cetak laser, set televisi, mesin cuci, ponsel, dan [sistem tertanam](https://id.wikipedia.org/wiki/Sistem_tertanam "Sistem tertanam") lainnya dengan kemampuan ekspansi terbatas.
+
+Istilah _papan logika_ mengacu pada merek tertentu, yang diciptakan oleh [Apple](https://id.wikipedia.org/wiki/Apple "Apple") pada awal 1980-an untuk papan induk di komputer [Macintosh](https://id.wikipedia.org/wiki/Macintosh "Macintosh").
+
+Sebelum penemuan [mikroprosesor](https://id.wikipedia.org/wiki/Mikroprosesor "Mikroprosesor"), komputer digital terdiri dari beberapa papan sirkuit cetak dalam kotak kandang kartu dengan komponen yang dihubungkan oleh [bidang belakang](https://id.wikipedia.org/w/index.php?title=Bidang_belakang&action=edit&redlink=1 "Bidang belakang (halaman belum tersedia)"), satu set soket yang saling berhubungan. Dalam desain yang sangat tua, kabel tembaga adalah koneksi terpisah antara pin konektor kartu, tetapi papan sirkuit tercetak segera menjadi praktik standar. [Unit pemrosesan sentral](https://id.wikipedia.org/wiki/Unit_Pemroses_Sentral "Unit Pemroses Sentral") (CPU), memori, dan [periferal](https://id.wikipedia.org/wiki/Periferal "Periferal") ditempatkan pada papan sirkuit tercetak individual, yang dihubungkan ke bidang belakang. [Bus S-100](https://id.wikipedia.org/w/index.php?title=Bus_S-100&action=edit&redlink=1 "Bus S-100 (halaman belum tersedia)") yang ada di mana-mana pada tahun 1970-an adalah contoh dari jenis sistem bidang belakang ini.
+
+Komputer paling populer di tahun 1990-an seperti [Apple II](https://id.wikipedia.org/w/index.php?title=Apple_II&action=edit&redlink=1 "Apple II (halaman belum tersedia)") dan [IBM PC](https://id.wikipedia.org/wiki/IBM_PC "IBM PC") telah menerbitkan diagram skematik dan dokumentasi lain yang memungkinkan papan induk dengan [rekayasa balik](https://id.wikipedia.org/wiki/Rekayasa_balik "Rekayasa balik") dan penggantian pihak ketiga yang cepat. Biasanya ditujukan untuk membangun komputer baru yang kompatibel dengan contoh, banyak papan induk menawarkan kinerja tambahan atau fitur lain dan digunakan untuk meningkatkan peralatan asli pabrikan.
+
+Sebuah [Komputer desktop](https://id.wikipedia.org/wiki/Komputer_desktop "Komputer desktop") pada umumnya memiliki [mikroprosesor](https://id.wikipedia.org/wiki/Mikroprosesor "Mikroprosesor"), [memori utama](https://id.wikipedia.org/wiki/Penyimpanan_data_komputer "Penyimpanan data komputer"), dan komponen penting lainnya yang terhubung ke papan induk. Komponen lain seperti penyimpanan eksternal, pengontrol untuk tampilan video dan suara, dan perangkat periferal dapat dipasang ke papan induk sebagai kartu plug-in atau melalui kabel; dalam mikrokomputer modern, semakin umum untuk mengintegrasikan beberapa periferal ini ke papan induk itu sendiri.
+
+Papan induk modern meliputi:
+
+- [Soket](https://id.wikipedia.org/wiki/Soket_CPU "Soket CPU") (atau slot) di mana satu atau lebih [mikroprosesor](https://id.wikipedia.org/wiki/Mikroprosesor "Mikroprosesor") dapat dipasang. Dalam kasus CPU dalam paket [array grid bola](https://id.wikipedia.org/w/index.php?title=Array_grid_bola&action=edit&redlink=1 "Array grid bola (halaman belum tersedia)"), seperti [VIA C3](https://id.wikipedia.org/w/index.php?title=VIA_C3&action=edit&redlink=1 "VIA C3 (halaman belum tersedia)"), CPU langsung disolder ke papan induk.
+- Slot memori tempat memori utama sistem akan dipasang, biasanya berupa modul [DIMM](https://id.wikipedia.org/w/index.php?title=DIMM&action=edit&redlink=1 "DIMM (halaman belum tersedia)") yang berisi chip [DRAM](https://id.wikipedia.org/wiki/DRAM "DRAM") dapat berupa D3 atau D4
+- Sebuah [chipset](https://id.wikipedia.org/wiki/Chipset "Chipset") yang membentuk antarmuka antara [bus sisi depan](https://id.wikipedia.org/w/index.php?title=Bus_sisi_depan&action=edit&redlink=1 "Bus sisi depan (halaman belum tersedia)") CPU, memori utama, dan bus periferal
+- Cip [memori non-volatile](https://id.wikipedia.org/w/index.php?title=Memori_non-volatile&action=edit&redlink=1 "Memori non-volatile (halaman belum tersedia)") (biasanya [Flash ROM](https://id.wikipedia.org/w/index.php?title=Flash_ROM&action=edit&redlink=1 "Flash ROM (halaman belum tersedia)") di papan induk modern) yang berisi [firmware](https://id.wikipedia.org/wiki/Firmware "Firmware") atau [BIOS](https://id.wikipedia.org/wiki/BIOS "BIOS") sistem
+- Sebuah [generator jam](https://id.wikipedia.org/w/index.php?title=Generator_jam&action=edit&redlink=1 "Generator jam (halaman belum tersedia)") yang menghasilkan sinyal jam sistem untuk menyinkronkan berbagai komponen
+- Slot untuk [kartu ekspansi](https://id.wikipedia.org/wiki/Kartu_ekspansi "Kartu ekspansi") (antarmuka ke sistem melalui bus yang didukung oleh chipset)
+- Konektor daya, yang menerima daya listrik dari [suplai daya](https://id.wikipedia.org/wiki/Power_supply "Power supply") komputer dan mendistribusikannya ke CPU, chipset, memori utama, dan kartu ekspansi. Per 2007, beberapa [kartu grafis](https://id.wikipedia.org/wiki/Kartu_grafis "Kartu grafis") (misalnya [GeForce 8](https://id.wikipedia.org/w/index.php?title=GeForce_8&action=edit&redlink=1 "GeForce 8 (halaman belum tersedia)") dan [Radeon R600](https://id.wikipedia.org/w/index.php?title=Radeon_R600&action=edit&redlink=1 "Radeon R600 (halaman belum tersedia)")) memerlukan daya lebih dari yang dapat disediakan papan induk, dan dengan demikian konektor khusus telah diperkenalkan untuk memasangkannya langsung ke catu daya.
+- Konektor untuk hard drive, biasanya hanya untuk [SATA](https://id.wikipedia.org/wiki/SATA "SATA").
+
+Selain itu, hampir semua papan induk menyertakan logika dan konektor untuk mendukung perangkat input yang umum digunakan, seperti [USB](https://id.wikipedia.org/wiki/USB "USB") untuk [perangkat mouse](https://id.wikipedia.org/wiki/Mouse "Mouse") dan [keyboard](https://id.wikipedia.org/wiki/Keyboard "Keyboard"). [Komputer pribadi](https://id.wikipedia.org/wiki/Komputer_pribadi "Komputer pribadi") awal seperti [Apple II](https://id.wikipedia.org/w/index.php?title=Apple_II&action=edit&redlink=1 "Apple II (halaman belum tersedia)") atau [IBM PC](https://id.wikipedia.org/wiki/IBM_PC "IBM PC") hanya menyertakan dukungan periferal minimal ini pada papan induk.
+
+Papan induk diproduksi dalam berbagai ukuran dan bentuk yang disebut [faktor bentuk komputer](https://id.wikipedia.org/w/index.php?title=Faktor_bentuk_komputer&action=edit&redlink=1 "Faktor bentuk komputer (halaman belum tersedia)"), beberapa di antaranya khusus untuk produsen komputer individu. Namun, papan induk yang digunakan dalam sistem yang kompatibel dengan IBM dirancang agar sesuai dengan berbagai ukuran casing. Sejak tahun 2005, sebagian besar papan induk [komputer desktop](https://id.wikipedia.org/wiki/Komputer_desktop "Komputer desktop") menggunakan faktor bentuk standar [ATX](https://id.wikipedia.org/wiki/AT-X_\(perusahaan\) "AT-X (perusahaan)") - bahkan yang ditemukan di komputer [Macintosh](https://id.wikipedia.org/wiki/Macintosh "Macintosh") dan [Sun](https://id.wikipedia.org/wiki/Sun_Microsystems "Sun Microsystems"), yang tidak dibuat dari komponen komoditas. papan induk casing dan faktor bentuk [unit suplai daya](https://id.wikipedia.org/w/index.php?title=Unit_suplai_daya_\(komputer\)&action=edit&redlink=1 "Unit suplai daya (komputer) (halaman belum tersedia)") (PSU) semuanya harus cocok, meskipun beberapa papan induk dengan faktor bentuk yang lebih kecil dari keluarga yang sama akan cocok dengan casing yang lebih besar. Misalnya, casing ATX biasanya mengakomodasi papan induk [microATX](https://id.wikipedia.org/w/index.php?title=MicroATX&action=edit&redlink=1 "MicroATX (halaman belum tersedia)"). Komputer umumnya menggunakan papan induk yang sangat terintegrasi, miniatur dan dapat disesuaikan.
+
+Sebuah [Soket CPU](https://id.wikipedia.org/wiki/Soket_CPU "Soket CPU") (unit pemrosesan sentral) atau slot adalah komponen listrik yang dipasang ke Papan Sirkuit Cetak (PCB) dan dirancang untuk menampung CPU (juga disebut mikroprosesor). Ini adalah jenis soket sirkuit terintegrasi khusus yang dirancang untuk jumlah pin yang sangat tinggi. Soket CPU menyediakan banyak fungsi, termasuk struktur fisik untuk mendukung CPU, dukungan untuk penyekat panas, memfasilitasi penggantian (serta mengurangi biaya), dan yang terpenting, membentuk antarmuka listrik baik dengan CPU maupun PCB. Soket CPU pada papan induk paling sering ditemukan di sebagian besar desktop dan [server komputer](https://id.wikipedia.org/wiki/Server_komputer "Server komputer") (laptop biasanya menggunakan CPU dudukan permukaan), terutama yang berbasis pada arsitektur [Intel x86](https://id.wikipedia.org/wiki/Intel_x86 "Intel x86"). Jenis soket CPU dan chipset papan induk harus mendukung seri dan kecepatan CPU.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Motherboard_diagram.svg/250px-Motherboard_diagram.svg.png)
+Dengan biaya dan ukuran [sirkuit terintegrasi](https://id.wikipedia.org/wiki/Sirkuit_terintegrasi "Sirkuit terintegrasi") yang terus menurun, sekarang mungkin untuk menyertakan dukungan untuk banyak periferal pada papan induk. Dengan menggabungkan banyak fungsi pada satu [PCB](https://id.wikipedia.org/wiki/PCB "PCB"), ukuran fisik dan biaya total sistem dapat dikurangi; papan induk yang sangat terintegrasi dengan demikian sangat populer dalam faktor bentuk kecil dan komputer anggaran.
+
+Papan induk umumnya [berpendingin udara](https://id.wikipedia.org/wiki/Pendingin_udara "Pendingin udara") dengan [penyekat panas](https://id.wikipedia.org/w/index.php?title=Penyekat_panas&action=edit&redlink=1 "Penyekat panas (halaman belum tersedia)") yang sering dipasang pada chip yang lebih besar di papan induk modern. Pendinginan yang tidak memadai atau tidak tepat dapat menyebabkan kerusakan pada komponen internal komputer, atau menyebabkan [crash](https://id.wikipedia.org/w/index.php?title=Crash_\(komputasi\)&action=edit&redlink=1 "Crash (komputasi) (halaman belum tersedia)"). [Pendinginan pasif](https://id.wikipedia.org/wiki/Pendinginan_pasif "Pendinginan pasif"), atau kipas tunggal yang dipasang pada catu daya, cukup untuk banyak CPU komputer desktop hingga akhir 1990-an; sejak saat itu, sebagian besar memerlukan [kipas CPU](https://id.wikipedia.org/w/index.php?title=Kipas_CPU&action=edit&redlink=1 "Kipas CPU (halaman belum tersedia)") yang dipasang di [penyekat panas](https://id.wikipedia.org/w/index.php?title=Penyekat_panas&action=edit&redlink=1 "Penyekat panas (halaman belum tersedia)"), karena kecepatan clock dan konsumsi daya yang meningkat.
+
+Sebuah studi tahun 2003 menemukan bahwa beberapa crash komputer palsu dan masalah keandalan umum, mulai dari distorsi gambar layar hingga kesalahan baca/tulis [I/O](https://id.wikipedia.org/wiki/I/O "I/O"), tidak dapat dikaitkan dengan [perangkat lunak](https://id.wikipedia.org/wiki/Perangkat_lunak "Perangkat lunak") atau [perangkat keras](https://id.wikipedia.org/wiki/Perangkat_keras "Perangkat keras") periferal, tetapi karena kapasitor yang menua pada papan induk PC. Pada akhirnya ini terbukti sebagai hasil dari formulasi elektrolit yang salah, sebuah masalah yang disebut [wabah kapasitor](https://id.wikipedia.org/w/index.php?title=Wabah_kapasitor&action=edit&redlink=1 "Wabah kapasitor (halaman belum tersedia)").
+
+Papan induk standar menggunakan [kapasitor elektrolitik](https://id.wikipedia.org/w/index.php?title=Kapasitor_elektrolitik&action=edit&redlink=1 "Kapasitor elektrolitik (halaman belum tersedia)") untuk menyaring daya [DC](https://id.wikipedia.org/wiki/Arus_searah "Arus searah") yang didistribusikan ke seluruh papan. Kapasitor ini menua pada tingkat yang bergantung pada suhu, karena [elektrolit](https://id.wikipedia.org/wiki/Elektrolit "Elektrolit") berbasis airnya perlahan menguap. Hal ini dapat menyebabkan hilangnya kapasitansi dan kegagalan fungsi papan induk berikutnya karena ketidakstabilan [tegangan](https://id.wikipedia.org/wiki/Tegangan_listrik "Tegangan listrik"). Sementara sebagian besar kapasitor diberi nilai untuk 2000 jam operasi pada 105°C (221° F), umur desain yang diharapkan kira-kira dua kali lipat untuk setiap 10°C (18°F) di bawah ini. Pada 65°C (149°F) masa hidup 3 sampai 4 tahun dapat diharapkan. Namun, banyak pabrikan memberikan kapasitor di bawah standar, yang secara signifikan mengurangi harapan masa hidup. Pendinginan casing yang tidak memadai dan suhu yang tinggi di sekitar soket CPU memperburuk masalah ini. Dengan blower atas, komponen papan induk dapat disimpan di bawah 95° C (203°F), yang secara efektif menggandakan masa pakai papan induk.
+
+Papan induk berisi beberapa [memori non-volatile](https://id.wikipedia.org/w/index.php?title=Memori_non-volatile&action=edit&redlink=1 "Memori non-volatile (halaman belum tersedia)") untuk menginisialisasi sistem dan memuat beberapa startup perangkat lunak , biasanya [sistem operasi](https://id.wikipedia.org/wiki/Sistem_operasi "Sistem operasi"), dari beberapa perangkat periferal eksternal. Mikrokomputer seperti Apple II dan IBM PC menggunakan chip [ROM](https://id.wikipedia.org/wiki/ROM "ROM") yang dipasang di soket pada papan induk. Saat daya-hidup, prosesor pusat akan memuat [penghitung program](https://id.wikipedia.org/w/index.php?title=Penghitung_program&action=edit&redlink=1 "Penghitung program (halaman belum tersedia)")nya dengan alamat ROM boot dan mulai menjalankan instruksi dari ROM. Instruksi ini menginisialisasi dan menguji perangkat keras sistem yang menampilkan informasi sistem di layar, melakukan pemeriksaan RAM, dan kemudian memuat program awal dari perangkat periferal. Jika tidak ada yang tersedia, maka komputer akan melakukan tugas dari penyimpanan memori lain atau menampilkan pesan kesalahan, tergantung pada model dan desain komputer dan versi ROM.
+
+Kebanyakan desain papan induk modern menggunakan [BIOS](https://id.wikipedia.org/wiki/BIOS "BIOS"), disimpan dalam chip [EEPROM](https://id.wikipedia.org/wiki/EEPROM "EEPROM") yang disolder atau dipasang pada soket papan induk, untuk mem-boot sistem operasi. Program boot non-sistem operasi masih didukung pada mesin modern IBM PC-terdahulu, tetapi saat ini diasumsikan bahwa program booting akan menjadi sistem operasi yang kompleks seperti Microsoft Windows atau Linux. [Power-On Self Test](https://id.wikipedia.org/wiki/Power-on_self_test "Power-on self test") ini (POST) dapat termasuk menguji beberapa hal berikut:
+
+Pada papan induk terbaru, BIOS juga dapat menambal mikrokode prosesor pusat jika BIOS mendeteksi bahwa CPU yang dipasang adalah salah satu yang [errata](https://id.wikipedia.org/w/index.php?title=Errata&action=edit&redlink=1 "Errata (halaman belum tersedia)")-nya telah diterbitkan.
+
+Banyak papan induk sekarang menggunakan penerus BIOS yang disebut [UEFI](https://id.wikipedia.org/wiki/UEFI "UEFI"). Ini menjadi populer setelah Microsoft mulai membutuhkannya untuk sistem yang akan disertifikasi untuk menjalankan Windows 8.
+
+## CPU
+**Satuan pengolahan pusat** atau **unit pemrosesan pusat** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _central processing unit_), dalam bahasa Inggris disingkat **CPU**, adalah [sirkuit elektronik](https://id.wikipedia.org/wiki/Sirkuit_elektronik "Sirkuit elektronik") di dalam [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") yang menjalankan [perintah](https://id.wikipedia.org/wiki/Set_instruksi "Set instruksi") untuk membentuk [program komputer](https://id.wikipedia.org/wiki/Program_komputer "Program komputer"). CPU melakukan operasi [aritmatika](https://id.wikipedia.org/wiki/Aritmatika "Aritmatika"), logika, pengendalian, dan masukan/keluaran (I/O) dasar yang ditentukan oleh perintah dalam program. Industri komputer menggunakan istilah "unit pemrosesan pusat" sejak tahun 1955. Secara tradisional, istilah "CPU" mengacu pada [prosesor](https://id.wikipedia.org/w/index.php?title=Prosesor_\(komputasi\)&action=edit&redlink=1 "Prosesor (komputasi) (halaman belum tersedia)"), lebih khusus lagi untuk unit pemrosesan dan [control unit](https://id.wikipedia.org/wiki/Control_unit "Control unit") (CU), yang membedakan elemen inti komputer ini dari komponen eksternal seperti [memori utama](https://id.wikipedia.org/wiki/Penyimpanan_data_komputer#Penyimpanan_utama "Penyimpanan data komputer") dan sirkuit I/O.
+
+Bentuk, [desain](https://id.wikipedia.org/wiki/Desain_prosesor "Desain prosesor"), dan implementasi CPU telah berubah sepanjang sejarahnya, tetapi operasi dasarnya hampir tidak berubah. Komponen utama dari CPU termasuk [unit logika aritmatika](https://id.wikipedia.org/wiki/Arithmetic_logic_unit "Arithmetic logic unit") (ALU) yang melakukan aritmatika dan [operasi logika](https://id.wikipedia.org/w/index.php?title=Boolean_algebra&action=edit&redlink=1 "Boolean algebra (halaman belum tersedia)"), [register prosesor](https://id.wikipedia.org/wiki/Register_prosesor "Register prosesor") yang memasok [operan](https://id.wikipedia.org/wiki/Operand "Operand") ke ALU dan menyimpan hasil operasi ALU, dan unit kontrol yang mengatur pengambilan (dari memori) dan eksekusi. instruksi dengan mengarahkan operasi terkoordinasi ALU, register dan komponen lainnya.
+
+Operasi dasar dari sebagian besar CPU, terlepas dari bentuk fisiknya, adalah menjalankan urutan perintah tersimpan yang disebut program. Perintah yang akan dijalankan disimpan dalam beberapa jenis memori komputer. Hampir semua CPU mengikuti langkah-langkah pengambilan, dekode, dan eksekusi dalam operasinya, yang secara kolektif dikenal sebagai siklus instruksi.
+
+Setelah eksekusi instruksi, seluruh proses berulang, dengan siklus instruksi berikutnya biasanya mengambil instruksi urutan berikutnya karena nilai yang bertambah di [penghitung program](https://id.wikipedia.org/w/index.php?title=Program_counter&action=edit&redlink=1 "Program counter (halaman belum tersedia)"). Jika instruksi jump dijalankan, penghitung program akan dimodifikasi untuk memuat alamat instruksi yang dilompati dan eksekusi program berlanjut secara normal. Dalam CPU yang lebih rumit, beberapa perintah dapat diambil, didekodekan, dan dijalankan secara bersamaan.
+
+Langkah pertama, pengambilan, melibatkan pengambilan instruksi (yang diwakili oleh nomor atau urutan angka) dari memori program. Lokasi instruksi (alamat) dalam memori program ditentukan oleh penghitung program (PC), yang menyimpan nomor yang mengidentifikasi alamat instruksi berikutnya yang akan diambil. Setelah instruksi diambil, PC bertambah panjang instruksi sehingga akan berisi alamat instruksi berikutnya secara berurutan. Seringkali, instruksi yang akan diambil harus diambil dari memori yang relatif lambat, menyebabkan CPU berhenti ketika menunggu instruksi dikembalikan. Masalah ini sebagian besar ditangani dalam prosesor modern oleh tembolok dan arsitektur pipa (lihat di bawah).
+
+Instruksi yang diambil CPU dari memori menentukan apa yang akan dilakukan CPU. Pada langkah dekode, dilakukan oleh sirkuit yang dikenal sebagai _instruction decoder_, instruksi diubah menjadi sinyal yang mengontrol bagian lain dari CPU.
+
+Cara instruksi diinterpretasikan ditentukan oleh CPU arsitektur set instruksi (ISA). Seringkali, satu kelompok bit (yaitu, "field") di dalam instruksi, yang disebut opcode, menunjukkan operasi mana yang akan dilakukan, sedangkan field yang tersisa biasanya memberikan informasi tambahan yang diperlukan untuk operasi tersebut, seperti operan. Operan tersebut dapat ditentukan sebagai nilai konstan (disebut immediate value), atau sebagai lokasi nilai yang mungkin merupakan [register prosesor](https://id.wikipedia.org/wiki/Register_prosesor "Register prosesor") atau alamat memori, seperti yang ditentukan oleh beberapa [mode pengalamatan](https://id.wikipedia.org/wiki/Mode_pengalamatan "Mode pengalamatan").
+
+Diagram blok dari komputer uniprocessor-CPU dasar. Garis hitam menunjukkan aliran data, sedangkan garis merah menunjukkan aliran kontrol; panah menunjukkan arah aliran.
+
+Terpasang ke dalam sirkuit CPU adalah serangkaian operasi dasar yang dapat dilakukannya, yang disebut [set instruksi](https://id.wikipedia.org/wiki/Arsitektur_set_instruksi "Arsitektur set instruksi"). Operasi semacam itu mungkin melibatkan, misalnya, menambah atau mengurangi dua angka, membandingkan dua angka, atau melompat ke bagian program yang berbeda. Setiap operasi dasar diwakili oleh kombinasi [bit](https://id.wikipedia.org/wiki/Bit "Bit") tertentu, yang dikenal sebagai bahasa mesin [opcode](https://id.wikipedia.org/w/index.php?title=Opcode&action=edit&redlink=1 "Opcode (halaman belum tersedia)") ; saat menjalankan instruksi dalam program bahasa mesin, CPU memutuskan operasi mana yang akan dilakukan dengan "mendekode" opcode. Instruksi bahasa mesin lengkap terdiri dari opcode dan, dalam banyak kasus, bit tambahan yang menentukan argumen untuk operasi (misalnya, angka yang akan dijumlahkan dalam kasus operasi penambahan). Menaikkan skala kompleksitas, program bahasa mesin adalah kumpulan instruksi bahasa mesin yang dieksekusi CPU.
+
+Representasi simbolik dari ALU dan sinyal input dan outputnya
+
+Arithmetic logic unit (ALU) adalah sirkuit digital di dalam prosesor yang melakukan operasi aritmatika integer dan [logika bitwise](https://id.wikipedia.org/w/index.php?title=Operasi_bitwise&action=edit&redlink=1 "Operasi bitwise (halaman belum tersedia)"). Input ke ALU adalah kata-kata data yang akan dioperasikan (disebut [operand](https://id.wikipedia.org/wiki/Operand "Operand")), informasi status dari operasi sebelumnya, dan kode dari unit kontrol yang menunjukkan operasi mana yang harus dilakukan. Bergantung pada instruksi yang dijalankan, operand dapat berasal dari [register CPU internal](https://id.wikipedia.org/wiki/Register_prosesor "Register prosesor") atau memori eksternal, atau mungkin merupakan konstanta yang dihasilkan oleh ALU itu sendiri.
+
+Setiap CPU merepresentasikan nilai numerik dengan cara tertentu. Misalnya, beberapa komputer digital awal merepresentasikan angka sebagai nilai sistem angka desimal (basis 10) yang sudah dikenal, dan yang lainnya menggunakan representasi yang lebih tidak biasa seperti terner (basis tiga). Hampir semua CPU modern merepresentasikan angka dalam bentuk biner, dengan setiap digit diwakili oleh beberapa kuantitas fisik bernilai dua seperti [voltase](https://id.wikipedia.org/wiki/Volt "Volt") "tinggi" atau "rendah".
+
+Kata enam-bit yang berisi representasi yang dikodekan biner dari nilai desimal 40. Kebanyakan CPU modern menggunakan ukuran kata yang merupakan pangkat dua, misalnya 8, 16, 32 atau 64 bit.
+
+Terkait dengan representasi numerik adalah ukuran dan presisi interger yang dapat diwakili oleh CPU. Dalam kasus CPU biner, ini diukur dengan jumlah bit (digit signifikan dari interger yang dikodekan biner) yang dapat diproses CPU dalam satu operasi, yang biasa disebut _[ukuran kata](https://id.wikipedia.org/w/index.php?title=Word_\(arsitektur_komputer\)&action=edit&redlink=1 "Word (arsitektur komputer) (halaman belum tersedia)")_, _lebar bit_, _lebar jalur data_, _presisi integer_. , atau _ukuran integer_. Ukuran interger CPU menentukan kisaran nilai interger yang dapat dioperasikan secara langsung. Misalnya, CPU [8-bit](https://id.wikipedia.org/w/index.php?title=Komputasi_8-bit&action=edit&redlink=1 "Komputasi 8-bit (halaman belum tersedia)") dapat secara langsung memanipulasi interger yang diwakili oleh delapan bit, yang memiliki kisaran 256 (28) nilai interger terpisah.
+
+_Performa_ atau _kecepatan_ dari prosesor bergantung pada, di antara banyak faktor lain, kecepatan clock (umumnya diberikan dalam kelipatan [hertz](https://id.wikipedia.org/wiki/Hertz "Hertz")) dan _instructions per clock_ (IPC), yang bersama-sama merupakan faktor untuk _[instructions per second](https://id.wikipedia.org/w/index.php?title=Instructions_per_second&action=edit&redlink=1 "Instructions per second (halaman belum tersedia)")_ (IPS) yang CPU dapat bekerja. Banyak nilai IPS yang dilaporkan telah mewakili tingkat eksekusi "puncak" pada urutan instruksi buatan dengan beberapa cabang, sedangkan beban kerja realistis terdiri dari campuran instruksi dan aplikasi, beberapa di antaranya membutuhkan waktu lebih lama untuk dieksekusi daripada yang lain. Kinerja [hierarki memori](https://id.wikipedia.org/wiki/Hierarki_memori "Hierarki memori") juga sangat memengaruhi kinerja prosesor, masalah yang hampir tidak dipertimbangkan dalam penghitungan MIPS. Karena masalah ini, berbagai pengujian standar, yang sering disebut "_[benchmark](https://id.wikipedia.org/wiki/Benchmark "Benchmark")_" untuk tujuan ini‍ —seperti [SPECint‍](https://id.wikipedia.org/w/index.php?title=SPECint%E2%80%8D&action=edit&redlink=1 "SPECint‍ (halaman belum tersedia)") — ‌telah dikembangkan untuk mencoba mengukur kinerja efektif yang sebenarnya dalam aplikasi yang umum digunakan.
+
+## RAM
+**Memori akses acak** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _random-access memory_, RAM) adalah jenis [penyimpanan komputer](https://id.wikipedia.org/wiki/Penyimpanan_komputer "Penyimpanan komputer") yang isinya dapat diakses dalam waktu tetap, tidak memperdulikan letak datanya dalam memori. Ini berlawanan dengan alat pengurut memori, seperti [pita magnetik](https://id.wikipedia.org/wiki/Tape_magnetik "Tape magnetik"), cakram dan _drum_, di mana gerakan mekanis dari media penyimpanan memaksa komputer mengakses data secara berurutan.
+
+RAM pertama kali diperkenalkan pada tahun 60-an. Namun saat itu memori semikonduktor belum populer karena harganya yang sangat mahal. Saat itu lebih lazim untuk menggunakan memori utama magnetis. Perusahaan semikonduktor seperti Intel memulai debutnya dengan memproduksi RAM, lebih tepatnya jenis DRAM.
+
+Biasanya RAM dapat ditulis dan dibaca, berlawanan dengan [ROM](https://id.wikipedia.org/wiki/ROM "ROM") (memori hanya baca), RAM biasanya digunakan untuk [penyimpanan primer](https://id.wikipedia.org/w/index.php?title=Penyimpanan_primer&action=edit&redlink=1 "Penyimpanan primer (halaman belum tersedia)") (memori utama) dalam komputer untuk digunakan dan mengubah informasi secara aktif, meskipun beberapa alat menggunakan beberapa jenis RAM untuk menyediakan [penyimpanan sekunder](https://id.wikipedia.org/wiki/Penyimpanan_sekunder "Penyimpanan sekunder") jangka-panjang.
+
+Tetapi ada juga yang berpendapat bahwa ROM merupakan jenis lain dari RAM, karena sifatnya yang sebenarnya juga _random access_ seperti halnya SRAM ataupun DRAM. Hanya saja memang proses penulisan pada ROM membutuhkan proses khusus yang tidak mudah dan lentur seperti halnya pada SRAM atau DRAM. Selain itu beberapa bagian dari ruang alamat RAM (memori utama) dari sebuah sistem yang dipetakan ke dalam satu atau dua cip ROM.
+### VRAM
+**VRAM** adalah [memori komputer](https://id.wikipedia.org/wiki/Memori_komputer "Memori komputer") yang digunakan untuk menyimpan [data](https://id.wikipedia.org/wiki/Data "Data") gambar yang ditampilkan di [monitor](https://id.wikipedia.org/wiki/Monitor "Monitor") [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer"), yang bertindak sebagai _[buffer](https://id.wikipedia.org/wiki/Buffer "Buffer")_ antara [CPU](https://id.wikipedia.org/wiki/CPU "CPU") dan [kartu grafis](https://id.wikipedia.org/wiki/Kartu_grafis "Kartu grafis"). Bila ada gambar yang akan ditampilkan pada layar, gambar yang pertama dibaca oleh [prosesor](https://id.wikipedia.org/wiki/Prosesor "Prosesor") dan kemudian ditulis dengan VRAM. Data tersebut kemudian diubah oleh _RAM digital-ke-analog converter (RAMDAC)_ menjadi [sinyal analog](https://id.wikipedia.org/wiki/Sinyal_analog) yang dikirim ke layar. seluruh proses yang terjadi begitu cepat yang tidak dapat ditangkap oleh penglihatan manusia. Tidak seperti kebanyakan sistem [RAM](https://id.wikipedia.org/wiki/RAM "RAM"), VRAM adalah _chip dual-porting_, yang berarti bahwa saat layar membaca dari VRAM untuk memperbarui gambar yang sedang ditampilkan, maka prosesor yang baru menulis gambar dengan VRAM; hal ini mencegah tampilan dari kerlip antara _redrawing_ tampilan.
+
+_Synchronous Graphics RAM ([SGRAM](https://id.wikipedia.org/w/index.php?title=SGRAM&action=edit&redlink=1 "SGRAM (halaman belum tersedia)"))_
+
+SGRAM adalah jenis RAM yang tersinkronisasi. Ini berarti data dapat diubah dalam satu operasi daripada sebagai urutan membaca, menulis, dan memperbarui operasi. Hal ini memungkinkan latar belakang, depan, dan gambar yang akan mengisi layar dengan lebih efisien.
+
+_Rambus Dynamic RAM ([RDRAM](https://id.wikipedia.org/wiki/RDRAM "RDRAM"))_
+
+Perangkat ini dirancang oleh [Rambus](https://id.wikipedia.org/w/index.php?title=Rambus&action=edit&redlink=1 "Rambus (halaman belum tersedia)") dan termasuk milik Rambus. _Video editing pro chip_ ini dioptimalkan untuk _streaming_ video.
+
+_Window RAM ([WRAM](https://id.wikipedia.org/w/index.php?title=WRAM&action=edit&redlink=1 "WRAM (halaman belum tersedia)"))_
+
+WRAM bekerja secara _dual-porting_, artinya memiliki _bandwidth_ sekitar 25% lebih banyak daripada VRAM standar, yang bertujuan untuk mengurangi biaya.
+
+_Multibank Dynamic RAM ([MDRAM](https://id.wikipedia.org/w/index.php?title=MDRAM&action=edit&redlink=1 "MDRAM (halaman belum tersedia)"))_
+
+Ini juga merupakan VRAM kinerja tinggi, dikembangkan oleh [MoSys](https://id.wikipedia.org/w/index.php?title=MoSys&action=edit&redlink=1 "MoSys (halaman belum tersedia)") yang membagi memori menjadi bagian-bagian sebesar 32 KB yang dapat diakses secara individual. Hal ini membuat transfer memori lebih efisien dan meningkatkan kinerja secara keseluruhan. Keuntungan lain dari MDRAM adalah dapat diproduksi dengan jumlah memori yang tepat untuk suatu resolusi, sehingga lebih murah jika dibuat secara massal dibanding dengan jenis VRAM lainnya.
+
+# Mikrokontroler, Arduino dan Sensor
+Dalam dunia komputer dan elektronika terdapat sebuah chip yang biasa disebut mikrokontroler. Mikrokontroler berbeda dengan mikroprosessor atau CPU. Pada umumnya mikrokontroler merupakan suatu chip yang berisi semua komponen dan fungsi CPU. Bisa disebut juga mikrokontroler adalah mini komputer, karena semua fitur dan komponennya hampir sama fungsinya dengan komputer.
+
+## **Apa Itu Mikrokontroler?**
+
+Mikrokontroler adalah suatu perangkat keras komputer mini (mikro) yang dikemas dalam satu chip tunggal IC (_Integrated Circuit)_ dan memiliki program operasi tertentu.
+
+Mikrokontroler bisa ditemukan di kendaraan, robot, mesin kantor, peralatan medis, _vending machines_, dan perangkat lainnya. 
+
+Pada artikel ini kiita akan membahas salah satu contoh mikrokontroler yaitu Arduino.
+
+Arduino adalah platform elektronik _open source_ berdasarkan perangkat keras dan perangkat lunak yang mudah digunakan. Papan arduino dapat membaca inputan. Untuk menggunakan arduino memakai bahasa pemrograman arduino dan ada kode editor khusus untuk arduino yakni arduino IDE.
+
+## **Arduino sebagai Mikrokontroler**
+
+### **Jenis-jenis Arduino**
+
+1. Arduino UNO
+
+Arduino Uno termasuk yang paling banyak digunakan, terutama untuk pemula sangat disarankan untuk menggunakan Arduino ini. Arduino versi terbaru menggunakan ATMEGA328 sebagai mikrokontrolernya. Untuk pemrogramannya Arduino Uno menggunakan USB type A to B.
+
+2. Arduino Due
+
+Arduino Due tidak menggunakan ATMEGA, melainkan dengan chip yang lebih tinggi ARM Cortex CPU. Untuk pemrogramannya menggunakan micro USB.
+
+3. Arduino Mega
+
+Arduino Mega hampir sama dengan Arduino Uno hanya saja Arduino Mega menggunakan chip yang lebih tinggi yakni ATMEGA2560.
+
+4. Arduino Leonardo
+
+Arduino Leonardo juga sama dengan Arduino Uno hanya berbeda pada pemrogramannya menggunakan micro USB.
+
+5. Arduino Fio
+
+Arduino Fio memiliki bentuk socket XBee sehingga membuat Arduino Fio dapat digunakan untuk keperluan projek yang berhubungan dengan wireless.
+
+6. Arduino Lilypad
+
+Arduino Lilypad memiliki bentuk yang melingkar, sehingga membuat Arduino jenis ini dapat digunakan untuk membuat projek unik.
+
+7. Arduino Nano
+
+Arduino Nano memiliki ukuran yang kecil, sangat sederhana dan menyimpan banyak fasilitas. Sudah dilengkapi dengan FTDI untuk pemrograman lewat micro USB.
+
+8. Arduino Mini
+
+Arduino Mini hanya memiliki ukuran 30 mm x 18 mm dan memiliki fasilitas yang sama dengan Arduino Nano. Hanya saja tidak dilengkapi dengan micro USB untuk pemrogramannya.
+
+9. Arduino Micro
+
+Arduino Micro berbentuk lebih panjang dari Arduino Nano dan Arduino Mini.
+
+10. Arduino Ethernet
+
+Arduino Ethernet sama seperti namanya arduino ini merupakan arduino yang sudah dilengkapi dengan fasilitas ethernet, sehingga dapat berhubungan melalui jaringan LAN pada komputer.
+
+11. Arduino Esplora
+
+Arduino Esplora memiliki bentuk khas dengan adanya _joystick_. 
+
+12. Arduino Robot
+
+Seperti namanya Arduino Robot ini merupakan paket komplit dari arduino yang sudah berbentuk robot.
+
+### **Kelebihan Arduino sebagai Mikrokontroler**
+
+1. Harga yang Terjangkau bagi pemula
+
+Harga Arduino ada di kisaran 125 – 400 ribu rupiah saja. Dengan harga yang terjangkau ini, kita dapat membuat sebuah sistem [IoT](https://crocodic.com/ini-rekomendasi-5-iot-platform-siap-pakai/) murah dengan bermacam fungsi.
+
+2. Mudah Dipelajari
+
+Arduino menggunakan bahasa pemrograman C yang cenderung sangat sederhana dan dilengkapi dengan  _library_. Sehingga bagi pemula bisa lebih mudah mempelajari.
+
+3. Menggunakan Port USB
+
+Arduino tidak lagi membutuhkan port khusus untuk melakukan pemrogramannya. Hal ini karena arduino sudah dilengkapi dengan Port USB.
+
+4. Memiliki Banyak _Library_ Gratis
+
+Pada Arduino IDE sudah disedikan  _library_ yang bisa diunduh secara gratis sehingga kita hanya perlu mengimportnya dan menambahkan kode khusus sesuai kebutuhan projek yang diinginkan.
+
+5. Bersifat _Open Source_
+
+Arduino bersifat _open source_ yang artinya kita dapat membuat dan merakit projek buatan kita sendiri. Pada situs resminya arduino.cc kita sudah bisa membaca dokumntasi lengkapnya dan mulai melakukan projek.
+
+6. _Software_ Arduino IDE Dapat DIjalankan Pada Berbagai Sistem Operasi
+
+Arduino IDE dapat dijalankan pada berbagai jenis operasi sistem pada komputer seperti Windows, Macintosh dan Linux.
+
+7. Dilengkapi Tombol dan Pin Reset
+
+Ardino juga dilengkapi dengan tombol reset yang memungkinkan kita untuk membangun ulang program kita kembali.
+
+### **Apa saja aplikasi dari Arduino?**
+
+- **Dalam IoT Sistem**
+
+Arduino sudah banyak diimplementasikan dalam kehidupan sehari-hari. Arduino dapat diterapkan pada projek sederhana dan projek yang rumit sekalipun. Sehingga bagi pemula sudah bisa menggunakannya untuk kebutuhan projeknya.
+
+Berikut beberapa contoh penerapan Arduino dalam sistem IoT : 
+
+1. IoT Arduino Kontrol Relay WiFi Android
+2. IoT Arduino Kontrol Servo via Internet
+3. IoT Arduino Monitoring Suhu dan Kelembaban via Internet
+4. Kendali dan Monitoring Posisi Kendaraan via [Website](https://crocodic.com/8-alasan-mengapa-perawatan-maintenance-website-mutlak-dilakukan-secara-profesional/)
+5. Kontrol Lampu via Android
+6. Kontrol Kecerahan LED via Android
+7. Kontrol Robot Arm via Android
+8. Kontrol Running Text via Android
+9. Kontrol Volume Tangki via Website
+10. Monitoring Kebakaran Berbasis Website dan Android, etc.
+
+- **Dalam Sistem Non IoT**
+
+Adapun penerapan Arduino yang Non IoT artinya implementasi arduino yang tidak menggunakan Internet untuk komunikasi antar _device_ . Adapaun contohnya antara lain sebagai berikut : 
+
+1. Alarm Kebakaran dengan Sensor Api dan Asap
+2. Alarm Kebocoran Gas dengan Sensor MQ2
+3. Kontrol Lampu dengan Tepuk Tangan
+4. Alarm Pintu Rumah dengan Sensor Magnet
+5. Alarm Pendeteksi Ketinggian Air
+6. Dll.
+
+**Macam - macam Sensor Arduino**
+
+**1. Sensor PIR (Passive Infrared Sensor)** 
+
+**[![Sensor PIR (Passive Infrared Sensor)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB1JreVb6Hz7d8ldNGgH8x5DeMHdJ1spKYu5V7ZP_8Xtx0vPcN_EWxKRGcGTlAbV3YjfrVzvlQb7Mq6vNF_9jRxljHIW4Lp6ZuNBR16MdE1rNOKaL43ZDj_fDIE43ZS1PIA0-_h_MsnWKC_6TZmbeFVut1JMY9ZNlYnSLUxoxGwic-JXDqu2MIGFl5/s16000/PIR.jpg "Sensor PIR (Passive Infrared Sensor)")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB1JreVb6Hz7d8ldNGgH8x5DeMHdJ1spKYu5V7ZP_8Xtx0vPcN_EWxKRGcGTlAbV3YjfrVzvlQb7Mq6vNF_9jRxljHIW4Lp6ZuNBR16MdE1rNOKaL43ZDj_fDIE43ZS1PIA0-_h_MsnWKC_6TZmbeFVut1JMY9ZNlYnSLUxoxGwic-JXDqu2MIGFl5/s500/PIR.jpg)**
+
+Sensor PIR memiliki fungsi utama yaitu untuk mendeteksi adanya gerakan. Oleh karena itu, dapat dikatakan bahwa sensor PIR ini adalah sensor gerak. Sensor ini bekerja dengan membaca pergerakan objek yang memancarkan radiasi inframerah, termasuk manusia. Jadi, sensor ini tidak akan mendeteksi gerakan pada benda mati. Sensor PIR termasuk pilihan yang tepat untuk membuat project yang memerlukan pembacaan gerakan pada makhluk hidup. Contoh tipe dari sensor PIR adalah HC-SR501.
+
+**2. Sensor Sidik Jari (Fingerprint)** 
+
+**[![Sensor Sidik Jari (Fingerprint)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlGwvXdXY8SnrhucVLHyEjUUehgQg6HFdZqr4wUpHSV86V4UZm14h758mOpVz2GmEwzbOitMslgtAHXIL1eq4pbXRv9g5Kqdhzp5kwbxpkokoQ0eD5LCbsOMzHuRTutUtaeKhEIXf8lzEEQjxMrLUEKNrYOqB7JtEiXX8vgvn583ydIDeTiUroiAho/s16000/FP.jpg "Sensor Sidik Jari (Fingerprint)")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlGwvXdXY8SnrhucVLHyEjUUehgQg6HFdZqr4wUpHSV86V4UZm14h758mOpVz2GmEwzbOitMslgtAHXIL1eq4pbXRv9g5Kqdhzp5kwbxpkokoQ0eD5LCbsOMzHuRTutUtaeKhEIXf8lzEEQjxMrLUEKNrYOqB7JtEiXX8vgvn583ydIDeTiUroiAho/s263/FP.jpg)**
+
+  
+
+Sensor sidik jari atau _fingerprint_ biasanya digunakan sebagai akses keamanan pada suatu sistem. Sensor ini bekerja dengan membaca sidik jari. Hasil pembacaan tersebut yang akan dikirim ke mikrokontroler untuk di proses lebih lanjut. Perlu diketahui bahwa sidik jari setiap orang memiliki kode yang berbeda. Jadi, kode inilah yang akan digunakan untuk mengidentifikasi identitas seseorang. Disini peran fingerprint sangat dibutuhkan. Sensor sidik jari yang biasa digunakan untuk perangkat Arduino yaitu tipe FPM10A. Salah satu contoh penggunaannya yaitu digunakan untuk absensi di sekolah atau pun perusahaan.
+
+**3. Sensor Suhu**
+
+Sensor suhu berfungsi untuk melakukan pengukuran suhu atau temperatur terhadap suatu objek. Contoh macam-macam sensor suhu yang sering digunakan pada Arduino yaitu :
+
+• **Sensor LM35**, memiliki kemampuan untuk mengukur suhu dengan cara mengubah besaran suhu menjadi besaran listrik dalam bentuk tegangan. Sensor suhu memiliki harga yang paling murah diantara semua sensor suhu, sehingga akurasi dari sensor ini cenderung paling rendah diantara semua sensor suhu.  
+
+[![Sensor LM35](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRyaKBHikiZQ-nYAZeFi1mQfB0vR7VRXQnb3-O2IDL4F5mxA8kmfQndG071Me62D1eQOIXLYDXh1y8ROiIsj7H-NKNnrPBLyiybVXvsLNMn3ROMVN1ctmj8VX9dvt1nKJ83r6sMoqxiCmpO5ViLaTToyVsmYVqYqn3EI24Tr0A3idSwoLmP-T8wkVS/s16000/lm35.jpg "Sensor LM35")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRyaKBHikiZQ-nYAZeFi1mQfB0vR7VRXQnb3-O2IDL4F5mxA8kmfQndG071Me62D1eQOIXLYDXh1y8ROiIsj7H-NKNnrPBLyiybVXvsLNMn3ROMVN1ctmj8VX9dvt1nKJ83r6sMoqxiCmpO5ViLaTToyVsmYVqYqn3EI24Tr0A3idSwoLmP-T8wkVS/s213/lm35.jpg)
+
+  
+
+• **Sensor DS18B20**, memiliki kemampuan mendeteksi suhu dari -550C sampai 1250C dengan akurasi (+/-0,50C) dan resolusi 9-12 bit dan termasuk seri terbaru dari keluaran produsen Maxim. Sensor ini sangat cocok untuk mengukur suhu air. Namun karena tidak tahan karat, sensor ini tidak disarankan untuk mengukur suhu air asin.
+
+[![Sensor DS18B20](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6eNU8nansPcMg7qJMOa0SS2W69BI2XjEPBCmhFrmOLlogn9_lz17vpqcb4MObR8Ff2c6beYgfOmqnM1i4utbTAO3wSellrh_VUCQwRZFszL2t4mLDSQykEE2WoOFd-4S66c0BLUHUMCCCjVaZUdostDUJpORo6scedjEl-VhPPishDN2wfaQsEqr/s16000/DS18B20.jpg "Sensor DS18B20")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6eNU8nansPcMg7qJMOa0SS2W69BI2XjEPBCmhFrmOLlogn9_lz17vpqcb4MObR8Ff2c6beYgfOmqnM1i4utbTAO3wSellrh_VUCQwRZFszL2t4mLDSQykEE2WoOFd-4S66c0BLUHUMCCCjVaZUdostDUJpORo6scedjEl-VhPPishDN2wfaQsEqr/s234/DS18B20.jpg)
+
+  
+
+**4. Sensor Kelembaban** 
+
+**[![Sensor Kelembaban](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMMkIPgtuD-Q8pxsKEpxult28QFdNGMqj3l82ac84oLcJvJxq_cRKf2QVFtwgj0-SIyTBG7eKXbAXYX9m1mm5JqnZv7vsIly2zEEN_cxHvW7MnTd4UnUgcuw0KsWbDCtKN-7KVJxzrdP7pFsKV2SYzDG8JbxadvQ18zfuH2z1YCwrp7XKT0Fn1OMt/s16000/kelembaban.jpg "Sensor Kelembaban")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMMkIPgtuD-Q8pxsKEpxult28QFdNGMqj3l82ac84oLcJvJxq_cRKf2QVFtwgj0-SIyTBG7eKXbAXYX9m1mm5JqnZv7vsIly2zEEN_cxHvW7MnTd4UnUgcuw0KsWbDCtKN-7KVJxzrdP7pFsKV2SYzDG8JbxadvQ18zfuH2z1YCwrp7XKT0Fn1OMt/s260/kelembaban.jpg)**
+
+Sensor kelembaban memiliki fungsi utama yaitu untuk mengukur kelembaban udara yang ada di sekitar. Sensor ini bekerja dengan cara mengonversi besaran kelembaban menjadi tegangan. Contoh tipe sensor kelembaban yaitu 808H5V5.
+
+**5. Sensor Suhu dan Kelembaban**
+
+Pada kedua poin sebelumnya, sudah dibahas seputar sensor suhu dan kelembaban (_humidity_). Akan tetapi, pada poin ini akan membahas tentang satu sensor yang memiliki 2 fungsi sensor tersebut sekaligus. Jadi, dengan sensor ini akan bisa mengukur suhu dan kelembaban sekaligus. Jenis sensor _two in one_ ini ada banyak sekali, namun yang paling sering digunakan pada Arduino adalah :
+
+• Sensor _DHT11_, sensor _DHT11_ berfungsi untuk mengukur suhu dan kelembaban dengan output digital yang murah dengan tingkat akurasi +/- 20C untuk suhu dan untuk kelembaban sekitar 5%. Kekurangan dari sensor ini yaitu tertinggal 2 detik dari kondisi aslinya. Jadi, tidak cocok digunakan untuk pengukuran suhu yang bersifat real time.
+
+[![Sensor DHT11](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDhDUFtqPyyPQXTIbzWs2eB5P6JaPg67PvG0e8zpkHqidn4WdekGxLU-BlvaSUpXt6ewwe5uzmXZ-Oc2yKAkkJ_2put90jP_K_TqWTVqYvPtAn3c4Fq6EAjwwF839JETKP9HRyiA79sAyRCZqY-L_jOY9MOq4dhdpwHg9kz0WBcHcTmt4o3IwKmTyc/s16000/DHT11.jpg "Sensor DHT11")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDhDUFtqPyyPQXTIbzWs2eB5P6JaPg67PvG0e8zpkHqidn4WdekGxLU-BlvaSUpXt6ewwe5uzmXZ-Oc2yKAkkJ_2put90jP_K_TqWTVqYvPtAn3c4Fq6EAjwwF839JETKP9HRyiA79sAyRCZqY-L_jOY9MOq4dhdpwHg9kz0WBcHcTmt4o3IwKmTyc/s254/DHT11.jpg)
+
+• Sensor _DHT22_, merupakan sensor yang memiliki tingkat akurasi lebih tinggi dari sensor _DHT11_. Sensor ini juga hasil pengukurannya tertinggal 2 detik dari kondisi aslinya, sama dengan sensor _DHT11_.
+
+[![Sensor DHT22](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRQa8ylsHWQcqmBu8wvue6GpRWDL-G5rAysEf2CyQbwy84Ozv-Aov35uH5bR7HpRHNHkNYKZ3lDMvWzgCAEYRk4EyIOq-faJPSeyAyD9Eei7u5orX-c43n-4TTJZk-Nx4DslX31LbYR0xMvybqoQe2wLJZr6uNl1NjqF7m2wFxrxCMZtGbYCMG-zQ3/s16000/DHT22.jpg "Sensor DHT22")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRQa8ylsHWQcqmBu8wvue6GpRWDL-G5rAysEf2CyQbwy84Ozv-Aov35uH5bR7HpRHNHkNYKZ3lDMvWzgCAEYRk4EyIOq-faJPSeyAyD9Eei7u5orX-c43n-4TTJZk-Nx4DslX31LbYR0xMvybqoQe2wLJZr6uNl1NjqF7m2wFxrxCMZtGbYCMG-zQ3/s236/DHT22.jpg)
+
+  
+
+**6. Sensor Lokasi** 
+
+**[![Sensor Lokasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzq4Bd9BYa5DYHetRwSMCchpksvYxT5rmpIcOxOVSSPKdUwK0f3Hy18r1KQIEHCiGzwaOfwSmTj_t1vXz-0jClp1Y7XFZMCXQvrLLPUS_QVJLfX24go5_iEzkb97EMsIEH3ZVRfcnLbgFpsZctskVhBT49dI9H2i7PN5z8usgEJmetZl6MYEjS154s/s16000/Sensor%20Lokasi.jpg "Sensor Lokasi")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzq4Bd9BYa5DYHetRwSMCchpksvYxT5rmpIcOxOVSSPKdUwK0f3Hy18r1KQIEHCiGzwaOfwSmTj_t1vXz-0jClp1Y7XFZMCXQvrLLPUS_QVJLfX24go5_iEzkb97EMsIEH3ZVRfcnLbgFpsZctskVhBT49dI9H2i7PN5z8usgEJmetZl6MYEjS154s/s383/Sensor%20Lokasi.jpg)**
+
+Ketika berbicara tentang sensor lokasi, tentu sudah tidak asing lagi dengan istilah GPS (_Global Positioning System_). Di Arduino juga terdapat sensor GPS yang berfungsi untuk mengirimkan lokasi koordinat tempat sensor tersebut berada. Jadi, dengan bantuan _Google Maps_ kita bisa langsung tahu dimana lokasi objek berada. Sensor ini sangat cocok untuk membuat project yang memerlukan fitur tracking lokasi. Contoh tipe sensor lokasi ini adalah GPS GY-NEO6MV2.
+
+**7. Sensor Ketinggian Air (Water Level Sensor)** 
+
+**[![Water Level Sensor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwP0DX9d4tJaF4FnIxN2YnqZifEgjd3QPIwzwSUqUIXGtlPHS71EsYSxzdSOq1Lsf5ubXIN4iafvCx5BAAyAbMCRaf-VytDkW19D5yPEqLr1RppYdhrc32atlQN1VCZX4fCKArkffG1dT2akKt3kVBMZj--C0E6wDGn9xll5g3XYZDaKhKy-ElDXeS/s16000/Water%20level.jpg "Water Level Sensor")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwP0DX9d4tJaF4FnIxN2YnqZifEgjd3QPIwzwSUqUIXGtlPHS71EsYSxzdSOq1Lsf5ubXIN4iafvCx5BAAyAbMCRaf-VytDkW19D5yPEqLr1RppYdhrc32atlQN1VCZX4fCKArkffG1dT2akKt3kVBMZj--C0E6wDGn9xll5g3XYZDaKhKy-ElDXeS/s237/Water%20level.jpg)**
+
+Water level sensor memiliki fungsi khusus yaitu mengukur ketinggian dari objek berupa zat cair seperti air, bensin, solar, minyak dan sejenisnya. Kekurangan dari sensor ini yaitu ketinggian yang bisa diukur hanyalah ketinggian yang mengenai lempengannya saja. Jadi, tidak bisa digunakan untuk mengukur ketinggian air yang lebih tinggi dari tinggi lempengan sensor. Biasanya sensor ini digunakan untuk mengukur ketinggian tempat air minum ternak atau sejenisnya.
+
+**8. Sensor Cahaya** 
+
+**[![Sensor Cahaya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWRNFf1pvTlxIzR0fFV6tP58SScbLD637N-m829YjN5W5SW1xy7Dz96kHFusL7TMARN_3lzfAN5ElycJC1GpyywcPO0xzeiMxuNR__8GE68wkYSREH6H-4tT_a-OLZGsPSQlE_OYPLODei9ESp06xnRAsX6Jr18Wb4SR82hfvpj6OFGP_8OIBNvSnB/w320-h320/LDR.jpg "Sensor Cahaya")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWRNFf1pvTlxIzR0fFV6tP58SScbLD637N-m829YjN5W5SW1xy7Dz96kHFusL7TMARN_3lzfAN5ElycJC1GpyywcPO0xzeiMxuNR__8GE68wkYSREH6H-4tT_a-OLZGsPSQlE_OYPLODei9ESp06xnRAsX6Jr18Wb4SR82hfvpj6OFGP_8OIBNvSnB/s500/LDR.jpg)**
+
+Pada dasarnya, sensor cahaya merupakan resistor yang nilainya bisa berubah-ubah sesuai dengan intensitas cahaya yang masuk atau mengenai permukaannya. Beberapa macam sensor cahaya dalam elektronika yang digunakan khusus untuk Arduino, yaitu sensor LDR (Light Dependent Resistor). Selain itu, ada juga sensor cahaya GY-30 yang hasil pengukuran sensor cahayanya dalam satuan LUX.
+
+**9. Sensor Barcode** 
+
+**[![Sensor Barcode](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Yc-W-Vk17yKpxgAJx_nZF33M-YoB6ZwzDOW_eR9Vv_g8MXQ2_1j2pOGZVfGOg_6kbcFzFh6MSMi1lNVByYsFo0k_MVN_8SsbdknsMR23Wl807Q-x_ZgY7G2LPLVGUlyE-7Z1W21zMcutOCmP2lvRuG0Pj1wXCeUnx-y5AVLjYCVWxGsP5erTj-o2/s16000/barcode.jpg "Sensor Barcode")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Yc-W-Vk17yKpxgAJx_nZF33M-YoB6ZwzDOW_eR9Vv_g8MXQ2_1j2pOGZVfGOg_6kbcFzFh6MSMi1lNVByYsFo0k_MVN_8SsbdknsMR23Wl807Q-x_ZgY7G2LPLVGUlyE-7Z1W21zMcutOCmP2lvRuG0Pj1wXCeUnx-y5AVLjYCVWxGsP5erTj-o2/s240/barcode.jpg)**
+
+  
+
+Sensor barcode atau scanner barcode memiliki fungsi utama yaitu membaca dan memindai informasi yang ada di barcode. Contoh tipe dari sensor ini yaitu MCR12.
+
+**10. Sensor Jarak**
+
+Sensor jarak berfungsi untuk mengukur jarak suatu objek yang ada di depan sensor. Beberapa macam sensor jarak antara lain :
+
+• **Sensor Ultrasonik HC-SR04** atau sensor ping, berfungsi untuk membaca jarak objek yang ada di depannya menggunakan pantulan ultrasonik. 
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVCl2gHzhCp6dpYBCeUrU8w7_JZGHTvoUeDMUx3Y5BnndYW3zVjof5N-f1bOevyUQ8034ucsG9eJHQUxNddVWRknqnWtHvNtdgsRUAqfmrjiek1LU0FFzOwi2KSMWxwpwAy6EbVjDTIlhbu3UAQVUdeW6GhcYDfCPcpZIeGsX_IKLMfWJL3YO1QaKt/s320/ultrasonic.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVCl2gHzhCp6dpYBCeUrU8w7_JZGHTvoUeDMUx3Y5BnndYW3zVjof5N-f1bOevyUQ8034ucsG9eJHQUxNddVWRknqnWtHvNtdgsRUAqfmrjiek1LU0FFzOwi2KSMWxwpwAy6EbVjDTIlhbu3UAQVUdeW6GhcYDfCPcpZIeGsX_IKLMfWJL3YO1QaKt/s500/ultrasonic.jpg)  
+
+• **Sensor Proximity Infrared**, berfungsi untuk mengukur jarak dengan memanfaatkan pemantulan sinar inframerah.
+
+[![Sensor Proximity Infrared](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdSQ5QYDH_I38Tv55VkyZFeDzAHdFggv6OQkOf9MXmPB5Hcqp3Jhl91_0KuhojLBkjl8qObT7Lf2iPzaTi_1ooWcWRfsD6i8tpCZwV3bWi-AIyJdVrFeE2hqaM1jmj_0KrPqFxN7kgjkfbaXQK8CMB3rGB7gnOa68U0b-GB1s7krQmseUDTYOrs2Ob/w320-h320/infrared.jpg "Sensor Proximity Infrared")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdSQ5QYDH_I38Tv55VkyZFeDzAHdFggv6OQkOf9MXmPB5Hcqp3Jhl91_0KuhojLBkjl8qObT7Lf2iPzaTi_1ooWcWRfsD6i8tpCZwV3bWi-AIyJdVrFeE2hqaM1jmj_0KrPqFxN7kgjkfbaXQK8CMB3rGB7gnOa68U0b-GB1s7krQmseUDTYOrs2Ob/s700/infrared.jpg)
+
+**11. Sensor Suara** 
+
+**[![Sensor Suara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp72yBQ8ROWQGB-6rY_j5y6uhZRAP0H-1vBaP6XSwle8U-zee9VYYjemBzx6TDGJO-p0e3mBVuV89lBwZmwemTvnxMj_ExiDco2Eo1ETN0PaiDHe4SG7tMtPWah8H4wJV0FqciCBTQ9kLeWw-q-IhUiiTCJlAvxHSTaBezLWXZr1iSjnfU9k5rMWdw/w320-h320/sensor%20suara.jpg "Sensor Suara")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp72yBQ8ROWQGB-6rY_j5y6uhZRAP0H-1vBaP6XSwle8U-zee9VYYjemBzx6TDGJO-p0e3mBVuV89lBwZmwemTvnxMj_ExiDco2Eo1ETN0PaiDHe4SG7tMtPWah8H4wJV0FqciCBTQ9kLeWw-q-IhUiiTCJlAvxHSTaBezLWXZr1iSjnfU9k5rMWdw/s500/sensor%20suara.jpg)**
+
+Sensor suara berfungsi untuk mengubah besaran suara menjadi besaran listrik. Dimana nilai yang diperoleh didasarkan pada besarnya gelombang yang masuk. Komponen utama pada sensor ini yaitu condensor mic yang berfungsi seabagai penerima data suara untuk diproses. Sensor ini biasanya digunakan untuk menyalakan atau mematikan perangkat elektronik dengan ketukan. Contoh sensor suara adalah KY-037.
+
+**12. Sensor Flex (Tekuk)** 
+
+**[![Sensor Flex (Tekuk)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUXAWUbIf6LJmC1si6un8KGQyYHA8nWzAdGfmMW7nBw6Mcl1Q22LlRSMVPRrh7awq54eZL_6CdwMbO-QGdhU6w7gbO3xvKR-LJeZGlS-QQA4GaKVyzDzO8W65yFFs7RCb0pie7VmSzo02BTdDu2Wm-kA3Efp455WJFScknL53ezEFj1wwfY2tSG91K/s16000/tekuk.jpg "Sensor Flex (Tekuk)")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUXAWUbIf6LJmC1si6un8KGQyYHA8nWzAdGfmMW7nBw6Mcl1Q22LlRSMVPRrh7awq54eZL_6CdwMbO-QGdhU6w7gbO3xvKR-LJeZGlS-QQA4GaKVyzDzO8W65yFFs7RCb0pie7VmSzo02BTdDu2Wm-kA3Efp455WJFScknL53ezEFj1wwfY2tSG91K/s246/tekuk.jpg)**
+
+Sensor flex memiliki fungsi unik yaitu mendeteksi kelengkungan. Sensor ini akan mengubah resistansi karena adanya perubahan lekukan pada bagian sensor. Sensor ini biasanya digunakan sebagai pengontrol game pada sarung tangan pengendali. Jadi, siapa pun bisa membuat robot fighter sendiri dengan bantuan sensor ini.
+
+**13. Sensor Flow Meter** 
+
+**[![Sensor Flow Meter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZ86B12y4k4Zue-Uf21WEwZh4Luxg4ioQJPDGr1vyIMdXbhtqVUBKJ8nSyDKMxsXfXGqMFqMj_d5rcEEMpsFs6wMwUChUTspas9mPuig0LkuB34OJaS-4HgnovuD0UBysnNUKn_Oq-vIqUoQ7k_uSY5tI3rwmGiCZYdbTFjgv4LCdDHaSp-ck31Pi/s16000/Sensor%20Flow%20Meter.jpg "Sensor Flow Meter")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZ86B12y4k4Zue-Uf21WEwZh4Luxg4ioQJPDGr1vyIMdXbhtqVUBKJ8nSyDKMxsXfXGqMFqMj_d5rcEEMpsFs6wMwUChUTspas9mPuig0LkuB34OJaS-4HgnovuD0UBysnNUKn_Oq-vIqUoQ7k_uSY5tI3rwmGiCZYdbTFjgv4LCdDHaSp-ck31Pi/s217/Sensor%20Flow%20Meter.jpg)**
+
+  
+
+Sensor flow meter berfungsi untuk mengukur besarnya debit dan kecepatan cairan dalam suatu saluran atau pipa. Sensor ini sudah kompatibel dengan Arduino, sehingga sensor ini bisa langsung dgunakan untuk pembuatan project.
+
+**14. Sensor Api (Flame Sensor)** 
+
+**[![Sensor Api (Flame Sensor)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjq8mU2RbhDu6TSBsOk00bV1NNCsYPTyDPyXLSbFDUmoYfZ4a8_vHf71Kw3X-ov3rUJ318TMShMfA4nyUhtj-lDwc0hPkqaAIZNUXKzrqzfEscXBZjp055BoKO1x1walZaRqn_CS1scySx624e1CgKnMNdktWDeuTTEd3-oebPW0uuetX5X7xTKUS/w320-h173/flame%20sensor.jpg "Sensor Api (Flame Sensor)")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjq8mU2RbhDu6TSBsOk00bV1NNCsYPTyDPyXLSbFDUmoYfZ4a8_vHf71Kw3X-ov3rUJ318TMShMfA4nyUhtj-lDwc0hPkqaAIZNUXKzrqzfEscXBZjp055BoKO1x1walZaRqn_CS1scySx624e1CgKnMNdktWDeuTTEd3-oebPW0uuetX5X7xTKUS/s500/flame%20sensor.jpg)**
+
+Sensor api memiliki sifat yang sangat sensitif terhadap nyala api dan radiasi yang ada di sekitarnya. Jadi, **_sensor_** ini seringkali digunakan untuk membuat alarm kebakaran.
+
+**15. Sensor Kelembaban Tanah (Soil Moisture)** 
+
+**[![Soil Moisture](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLVEg8kTOehh_YNbkf-wH_lv7AdA19nPAKH7Ez5rGw8Nmgcq0l8sfgWGVj8F3zFdAU4QcFFmlNncLujhtBGSZ8hTEeZSFOfw22OzQ52T6mu2BKlzo84p9yJQaJ-OYk_JN5oyQbLJMttRY_WQHKM47GTpnnCu75ej7ULvB95KOpWBjDvKur0FS3fqH/s16000/Soil%20Moisture.jpg "Soil Moisture")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLVEg8kTOehh_YNbkf-wH_lv7AdA19nPAKH7Ez5rGw8Nmgcq0l8sfgWGVj8F3zFdAU4QcFFmlNncLujhtBGSZ8hTEeZSFOfw22OzQ52T6mu2BKlzo84p9yJQaJ-OYk_JN5oyQbLJMttRY_WQHKM47GTpnnCu75ej7ULvB95KOpWBjDvKur0FS3fqH/s241/Soil%20Moisture.jpg)**
+
+_Soil moisture_ atau sensor kelembaban tanah berfungsi untuk mengukur kadar air dalam tanah atau tingkat kelembaban dari tanah. Umumnya **_sensor_** ini digunakan untuk membuat penyiram tanaman otomatis yang dimana parameternya adalah kelembaban tanah.
+
+**16. Sensor Deteksi Kecepatan (RPM)** 
+
+**[![Sensor Deteksi Kecepatan (RPM)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVPYIN1B_IUXD-NP2cd3efOhKBTznAyDuFR0iIos4L0qc32baFsu3DVoOe-F9wWY3Ubb5e4cIrnWXTO0fs7yHtl_djLzeTgzL48MFupW3QEdZ1yz_Ng2EDsIDUwVx3wd_h7HqjyxN3_K624G4Zs9LqabbvQoO1TuPzqhTea7GEudMEHx-VT1ILXUBl/s16000/Sensor%20Deteksi%20Kecepatan%20(RPM)%C2%A0.jpg "Sensor Deteksi Kecepatan (RPM)")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVPYIN1B_IUXD-NP2cd3efOhKBTznAyDuFR0iIos4L0qc32baFsu3DVoOe-F9wWY3Ubb5e4cIrnWXTO0fs7yHtl_djLzeTgzL48MFupW3QEdZ1yz_Ng2EDsIDUwVx3wd_h7HqjyxN3_K624G4Zs9LqabbvQoO1TuPzqhTea7GEudMEHx-VT1ILXUBl/s244/Sensor%20Deteksi%20Kecepatan%20\(RPM\)%C2%A0.jpg)**
+
+_Sensor RPM_ berfungsi untuk mengukur kecepatan roda. Sensor ini cocok ketika ingin membuat project yang butuh pengukur kecepatan roda. Salah satu jenis **_sensor_** pendeteksi kecepatan untuk Arduino adalah LM393.
+
+**17. Sensor Tekanan (_Barometic Sensor_)** 
+
+**[![Barometic Sensor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYLTg8wx8382RL17FyLdqgzwKA0p-VT0xaE0JQez9saR9DMjCf49lHyy1VZVfbgND4zarPYUolB-vs9SN50NapAdeRYrzoKb6A8v1fISsLmGc_8ccRjN0yf6O9C6Q55W4ugymXWol7JsyTETNAqG0WwEIQiPA1_FzW6unWxYtErbUFiQU0O7y5awJR/s16000/Barometic%20Sensor.jpg "Barometic Sensor")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYLTg8wx8382RL17FyLdqgzwKA0p-VT0xaE0JQez9saR9DMjCf49lHyy1VZVfbgND4zarPYUolB-vs9SN50NapAdeRYrzoKb6A8v1fISsLmGc_8ccRjN0yf6O9C6Q55W4ugymXWol7JsyTETNAqG0WwEIQiPA1_FzW6unWxYtErbUFiQU0O7y5awJR/s254/Barometic%20Sensor.jpg)**
+
+_Sensor tekanan_ memiliki fungsi utama yaitu mengukur besarnya tekanan pada suatu objek. Baik itu berupa zat cair, zat padat, maupun gas. Salah satu contoh sensor tekanan yaitu MPX2050GP.
+
+**18. Sensor Kemiringan (Tilt)** 
+
+**[![Sensor Kemiringan (Tilt)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWRHtBW_7As6HEN8ftPyc7VtAZLyxWOtro5y8OdlBBNUfZ7roHdo9fHell1Ajyq3y1z-1jUsFVpqTrgvBZktaENTL4lPHNaQySOLcODbaHsUNlA5czEVkwCrSBsaodUEtSB6rX2wBNgcFKIw0jAOyncHfipl5NWlvpy1_69kyHETGLpmJjmnAmT_w/s16000/Sensor%20Kemiringan%20(Tilt).jpg "Sensor Kemiringan (Tilt)")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWRHtBW_7As6HEN8ftPyc7VtAZLyxWOtro5y8OdlBBNUfZ7roHdo9fHell1Ajyq3y1z-1jUsFVpqTrgvBZktaENTL4lPHNaQySOLcODbaHsUNlA5czEVkwCrSBsaodUEtSB6rX2wBNgcFKIw0jAOyncHfipl5NWlvpy1_69kyHETGLpmJjmnAmT_w/s229/Sensor%20Kemiringan%20\(Tilt\).jpg)**
+
+_Sensor kemiringan_ Arduino memiliki fungsi yaitu untuk mendeteksi seberapa besar kemiringan suatu objek terhadap alasnya. Kebanyakan sensor ini diterapkan pada sepeda motor supaya mesin motor bisa mati sendiri ketika mencapai kemiringan tertentu. Salah satu tipe sensor tilt adalah CMPS11 Arduino.
+
+**19. Sensor Getaran** 
+
+**[![Sensor Getaran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Ng3f-kHt64qjrOv4p4emS8T_qGTo6RgbDa-rx35enGnPK8QKg3RQ21UehLGFaR7jtzirflD5_BA8K-R1le4Vx79jFg7Zb0BUX8JeZLXefry1Xf9cz2Ex1C2WxY-bKZSoDOTErsem8yQOzVyXf5jAEHN6x_PIfbWNDN4esG8bYRGuEHsWlbKTUXUY/s16000/Sensor%20Getaran.jpg "Sensor Getaran")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Ng3f-kHt64qjrOv4p4emS8T_qGTo6RgbDa-rx35enGnPK8QKg3RQ21UehLGFaR7jtzirflD5_BA8K-R1le4Vx79jFg7Zb0BUX8JeZLXefry1Xf9cz2Ex1C2WxY-bKZSoDOTErsem8yQOzVyXf5jAEHN6x_PIfbWNDN4esG8bYRGuEHsWlbKTUXUY/s255/Sensor%20Getaran.jpg)**
+
+_Sensor getaran_ merupakan sensor yang berfungsi untuk mendeteksi adanya getaran pada suatu media. **_Sensor_** ini bekerja dengan mengonversi getaran menjadi sinyal listrik yang dapat dibaca oleh Arduino. Biasanya sensor getar ini digunakan dalam membuat alat pendeteksi gempa. Tipe yang paling umum digunakan adalah SW-420.
+
+**20. Sensor Sentuh** 
+
+**[![Sensor Sentuh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLk531sX8zP5VSmaM18KDJ5_4huhjHZJaCb01sE4jfmZBUsiM1oIftph25jfCxl8Ssdjdij-XoyT5FsFNE4vRIskiCtDHFagvYnI9cr_AVP7uBTYVi0hxvqIb-zE30vRyxiwd3ZSkPpXRmzK_82LZLWAnPlXujuSWDuX_JNZEVxeTxUXPWQCQ4fbxk/s16000/Sensor%20Sentuh.jpg "Sensor Sentuh")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLk531sX8zP5VSmaM18KDJ5_4huhjHZJaCb01sE4jfmZBUsiM1oIftph25jfCxl8Ssdjdij-XoyT5FsFNE4vRIskiCtDHFagvYnI9cr_AVP7uBTYVi0hxvqIb-zE30vRyxiwd3ZSkPpXRmzK_82LZLWAnPlXujuSWDuX_JNZEVxeTxUXPWQCQ4fbxk/s195/Sensor%20Sentuh.jpg)**
+
+_Sensor sentuh_ merupakan jenis **_sensor_** yang berfungsi untuk mendeteksi sentuhan dan biasanya digunakan sebagai saklar. Fungsinya hampir sama dengan sensor sidik jari, hanya saja sensor sentuh dapat digunakan tanpa bergantung pada sidik jari tertentu. Jadi, semua jenis sidik jari bisa menggunakannya. Sederhananya, sensor ini digunakan sebagai saklar untuk menyalakan lampu atau alat elektronik lainnya.
+
+**21. Sensor Detak Jantung (_Pulse Heart Sensor_)** 
+
+**[![Pulse Heart Sensor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi83SI4e3rpqgvY75M0kplnyFYzJD67rKWKskSu2YCRbXDVnJsozeDXEFltWjwV96gXX_Fawwwi8x3dYGfDQGya2_HL3W1TsJRLBjr7sFrqE2adz2-ZNKGZiEarB1MWVTH2fTfr9pVOJDSR4SRZWqd7jKyHlbrKhUEYkoTf9Z3a7X9HsTQzwUn5DI2C/s16000/Pulse%20Heart%20Sensor.jpg "Pulse Heart Sensor")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi83SI4e3rpqgvY75M0kplnyFYzJD67rKWKskSu2YCRbXDVnJsozeDXEFltWjwV96gXX_Fawwwi8x3dYGfDQGya2_HL3W1TsJRLBjr7sFrqE2adz2-ZNKGZiEarB1MWVTH2fTfr9pVOJDSR4SRZWqd7jKyHlbrKhUEYkoTf9Z3a7X9HsTQzwUn5DI2C/s268/Pulse%20Heart%20Sensor.jpg)**
+
+_Sensor detak jantung_ memiliki fungsi untuk mengukur banyaknya detak jantung per satuan menit atau BPM (Beat Per Minutes). **_Sensor_** ini biasanya digunakan untuk membuat alat yang fungsinya untuk memantau kinerja jantung.
