@@ -466,13 +466,768 @@ Pakaian adat Indonesia memang menjadi simbol di tiap daerahnya. Tentunya masing-
 32. Provinsi Maluku Utara, yaitu Pakaian Adat Manteren Lamo dan Kimun Gia
 33. Provinsi Papua Barat, yaitu Pakaian Adat Ewer
 34. Provinsi Papua, yaitu Koteka dan Rok Rumbai
+### 3. Rumah Adat
+Rumah adat tradisional adalah sebuah bangunan atau konstruksi yang sengaja dibangun dan dibuat sama persis dari tiap-tiap generasinya, tanpa adanya modifikasi. Rumah adat masih dipertahankan, baik segi kegunaan, fungsi sosial, dan budaya di balik corak atau desain bangunan tersebut.
+
+Pada setiap rumah adat yang dimiliki oleh 34 provinsi di Indonesia, tentu memiliki ciri karakteristik masing-masing. Rumah adat sendiri dapat digunakan sebagai tempat tinggal atau hunian suatu suku bangsa tertentu dan bisa pula menjadi tempat yang bersejarah, serta dipakai sebagai pelaksanaan upacara adat.
+
+Selain itu, rumah adat di tiap-tiap provinsi di Indonesia memiliki namanya masing-masing. Berikut ini daftar nama-nama rumah adat beserta provinsi asalnya.
+
+#### **Daftar Nama Rumah Adat beserta Provinsinya**
+
+| **No.** | **Nama-Nama Rumah Adat**              | **Provinsi**               |
+| ------- | ------------------------------------- | -------------------------- |
+| 1       | Rumoh Aceh                            | Aceh                       |
+| 2       | Rumah Adat Bolon                      | Sumatera Utara             |
+| 3       | Rumah Adat Gadang                     | Sumatera Barat             |
+| 4       | Rumah Adat Melayu Selaso Jatuh Kembar | Kepulauan Riau dan Riau    |
+| 5       | Rumah Adat Panggung                   | Jambi                      |
+| 6       | Rumah Adat Bubungan Lima              | Bengkulu                   |
+| 7       | Rumah Adat Limas                      | Sumatera Selatan           |
+| 8       | Rumah Adat Nuwou Sesat                | Lampung                    |
+| 9       | Rumah Adat Gapura Candi Bentar        | Bali                       |
+| 10      | Rumah Adat Kebaya                     | DKI Jakarta                |
+| 11      | Rumah Adat Kesepuhan                  | Jawa Barat                 |
+| 12      | Rumah Adat Joglo                      | Jawa Timur dan Jawa Tengah |
+| 13      | Rumah Adat Bangsal Kencono            | DI Yogyakarta              |
+| 14      | Rumah Adat Dalam Loka Samawa          | Nusa Tenggara Barat        |
+| 15      | Rumah Adat Sao Ata Mosa Lakitana      | Nusa Tenggara Timur        |
+| 16      | Rumah Adat Panjang                    | Kalimantan Barat           |
+| 17      | Rumah Adat Betang                     | Kalimantan Tengah          |
+| 18      | Rumah Adat Banjar                     | Kalimantan Selatan         |
+| 19      | Rumah Adat Lamin                      | Kalimantan Timur           |
+| 20      | Rumah Adat Bolaang Mongondow          | Sulawesi Utara             |
+| 21      | Rumah Adat  Souraja/Rumah Raja        | Sulawesi Tengah            |
+| 22      | Rumah Adat Laikas                     | Sulawesi Tenggara          |
+| 23      | Rumah Adat Tongkonan                  | Sulawesi Selatan           |
+| 24      | Rumah Adat Baileo                     | Maluku                     |
+| 25      | Rumah Adat Dulohupa                   | Gorontalo                  |
+| 26      | Rumah Adat Honai                      | Papua                      |
+### 4. Alat Musik Tradisional
+Alat musik tradisional Indonesia merupakan alat musik yang sudah turun-temurun dari generasi ke generasi dan berkembang di daerah-daerah tertentu. Dengan begitu, hal itu menjadi bukti bahwa Indonesia memiliki aset yang beragam.
+
+Dalam masyarakat adat, lazimnya alat musik tradisional memiliki 3 fungsi, di antaranya:
+
+1. Alat musik tradisional digunakan sebagai salah satu media atau sarana upacara adat yang memang diselenggarakan secara turun-temurun.
+2. Alat musik tradisional dapat berfungsi sebagai pengisi latar musik pada pertunjukan seni daerah setempat.
+3. Alat musik tradisional bisa menjadi sarana ekspresi, kreasi, bahkan komunikasi.
+
+Indonesia mempunyai berbagai alat musik tradisional khas dan unik yang mana tidak akan didapati di negara lain. Hebatnya, beberapa alat musik tradisional Indonesia telah dikenal hingga ke ranah Internasional. _Apa saja alat musik itu?_ Berikut akan dijabarkan beberapa alat musik khas negara Indonesia yang telah menyebar dan terkenal hingga ke seluruh dunia.
+#### Beberapa Alat Musik Indonesia yang Mendunia
+1. Angklung
+Angklung merupakan salah satu alat musik tradisional dari Jawa Barat yang telah dikenal hingga ke ranah Internasional. Angklung adalah alat musik yang terbuat dari belahan bambu yang dirangkai dan disusun sehingga apabila digoyangkan akan menciptakan nada yang khas.
+
+Angklung termasuk budaya Indonesia yang telah menjadi daya pikat wisatawan asing. Seperti yang diketahui bahwa angklung telah diakui UNESCO sebagai “Warisan Budaya Dunia.”
+2. Gamelan
+Gamelan adalah perpaduan dari beberapa alat musik tradisional Indonesia yang dimainkan bersamaan, terdiri dari gong, gambang, saron, kenong, dan beberapa alat musik lainnya.
+
+Sejak tahun 2014, Alat musik tradisional Jawa, Sunda, Bali dan Lombok ini telah diakui _The United Nations Educational, Scientific and Cultural Organization_ (UNESCO). Terlebih, di beberapa negara, seperti Amerika Serikat, Australia, Kanada, juga Inggris telah mengadakan pendidikan seni gamelan.
+3. Tifa
+Alat musik tradisional Tifa berasal dari Maluku dan Papua, bentuknya mirip tabung yang dimainkannya dengan dipukul. Lazimnya, tifa dimainkan saat upacara adat, mengiringi tarian tradisional khas Indonesia, serta pertunjukan musik tradisional. Berdasarkan jenisnya, tifa terbagi menjadi tifa jekir, dasar, bas, dan potong.
+4. Sasando
+Sejak abad ke-7, Sasando telah dipakai di Rote, tepatnya Nusa Tenggara Timur. Alat musik tradisional NTT ini, berupa kawat yang dimainkannya dengan dipetik. Sasando memiliki keunikan, yakni pada bagian utama dengan bentuk tabung panjang dari belahan bambu. Keunikan tersebut mengantarkan sasando menjadi alat musik tradisional Indonesia yang mendapatkan penghargaan dari _The United Nations Educational, Scientific and Cultural Organization_ (UNESCO).
+5. Kolintang
+Kolintang adalah alat musik tradisional dari Sulawesi Utara yang biasanya difungsikan untuk mengiringi upacara adat penghormatan arwah leluhur. Tahun 2019, kolintang dimainkan oleh 1.223 orang hingga akhirnya berhasil memecahkan rekor dunia. Seiring berkembangnya zaman, fungsi kolintang beralih ke ranah industri kreatif, seperti menjadi pengiring lagu tradisional, pengiring tari tradisional, bahkan orkestra.
+### 5. Tarian Adat
+Tarian adat tradisional adalah tarian yang berkembang dan tentunya dilestarikan oleh daerah tertentu dari generasi ke generasi berikutnya. Tarian adat tradisional lazimnya memiliki karakteristik yang memperlihatkan budaya dan kearifan daerah setempat.
+
+Tarian adat tradisional menjadi salah satu keragaman budaya Indonesia yang terkenal dan banyak diperlihatkan di acara penting tingkat Internasional. Berbagai provinsi di Indonesia mempunyai tarian adat tradisionalnya tersendiri, bahkan satu provinsi dapat memiliki lebih dari satu ragam tarian. Untuk mengetahui berbagai nama tarian adat tradisional, kalian bisa baca [25 Nama Tarian Daerah dan Asalnya](https://www.gramedia.com/literasi/25-tarian-daerah-dan-asalnya/)
+#### Daftar Tarian Daerah di Indonesia
+1. Tari Saman Asal Aceh
+2. Tari Tor Tor Asal Tapanuli Utara
+3. Tari Piring Asal Minangkabau
+4. Tari Taruk Langgai Asal Mentawai
+5. Tari Ronggeng Blantek Asal Betawi
+6. Tari Jaipong Asal Karawang
+7. Tari Topeng Asal Cirebon
+8. Tari Bedhaya Asal Yogyakarta
+9. Tari Serimpi Asal Yogyakarta
+10. Tari Gambyong Asal Solo
+11. Tari Reog Asal Ponorogo
+12. Tari Jaran Kepan Asal Ponorogo
+13. Tari Kecak Asal Bali
+14. Tari Pendet Asal Bali
+15. Tari Kancet Ledo atau Tari Gong Asal Kutai Kartanegara
+16. Tari Tempurung Asal Sulawesi Utara
+17. Tari Kipas Pakarena Asal Sulawesi Selatan
+18. Tari Paduppa Bosara Asal Sulawesi Selatan
+19. Tari Gandrung Asal Lombok Nusa Tenggara Barat (NTT)
+20. Tari Caci Asal Nusa Tenggara Timur (NTT)
+21. Tari Lego Lego Asal Nusa Tenggara Timur (NTT)
+22. Tari Tide Tide Asal Maluku Utara
+23. Tari Saureka Reka Asal Maluku
+24. Tari Selamat Datang Asal Papua Timur
+25. Tari Sajojo Asal Papua
+### 6. Senjata Tradisional
+Senjata tradisional adalah hasil budaya yang sangat berkaitan dengan suatu masyarakat daerah tertentu. Senjata tradisional berfungsi guna berlindung dari serangan musuh, kemudian aktivitas berburu dan berladang. Seiring berjalannya waktu, senjata tradisional menjadi jati diri suatu bangsa sebagai bentuk aset kebudayaan bangsa Indonesia.
+
+Setiap provinsi di Indonesia tentu memiliki senjata tradisional yang berbeda antara satu dan lainnya, serta memiliki nilai aturan selaras dengan norma budaya yang diberlakukan.
+
+Adapun beberapa senjata tradisional Indonesia, di antaranya Keris berasal dari Jawa, Kawali atau Badik dari Sulawesi, Mandau dari provinsi Kalimantan, celurit dari Madura (Jawa Timur), Rencong dari Aceh, Parang Salawaku dari Maluku, dan sebagainya.
+
+Berbagai senjata tradisional yang berbahan baku dari yang ada disekitar lingkungan daerah tersebut pada zamannya juga bisa Grameds temukan pada buku Ensiklopedia Negeriku Senjata Tradisional.
+### 7. Lagu Daerah
+Lagu daerah adalah semacam lantunan yang dinyanyikan oleh masyarakat suatu daerah. Bisa dikatakan, lagu daerah menyerupai lagu kebangsaan yang sifatnya ‘kedaerahan’.
+
+Karena Indonesia adalah negara dengan beragam suku bangsa juga budaya, hal itu menjadikan lagu-lagu daerah di Indonesia sangat banyak dan pastinya di tiap daerah memiliki lagunya masing-masing. Lazimnya, lagu daerah menggunakan bahasa daerah setempat.
+
+Lagu-lagu daerah di Indonesia yang cukup populer, di antaranya Kicir-Kicir dan Jali-Jali dari DKI Jakarta, Ampar-Ampar Pisang dari Kalimantan Selatan, Apuse dari Papua, Ayam Den Lapeh dari Sumatera Barat, Bubuy Bulan dari Jawa Barat, Bungong Jeumpa dari Aceh, Gundul Pacul berasal dari Jawa Tengah, Indung-Indung dari Kalimantan Timur, serta tentunya masih banyak lagi.
+### 8. Makanan Khas Daerah
+Seperti yang sudah dijelaskan di awal bahwa keragaman ras dan suku bangsa Indonesia melahirkan berbagai bentuk keragaman budaya, salah satunya makanan khas daerah.
+
+Sebagai negara kepulauan dengan tanahnya yang subur serta dapat menumbuhkan berbagai jenis tanaman, menjadikan Indonesia kaya akan rempah-rempah.
+
+Dari situlah, Indonesia mampu menciptakan makanan khas dengan cita rasa rempah-rempah yang melekat di setiap hidangannya. Dengan demikian, Indonesia mampu menjadi salah satu negara dengan wisata kuliner yang diapresiasi oleh mancanegara.
+
+Beberapa makanan khas daerah di Indonesia yang cukup terkenal, di antaranya.
+
+#### **Makanan Khas Pulau Sumatera**
+
+- Rendang (Padang, Sumatera Barat)
+- Sate Padang (Sumatera Barat)
+- Pempek (Palembang, Sumatera Selatan)
+- Tekwan (Palembang, Sumatera Selatan)
+- Ayam Pop (Sumatera Barat)
+- Bika Ambon (Medan, Sumatera Utara)
+- Kari atau Kare (Sumatera Utara)
+- Mie Aceh (Aceh)
+- Nasi Gurih (Aceh)
+- Mie Jalak Sabang (Aceh)
+- Tasak Telur (Aceh)
+- Gulai Kambing khas Aceh (Aceh)
+- Ayam Tangkap (Aceh)
+
+Temukan berbagai kuiner khas Sumatra Utara yang sangat bervariasi pula pada buku Kuliner Sumatera Utara – Harmoni Rasa Diterpa Alunan Gondang – Dalam Indahnya Alam Semesta.
+
+#### **Makanan Khas Pulau Jawa**
+
+- Rawon (Jawa Timur)
+- Lontong Balap (Jawa Timur)
+- Rujak Cingur (Jawa Timur)
+- Soto Lamongan (Jawa Timur)
+- Bakso Malang (Jawa Timur)
+- Soto Kudus (Jawa Tengah)
+- Garang Asem (Jawa Tengah)
+- Lumpia Semarang (Jawa Tengah)
+- Gudeg (Yogyakarta)
+- Cenil (Yogyakarta)
+- Krecek (Yogyakarta)
+- Mangut Lele (Yogyakarta)
+- Nasi Timbel (Jawa Barat)
+- Mie Kocok (Jawa Barat)
+- Kupat Tahu (Jawa Barat)
+- Karedok (Jawa Barat)
+- Asinan Betawi (Jakarta)
+- Lontong Sayur (Jakarta)
+- Nasi Uduk (Jakarta)
+- Kerak Telor (Jakarta)
+
+Jakarta yang saat ini telah menjadi metropolitan juga memiliki berbagai warisan sejarah dan budaya Betawi dan salah satunya adalah kuliner seperti yang dapat kita lihat diatas. Temukan berbagai makanan asal Betawi lainnya pada buku Makanan Khas Betawi.
+
+#### **Makanan Khas Bali**
+
+- Bebek Betutu
+- Nasi Jinggo
+- Sate Lilit
+- Sate Pentul
+- Bebek Bengil
+- Ayam Betutu
+- Rujak Buleleng
+- Siobak Khe Lok
+- Nasi Campur Bali
+- Ikan Asap Sambal Matah
+- Rujak Kuah Pindang
+
+#### **Makanan Khas Pulau Kalimantan**
+
+- Soto Banjar (Kalimantan Selatan)
+- Ikan Patin Baubar (Kalimantan Selatan)
+- Ketupat Kandangan (Kalimantan Selatan)
+- Iwak Pakasam (Kalimantan Selatan)
+- Tumis Kapah (Kalimantan Utara)
+- Ikan Asin Richa (Kalimantan Utara)
+- Sate Ikan Pari (Kalimantan Utara)
+- Kepiting Soka (Kalimantan Utara)
+- Bubur Pedas (Kalimantan Barat)
+- Mie Sagu (Kalimantan Barat)
+- Kerupuk Basah (Kalimantan Barat)
+- Asam Pedas Tempoyak (Kalimantan Barat)
+- Nasi Kuning Ikan Haruan (Kalimantan Timur)
+- Sate Payau (Kalimantan Timur)
+- Ikan Jelawat (Kalimantan Tengah)
+- Kalumpe (Kalimantan Tengah)
+- Terong Mapui (Kalimantan Tengah)
+
+#### **Makanan Khas Pulau Sulawesi**
+
+- Coto Makassar (Sulawesi Selatan)
+- Konro (Sulawesi Selatan)
+- Pisang Ijo (Sulawesi Selatan)
+- Bolu Peca’ (Sulawesi Selatan)
+- Nasi Jaha (Sulawesi Utara)
+- Cakalang Fufu (Sulawesi Utara)
+- Sambal Roa (Sulawesi Utara)
+- Bubur Manado (Sulawesi Utara)
+- Mie Cakalang (Sulawesi Utara)
+- Toppa Ikan Tuna (Sulawesi Barat)
+- Kue Cucur (Sulawesi Barat)
+- Sambusa (Sulawesi Barat)
+- Ikan Dole (Sulawesi Tenggara)
+- Sate Gogos Pokea (Sulawesi Tenggara)
+- Kabuto (Sulawesi Tenggara)
+
+#### **Makanan Khas Pulau Papua**
+
+- Papeda
+- Kue Lontar
+- Ikan Bakar Manokwari
+- Sagu Lempeng
+- Ikan Bungkus
+- Udang Selingkuh
+- Kue Bagea
+- Sambal Colo-Colo
 
 # Jenis-Jenis Makanan Tradisional
+
+1. Aceh - Mie Aceh
+2. Sumatra Utara - Bikang Ambon
+3. Sumatra Barat - Rendang
+4. Jambi - Gulai Ikan Patin
+5. Bengkulu - Pendap
+6. Riau - Gulai Belacan
+7. Kepulauan Riau - Otak-Otak
+8. Sumatra Selatan - Empek-Empek
+9. Bangka Belitung - Mi Bangka
+10. Lampung - Seruit
+11. Banten - Satai Bandeng
+12. DKI Jakarta - Kerak Telur
+13. Jawa Barat - Serabi
+14. Jawa Tengah - Lumpia
+15. DI Yogyakarta - Gudeg
+16. Jawa Timur - Rujak Cingur
+17. Bali - Ayam Betutu
+18. Nusa Tenggara Barat - Ayam Taliwang
+19. Nusa Tenggara Timur - Catemak Jagung
+20. Kalimantan Barat - Bubur Pedas Sambas
+21. Kalimantan Tengah - Juhu Singkah
+22. Kalimantan Selatan - Soto Banjar
+23. Kalimantan Timur - Ayam Cincane
+24. Kalimantan Utara - Kepiting Soka
+25. Sulawesi Selatan - Sup Konro
+26. Sulawesi Tengah - Ikan Jantung Pisang
+27. Sulawesi Tenggara - Lapa-Lapa
+28. Gorontalo - Binte Biluhuta
+29. Sulawesi Utara - Tinutuan
+30. Sulawesi Barat - Bolu Paranggi
+31. Maluku - Ikan Asar
+32. Maluku Utara - Gohu Ikan
+33. Papua Barat - Ikan Bakar Manokwari
+34. Papua Tengah - Kue Sagu
+35. Papua - Papeda
+36. Papua Selatan - Aunu Senebere
+37. Papua Barat Daya - Cacing Laut Insonem
+38. Papua Pegunungan - Udang Selingkuh
 # Cara Melestarikan Flora dan Fauna yang Ada di Indonesia
+Adanya campur tangan dari manusia yang tidak bertanggung jawab dapat menimbulkan berbagai ancaman bagi kelestarian flora dan fauna.
+
+Terlebih adanya perubahan kondisi ilmu juga menjadi faktor yang mengancam kelestarian flora dan fauna.
+
+Jika kelestarian flora dan fauna terus terancam, maka bisa mengakibatkan kepunahan bagi flora dan fauna, Adjarian.
+
+Maka dari itu, diperlukan beberapa cara untuk melestarikan flora dan fauna di Indonesia.
+
+Terlebih bagi flora dan fauna yang sudah berisiko mengalami kepunahan.
+
+Nah, di Indonesia sendiri menjaga kelestarian lingkungan sudah tertuang dalam perundang-undangan.
+
+Salah satunya dalam UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.
+
+Yuk, kita cari tahu cara melestarikan flora dan fauna di Indonesia!
+
+_**"Indonesia merupakan negara yang memiliki kekayaan flora dan fauna yang harus dilindungi dari ancaman kepunahan."**_
+
+## **Cara Melestarikan Flora dan Fauna**
+
+Beberapa cara yang dapat dilakukan untuk melestarikan flora dan fauna di Indonesia, yaitu:
+
+**1. Menjaga Ekosistem**
+
+Lingkungan yang menjadi tempat tumbuh dan hidup bagi flora dan fauna merupakan faktor yang memengaruhi persebaran flora dan fauna.
+
+Terdapat banyak unsur lingkungan yang harus dijaga kelestariannya dengan baik.
+
+Tujuannya agar keberlangsungan hidup flora dan fauna tetap berlangsung.
+
+Menjaga ekosistem atau lingkungan merupakan salah satu cara untuk melestarikan flora dan fauna.
+
+Saat lingkungan terjaga dengan baik, maka pertumbuhan flora dan fauna juga akan ikut berkembang.
+
+**2. Membuat Undang-Undang**
+
+Membuat undang-undang merupakan cara lain yang bisa dilakukan untuk melestarikan flora dan fauna melalui jalur resmi.
+
+Ada beberapa perundang-undangan di Indonesia yang mengatur tentang flora dan fauna yang dilindungi, di antaranya:
+
+- UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.
+  
+
+**adjar.id** - Indonesia merupakan negara yang memiliki keanekaragaman **[flora dan fauna](https://adjar.grid.id/read/543773864/jawab-soal-alasan-iklim-berpengaruh-pada-persebaran-flora-dan-fauna?page=1)**.
+
+Hal inilah yang harus dijaga oleh seluruh elemen, baik pemerintah maupun masyarakat.
+
+Adanya campur tangan dari manusia yang tidak bertanggung jawab dapat menimbulkan berbagai ancaman bagi kelestarian flora dan fauna.
+
+Terlebih adanya perubahan kondisi ilmu juga menjadi faktor yang mengancam kelestarian flora dan fauna.
+
+Jika kelestarian flora dan fauna terus terancam, maka bisa mengakibatkan kepunahan bagi flora dan fauna, Adjarian.
+
+Maka dari itu, diperlukan beberapa cara untuk melestarikan flora dan fauna di Indonesia.
+
+Terlebih bagi flora dan fauna yang sudah berisiko mengalami kepunahan.
+
+Nah, di Indonesia sendiri menjaga kelestarian lingkungan sudah tertuang dalam perundang-undangan.
+
+Salah satunya dalam UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.
+
+Yuk, kita cari tahu cara melestarikan flora dan fauna di Indonesia!
+
+_**"Indonesia merupakan negara yang memiliki kekayaan flora dan fauna yang harus dilindungi dari ancaman kepunahan."**_
+
+****Baca Juga: [Lokasi Cagar Alam dan Suaka Margasatwa di Indonesia](https://adjar.grid.id/read/543404929/lokasi-cagar-alam-dan-suaka-margasatwa-di-indonesia)****
+
+## **Cara Melestarikan Flora dan Fauna**
+
+Beberapa cara yang dapat dilakukan untuk melestarikan flora dan fauna di Indonesia, yaitu:
+
+**1. Menjaga Ekosistem**
+
+Lingkungan yang menjadi tempat tumbuh dan hidup bagi flora dan fauna merupakan faktor yang memengaruhi persebaran flora dan fauna.
+
+Terdapat banyak unsur lingkungan yang harus dijaga kelestariannya dengan baik.
+
+Tujuannya agar keberlangsungan hidup flora dan fauna tetap berlangsung.
+
+Menjaga ekosistem atau lingkungan merupakan salah satu cara untuk melestarikan flora dan fauna.
+
+Saat lingkungan terjaga dengan baik, maka pertumbuhan flora dan fauna juga akan ikut berkembang.
+
+**2. Membuat Undang-Undang**
+
+Membuat undang-undang merupakan cara lain yang bisa dilakukan untuk melestarikan flora dan fauna melalui jalur resmi.
+
+Ada beberapa perundang-undangan di Indonesia yang mengatur tentang flora dan fauna yang dilindungi, di antaranya:
+
+- UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.
+
+**Baca Juga: [Daerah Konservasi Flora dan Fauna di Indonesia, Materi Geografi Kelas 11 Kurikulum Merdeka](https://adjar.grid.id/read/543580668/daerah-konservasi-flora-dan-fauna-di-indonesia-materi-geografi-kelas-11-kurikulum-merdeka)**
+
+- PP No. 8 Tahun 1999 tentang Pemanfaatan Jenis Tanaman dan Satwa Liar.
+
+- UU No. 12 Tahun 1992 tentang Sistem Budidaya Tanaman.
+
+Perundang-undangan tersebut masing-masing mengatur secara terperinci dan jelas tentang pemanfaatan dan perlindungan flora dan fauna langka beserta lingkungannya.
+
+**3. Penegakan Hukum**
+
+Melaksanakan undang-undang yang pasti dan jelas akan membuat penegakan hukum bisa segera dijalankan.
+
+Saat pelaksanaan dan penanganan dilakukan dengan baik, maka tindakan penyelundupan atau perburuan flora dan fauna langka akan berkurang.
+
+Terlebih Indonesia merupakan negara yang banyak memiliki keberagaman flora dan fauna.
+
+Sehingga, sebagai warga negara Indonesia menjaga kelestarian flora dan fauna menjadi tanggung jawab bagi seluruh elemen.
+
+**4. Melakukan Penangkaran**
+
+Penangkaran secara umum terbagi menjadi dua bentuk, yaitu in situ dan ex situ.
+
+Penangkaran in situ adalah metode penangkaran yang dilakukan untuk flora dan fauna di kondisi alam yang sama dengan tempat hidupnya.
+
+Sementara penangkaran ex situ adalah metode penangkaran yang dilakukan di luar ekosistem asli [flora](https://adjar.grid.id/tag/flora) dan [fauna](https://adjar.grid.id/tag/fauna) tersebut.
+
+Melakukan penangkaran dengan metode in situ dan ex situ ini merupakan salah satu cara untuk [melestarikan flora dan fauna](https://adjar.grid.id/tag/melestarikan-flora-dan-fauna).
+
+Penangkaran menjadi cara yang bisa dilakukan untuk mengurangi dampak buruk bagi flora dan fauna akibat aktivitas manusia.
+
+**5. Mendirikan Taman Nasional**
+
+Taman nasional merupakan kawasan pelestarian alam yang dimanfaatkan dan dikelola untuk berbagai kegiatan.
+
+Taman nasional dibuat untuk melindungi kelestarian flora dan fauna di suatu tempat.
+
+Adanya taman nasional dapat menjadi sarana bagi masyarakat untuk melakukan kegiatan pendidikan, pelatihan, ilmu pengetahuan, pariwisata, dan rekreasi.
+
+_**"[Cara melestarikan flora dan fauna](https://adjar.grid.id/tag/cara-melestarikan-flora-dan-fauna), di antaranya menjaga ekosistem, membuat undang-undang, penegakan hukum, melakukan penangkaran, dan mendirikan taman nasional."**_
+
+Itulah beberapa cara yang bisa dilakukan untuk melestarikan flora dan fauna di Indonesia.
 # Bentuk Kerja Sama dalam Segala Bidang Kehidupan
+[Kerja sama](https://www.kompas.com/tag/kerja-sama) atau gotong royong dapat dilihat dalam kehidupan sehari-hari. Bagaimana bentuk [kerja sama](https://www.kompas.com/tag/kerja-sama) dalam berbagai bidang kehidupan?
+
+Bentuk kerja sama atau gotong royong dalam kehidupan bermasyarakat, berbangsa dan bernegara dapat terlihat dari:
+
+1. Kerja sama dalam bidang kehidupan sosial politik
+2. Kerja sama dalam bidang kehidupan ekonomi
+3. Kerja sama dalam bidang kehidupan keamanan dan pertahanan
+4. Kerja sama dalam bidang kehidupan umat beragama
+
+Dikutip dari Kementerian Pendidikan dan Kebudayaan Republik Indonesia, berikut ini penjelasannya:
+
+- **Kerja sama dalam bidang kehidupan sosial politik**
+
+Landasan kehidupan sosial politik masyarakat Indonesia adalah Pancasila sila ke-4 yang berbunyi "_Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan_".
+
+Pancasila sila ke-4 menegaskan bahwa bangsa Indonesia akan:
+
+1. Memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan.
+2. Memelihara dan mengembangkan kehidupan demokrasi.
+3. Memelihara serta mengembangkan kearifan dan kebijaksanaan dalam bermusyawarah.
+
+Pangkal tolak pelaksanaan kehidupan sosial politik bangsa Indonesia adalah gotong royong. Tercermin dalam proses pengambilan keputusan di lembaga-lembaga negara dan organisasi kemasyarakatan dengan cara musyawarah untuk mufakat.
+- **Kerja sama dalam bidang kehidupan ekonomi**
+
+Dalam kehidupan ekonomi kerja sama digambarkan pada UUD 1945 pasal 23A yang berbunyi "_Pajak dan pungutan lain yang bersifat memaksa untuk keperluan negara diatur dengan perundang-undangan_".
+
+Pembangunan nasional untuk kesejahteraan dan kemakmuran rakyat dibiayai dari pajak. Setiap wajib pajak gotong royong membiayai pembangunan nasional melalui pembayaran pajak.
+
+Landasan lain adalah UUD 1945 pasal 33 ayat 1 yang berbunyi "_Perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan_". Menurut Moh. Hatta, UUD 1945 Pasal 33 ayat 1 merupakan soko guru sistem perekonomian di Indonesia.
+
+Artinya kegiatan usaha ekonomi menggunakan prinsip kerja sama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil.
+
+Wujud badan usaha yang dimaksud pasal itu adalah koperasi yang berlandaskan prinsip kerja sama dan kekeluargaan. Salah satu asas koperasi adalah gotong royong dan kekeluargaan.
+
+Keunggulan koperasi dibandingkan badan usaha lainnya adalah:
+
+1. Dasar persamaan artinya setiap anggota dalam koperasi mempunyai hak suara yang sama.
+2. Persatuan artinya setiap anggota dalam koperasi mempunyai hak suara yang sama.
+3. Pendidikan artinya koperasi mendidik anggotanya untuk hidup sederhana, tidak boros dan suka menabung.
+4. Demokrasi ekonomi artinya imbalan jasa yang disesuaikan dengan jasa masing-masing anggota berdasarkan keuntungan yang diperoleh.
+5. Demokrasi kooperatif artinya koperasi dibentuk oleh para anggota dijalankan oleh anggota dan hasilnya untuk kepentingan anggota.
+
+- **Kerja sama dalam bidang kehidupan pertahanan dan keamanan negara**
+
+Pasal 30 ayat 1 UUD 1945 menyebutkan "_Tiap-tiap negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara_".
+
+Selain itu, pasal 27 ayat 3 UUD 1945 menyebutkan "_Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara_".
+
+Kerja sama warga negara untuk mewujudkan pertahanan dan keamanan negara merupakan contoh sikap bela negara.
+
+Bela negara adalah sikap mental seseorang atau sekelompok orang untuk ikut serta dalam usaha melindungi dan mempertahankan keberadaan bangsa dan negara.
+
+Bagi bangsa Indonesia, bela negara adalah hak dan kehormatan sebagai warga negara sekaligus kewajiban hukum yang harus dijalani oleh setiap warga negara.
+
+Kesadaran bela negara mengembangkan nilai kenegaraan yang diperuntukkan pada pembangunan Sistem Pertahanan Negara terdiri dari lima nilai dasar bela negara yaitu:
+
+1. Cinta tanah air
+2. Kesadaran berbangsa dan bernegara
+3. Keyakinan Pancasila sebagai falsafah dan ideologi negara
+4. Rela berkorban untuk bangsa dan negara
+5. Memiliki kemampuan awal bela negara fisik maupun non fisik
+
+Keamanan dan pertahanan negara menjadi tanggung jawab seluruh komponen negara. Sesuai doktrin pertahanan negara Indonesia yang menganut sistem pertahanan dan keamanan rakyat semesta (sishankamrata).
+
+Artinya menjadikan rakyat sebagai komponen pendukung bersama-sama TNI dan POLRI berperan penting dalam menjaga kedaulatan negara, keutuhan wilayah, keselamatan bangsa dari ancaman dan gangguan.
+
+- **Kerja sama antarumat beragama**
+
+Pasal 29 ayat 2 UUD 1945 berbunyi "Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan beribadat menurut agama dan kepercayaannya itu".
+
+Kerja sama antarumat beragama dalam berbagai bidang kehidupan dilakukan untuk mewujudkan kerukunan hidup.
+
+Kerja sama ini bukan dalam hal keyakinan agama tetapi pada upaya menciptakan kerukunan hidup antarpemeluk agama melalui sikap saling menghormati dan toleransi.
+
+Kerja sama antarumat beragama ditandai dengan sikap-sikap sebagai berikut:
+
+1. Saling menghormati umat seagama dan beda agama.
+2. Saling menghormati lembaga keagamaan yang seagama dan beda agama.
+3. Sikap saling menghormati hak dan kewajiban umat beragama.
+
+Untuk mengembangkan sikap kerja sama antarumat beragama, setiap warga negara harus menghindari sikap tidak terpuji seperti:
+
+1. Sikap fanatik sempit yaitu merasa diri sendiri paling benar.
+2. Sikap individualis yaitu sifat lebih mendahulukan kepentingan sendiri.
+3. Sikap eksklusivisme yaitu selalu memisahkan diri dari kehidupan sosial di masyarakat karena ada perbedaan suku bangsa, adat istiadat, agama dan bahasa daerah.
+4. Sikap primordialisme yaitu perasaan kesukuan yang berlebihan.
 # Menjelaskan Kedudukan Pancasila Sebagai Dasar Negara
+KBBI mendefinisikan Pancasila sebagai dasar negara serta falsafah bangsa dan negara Republik Indonesia yang terdiri atas lima sila, yaitu (1) Ketuhanan Yang Maha Esa, (2) Kemanusiaan yang adil dan beradab, (3) Persatuan Indonesia, (4) Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan, dan (5) Keadilan sosial bagi seluruh rakyat Indonesia.
+
+Terkait arti Pancasila bagi bangsa Indonesia sebagai dasar negara adalah Pancasila merupakan dasar oleh negara dalam mengatur pemerintahan dan penyelenggaraan negara. Selain itu, arti Pancasila sebagai dasar negara juga dapat dimaknai dengan dijadikannya Pancasila sebagai pedoman dan prinsip dasar dalam kehidupan.
+
+Lebih lanjut, terkait kedudukan Pancasila sebagai dasar negara, diterangkan M. Syamsudin dkk. dalam _Pendidikan Pancasila: Menempatkan Pancasila dalam Konteks Keislaman dan Keindonesiaan,_ kedudukan atau fungsi Pancasila sebagai dasar negara dapat ditinjau dari berbagai aspek, yakni aspek historis, kultural, yuridis, dan filosofis.
+
+Secara historis, Pancasila dirumuskan dengan tujuan untuk dipakai sebagai dasar negara Indonesia Merdeka. Dalam prosesnya, segala perumusan Pancasila sebagai dasar negara ini digali dan didasarkan dari nilai-nilai pandangan hidup masyarakat Indonesia dan dituangkan menjadi kesatuan sebagai pandangan hidup bangsa.
+
+Secara kultural, [**Pancasila sebagai dasar negara**](https://www.hukumonline.com/klinik/a/kedudukan-pancasila-sebagai-sumber-hukum-negara-lt5cdbb96764783) merupakan sebuah hasil budaya bangsa. Oleh karenanya, Pancasila haruslah diwariskan kepada generasi muda melalui pendidikan. Jika tidak diwariskan, negara dan bangsa akan kehilangan kultur yang penting. Penting untuk diingat bahwa bangsa yang besar adalah bangsa yang memiliki kepedulian kepada pewarisan budaya luhur bangsanya.
+
+Secara yuridis, Pancasila sebagai dasar negara tercantum dalam Pembukaan UUD 1945. Sehubungan dengan itu, Pancasila memiliki kekuatan yang mengikat. Seluruh tatanan hidup bernegara yang bertentangan dengan Pancasila dinyatakan tidak berlaku dan harus dicabut.
+
+Secara filosofis, nilai-nilai Pancasila merupakan pandangan hidup bangsa Indonesia. Tatanan nilai ini tidak lain merupakan ajaran tentang berbagai bidang kehidupan yang dipengaruhi oleh potensi, kondisi bangsa, alam, dan cita-cita masyarakat. Lebih lanjut, dalam kehidupan berbangsa dan bernegara, Pancasila diakui sebagai filsafat hidup yang berkembang dalam sosial budaya Indonesia.
+
+**Makna Sila Pancasila**
+
+Kelima sila dalam hubungan Pancasila sebagai dasar negara tentu memiliki makna tersendiri. Disarikan dari _Pancasila_ susunan Tim Pusdiklat Pengembangan Sumber Daya Manusia, berikut makna dari tiap-tiap sila dalam Pancasila.
+
+**Makna Sila Pertama: Ketuhanan Yang Maha Esa**
+
+Nilai Ketuhanan menjadi sumber pokok nilai kehidupan bangsa. Ketentuan [**Pasal 29 ayat (1) UUD 1945**](https://www.hukumonline.com/pusatdata/detail/lt4ca2eb6dd2834/nprt/lt49c8ba3665987/uud-undang-undang-dasar-1945) menerangkan bahwa negara berdasarkan Ketuhanan yang Maha Esa. Kemudian, **Pasal 29 ayat (2) UUD 1945** menerangkan bahwa negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agama dan kepercayaannya itu.
+
+**Makna Sila Kedua: Kemanusiaan yang adil dan beradab**
+
+Sila kedua menyimpulkan cita-cita kemanusiaanbyang adil dan beradab memenuhi seluruh hakikat manusia. Sebagaimana rumusan sila kedua, setiap warga negara Indonesia mempunyai hak dan kewajiban yang sama. Setiap warga negara dijamin hak dan kebebasannya yang menyangkut hubungan dengan Tuhan, orang seorangan, negara, masyarakat, dan menyangkut pula kemerdekaan untuk berpendapat dan pekerjaan serta penghidupan yang layak.
+
+**Makna Sila Ketiga: Persatuan Indonesia**
+
+Persatuan mengandung pengertian bersatunya bermacam corak dan beraneka ragam menjadi satu kebulatan. Persatuan Indonesia mencakup persatuan dalam arti ideologis, politik, ekonomi, sosial, budaya, dan keamanan. Persatuan Indonesia merupakan [**persatuan bangsa**](https://www.hukumonline.com/berita/a/akar-pancasila-dan-masyarakat-minang-lt617659214260d?r=7&p=1&q=pancasila&rs=2000&re=2022) yang didorong untuk mencapai kehidupan kebangsaan yang bebas dalam wadah negara kesatuan yang merdeka dan berdaulat.
+
+**Makna SIla Keempat: Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan**
+
+Sila keempat menandakan Indonesia menganut dua macam demokrasi, yakni demokrasi langsung dan tidak langsung (demokrasi perwakilan). Hikmat kebijaksanaan berarti penggunaan pikiran atau rasio yang sehat dengan selalu mempertimbangkan persatuan dan kesatuan bangsa, kepentingan rakyat, dan dilaksanakan dengan sabar, jujur, dan bertanggung jawab serta didorong oleh itikad baik.
+
+Permusyawaratan adalah suatu tata cara khas kepribadian Indonesia untuk merumuskan atau memutuskan suatu hal berdasarkan kehendak rakyat hingga tercapai kesepakatan datau mufakat. Perwakilan sendiri adalah suatu sistem atau prosedur yang mengusahakan turut sertanya rakyat untuk ambil bagian dalam kehidupan bernegara, yakni melalui badan-badan perwakilan. Jika disimpulkan, sila keempat bermakna pemerintahan Republik Indonesia didasarkan atas kedaulatan rakyat.
+
+**Makna Sila Kelima: Keadilan sosial bagi seluruh rakyat Indonesia**
+
+Sila kelima berarti keadilan untuk semua rakyat, setiap warga negara mendapat perlakuan yang adil dalam bidang hukum, politik, sosial, ekonomi, dan kebudayaan. Keadilan sosial mencakup pula pengertian adil dan makmur.
+
+Keadilan sosial juga mengandung arti tercapainya keseimbangan antara kehidupan pribadi dan kehidupan masyarakat. Seia kelima ini adalah tujuan bangsa Indonesia dalam bernegara, yakni menghasilkan tata masyarakat adil makmur berdasarkan Pancasila sebagai dasar negara.
+
+Segala perumusan Pancasila sebagai dasar negara diambil dari nilai-nilai pandangan hidup masyarakat Indonesia dan dituangkan menjadi kesatuan sebagai pandangan hidup bangsa. Berdasarkan sejarahnya, perumusan Pancasila telah dilakukan sedemikian rupa hingga mencapai kesepakatan pada tiap sila-silanya. Setiap sila-sila dari Pancasila pun memiliki makna dan tujuan tersendiri sebagaimana yang telah disebutkan.
 # Kedaulatan ke Luar dan ke Dalam
+Kedaulatan menjadi komponen penting dalam kehidupan bernegara. Kedaulatan merupakan kekuasaan tertinggi pada suatu negara. Terdapat dua jenis kedaulatan, ada yang berupa kedaulatan keluar dan kedaulatan ke dalam.
+
+Kedaulatan dalam Kamus Besar Bahasa Indonesia (KBBI) berasal kata dasar ‘daulat’, yang memiliki pengertian yakni kekuasaan, pemerintahan. Sederhannya, kedaulatan merupakan kemampuan suatu pihak menerapkan aturan di wilayah teritorialnya.
+
+Untuk memahami terkait bentuk kedaulatan keluar, berikut pengertian kedaulatan keluar beserta perwujudannya.
+
+## Pengertian Kedaulatan Keluar
+Kedaulatan keluar merupakan kekuasaan paling tinggi yang berada pada suatu negara untuk mengadakan hubungan dengan negara lain serta mempertahankan wilayahnya dari ancaman luar. Penguasa pada negara tersebut berperan melindungi negaranya dari ancaman luar negeri.
+
+Mengutip jurnal berjudul "Eksistensi Kedaulatan Negara dalam Penerapan Yurisdiksi Mahkamah Pidana Internasional", eksistensi negara dalam hukum internasional yang terbagi menjadi kedaulatan negara keluar dan kedalam. Kedua jenis kedaulatan tersebut terbagi atas wewenang dan urusannya.
+
+Kedaulatan ke dalam adalah kekuasaan negara tersebut ditaati dan dapat dipaksakan kepada rakyatnya. Kedaulatan keluar merupakan sebuah kekuasaan tertinggi negara untuk mengadakan hubungan dengan negara lain dan mempertahankan wilayahnya dari ancaman luar.
+
+Dalam konsep kedaulatan keluar, negara dapat menjalin hubungan kerjasama dengan negara lain demi kepentingan negaranya. Kerjasama antar negara itu disebut dengan hubungan diplomatik. Hubungan diplomatik dapat meliputi politik, budaya, sosial, ekonomi dan lain sebagainya.
+
+Namun, perlu diketahui bahwa hukum internasional hanya dapat berlaku bila diakui oleh negara yang berdaulat. Oleh karena itu, unsur terbentuknya negara salah satunya yakni pemerintahan yang berdaulat.
+
+Dasar hukum kedaulatan atau legitimasi kedaulatan keluar dan kedalam ini dari sumber hukum nasonal yang juga ditambah dengan tertib hukum internasional yang diakui. Sumber hukum internasional berperan penting dalam pelaksanaan kedaulatan keluar.
+
+Hal tersebut sesuai dengan Pasal 38 Ayat (1) statuta International Court of Justice yang menegaskan, bahwa dalam pengadilan internasional, perselisihan yang terjadi akan diputuskan berdasarkan konvensi internasional, baik yang khusus atau umum yang mengatur tentang negara peserta, serta kebiasaan internasional yang hadir sebagai bukti praktik umum.
+
+Selain itu, terdapat pokok-pokok hukum yang diakui bangsa-bangsa, dan mengacu pada Pasal 59 terkait keputusan pengadilan untuk menentukan hukum.
+
+Berdasarkan statuta tersebut, pengadilan akan menerapkan 3 sumber hukum. Ketiga sumber hukum tersebut yakni Konvensi Internasional, Kebiasaan Internasional, Prinsip Umum Hukum, dan keputusan pengadilan serta ajaran humas untuk menentukan putusannya.
+
+Dalam konteks Republik Indonesia, kedaulatan keluar ini termaktub dalam pembukaan Undang-undang Dasar 1945 (UUD 1945), di mana dalam salah satu paragraf menyatakan "Ikut melaksanakan ketertiban dunia, berdasarkan kemerdekaan, perdamaian abadi dan keadilan sosial".
+
+### Bentuk Kedaulatan Keluar
+Setelah memahami pengertian kedaulatan dan kedaulatan keluar, berikut ini beberapa bentuk kedaulatan keluar selengkapnya.
+
+1. Mendirikan Duta Besar Di Luar Negeri
+Bentuk kedaulatan ini selaras dengan Pasal 13 Undang-undang Dasar 1945 (UUD 1945).
+
+2. Melaksanakan Politik Luar Negeri
+Politik luar negeri merupakan langkah, sikap, dan kebijakan pemerintah negara setempat untuk melakukan hubungan dengan negara lain atau organisasi internasional, serta subjek hukum lainnya. Langkah ini diambil untuk menghadapi masalah internasional untuk mencapai tujuan nasional.
+
+3. Mengadakan Hubungan Diplomatik
+Hubungan diplomatik merupakan hubungan antara dua negara atau lebih untuk memenuhi kebutuhan masing-masing negara.
+
+4. Ikut dalam Berbagai Organisasi Internasional
+Organisasi Internasional yang ada di dunia contohnya yakni Association of Southeast Asian Nations (ASEAN), Asia Pacific Economic Cooperation (APEC), World Trade Organization (WTO), International Monetary Fund (IMF), dan lain sebagainya
+
+5. Membuat Perjanjian dengan Negara Lain
+Perjanjian dengan negara lain ini digunakan sebagai pedoman membuat dan mengesahkan perjanjian internasional.
+
+6. Mengangkat Duta
+Duta merupakan perwakilan negara untuk melakukan tugasnya di bidang tertentu. Duta akan mengurusi urusan luar negeri mewakili negaranya.
+
+7. Melakukan Perdagangan Internasional
+Aktivitas perdagangan yang dilakukan oleh satu negara dengan negara lain atas dasar kesepakatan bersama.
+
+8. Presiden Menyatakan Perang dan Perdamaian
+Presiden menyatakan perang dan perdamaian dengan persetujuan DPR. Hal ini sesuai dengan Pasal 11 UUD 1945, yang menyatakan "Presiden dengan persetujuan DPR menyatakan perang, membuat perdamaian, dan perjanjian dengan negara lain".
+
+9. Mengadakan Kerjasama di Berbagai Bidang
+Demikian penjelasan terkait pengertian kedaulatan dan kedaulatan keluar beserta bentuk kedaulatan keluar selengkapnya.
+
+## Kedaulatan ke Dalam
+Kedaulatan kedalam (internal sovereignty) mengacu pada kekuasaan pemerintah dalam mengatur kehidupan negara melalui lembaga dan/atau perlengkapan negara. Apa yang dimaksud dengan kedaulatan kedalam dapat diartikan sebagai kekuasaan negara tersebut ditaati oleh rakyatnya, dan dapat dipaksakan untuk ditaati.
+
+Dalam kerangka kedaulatan kedalam, pemerintah bertanggung jawab untuk memastikan kepentingan dan kesejahteraan warga negara dilindungi dan dipenuhi. Namun, penting untuk diingat bahwa kedaulatan kedalam tidak berarti pemerintah berkuasa secara absolut atau tanpa batas. Pemerintah tetap terikat oleh prinsip-prinsip konstitusional, hak asasi manusia, keadilan, dan prinsip-prinsip demokrasi yang mengatur kekuasaan dan tindakan pemerintah agar tetap sesuai dengan kepentingan masyarakat.
+
+Kedaulatan ke dalam mengacu pada kekuasaan pemerintah dalam mengatur kehidupan negara, membuat kebijakan internal, dan menjalankan lembaga negara. Berikut bentuk-bentuk kedaulatan kedalam.
+### Bentu Kedaulatan ke Dalam
+1. Kekuasaan Legislatif
+Kedaulatan kedalam melibatkan kekuasaan pemerintah untuk membuat undang-undang yang mengatur kehidupan negara. Lembaga legislatif, seperti parlemen atau dewan perwakilan rakyat, berperan dalam proses pembuatan undang-undang dan kebijakan publik. Undang-undang tersebut mencakup berbagai aspek kehidupan negara, seperti kebijakan ekonomi, sosial, pendidikan, kesehatan, dan keamanan.
+
+2. Kekuasaan Eksekutif
+Pemerintah memiliki kedaulatan kedalam untuk menjalankan kebijakan publik dan mengambil tindakan yang diperlukan untuk melaksanakan undang-undang. Ini melibatkan lembaga eksekutif, seperti presiden, perdana menteri, atau kepala pemerintahan, yang bertanggung jawab atas pengambilan keputusan dan pelaksanaan kebijakan negara.
+
+3. Kekuasaan Yudikatif
+Apa yang dimaksud dengan kedaulatan kedalam juga mencakup kekuasaan pemerintah dalam menjalankan sistem peradilan. Lembaga yudikatif, seperti pengadilan dan mahkamah konstitusi, berperan dalam menafsirkan undang-undang, menyelesaikan sengketa, dan menegakkan keadilan di negara. Mereka bertanggung jawab untuk menjaga supremasi hukum dan menjamin hak-hak individu.
+
+4. Lembaga dan Perlengkapan Negara
+Kedaulatan kedalam melibatkan kekuasaan pemerintah dalam mengatur dan mengelola lembaga dan perlengkapan negara. Ini termasuk administrasi publik, aparat pemerintah, kepolisian, militer, dan sektor publik lainnya yang berfungsi untuk menjalankan tugas-tugas pemerintahan dan memastikan kehidupan negara berjalan dengan lancar.
 # Peran Rakyat dalam Pelaksanaan Kedaulatan Rakyat
+## Pengertian Kedaulatan Rakyat
+
+Kedaulatan rakyat adalah teori yang menyatakan bahwa kekuasaan tertinggi dalam suatu negara ada di tangan rakyatnya. Rakyat memberikan mandat kepada pemerintah melalui mekanisme pemilihan umum untuk menjalankan kehendak rakyat. Rakyat juga berhak mengawasi dan mengganti pemerintah yang tidak melaksanakan keinginan rakyat².
+
+Kedaulatan rakyat merupakan salah satu prinsip dasar demokrasi, yang menghormati hak-hak asasi manusia dan hukum yang berlaku di masyarakat. Dalam demokrasi, rakyat memiliki kebebasan dan persamaan dalam menentukan nasibnya sendiri³.
+
+## Peran Warga Negara dalam Mewujudkan Kedaulatan Rakyat
+
+Sebagai pemegang kedaulatan, warga negara memiliki peran penting dalam mewujudkan kedaulatan rakyat. Peran warga negara dapat dilakukan dalam berbagai bidang, antara lain:
+
+– Bidang politik: Warga negara berperan aktif dalam proses politik, seperti menggunakan hak pilihnya secara cerdas dan bertanggung jawab, mengikuti organisasi politik atau sosial yang sesuai dengan aspirasinya, menyampaikan pendapat atau kritik secara konstruktif, dan mengawasi kinerja pemerintah⁵.  
+– Bidang pertahanan: Warga negara berperan aktif dalam usaha pembelaan negara, seperti menjaga wilayah dan kekayaan tanah air Indonesia, menciptakan ketahanan nasional, menghormati perbedaan suku, budaya, agama dan warna kulit, serta mengikuti program wajib militer atau latihan perbantuan⁴.  
+– Bidang ekonomi: Warga negara berperan aktif dalam pembangunan ekonomi, seperti berusaha meningkatkan kesejahteraan diri dan masyarakat, membayar pajak sesuai ketentuan, mengembangkan potensi sumber daya alam dan manusia secara optimal dan berkelanjutan, serta mendukung program pemerintah yang pro-rakyat⁵.
+
+## Kesimpulan
+
+Kedaulatan rakyat adalah hak dan tanggung jawab warga negara untuk menentukan nasib bangsa dan negaranya. Warga negara dapat mewujudkan kedaulatan rakyat dengan berperan aktif dalam bidang politik, pertahanan, dan ekonomi. Dengan demikian, Indonesia dapat menjadi negara demokrasi yang kuat, mandiri, dan sejahtera².
+
+## ***Menurut Sumber Lain*** 
+**Peran Rakyat Sebagai Warga Negara Dalam Mewujudkan Kedaulatan Rakyat**
+
+1. Partisipasi Politik
+
+Rakyat dapat terlibat dalam proses politik dengan memilih wakil rakyat, mengikuti agenda politik, dan menyuarakan pendapatnya. Contohnya:
+
+* Pemilihan Umum (Pemilu): Hak pilih rakyat dalam pemilu merupakan perwujudan nyata kedaulatan rakyat. Rakyat memilih wakil rakyat yang dianggap mampu memperjuangkan aspirasinya.
+
+* Menjadi Anggota Parpol: Bagi yang tertarik, rakyat dapat terlibat aktif dalam partai politik untuk memperjuangkan ideologi dan platform politiknya.
+
+* Mengikuti Agenda Politik: Mengikuti perkembangan politik terkini, seperti rapat dengar pendapat (RDP), sidang paripurna, dan demonstrasi damai.
+
+* Menyuarakan Pendapat: Menyampaikan pendapat dan kritik konstruktif terhadap pemerintah melalui berbagai saluran, seperti media sosial, surat pembaca, atau audiensi.
+
+2. Pengawasan Terhadap Pemerintah
+
+Masyarakat sipil dan media massa berperan penting dalam mengawasi kinerja pemerintah dan memastikan akuntabilitas.Contohnya:
+
+* Masyarakat Sipil: Lembaga Swadaya Masyarakat (LSM) dan organisasi masyarakat sipil lainnya berperan penting dalam mengawasi kinerja pemerintah dan memastikan kebijakannya pro rakyat.
+
+* Media Massa: Media massa memiliki peran untuk menginformasikan kinerja pemerintah kepada publik dan mengungkap kasus korupsi atau penyimpangan lainnya.
+* Laporan dan Pengaduan: Rakyat dapat melaporkan dan mengadukan kinerja pemerintah yang tidak sesuai dengan peraturan perundang-undangan.
+
+3. Pendidikan Politik
+
+Meningkatkan kesadaran dan pengetahuan politik rakyat melalui pendidikan dan diskusi publik.Contohnya:
+
+* Pendidikan Formal: Meningkatkan kurikulum pendidikan politik di sekolah dan universitas.
+
+* Pendidikan Informal: Mengadakan seminar, workshop, dan diskusi publik tentang politik dan demokrasi.
+
+* Penyuluhan dan Kampanye: Meningkatkan kesadaran politik masyarakat melalui penyuluhan dan kampanye di komunitas dan media sosial.
+
+4. Pelibatan Masyarakat
+
+Pemerintah perlu melibatkan rakyat dalam proses pengambilan keputusan dan kebijakan publik.Contohnya:
+
+* Musyawarah Perencanaan Pembangunan (Musrenbang): Melibatkan rakyat dalam proses perencanaan pembangunan di tingkat desa, kelurahan, dan daerah.
+
+* Forum Konsultasi Publik: Memberikan kesempatan kepada rakyat untuk menyampaikan pendapat dan aspirasinya dalam proses pengambilan kebijakan publik.
+
+* Kelompok Kerja (Pokja): Membentuk kelompok kerja yang melibatkan rakyat untuk membahas isu-isu specific.
+5. Mendorong Transparansi dan Akuntabilitas
+
+Pemerintah yang transparan dan akuntabel akan meningkatkan kepercayaan rakyat dan memperkuat kedaulatan rakyat.Contohnya:
+
+* Hak atas Informasi: Rakyat memiliki hak untuk mendapatkan informasi publik dari pemerintah.
+
+* Sistem E-Government: Penerapan sistem e-government untuk meningkatkan transparansi dan akuntabilitas pemerintah.
+
+* Laporan Kinerja Pemerintah: Pemerintah secara berkala harus menyampaikan laporan kinerjanya kepada publik.
+## Selain Itu Peran Lembaga Negara:
+Pelaksanaan kedaulatan di Indonesia menurut UUD 1945 adalah rakyat dan lembaga-lembaga negara yang berfungsi menjalankan tugas kenegaraan sebagai representatsi kedaulatan rakyat.
+
+Berikut lembaga negara di Indonesia beserta tugasnya:
+
+- **Majelis Permusyawaratan Rakyat (MPR)**
+
+Tugas dan wewenang MPR sebagai berikut:
+
+1. Mengubah dan menetapkan UUD
+2. Melantik Presiden dan Wakil Presiden
+3. Memberhentikan Presiden dan Wakil Presiden dalam masa jabatannya menurut UUD
+
+Tugas dan wewenang Presiden adalah
+
+1. Menjalankan undang-undang
+2. Mengangkat dan memberhentikan menteri-menteri
+3. Mengajukan RUU
+4. Membentuk Perppu
+5. Mengajukan RAPBN
+6. Memegang kekuasaan tertinggi atas angaktan perangh
+7. Menetapkan perang dengan persetujuan DPR
+8. Mengangkat duta dari negara lain
+9. Memberi grasi, amnesti, abolisi, dan rehabilitasi
+10. Memberi gelar dan tanda jasa
+
+- **Dewan Perwakilan Rakyat (DPR)**
+
+Tugas-tugas DPR sebagai berikut:
+
+1. Menetapkan RAPBN bersama presiden
+2. Menetapkan RUU
+3. Mengawasi jalannya pemerintahan
+
+Hak yang dimiliki DPR adalah:
+
+1. Hak angket, untuk melakukan penyelidikan terhadap kebijakan pemerintah
+2. Hak interpelasi, hal untuk meminta keterangan kepada presiden
+3. Hak imunitas, hak untuk tidak dituntut dalam pengadilan dalam sidang karena pernyataan dalam sidang
+4. Hak mengajukan usul atau pendapat
+5. Hak mengajukan usul RUU
+6. Hak budget, hak untuk membahas RAPBN
+
+- **Badan Pemeriksa Keuangan (BPK)**
+
+Tugas BPK yaitu:
+
+1. Berkewajiban memeriksa tanggung jawab keuangan negara.
+2. Hasil pemeriksaan BPK dilaporkan kepada DPR, DPD, dan DPRD.
+
+Tugas MA sebagai berikut:
+
+1. Mengawasi jalannya undang-undang
+2. Memberi sanksi atas pelanggaran undang-undang
+3. Mengadili pada tingkat kasasi
+
+Tugas dan wewenang MK adalah:
+
+1. Menguji kekuatan undang-undang terhadap UUD
+2. Memutuskan sengketa kewenangan lembaga negara
+3. Memutuskan pembubaran partai politik
+4. Memutus perselisihan hasil pemilu
+
+- **Dewan Perwakilan Daerah (DPD)**
+
+Tugas DPD yaitu:
+
+1. Mengajukan RUU kepada DPR berkaitan dengan otonomi daerah
+2. Ikut membahas undang-undang yang berkaitan dengan otonomi daerah
+3. Memberikan masukan kepada DPR atas RUU APBN pajak, pendidikan, dan agama
+4. Mengawasi pelaksanaan undang-undang yang berkaitan dengan otonomi daerah
+
+Tugas dan wewenang KY adalah:
+
+1. Mengawasi perilaku hakim agung
+2. Mengusulkan pengangkatan hakim agung
+3. Mengusulkan nama calon hakim agung
+4. Ikut menjaga dan menegakkan kehormatan dan martabat hakim
+
+- **Komisi Pemilihan Umum (KPU)**
+
+Tugas dan wewenang KPU yaitu:
+
+1. Merencanakan penyelenggaraan pemilu
+2. Menetapkan organisasi dan tata cara semua tahapan pelaksanaan pemilu
+3. Mengkoordinasikan, menyelenggarakan, dan mengendalikan semua tahapan pelaksanaan pemilu
+4. Penetapan peserta pemilu
+5. Menetapkan daerah pemilihan, jumlah kursi, dan calon anggota DPR, DPD, DPRD Provinsi, dan DPRD Kabupaten atau Kota
+6. Melakukan evaluasi dan pelaporan pelaksanaan pemilu
+7. Melaksanakan tugas dan kewenangan lain yang diatur undang-undang.
 # Fungsi Lembaga Penyelenggara Negara dan Sistem Pemerintahan dalam Penyelenggaraan Negara
 # Nilai-Nilai Sumpah Pemuda
 
