@@ -1818,6 +1818,55 @@ Kebebasan berekspresi atau berbicara merupakan hak dasar dari setiap manusia ses
 Proses demokratisasi di Indonesia saat ini menempatkan publik sebagai pemilik atau pengendali utama kebebasan dalam berbicara. Kebebasan berbicara begitu penting untuk dimiliki oleh setiap manusia untuk mengungkapkan ide, opini, pendapat dan ungkapan perasaannya untuk didengar oleh pihak lain. Kebebasan ini merupakan bagian dari Hak Asasi Manusia dan sudah barang tentu kebebasan ini jangan sampai melanggar kepentingan publik pihak lain. Wahid mengatakan bahwa kebebasan berpendapat dan berekspresi berlaku untuk semua jenis ide termasuk yang mungkin sangat offensive atau menyanggung namun dapat dipertanggung jawabkan dan dapat dibatasi secara sah oleh pemerintah apabila melanggar etika kesopanan. Pemerintah memiliki kewajiban untuk melarang perkataan yang mendorong kebencian dan hasutan dan pembatasan tersebut dapat dibenarkan. Hak berpendapat atau berbicara boleh disampaikan dengan terbuka berdasarkan norma ketentuan yang berlaku di masyarakat demi melindungi kepentingan publik dan hak reputasi orang lain. Baik itu hak berbicara dan berekspresi kedua-duanya terkait erat satu sama lain, namun berbeda dengan konsep hak kebebasan berpikir dan hati nurani.
 # Makna Tradisi, Kearifan Lokal dan Budaya dalam Masyarakat Global
 
+**Makna Tradisi, Kearifan Lokal, dan Budaya dalam Masyarakat Global**
+
+1. **Tradisi**  
+   Tradisi merujuk pada praktik, ritual, atau kepercayaan yang diturunkan antargenerasi, berfungsi sebagai penjaga identitas komunitas. Dalam masyarakat global, tradisi menghadapi tantangan seperti erosi akibat homogenisasi budaya, namun juga peluang untuk dipromosikan melalui media digital. Contohnya, festival seperti Diwali (India) atau Hanami (Jepang) tetap lestari dan bahkan diadopsi secara global, memperkaya keragaman budaya dunia.
+
+2. **Kearifan Lokal**  
+   Kearifan lokal adalah pengetahuan praktis yang dikembangkan komunitas untuk beradaptasi dengan lingkungannya, seperti teknik pertanian berkelanjutan atau pengobatan tradisional. Dalam konteks global, kearifan lokal menjadi solusi untuk isu seperti perubahan iklim. Misalnya, sistem Subak di Bali (pengelolaan air tradisional) diakui UNESCO sebagai warisan budaya, sementara praktik Shinrin-yoku (Jepang) diadopsi sebagai terapi kesehatan mental global.
+
+3. **Budaya**  
+   Budaya mencakup nilai, seni, bahasa, dan norma yang membentuk identitas kolektif. Globalisasi memicu pertukaran budaya (contoh: K-pop yang memadukan unsur lokal dan global), tetapi juga ancaman homogenisasi (dominasi budaya Barat). Di sisi lain, platform seperti TikTok memungkinkan budaya minoritas mendapatkan pengakuan internasional, seperti tarian Māori atau musik tradisional Afrika.
+
+**Interaksi dan Tantangan dalam Masyarakat Global**  
+- **Peluang**:  
+  - Kolaborasi lintas budaya (contoh: fesyen yang mengintegrasikan motif tradisional Indonesia dengan desain modern).  
+  - Pengakuan internasional melalui lembaga seperti UNESCO.  
+  - Teknologi digital sebagai alat preservasi (e.g., arsip virtual bahasa yang terancam punah).  
+
+- **Tantangan**:  
+  - **Erosi Budaya**: Generasi muda lebih tertarik pada tren global daripada tradisi lokal.  
+  - **Eksploitasi**: Komersialisasi simbol suci (e.g., penggunaan kepala suku Native American sebagai logo olahraga).  
+  - **Ketimpangan Kekuasaan**: Dominasi budaya Barat dalam media global meminggirkan narasi lokal.  
+
+**Keseimbangan antara Pelestarian dan Adaptasi**  
+Masyarakat global perlu menghargai kearifan lokal sebagai sumber solusi berkelanjutan (misalnya, pertanian organik berbasis tradisi). Sementara itu, tradisi dan budaya harus diadaptasi secara kritis tanpa kehilangan esensinya—seperti wayang kulit yang kini mengangkat tema kontemporer. Pendidikan multikultural dan kebijakan inklusif juga kunci untuk memastikan keberagaman tetap hidup di tengah integrasi global.
+
+**Kesimpulan**  
+Tradisi, kearifan lokal, dan budaya bukan sekadar peninggalan masa lalu, melainkan fondasi dinamis yang memperkaya masyarakat global. Tantangannya adalah menjaga keaslian sambil merangkum inovasi, sehingga keberagaman tetap menjadi kekuatan, bukan korban globalisasi.
+# Jaminan Memelihara dan Mengembangkan Budaya
+UNTUK PERTAMA KALINYA, Indonesia memiliki undang-undang tentang kebudayaan nasional. Pada 27 April 2017, Undang-undang Nomor 5 Tahun 2017 tentang Pemajuan Kebudayaan disahkan Pemerintah sebagai acuan legal-formal pertama untuk mengelola kekayaan budaya di Indonesia.
+
+Istilah “pemajuan kebudayaan” tidak muncul tiba-tiba. Istilah tersebut sudah digunakan para pendiri bangsa pada UUD 1945 dalam Pasal 32, yaitu “Pemerintah memajukan kebudayaan nasional Indonesia”, untuk menegaskan bahwa kebudayaan merupakan pilar kehidupan bangsa. Saat terjadi perubahan UUD 1945 pada awal masa reformasi melalui proses amandemen, pemajuan kebudayaan tetap menjadi prioritas bahkan makin ditegaskan. Pasal 32 UUD 1945 dikembangkan menjadi, “Negara memajukan kebudayaan nasional Indonesia di tengah peradaban dunia dengan menjamin kebebasan masyarakat dalam memelihara dan mengembangkan nilai-nilai budayanya.”
+
+Dengan kehadiran UU Pemajuan Kebudayaan, cita-cita pendiri bangsa agar Indonesia menjadi bangsa dengan masyarakat berkepribadian secara budaya, berdikari secara ekonomi, serta berdaulat secara politik, kini siap diwujudkan.
+
+UU PEMAJUAN KEBUDAYAAN mengakui dan menghargai keragaman budaya masyarakat Indonesia. Ada lebih dari 700 suku bangsa dan bahasa beserta adat istiadatnya yang membentuk masyarakat Indonesia. Keragaman inilah yang mendasari kebudayaan nasional kita. Oleh karenanya, dibutuhkan perspektif yang adil dan tidak mengkotak-kotakkan dalam melihat budaya masyarakat kita. Setiap unsur kebudayaan perlu dipertimbangkan untuk dilindungi, dikelola, dan diperkuat. Itulah sebabnya undang-undang ini menggunakan pengertian kebudayaan yang paling netral, ramah, dan terbuka, yakni “segala sesuatu yang berkaitan dengan cipta, rasa, karsa, dan hasil karya masyarakat”. Sehingga, kebudayaan nasional diartikan sebagai “keseluruhan proses dan hasil interaksi antarkebudayaan yang hidup dan berkembang di Indonesia.”
+
+Perhatikan bagaimana kata “proses” dan “hasil” berada dalam satu kalimat. Artinya, UU Pemajuan Kebudayaan tidak hanya membahas wujud-wujud yang tampak dari kebudayaan—seperti alat maupun bangunan—tapi turut memperhitungkan proses hidup masyarakat yang melatari lahirnya setiap produk dan praktik kebudayaan. Selama ini, masyarakat saling berhubungan untuk memenuhi kebutuhan pribadinya, kelompoknya, juga lingkungannya. Ketika kebutuhan masyarakat berubah, berubah pula corak hubungannya, begitu juga dengan produk dan praktik kebudayaannya. Kebudayaan tak pernah berhenti menghasilkan sesuatu. Ia selalu berada dalam proses.
+
+PERKEMBANGAN KEBUDAYAAN tak bisa dipisahkan dari perkembangan masyarakatnya. UU Pemajuan Kebudayaan menempatkan masyarakat sebagai pemilik dan penggerak kebudayaan nasional. Masyarakat sebagai pelaku aktif kebudayaan, dari tingkat komunitas sampai industri, adalah pihak yang paling akrab dan paling paham tentang kebutuhan dan tantangan untuk memajukan ekosistem kebudayaan.
+
+Oleh karena itu, pelaksanaan UU Pemajuan Kebudayaan wajib melibatkan masyarakat. Sebagai dasar bagi perancangan arah pemajuan kebudayaan nasional, UU Pemajuan Kebudayaan mensyaratkan penyusunan Pokok Pikiran Kebudayaan—dokumen berisi kondisi dan permasalahan nyata yang dihadapi di daerah masing-masing beserta tawaran solusinya. Pokok Pikiran Kebudayaan itu disusun oleh masyarakat. Jika tidak, dokumen tersebut akan dianggap tidak sah oleh negara. Pokok Pikiran Kebudayaan pertama-tama disusun pada tingkat kabupaten/kota, lalu diolah pada tingkat provinsi. Hasil dari setiap provinsi kemudian dihimpun pada tingkat nasional sebagai bahan untuk merumuskan Strategi Kebudayaan dan Rencana Induk Pemajuan Kebudayaan oleh pemerintah pusat.
+
+Dalam semua proses itu, negara lebih berperan sebagai pendamping masyarakat. Negara hadir sebagai regulator yang mewadahi partisipasi dan aspirasi seluruh pemangku kepentingan. Berdasarkan rancangan-rancangan tersebut, negara bersama masyarakat bersama-sama mengupayakan pemajuan kebudayaan, dari tingkat lokal hingga nasional.
+
+UU PEMAJUAN KEBUDAYAAN menempatkan kebudayaan sebagai haluan pembangunan nasional. Karena mencakup segenap sistem kehidupan sosial di Indonesia, kebudayaan sepantasnya ditempatkan sebagai garda terdepan dalam kehidupan berbangsa. Kebudayaan semestinya tidak dipandang sebagai salah satu sektor pembangunan, tapi justru sebagai tujuan dari semua sektor pembangunan.
+
+Selain sebagai tujuan, kebudayaan adalah pondasi pembangunan. Kebudayaan mendorong pembangunan dengan cara membentuk mentalitas dan wawasan masyarakat yang diperlukan bagi peningkatan pertumbuhan ekonomi. Kebudayaan juga memberdayakan pembangunan, karena menghadirkan sikap dan perspektif yang mengutamakan keselarasan antara manusia dan lingkungannya. Sikap dan perspektif berlandaskan kesadaran budaya akan menjaga pembangunan, sehingga tidak menguras habis kekayaan alam ataupun meminggirkan kaum lemah demi akumulasi ekonomi bagi segelitir orang.
+
+Singkat kata, pemajuan kebudayaan nasional berdampak terhadap banyak sektor kehidupan. Ia berpengaruh terhadap kepribadian, ketahanan, kerukunan, dan kesejahteraan bangsa. Oleh karenanya, proses perumusan undang-undang menyepakati sepuluh prinsip sebagai panduan, yang terangkum pada Pasal 4 UU Pemajuan Kebudayaan, supaya upaya pemajuan kebudayaan tidak memicu pertikaian dan penindasan yang mengancam keragaman masyarakat, yang merupakan identitas bangsa Indonesia.
 # Menjaga Pertahanan dan Keamanan Negara dimulai dari Link. Sekitar
 Membantu pemerintah menjaga pertahanan dan keamanan negara dapat dimulai dari linkungan sekitar seperti:
 1. Melakukan ronda
@@ -1851,4 +1900,75 @@ Menciptakan masyarakat yang adil dan makmur baik secara materi maupun spiritual 
 	- Pemenuhan hak
 		Memastikan bahwa hak-hak dasar setiap warga negara, seperti hak atas pendidikan, kesehatan dan kesempatan bekerja, terpenuhi secara memadai.
 	- Penegakan kewajiban
-		Menumbuhkan kesadaran dan tanggung jawab warga negara untuk memenuhi
+		Menumbuhkan kesadaran dan tanggung jawab warga negara untuk memenuhi kewajiban-kewajiban mereka terhadap negara dan masyarakat.
+- Pemerataan pembangunan
+	- Pembangunan inklusif
+		Mewujudkan pembangunan yang inklusif dan merata memastikan bahwa setiap daerah di Indonesia, termasuk daerah terpencil dan terluar, mendapatkan akses terhadap fasilitas dan layanan publik.
+	- Penanggulan kemiskinan
+		Melaksanakan program-program penanggulangan kemiskinan dan pemberdayaan masyarakat untuk meningkatkan kesejahteraan dan mengurangi kesenjangan sosial ekonomi.
+- Akses terhadap layanan publik
+	- Pendidikan dan kesehatan
+		Memperkuat akses masyarakat terhadap pendidikan dan layanan kesehatan yang berkualitas
+	- Transportasi dan bantuan sosial
+		Memperbaiki infrastruktur transportasi dan memastikan distribusi bantuan sosial yang tepat sasaran dan efektif
+- Perlindungan hak sosial ekonomi
+	- Keadilan sosial
+		Menegakkan keadilan sosial dengan memastikan bahwa semua warga negara, tanpa memandang status sosial ekonomi, memperoleh perlakuan yang adil dan setara.
+	- Perlindungan kelompok rentan
+		Memberikan perlindungan khusus kepada kelompok-kelompok masyarakat yang rentan, seperti anak-anak, perempuan, penyandang disabilitas dan kelompok minoritas.
+- Pembangunan spiritual
+	- Penguatan nilai-nilai moral dan etika
+		Menumbuhkan nilai-nilai moral dan etika dalam masyarakat, serta memperkuat jati diri bangsa yang berlandaskan Pancasila.
+	- Harmonisasi kehidupan beragama
+		Menjaga dan memelihara kerukunan antar umat beragama, serta memastikan kebebasan beragama dan berkeyakinan dihormati dan dilindungi.
+## Membentuk Satu Persahabatan yang Baik antara Indonesia dengan Negara Lain di Dunia Atas Dasar Saling Menghormati dan Ikut Menciptakan Ketertiban Dunia
+- **Langkah untuk mempromosikan dan memperkuat persahabatan antarnegara**
+	- Peningkatan diplomasi
+	- Kerja sama ekonomi
+	- Program pertukaran budaya dan pendidikan
+	- Kolaborasi dalam isu lingkungan dan perubahan iklim
+	- Pendekatan multilateral melalui organisasi multinasional dan forum-forum internasional
+- Manfaat dari persahabatan dan kerja sama Indonesia dengan negara lain
+	- Pertumbuhan ekonomi yang didukung dengan perdagangan bebas dan investasi asing
+	- Stabilitas politik dan keamanan dengan pemerintahan yang mendukung satu sama lain
+	- Perlindungan lingkungan
+	- Pengembangan sosial dan budaya
+	- Dukungan satu dan lainnya ketika menghadapi krisis
+	- Pengaruh global yang meluas dan kepemimpinan regional
+	- Memahami situasi politik di negara lain dan bertoleransi antarbangsa
+- Bentuk persahabatan dan kerja sama Indonesia
+	- Kerja sama ekonomi dan perdagangan
+		- Perjanjian perdagangan bebas
+		- Kerja sama dengan mitra dagang utama
+		- Investasi asing
+		- Promosi ekspor
+		- Kebijakan ekonomi digital
+	- Diplomasi dan kerja sama politik
+		- ASEAN
+		- APEC
+		- PBB
+		- G20
+		- Diplomasi bilateral dan multilateral lainnya
+	- Kerja sama lingkungan mengenai isu;
+		- Perubahan iklim
+		- Pengelolaan hutan
+		- Konservasi laut
+		- Biodiversitas
+	- Pertukaran budaya dan pendidikan
+		- Program darmasiswa
+		- Program Indonesian Arts and Culture Scholarship (IACS)
+		- Kerja sama universitas
+		- Beasiswa LPDP (Lembaga Pengelola Dana Pendidikan)
+		- Festival dan pertukaran seni
+		- Program bahasa
+	- Kerja sama keamanan dan pertahanan
+		- Latihan militer bersama
+			Indonesia melakukan latihan militer bersama seperti dengan Australia, Amerika Serikat (Super Garuda Shield)  dan negara lainnya di ASEAN.
+		- Kerja sama bilateral
+			Indonesia melakukan kerja sama bilateral dengan banyak negara untuk melakukan pertukaran informasi intelijen, pertumbuhan ekonomi dan transfer teknologi
+		- Bantuan Kemanusiaan dan penanggulangan bencana
+		- Forum multilateral
+			ASEAN Regional Forum (ARF); East Asia Summit (EAS) dan lainnya
+		- Pemberantasan kriminal dan narkoba
+		- Pemberantasan terorisme
+		- Keamanan maritim
