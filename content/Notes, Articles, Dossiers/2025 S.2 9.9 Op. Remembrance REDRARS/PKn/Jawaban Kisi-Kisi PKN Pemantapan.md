@@ -1229,9 +1229,291 @@ Tugas dan wewenang KPU yaitu:
 6. Melakukan evaluasi dan pelaporan pelaksanaan pemilu
 7. Melaksanakan tugas dan kewenangan lain yang diatur undang-undang.
 # Fungsi Lembaga Penyelenggara Negara dan Sistem Pemerintahan dalam Penyelenggaraan Negara
+## Pengertian Lembaga Negara
+
+Menurut Dewi Oktaviani, lembaga negara adalah lembaga pemerintahan yang berkedudukan di pusat yang tugas, fungsi, dan kewenangannya secara tegas diatur dalam Undang-Undang.
+
+Sederhananya, lembaga negara merupakan lembaga pemerintahan (_Civilizated Organization_) yang dibuat oleh negara, dari negara, dan untuk negara, demi mencapai tujuan negara itu.
+
+Dalam lembaga negara, anggotanya juga turut menjaga kestabilan kinerjanya supaya dapat mencapai tujuan negara tersebut.
+
+Menurut George Jellinek, lembaga negara dibagi menjadi dua bagian besar yakni 1) alat-alat perlengkapan negara yang langsung (_unmittebare organ_), dan (2) alat-alat perlengkapan negara yang tidak langsung (_mitterbare organ_).
+
+Lembaga negara yang ada di Indonesia ada beberapa, yakni lembaga legislatif, lembaga eksekutif, dan lembaga yudikatif. Namun, keberadaan lembaga negara dalam suatu negara tidak hanya dibatasi pada tiga lembaga tersebut.
+
+Keberadaan lembaga negara di Indonesia diatur sepenuhnya oleh Undang-Undang Dasar 1945 dan peraturan perundangan lainnya. Sehingga, kedudukan setiap lembaga negara di Indonesia bergantung pada wewenang, tugas, dan fungsi yang telah diberikan oleh Undang-Undang Dasar 1945.
+
+## Tugas Lembaga Negara Secara Umum
+
+1. Menjaga kestabilan keamanan, politik, hukum, Hak Asasi Manusia (HAM), dan budaya dalam suatu negara yang bersangkutan.
+2. Menciptakan suatu lingkungan negara yang kondusif, aman, dan harmonis.
+3. Menjaga penghubung antara negara dengan rakyat.
+4. Menjadi sumber inspirator dan aspirator rakyat.
+5. Membantu menjalankan roda pemerintahan negara.
+6. Memberantas adanya tindak korupsi, kolusi, dan nepotisme (KKN).
+
+## Pembagian Lembaga Negara di Indonesia (Trias Politika)
+
+Indonesia selaku negara demokrasi, menjalankan pemerintahan dengan penerapan teori **_trias politika_**. Trias Politika merupakan pembagian kekuasaan pemerintahan menjadi tiga bidang dengan kedudukan yang sejajar. Tiga bidang tersebut adalah Eksekutif, Legislatif, dan Yudikatif.
+
+1. Eksekutif, bertugas menerapkan dan melaksanakan perundang-undangan, yakni Presiden dan wakil presiden, beserta para menteri.
+2. Legislatif, bertugas membuat perundang-undangan, yakni Dewan Perwakilan Rakyat (DPR)
+3. Yudikatif, bertugas mempertahankan pelaksanaan perundang-undangan, yakni Mahkamah Agung (MA) dan Mahkamah Konstitusi (MK).
+## Fungsi Lembaga Negara di Indonesia
+
+Sebelumnya, telah ditulis bahwa keberadaan lembaga negara menjadi salah unsur penting dalam sebuah negara. Berdasarkan adanya penerapan **_trias politika_**, maka lembaga negara di Indonesia ada tiga yakni lembaga Eksekutif, Legislatif, dan Yudikatif.
+
+Apa saja ya tugas, wewenang, dan fungsi dari tiga lembaga tersebut?
+
+Yuk simak penjelasan berikut supaya lebih memahaminya!
+
+### Lembaga Eksekutif
+
+Lembaga eksekutif merupakan lembaga pemerintahan yang berfungsi untuk melaksanakan perundang-undangan yang telah ditetapkan oleh lembaga legislatif. Di negara-negara yang menganut pemerintahan demokratis, biasanya pada lembaga eksekutif terdiri atas kepala negara, bisa raja atau presiden, disertai dengan para menterinya.
+
+Di Indonesia, lembaga eksekutif-nya adalah MPR (Majelis Permusyawaratan Rakyat), Presiden dan Wakil Presiden, serta para menteri.
+
+#### **1. MPR (Majelis Permusyawaratan Rakyat)**
+
+Sebelum ada Amandemen Undang-Undang Dasar 1945, kedaulatan yang berada di tangan rakyat dilaksanakan sepenuhnya oleh MPR, maka dari itu MPR sering disebut sebagai “lembaga tertinggi negara” dengan kewenangan di bawah Undang-Undang Dasar.
+
+Namun, setelah ada Amandemen Undang-Undang Dasar 1945, kedaulatan rakyat tidak lagi dilaksanakan oleh MPR, tetapi dilaksanakan “menurut Undang-Undang Dasar”.
+
+Anggota MPR merupakan gabungan antara anggota DPR (Dewan Perwakilan Rakyat) dan DPD (Dewan Perwakilan Daerah) yang dipilih oleh rakyat melalui proses pemilu. Ketentuan mengenai jumlah anggota telah diatur dalam Undang-Undang.
+
+MPR melaksanakan sidang paling sedikit sekali dalam lima tahun. Wewenang MPR yang paling “terlihat” adalah melantik Presiden dan Wakil Presiden yang telah dipilih oleh rakyat melalui proses pemilu.
+
+Berdasarkan Pasal 3 Ayat 1 dalam Undang-Undang Dasar 1945, MPR mempunyai tugas dan wewenang sebagai berikut:
+
+- Mengubah dan menetapkan perundang-undangan
+- Melantik presiden dan wakil presiden
+- Memberhentikan presiden dan wakil presiden dalam masa jabatannya menurut Undang-Undang Dasar
+
+Anggota MPR dalam menjalankan tugas dan wewenang tersebut, memiliki beberapa hak tertentu, yakni:
+
+- Mengajukan usul terkait perubahan pasal dalam perundang-undang
+- Menentukan sikap dan pilihannya dalam proses pengambilan keputusan
+- Memilih dan dipilih
+- Membela diri
+- Imunitas (hak untuk tetap menjalankan tugas dan wewenangnya tanpa boleh dituntut di pengadilan)
+- Protokoler (hak untuk memperoleh penghormatan berkenaan dengan jabatannya)
+- Keuangan dan administratif
+#### **2. Presiden**
+
+Sebelum ada Amandemen Undang-Undang Dasar 1945, presiden dipilih oleh MPR. Namun, setelah terdapat amandemen Undang-Undang Dasar 1945, presiden dan wakilnya dipilih oleh rakyat melalui pemilu.
+
+Presiden dan wakilnya menjabat selama lima tahun dan dapat dipilih kembali hanya satu kali jabatan dalam pemilihan umum selanjutnya.
+
+Presiden berkedudukan sebagai kepala negara sekaligus kepala pemerintahan. Sebagai seorang kepala negara, presiden mempunyai wewenang yang telah diatur oleh Undang-Undang Dasar 1945, yakni:
+
+- Membuat perjanjian dengan negara lain dengan persetujuan DPR (Dewan Perwakilan Rakyat)
+- Mengangkat duta dan konsul untuk ditempatkan di ibukota negara lain dan negara Indonesia.
+- Menerima duta dari negara lain.
+- Memberikan gelar, tanda jasa, dan tanda kehormatan kepada warga negara, baik warga negara Indonesia maupun warga negara asing yang telah berjasa.
+
+Sementara itu, sebagai kepala pemerintahan yang menyelenggarakan pemerintahan negara, maka Presiden memiliki hak dan kewajiban sebagai berikut:
+
+- Memegang kekuasaan pemerintahan berdasarkan Undang-Undang Dasar 1945
+- Mengajukan Rancangan Undang-Undang (RUU) kepada DPR
+- Menetapkan peraturan pemerintah
+- Memegang teguh dan menjalankan Undang-Undang Dasar
+- Memberikan grasi (pengampunan terhadap narapidana) dan rehabilitasi (pemulihan nama baik seseorang yang tertuduh) berdasarkan pertimbangan Mahkamah Agung (MA)
+- Memberikan amnesti (pengurangan hukuman narapidana) dan abolisi (pembatalan tuntutan pidana) berdasarkan pertimbangan DPR.
+
+Selain berperan sebagai kepala negara dan kepala pemerintahan, presiden juga menjadi panglima tertinggi dalam angkatan perang, sehingga memiliki wewenang sebagai berikut:
+
+- Menyatakan perang, membuat perdamaian dengan negara lain atas dasar persetujuan DPR
+- Membuat perjanjian internasional atas dasar persetujuan DPR
+- Menyatakan keadaan bahaya terhadap suatu situasi dan kondisi yang berlangsung dalam negara.
+### Lembaga Legislatif
+
+Lembaga legislatif merupakan lembaga pemerintah yang mempunyai fungsi umum dalam membuat perundang-undangan. Lembaga legislatif ini memiliki beberapa fungsi fungsi legislasi dan fungsi kontrol.
+
+Di Indonesia, lembaga legislatif adalah Dewan Perwakilan Rakyat (DPR).
+
+#### **1. DPR (Dewan Perwakilan Rakyat)**
+
+Anggota DPR berasal dari partai politik yang dipilih rakyat melalui proses pemilu. DPR bertempat di tingkat pusat, sedangkan yang berada di tingkat provinsi dan kabupaten/kota adalah DPRD (Dewan Perwakilan Rakyat Daerah).
+
+Tugas dan wewenang yang dimiliki oleh DPR adalah sebagai berikut,
+
+- Membentuk perundang-undangan yang dibahas bersama Presiden
+- Memberikan persetujuan peraturan daerah pengganti Undang-Undang
+- Menerima dan membahas RUU (Rancangan Undang-Undang) yang diajukan oleh DPD
+- Mempertimbangkan DPD atas rancangan Undang-Undang APBN yang berkaitan dengan pajak, pendidikan, dan agama
+- Menetapkan APBN (Anggaran Pendapatan dan Belanja Negara) bersama Presiden dengan memperhatikan pertimbangan dari DPD
+- Memilih anggota Badan Pemeriksa Keuangan dengan pertimbangan DPD
+- Memilih tiga calon anggota hakim konstitusi dan mengajukannya kepada Presiden
+- dan lain-lain
+
+Dalam menjalankan tugas dan wewenangnya tersebut, DPR mempunyai hak-hak tertentu, yakni:
+
+- Hak Interpelasi, yakni hak untuk meminta keterangan kepada Presiden
+- Hak Angket, yakni hak untuk mengadakan penyelidikan atas suatu kebijakan pemerintah
+- Hak Inisiatif, yakni hak untuk mengajukan Rancangan Undang-Undang kepada pemerintah
+- Hak Amandemen, yakni hak untuk mengadakan perubahan atas Rancangan Undang-Undang
+- Hak Budget, yakni hak untuk mengajukan RAPBN (Rancangan Anggaran Pendapatan dan Belanja Negara)
+- Hak Petisi, yakni hak untuk mengajukan pertanyaan atas kebijakan pemerintah
+
+Dalam Undang-Undang Dasar 1945 pasal 20A, DPR memegang kekuasaan tertinggi dalam membentuk perundang-undangan. Oleh sebab itu, DPR memiliki 3 fungsi penting, yakni:
+- Fungsi Legislatif, yakni DPR sebagai pembuat perundang-undangan bersama Presiden
+- Fungsi Anggaran, yakni DPR sebagai pemegang kekuasaan dalam penetapan APBN yang diajukan Presiden
+- Fungsi Pengawasan, yakni DPR mengawasi jalannya pemerintahan.
+
+DPR melaksanakan sidang paling sedikit adalah sekali dalam satu tahun.
+#### **2. Dewan Perwakilan Daerah (DPD)**
+
+Anggota DPD terdiri atas wakil-wakil dari provinsi yang telah dipilih melalui proses pemilu. Keanggotaan DPD diresmikan oleh keputusan Presiden dan bertempat di daerah pemilihannya.
+
+Anggota DPD ini bukan berasal dari partai politik, melainkan dari organisasi-organisasi kemasyarakatan. Masa jabatan DPD adalah lima tahun.
+
+Berdasarkan Undang-Undang Dasar 1945 Pasal 22D, anggota DPD memiliki kewenangan sebagai berikut:
+
+1. Mengajukan Rancangan Undang-Undang kepada DPR yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan, pemekaran, serta penggabungan daerah, pengelolaan sumber daya alam, dan keuangan pusat daerah.
+2. Memberikan pertimbangan kepada DPR atas Rancangan Undang-Undang APBN dan RUU yang berkaitan dengan pajak, pendidikan, dan agama.
+3. Mengawasi pelaksanaan mengenai hal-hal tersebut dan melaporkannya kepada DPR.
+### Lembaga Yudikatif
+
+Lembaga yudikatif merupakan lembaga pemerintahan yang berwenang untuk menafsirkan isi perundang-undangan dan memberikan sanksi pelanggaran pelaksanaannya.
+
+Dalam pelaksanaanya, lembaga yudikatif harus bebas dari campur tangan lembaga eksekutif. Hal tersebut supaya dalam penegakan hukum dan keadilannya tidak berat sebelah atau terlalu memihak.
+
+#### **1. Mahkamah Agung (MA)**
+
+Lembaga Mahkamah Agung (MA) menjadi pemegang kekuasaan kehakiman tertinggi dari semua lingkungan peradilan. Lembaga MA diketuai oleh Hakim Agung yang dibantu oleh beberapa hakim lainnya.
+
+Hakim Agung ini diusulkan oleh DPR yang berasal dari usulan Komisi Yudisial. Lembaga MA mempunyai kewajiban dan kewenangan sendiri, yakni:
+
+1. Mengadili pada tingkat kasasi, menguji peraturan perundang-undangan, dan wewenang lainnya yang diberikan oleh Undang-Undang
+2. Mengajukan tiga orang anggota hakim konstitusi
+3. Memberikan pertimbangan grasi dan rehabilitasi yang diajukan oleh Presiden
+#### **2. Mahkamah Konstitusi (MK)**
+
+Lembaga MK memiliki kewenangan dalam menyelenggarakan kekuasaan peradilan di lingkungan peradilan umum, militer, agama, dan tata usaha Negara. Mahkamah Konstitusi mempunyai kewenangan untuk mengadili pada tingkat pertama dan terakhir.
+
+Dalam MK, terdapat 9 hakim konstitusi yang telah ditetapkan oleh Presiden. Berikut merupakan tugas dan fungsi lembaga Mahkamah Konstitusi:
+
+1. Menguji undang-undang terhadap Undang-Undang Dasar
+2. Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar
+3. Memutus pembubaran partai politik
+4. Memutus perselisihan mengenai hasil pemilu
+#### **3. Komisi Yudisial (KY)**
+
+Lembaga Komisi Yudisial (KY) ini dibentuk guna mengawasi perilaku para hakim dan praktik kotor dalam proses penyelenggaraan peradilan.
+
+Dalam Undang-Undang Dasar 1945 (hasil amandemen), kedudukan Komisi Yudisial ini bersifat mandiri yang keberadaannya dibentuk dan diberhentikan oleh Presiden dengan adanya persetujuan DPR.
+### Lembaga-Lembaga Baru yang Bersifat Mandiri
+
+#### **1. Badan Pemeriksa Keuangan (BPK)**
+
+Lembaga BPK ini menjadi lembaga negara yang memegang kekuasaan dalam bidang auditor. BPK tentu mempunyai tugas utama dalam memeriksa dan mengelola keuangan negara.
+
+Hasil pemeriksaan lembaga BPK akan diserahkan kepada DPR, DPD, dan DPRD sesuai dengan kewenangannya. Anggota lembaga BPK dipilih oleh DPR dan diresmikan oleh Presiden.
+
+Lembaga BPK berkedudukan di ibu kota negara dan memiliki perwakilan di setiap provinsinya.
+
+#### **2. Komisi Pemberantasan Korupsi (KPK)**
+
+Lembaga ini dibentuk melalui Undang-Undang Dasar 1945 No 30 Tahun 2002 mengenai pemberantasan tindak pidana korupsi.
+
+Pembentukan lembaga KPK ini menjadi respon pemerintah terhadap rasa pesimistis masyarakat atas kinerja dan reputasi kejaksaan sera kepolisian dalam memberantas korupsi.
+#### **3. Komisi Nasional Anti Kekerasan Terhadap Perempuan (Komnas Perempuan)**
+
+Lembaga Komnas Perempuan ini didirikan pada tahun 1998 berdasarkan adanya keputusan presiden No 181 tahun 1998. Lembaga ini bersifat mandiri sebagai bentuk upaya nasional dalam menghapus kekerasan terhadap perempuan.
+
+Komnas Perempuan ini menjadi bentuk jawaban pemerintah atas tuntutan masyarakat sipil, khususnya kaum perempuan dalam menangani persoalan kekerasan.
+
+Dalam menjalankan tugas dan wewenang sekaligus mendapat hak-hak tertentu tersebut, anggota lembaga negara tetap mempunyai kewajiban untuk mengamalkan Pancasila dan Undang-Undang Dasar 1945. Selain itu juga wajib untuk mendahulukan kepentingan rakyat daripada kepentingan pribadinya.
 # Nilai-Nilai Sumpah Pemuda
+Sumpah Pemuda merupakan tonggak sejarah yang mengukuhkan semangat kebangsaan dan [persatuan](https://fahum.umsu.ac.id/persatuan-dan-kesatuan/) di Indonesia. Tidak hanya menjadi peristiwa bersejarah, namun juga menyiratkan nilai-nilai Sumpah Pemuda yang dapat diaplikasikan dalam kehidupan sehari-hari.
+
+Inilah beberapa nilai- nilai Sumpah Pemuda yang memiliki relevansi yang mendalam dalam membentuk karakter masyarakat, terutama dalam konteks cinta tanah air, persatuan, penghargaan terhadap perbedaan, rela berkorban, kepentingan bangsa, semangat persaudaraan, dan gotong royong.
+
+## Nilai-Nilai Sumpah Pemuda
+
+### Berikut ini nilai-nilai Sumpah Pemuda yang wajib diketahui:
+
+1. #### Cinta Bangsa dan Tanah Air
+    
+    Cinta tanah air adalah nilai mendasar yang dijunjung tinggi dalam Sumpah Pemuda. Dalam menjaga keutuhan dan kedaulatan negara, penting bagi masyarakat dan generasi muda untuk memiliki rasa cinta yang mendalam terhadap Indonesia sebagai tanah kelahiran.
+    
+    Cinta bangsa dan tanah air menjadi perekat semangat dalam menghadapi berbagai tantangan dan menjunjung tinggi martabat Indonesia di mata dunia.
+    
+2. #### Persatuan
+    
+    Nilai- nilai Sumpah Pemuda yaitu persatuan adalah prinsip utama yang membentuk dasar Sumpah Pemuda. Menghormati perbedaan suku, agama, dan budaya menjadi pondasi penting dalam menciptakan harmoni di tengah keragaman masyarakat Indonesia.  
+    Dengan mempertahankan semangat persatuan, kita mampu mengatasi potensi konflik dan membangun masyarakat yang kokoh berdasarkan semangat kebersamaan.
+    
+3. #### Menerima dan Menghargai Perbedaan
+    
+    Sumpah Pemuda juga mengajarkan nilai pentingnya menghormati dan menerima perbedaan. Kita diajak untuk melihat keberagaman sebagai kekayaan yang harus dijaga. Dalam dunia yang semakin terkoneksi, sikap terbuka terhadap perbedaan pandangan, budaya, dan keyakinan akan membawa masyarakat menuju kesatuan yang lebih kuat.
+    
+4. #### Sikap Rela Berkorban
+    
+    Nilai rela berkorban tercermin dalam semangat para pemuda dalam memperjuangkan kemerdekaan Indonesia. Nilai ini dapat diaplikasikan dalam berbagai aspek kehidupan, baik dalam pelayanan kepada masyarakat maupun pengabdian pada negara.  
+    Dengan mengedepankan sikap rela berkorban, kita akan menghasilkan dampak positif yang besar dalam pembangunan bangsa.
+    
+5. #### Mengutamakan Kepentingan Bangsa
+    
+    Sumpah Pemuda mengajarkan pentingnya mengutamakan kepentingan bangsa di atas kepentingan pribadi atau golongan. Melalui sikap ini, kita dapat menjauhkan diri dari perilaku egois yang dapat merugikan masyarakat dan negara.  
+    Dengan mengutamakan kepentingan bangsa, kita akan mampu meraih kemajuan yang berkelanjutan.
+    
+6. #### Nilai Semangat Persaudaraan
+    
+    Persaudaraan menjadi nilai yang tercermin dalam semangat gotong royong para pemuda pada era perjuangan. Kita diajak untuk menjaga hubungan harmonis antar sesama warga negara. Nilai ini juga relevan dalam membangun hubungan baik dalam lingkup keluarga, komunitas, maupun masyarakat luas.
+    
+7. #### Semangat Gotong Royong
+    
+    Semangat gotong royong adalah inti dari nilai-nilai Sumpah Pemuda. Dengan gotong royong, masyarakat saling membantu dalam situasi sulit dan berbagi dalam situasi sejahtera. Prinsip ini masih relevan dalam mendukung pembangunan berkelanjutan dan peningkatan kualitas hidup masyarakat.
+    
+
+### Menerapkan Nilai-Nilai Sumpah Pemuda dalam Kehidupan Sehari-Hari
+
+1. #### Dalam Masyarakat
+    
+    ##### -Mengorganisir kegiatan gotong royong untuk membersihkan lingkungan.  
+    -Menyelenggarakan acara yang mempertemukan berbagai kelompok masyarakat untuk mempererat hubungan.  
+    -Mengadakan kegiatan dialog Antar agama dan budaya untuk saling memahami.  
+    -Berpartisipasi dalam acara kebersamaan yang melibatkan berbagai latar belakang.  
+    -Mendirikan komunitas relawan untuk membantu sesama yang membutuhkan.  
+    -Berbagi sumber daya dan dukungan dalam situasi darurat atau sulit.
+    
+2. ####  Bagi Pelajar
+    
+    ##### -Mengikuti kegiatan ekstrakurikuler yang memupuk rasa cinta tanah air.
+    
+    ##### -Mengembangkan potensi akademik dan non-akademik untuk masa depan bangsa.
+    
+    ##### -Mengikuti proyek kolaboratif dengan teman-teman yang memiliki latar belakang berbeda.
+    
+    ##### -Mempertunjukkan sikap penghormatan dalam perdebatan dan diskusi di sekolah.-Terlibat dalam kegiatan sosial seperti penggalangan dana untuk anak-anak yang membutuhkan.
+    
+    ##### -Mengembangkan keterampilan kepemimpinan melalui organisasi pelajar.
 
 # Upaya Pemersatu Bangsa dengan Budaya Nasional
+Budaya nasional Indonesia memiliki peran penting dalam mempersatukan bangsa di tengah keragaman. Melestarikan dan mengembangkan budaya nasional merupakan tanggung jawab bersama untuk memperkuat persatuan dan kesatuan bangsa Indonesia.
+
+Budaya nasional Indonesia memiliki peran penting dalam mempersatukan bangsa yang memiliki keanekaragaman budaya. Berikut adalah beberapa peran budaya nasional:
+
+1. Simbol Identitas Nasional:
+
+Budaya nasional menjadi simbol identitas bangsa Indonesia yang membedakannya dengan bangsa lain. Simbol-simbol budaya seperti bendera, bahasa, dan Garuda Pancasila mempersatukan rakyat Indonesia di bawah identitas nasional yang sama.
+
+2. Pemersatu dalam Keberagaman:
+
+Indonesia memiliki keanekaragaman budaya yang luar biasa. Budaya nasional menjadi wadah pemersatu di tengah keragaman tersebut. Nilai-nilai luhur budaya nasional seperti Bhinneka Tunggal Ika, gotong royong, dan musyawarah mufakat menjadi landasan bagi rakyat Indonesia untuk hidup berdampingan dengan damai dan saling menghormati.
+
+3. Memperkuat Rasa Nasionalisme:
+
+Budaya nasional memperkuat rasa nasionalisme dan cinta tanah air di kalangan rakyat Indonesia. Pengalaman dan pemahaman budaya nasional, seperti seni tari tradisional, lagu daerah, dan sejarah perjuangan bangsa, menumbuhkan rasa bangga dan kecintaan terhadap bangsa Indonesia.
+
+4. Sarana Diplomasi Budaya:
+
+Budaya nasional menjadi sarana diplomasi budaya untuk memperkenalkan Indonesia kepada dunia internasional. Pertunjukan seni budaya, festival budaya, dan pertukaran budaya dapat meningkatkan citra positif Indonesia di mata dunia dan mempererat hubungan antar bangsa.
+
+5. Memperkaya Kehidupan Berbangsa:
+
+Budaya nasional memperkaya kehidupan berbangsa dengan berbagai tradisi, nilai-nilai, dan kearifan lokal. Keragaman budaya nasional menjadi sumber inspirasi dan kekuatan bagi bangsa Indonesia dalam menghadapi berbagai tantangan.
 # Literasi Digital untuk Kemajuan Bangsa
 Literasi digital adalah kemampuan, pengetahuan serta kecakapan pengguna dalam memanfaatkan media digital, seperti alat komunikasi, jaringan internet dan lainnya. Kecakapan Pengguna dalam literasi digital mencakup menemukan, mengerjakan, mengevaluasi, menggunakan, membuat dan memanfaatkan dengan bijak dan cerdas.
 
@@ -1244,12 +1526,298 @@ Memajukan bangsa dengan literasi digital dapat dilakukan dengan:
 5. Membantu fakir miskin dan masyarakat 3T mengakses teknologi dengan bandwith internet gratis.
 
 # Ciri Khas dan Jenis-Jenis Kearifan Lokal
+Buat kamu yang bingung dengan makna kearifan lokal atau pengertian dari kearifan lokal, pada dasarnya, suatu hal yang sudah ada di suatu wilayah sejak lama dan dilanjutkan dari generasi ke generasi.
+
+Kearifan lokal adalah pandangan hidup suatu masyarakat di wilayah tertentu mengenai lingkungan alam tempat mereka tinggal. Pandangan hidup ini biasanya adalah pandangan hidup yang sudah berurat akar menjadi kepercayaan orang-orang di wilayah tersebut selama puluhan bahkan ratusan tahun.
+
+Untuk mempertahankan kearifan lokal tersebut, para orang tua dari generasi sebelumnya, dan lebih tua akan mewariskannya kepada anak-anak mereka dan begitu seterusnya. Mengingat kearifan lokal adalah pemikiran yang sudah lama dan berusia puluhan tahun, maka kearifan lokal yang ada pada suatu daerah jadi begitu melekat dan sulit untuk dipisahkan dari masyarakat yang hidup di wilayah tersebut.
+
+Mirisnya, meski banyak orang tua tetap berusaha mewariskan kearifan lokal dan pandangan hidup yang mereka dapatkan dari nenek moyang, tetapi banyak anak muda justru menganggap kearifan lokal dan pandangan hidup tradisional yang sudah turun-temurun dari nenek moyang adalah pandangan dan pemikiran kuno yang sudah tidak lagi relevan dengan zaman modern saat ini.
+
+Padahal, kalau dipikir-pikir lagi, segala sesuatu yang termasuk pandangan hidup yang masih tradisional tidak selamanya buruk dan tidak selamanya juga merupakan pandangan yang salah. Bahkan, bisa berlaku sebaliknya, karena kearifan lokal yang dipertahankanlah yang membuat suatu masyarakat jadi begitu unik dan berbeda dari masyarakat yang tinggal di wilayah lain.
+
+Dengan kearifan lokal, maka tatanan sosial dan alam sekitar agar tetap lestari dan terjaga. Selain itu, kearifan lokal juga merupakan bentuk kekayaan budaya yang harus digenggam teguh, terutama oleh generasi muda untuk melawan arus globalisasi. Dengan begitu karakteristik dari masyarakat daerah setempat tidak akan pernah luntur.
+
+Apalagi, kearifan lokal berasal dari nenek moyang kita, yang jelas lebih mengerti segala sesuatunya terutama yang berkaitan dengan wilayah tersebut. Selain itu, ada kebijaksanaan dan juga hal baik dalam kearifan lokal tersebut, tetapi terkadang sulit dimengerti oleh anak muda dari generasi sekarang.
+
+Sebaliknya, pandangan yang terlalu modern memiliki potensi yang lebih merusak terutama merusak kearifan lokal yang sudah ada. Bahkan, tak menutup kemungkinan akan merusak kebudayaan yang sudah ada, juga merusak alam sekitar.
+
+## Ciri-Ciri Kearifan Lokal
+
+Setelah membahas soal pengertian mengenai kearifan lokal dan mengetahui bahwa kearifan lokal adalah pandangan hidup suatu masyarakat di wilayah tertentu mengenai lingkungan alam tempat mereka tinggal, sekarang kita akan membahas tentang ciri-ciri dari kearifan lokal. Berikut penjelasan lengkapnya!
+
+### 1. Bertahan dari Gempuran Budaya Asing
+
+Setiap negara, daerah, atau wilayah memiliki adat budayanya masing-masing. Berbeda dengan negara kita yang masih mempertahankan budaya dan adat istiadat, kebanyakan orang-orang dari negara asing di luar sana sudah melupakan adat dan istiadat nenek moyang mereka.
+
+Mereka lebih suka dengan kehidupan bebas yang dianggap modern tanpa terikat dengan petuah-petuah apalagi adat lama yang dianggap ketinggalan zaman.
+
+Tidak hanya itu, seiring berjalannya waktu, budaya asing juga mulai merambah ke berbagai wilayah di Indonesia. Sebaliknya, Indonesia memiliki banyak kearifan lokal yang juga mengandung nilai-nilai budaya yang sangat kuat. Mengingat usia dari nilai-nilai budaya ini sudah mencapai puluhan atau ratusan tahun, nilai-nilai budaya pada kearifan lokal ini sangat dipercaya oleh masyarakat setempat.
+
+Kepercayaan yang kuat inilah yang membuat budaya asing tidak bisa dengan mudah masuk dan mempengaruhi masyarakat. Dengan begitu, karakteristik masyarakat dari suatu daerah akan tetap terjaga dengan baik.
+
+### 2. Memiliki Kemampuan Mengakomodasi Budaya yang Berasal dari Luar
+
+Menghindari budaya asing yang masuk ke Indonesia bukan hal yang mudah untuk dilakukan. Apalagi, di era globalisasi seperti sekarang, dimana segalanya bisa terhubung dengan mudah dan cepat. Budaya atau tren dari luar biasanya menyebar cepat melalui YouTube, televisi, dan media sosial.
+
+Karena keberadaan teknologi inilah yang membuat budaya asing bisa dengan mudah memasuki Indonesia. Namun, disisi lain, berbeda dengan budaya luar, kearifan lokal memiliki fleksibilitas yang cukup tinggi, sehingga bisa diakomodir dengan mudah tanpa harus merusak kepercayaan kearifan lokal yang sudah ada sebelumnya.
+
+Alhasil kalaupun ada budaya asing yang masuk, budaya asing ini hanya akan jadi tren sesaat dan bukannya menggantikan budaya warisan nenek moyang yang sudah ada. Apalagi sampai merusak kepercayaan yang sudah berusia puluhan hingga ratusan tahun.
+
+### 3. Mampu Mengintegrasikan Budaya Asing ke Dalam Budaya Asli di Indonesia
+
+Ciri kearifan lokal lainnya adalah kearifan lokal memiliki kemampuan bukan hanya untuk mengakomodasi, tetapi juga mengintegrasikan budaya asing yang masuk dan memadukannya dengan budaya yang sudah ada dengan baik.
+
+Salah satu video Wonderful Indonesia yang sempat viral beberapa bulan yang lalu misalnya. Video tersebut pada dasarnya berisi tentang berbagai kebudayaan tradisional Indonesia.
+
+Namun, kemudian dicampur dengan beberapa hal bernuansa modern dan asing seperti musim EDM. Hasilnya? Video itu terlihat sangat indah dan disukai banyak orang, baik itu orang asing maupun lokal.
+
+Contoh lainnya adalah pembangunan sebuah gedung di Indonesia. Tidak jarang arsiteknya memadukan budaya lokal dengan mencontek desain bangunan tradisional di Indonesia, kemudian memadukannya dengan arsitektur modern.
+
+Masjid Raya Sumatera Barat yang ada di jantung kota Padang misalnya, bangunannya meniru arsitektur khas Minangkabau, sedangkan atap masjid justru dibuat seperti rumah Gadang yang menjadi rumah tradisional dari Provinsi Sumatera Barat. Meskipun begitu, tetap terlihat lebih modern.
+
+### 4. Mampu Mengendalikan Budaya Asing yang Masuk
+
+Seperti yang sudah dibahas sebelumnya, budaya asing bukanlah sesuatu yang bisa ditolak dengan mudah. Namun disisi lain, kearifan lokal yang menjadi adat dan budaya asli juga mengakar begitu kuat, sehingga akan sulit untuk menghilangkannya dari masyarakat.
+
+Alih-alih hilang dan digantikan oleh budaya asing, kepercayaan terhadap kearifan lokal yang lebih kuat, sehingga membuat kita justru mampu mengendalikan budaya asing yang masuk.
+
+Bukan hanya itu, kita juga bisa dengan mudah menyaring budaya asing yang masuk. Dengan kata lain, kita menentukan mana budaya asing yang bisa diterima di Indonesia, dan mana budaya asing yang memiliki nilai buruk.
+
+### 5. Memberi Arah pada Perkembangan Budaya di Masyarakat
+
+Kearifan lokal yang sudah dipercaya oleh masyarakat sejak lama mau tidak mau juga akan mempengaruhi masyarakat dalam kehidupan sehari-hari. Bagaimana tidak, kearifan lokal yang sudah berusia puluhan tahun pada akhirnya akan menjadi kepercayaan atau pedoman yang dianut oleh masyarakat setempat.
+
+Alhasil ketika terjadi sesuatu pun, masyarakat akan menjadikan kearifan lokal sebagai patokan sebelum mengambil sikap atau tindakan tertentu. Kebiasaan ini juga membuat masyarakat di wilayah tertentu dapat mengembangkan budaya yang sudah ada menjadi lebih terarah dari sebelumnya. Dengan kata lain, kearifan lokal memiliki ciri berupa dapat memberikan arah bagi masyarakat setempat.
+## Jenis-Jenis Kearifan Lokal
+Kearifan lokal bukan hanya memiliki ciri dan fungsi saja, tetapi kearifan lokal juga terdiri dari dua jenis, yaitu kearifan lokal yang berwujud nyata atau dikenal dengan istilah tangible, dan juga kearifan lokal tidak berwujud atau yang biasa disebut _intangible_. Apa maksudnya? Yuk simak penjelasan lengkapnya di bawah ini!
+
+### **1. Kearifan Lokal Berwujud Nyata atau _Tangible_**
+
+Sesuai dengan namanya, kearifan lokal berwujud nyata adalah kearifan lokal yang bisa kita lihat dan sentuh wujudnya. Kearifan lokal dalam bentuk nyata atau _tangible_ ini bisa dilihat dalam berbagai bentuk, baik itu dalam bentuk tekstual seperti tata cara, aturan, atau sistem nilai.
+
+Bentuk selanjutnya adalah arsitektural seperti berbagai jenis rumah adat yang ada di setiap daerah di Indonesia. Misalnya rumah Gadang di Sumatera Barat, rumah Joglo dari Jawa Tengah, atau rumah Panggung dari Jambi.
+
+Bentuk kearifan lokal berwujud nyata lainnya adalah cagar budaya seperti patung, berbagai alat seni tradisional, senjata tradisional yang diwariskan turun temurun dari generasi ke generasi lainnya, hingga tekstil tradisional seperti kain batik dari Pulau Jawa, dan kain tenun dari Pulau Sumba.
+
+### **2. Kearifan Lokal yang Tidak Berwujud atau _Intangible_**
+
+Kebalikan dari kearifan lokal berwujud yang nyata dan bisa dilihat serta dirasakan, kearifan lokal tidak berwujud atau intangible ini tidak bisa dilihat wujudnya secara nyata. Namun, walaupun tidak terlihat, kearifan lokal jenis ini bisa didengar karena disampaikan secara verbal dari orang tua ke anak, dan generasi selanjutnya.
+
+Bentuk kearifan lokal tidak berwujud antara lain adalah nasihat, nyanyian, pantun, atau cerita yang mengandung pelajaran hidup bagi generasi selanjutnya yang bertujuan agar para generasi muda di wilayah tersebut tidak melakukan tindakan buruk yang dapat merugikan diri sendiri, masyarakat, serta alam sekitar yang menjadi rumah serta sumber penghidupan mereka.
+
+Contohnya adalah kepercayaan asal Papua yang dikenal dengan nama Te Aro Neweak Lako. Kepercayaan ini merupakan bentuk kearifan lokal yang tidak berwujud atau intangible, dimana masyarakat mempercayai bahwa alam merupakan bagian dari diri mereka.
+
+Karena alam adalah bagian dari diri sendiri, maka alam harus dijaga dengan hati-hati. Termasuk tidak menebang pohon seenaknya yang dapat membuat hutan gundul dan menyebabkan terjadinya berbagai bencana yang merugikan.
+
+Alam tentu saja boleh dimanfaatkan, tetapi tidak boleh dieksploitasi secara berlebihan. Dengan kepercayaan ini, tidak heran jika alam di Bumi Papua masih sangat terjaga.
+
 # Pentingnya Kearifan Lokal bagi Bangsa Indonesia
+Mengutip dari buku _Inovasi Kurikulum_, Ernawati Harahap, dkk., (2022), kearifan lokal merupakan investasi penting untuk mengembangkan kualitas diri dan keterampilan dalam menghadapi dunia global tanpa meninggalkan budaya bangsa.
+
+Selain itu, ada beberapa jawaban lainnya jika diminta jelaskan pentingnya kearifan lokal bagi bangsa [Indonesia](https://kumparan.com/topic/indonesia). Inilah beberapa peran penting kearifan lokal bagi bangsa Indonesia.
+
+### 1. Kearifan Lokal Berperan dalam Melestarikan Lingkungan
+
+Nilai-nilai dan aturan yang terkandung dalam kearifan lokal mengatur hubungan manusia secara harmonis. Contohnya, sistem sasi di Maluku dan tradisi Nguri-uri di Jawa merupakan praktik yang membantu menjaga keseimbangan alam dan mencegah kerusakan lingkungan.
+### 2. Kearifan Lokal Memperkuat Identitas Bangsa
+
+Sebagai bagian dari budaya bangsa, kearifan lokal mencerminkan nilai-nilai dan filosofi hidup masyarakat. Keberagaman kearifan lokal di Indonesia menjadi kekayaan budaya yang memperkokoh identitas bangsa.
+Melalui pemahaman dan penghargaan terhadap kearifan lokal, masyarakat dapat memahami asal-usul dan jati diri sebagai bangsa Indonesia.
+
+### 3. Kearifan Lokal Memperkaya Pengetahuan
+
+Pengetahuan tradisional yang terkandung dalam kearifan lokal sangat berharga bagi kehidupan sehari-hari. Misalnya, sistem subak di Bali dan pengobatan tradisional merupakan contoh yang dapat menjadi sumber pengetahuan baru bagi pembangunan bangsa.
+
+### 4. Kearifan Lokal Memperkuat Solidaritas dan Kerjasama dalam Masyarakat
+
+Nilai-nilai gotong royong dan kerjasama yang terkandung dalam kearifan lokal menjadi perekat yang kuat dalam hubungan antar anggota masyarakat.
+
+Tradisi Megbekel di Bali dan tradisi sedekah laut adalah contoh nyata bagaimana kearifan lokal mendorong solidaritas dan kerjasama dalam membangun masyarakat yang lebih baik.
+
+## **Keunggulan Kearifan Lokal**
+
+Kearifan lokal memiliki sejumlah keunggulan yang sangat berharga bagi kehidupan masyarakat, terutama dalam konteks sosial, budaya, dan lingkungan. Berikut adalah beberapa keunggulan kearifan lokal yang perlu kita ketahui:
+
+### **Memperkuat Identitas Budaya**
+
+Kearifan lokal menjadi bagian penting dalam membentuk identitas budaya suatu komunitas. Melalui adat, tradisi, dan kebiasaan yang telah ada sejak lama, masyarakat dapat mempertahankan nilai-nilai budaya yang membedakan mereka dari komunitas lain. Hal ini membantu menciptakan rasa bangga dan kebanggaan terhadap warisan leluhur.
+
+### **Menjaga Keseimbangan Alam**
+
+Banyak kearifan lokal yang berhubungan erat dengan pelestarian alam dan keberlanjutan sumber daya alam. Tradisi-tradisi seperti larangan menebang pohon secara sembarangan, pengaturan waktu dan cara bertani, serta upacara adat yang mengedepankan hubungan harmonis dengan alam, membantu menjaga keseimbangan ekosistem. Kearifan lokal ini memberikan panduan untuk menjaga alam tetap lestari demi kepentingan generasi mendatang.
+
+### **Mendorong Gotong Royong dan Solidaritas Sosial**
+
+Banyak tradisi kearifan lokal yang mengutamakan kebersamaan dan gotong royong. Aktivitas seperti bekerja bersama dalam upacara adat atau dalam kegiatan ekonomi, seperti panen padi, mempererat hubungan sosial antarwarga. Ini membantu menciptakan masyarakat yang lebih solid dan saling mendukung satu sama lain.
+
+### **Membangun Ketahanan Sosial dan Ekonomi**
+
+Dalam konteks sosial-ekonomi, kearifan lokal sering kali mengandung prinsip-prinsip yang mendorong keberlanjutan dan ketahanan masyarakat. Misalnya, sistem pertanian tradisional yang ramah lingkungan atau ekonomi berbasis komunitas yang mengutamakan kebersamaan. Kearifan lokal ini mengajarkan cara untuk mengelola sumber daya dengan bijak dan berkelanjutan, sehingga mampu meningkatkan ketahanan ekonomi masyarakat.
+
+### **Mempererat Hubungan Antargenerasi**
+
+Kearifan lokal memainkan peran penting dalam mentransfer nilai-nilai budaya kepada generasi berikutnya. Tradisi yang diwariskan dari nenek moyang kepada anak cucu menjaga agar pengetahuan dan kebiasaan baik tetap hidup. Hal ini juga mempererat ikatan antara generasi yang lebih tua dan muda, sehingga menciptakan rasa saling memahami dan menghargai.
+
 # Melestarikan Kearifan Lokal
+Melestarikan kearifan lokal sangat penting untuk mempertahankan identitas budaya dan tradisi yang telah diwariskan dari generasi ke generasi. Ada beberapa cara yang bisa dilakukan untuk memastikan kearifan lokal tetap terjaga dan tidak punah, di antaranya:
+
+### **Pendidikan dan Penyuluhan**
+
+Salah satu cara utama untuk melestarikan kearifan lokal adalah dengan mengajarkan nilai-nilai tersebut kepada generasi muda. Hal ini bisa dilakukan melalui pendidikan formal di sekolah atau pendidikan non-formal seperti kursus dan pelatihan. Masyarakat harus diberi pemahaman tentang pentingnya kearifan lokal, baik dari segi budaya, sosial, maupun lingkungan, sehingga mereka dapat meneruskan tradisi ini ke generasi berikutnya.
+
+### **Mengadakan Festival dan Acara Budaya**
+
+Menggelar festival atau acara budaya yang menampilkan tradisi dan kearifan lokal dapat menjadi salah satu cara untuk memperkenalkan dan melestarikan kearifan lokal. Acara seperti festival seni, ritual adat, atau pameran tradisi lokal bisa meningkatkan kesadaran masyarakat akan kekayaan budaya yang mereka miliki dan menjaga agar tradisi ini tetap hidup.
+
+### **Pemberdayaan Masyarakat Lokal**
+
+Pemberdayaan masyarakat yang menguasai dan melestarikan kearifan lokal sangat penting. Masyarakat lokal perlu diberikan dukungan untuk melestarikan kebudayaan mereka, seperti memberikan pelatihan dalam keterampilan tradisional atau mendukung usaha mereka yang berbasis kearifan lokal. Hal ini juga bisa mencakup promosi produk-produk lokal atau pariwisata berbasis budaya.
+
+### **Pemanfaatan Teknologi**
+
+Untuk menjaga agar kearifan lokal tidak terkubur oleh zaman, teknologi bisa dimanfaatkan. Misalnya, dengan mendokumentasikan dan mempublikasikan kearifan lokal melalui media sosial, video, atau situs web, kita bisa mencapai audiens yang lebih luas dan memperkenalkan kebudayaan tersebut ke berbagai penjuru dunia. Penggunaan teknologi juga memungkinkan tradisi-tradisi ini diteruskan dalam bentuk yang lebih modern tanpa mengurangi makna dan nilai aslinya.
+
+### **Pelestarian Lingkungan dan Alam**
+
+Banyak kearifan lokal yang berkaitan erat dengan alam dan lingkungan sekitar. Oleh karena itu, menjaga kelestarian alam sangat penting dalam pelestarian kearifan lokal. Misalnya, praktik-praktik adat yang berkaitan dengan pengelolaan sumber daya alam harus terus diperkenalkan dan diterapkan dalam kehidupan sehari-hari. Ini akan membantu menjaga keseimbangan antara manusia dan alam.
+
+### **Kolaborasi dengan Pemerintah dan Lembaga Budaya**
+
+Pemerintah dan lembaga budaya berperan besar dalam melestarikan kearifan lokal. Pemerintah dapat memberikan insentif untuk upaya pelestarian, serta mengeluarkan kebijakan yang mendukung kebudayaan lokal. Selain itu, lembaga budaya bisa menjadi fasilitator dalam melestarikan kearifan lokal melalui riset, pendidikan, dan publikasi.
+
+### **Menjaga Keaslian dalam Perkembangan Zaman**
+
+Dalam perkembangan zaman yang terus berubah, penting untuk tetap menjaga keaslian kearifan lokal meski ada pengaruh dari budaya luar. Ini bisa dilakukan dengan bijak memilih elemen-elemen budaya yang tetap relevan dan dapat dipertahankan tanpa kehilangan jati diri. Adaptasi terhadap perubahan zaman boleh dilakukan, namun nilai inti dari kearifan lokal harus tetap dipertahankan.
 # Komitmen Penerapan Tata Urutan Peraturan Perundang-undangan di Indonesia
+### ■ Pengertian Tata Urutan Perundang-Undangan
+
+Tata urutan perundang-undangan adalah sistem hierarki yang mengatur urutan atau kedudukan peraturan perundang-undangan di Indonesia. Hal ini mengacu pada prinsip bahwa setiap peraturan harus sesuai dengan peraturan yang lebih tinggi dan memiliki kedudukan yang jelas di bawahnya.
+
+### ■ Pasal 20 UUD NRI Tahun 1945
+
+Pasal 20 UUD 1945 mengatur mengenai kewenangan dan tugas Dewan Perwakilan Rakyat (DPR) dalam proses pembuatan undang-undang. Pasal ini menyatakan bahwa:
+
+- 1. DPR memiliki kewenangan untuk membuat undang-undang bersama dengan Presiden.
+- 2. Presiden juga memiliki hak untuk mengajukan rancangan undang-undang.
+- 3. Rancangan undang-undang yang telah disetujui oleh DPR akan disampaikan kepada Presiden untuk disahkan atau ditolak.
+
+Pasal ini menggarisbawahi pentingnya peran bersama antara eksekutif dan legislatif dalam pembentukan undang-undang, serta menetapkan proses yang harus diikuti untuk menciptakan peraturan yang sah dan mengikat.
+
+### ■ Komitmen dalam Penerapan Tata Urutan Perundang-Undangan
+
+Komitmen penerapan tata urutan perundang-undangan sesuai Pasal 20 UUD 1945 mencakup:
+
+- Kewenangan Bersama antara DPR dan Presiden: Pembuatan undang-undang dilakukan melalui kerjasama antara lembaga legislatif (DPR) dan eksekutif (Presiden), memastikan bahwa proses legislasi melibatkan dua pihak yang memiliki kekuasaan.
+- Proses Pembahasan yang Demokratis: Proses pembuatan undang-undang harus melalui pembahasan yang transparan, partisipatif, dan sesuai dengan prinsip-prinsip demokrasi.
+- Tata Urutan yang Jelas: Menjamin bahwa undang-undang yang disahkan harus mengikuti hierarki peraturan perundang-undangan yang sudah ditentukan dalam sistem hukum Indonesia, yaitu dimulai dari UUD 1945 sebagai hukum tertinggi, kemudian undang-undang, peraturan pemerintah, dan seterusnya.
+- Pengaturan Hierarki Hukum: Pasal 20 juga menjadi dasar untuk memastikan bahwa setiap peraturan perundang-undangan yang dibuat oleh negara harus berada dalam tata urutan yang jelas dan tidak bertentangan dengan peraturan yang lebih tinggi.
+
+### ■ Hierarki Perundang-Undangan di Indonesia
+
+Berdasarkan sistem hukum Indonesia, tata urutan perundang-undangan dibagi dalam beberapa tingkatan yang berjenjang sebagai berikut:
+
+1. UUD 1945 (sebagai hukum dasar negara)
+2. Undang-Undang (yang dibentuk oleh DPR dan Presiden)
+3. Peraturan Pemerintah (yang dibuat oleh Presiden untuk melaksanakan undang-undang)
+4. Peraturan Presiden (peraturan yang dikeluarkan oleh Presiden untuk pelaksanaan lebih lanjut)
+5. Peraturan Daerah (yang dibentuk oleh DPRD dan kepala daerah)
+
+Hierarki ini penting untuk memastikan setiap peraturan yang lebih rendah tidak boleh bertentangan dengan peraturan yang lebih tinggi, dan untuk menjaga sistem hukum yang konsisten.
+
+### ■ Penerapan Komitmen dalam Sistem Hukum
+
+Dalam praktiknya, komitmen penerapan tata urutan perundang-undangan ini memastikan bahwa setiap proses pembuatan dan penerapan perundang-undangan di Indonesia mengikuti aturan yang ada, menjaga supremasi hukum, serta memberikan perlindungan hukum bagi rakyat dan negara.
+
+## ❐ Kesimpulan
+
+Jadi, komitmen penerapan tata urutan perundang-undangan di Indonesia sesuai Pasal 20 UUD NRI Tahun 1945 menekankan pentingnya kerjasama antara DPR dan Presiden dalam pembuatan undang-undang, serta menjamin bahwa setiap peraturan perundang-undangan mengikuti hierarki yang jelas, untuk memastikan konsistensi dan kepastian hukum.
 # Hak dan Kewajiban Warga Negara dalam UUD NRI 1945
+Menurut Prof. Dr. Notonagoro:
+
+Hak adalah kuasa untuk menerima atau melakukan suatu yang semestinya diterima atau dilakukan melulu oleh pihak tertentu dan tidak dapat oleh pihak lain manapun juga yang pada prinsipnya dapat dituntut secara paksa olehnya..
+
+Hak dan Kewajiban merupakan sesuatu yang tidak dapat dipisahkan, akan tetapi terjadi pertentangan karena hak dan kewajiban tidak seimbang. Bahwa setiap warga negara memiliki hak dan kewajiban untuk mendapatkan penghidupan yang layak, tetapi pada kenyataannya banyak warga negara yang belum merasakan kesejahteraan dalam menjalani kehidupannya. Semua itu terjadi karena pemerintah dan para pejabat tinggi lebih banyak mendahulukan hak daripada kewajiban. Padahal menjadi seorang pejabat itu tidak cukup hanya memiliki pangkat akan tetapi mereka berkewajiban untuk memikirkan diri sendiri. Jika keadaannya seperti ini, maka tidak ada keseimbangan antara hak dan kewajiban. Jika keseimbangan itu tidak ada akan terjadi kesenjangan sosial yang berkepanjangan.
+
+Untuk mencapai keseimbangan antara hak dan kewajiban, yaitu dengan cara mengetahui posisi diri kita sendiri. Sebagai seorang warga negara harus tahu hak dan kewajibannya. Seorang pejabat atau pemerintah pun harus tahu akan hak dan kewajibannya. Seperti yang sudah tercantum dalam hukum dan aturan-aturan yang berlaku. Jika hak dan kewajiban seimbang dan terpenuhi, maka kehidupan masyarakat akan aman sejahtera. Hak dan kewajiban di Indonesia ini tidak akan pernah seimbang. Apabila masyarakat tidak bergerak untuk merubahnya. Karena para pejabat tidak akan pernah merubahnya, walaupun rakyat banyak menderita karena hal ini. Mereka lebih memikirkan bagaimana mendapatkan materi daripada memikirkan rakyat, sampai saat ini masih banyak rakyat yang belum mendapatkan haknya. Oleh karena itu, kita sebagai warga negara yang berdemokrasi harus bangun dari mimpi kita yang buruk ini dan merubahnya untuk mendapatkan hak-hak dan tak lupa melaksanakan kewajiban kita sebagai rakyat Indonesia.
+
+Sebagaimana telah ditetapkan dalam UUD 1945 pada pasal 28, yang menetapkan bahwa hak warga negara dan penduduk untuk berserikat dan berkumpul, mengeluarkan pikiran dengan lisan maupun tulisan, dan sebagainya, syarat-syarat akan diatur dalam undang-undang. Pasal ini mencerminkan bahwa negara Indonesia bersifat demokrasi. Pada para pejabat dan pemerintah untuk bersiap-siap hidup setara dengan kita. Harus menjunjung bangsa Indonesia ini kepada kehidupan yang lebih baik dan maju. Yaitu dengan menjalankan hak-hak dan kewajiban dengan seimbang. Dengan memperhatikan rakyat-rakyat kecil yang selama ini kurang mendapat kepedulian dan tidak mendapatkan hak-haknya.
+
+**HAK DAN KEWAAJIBAN WARGA NEGARA :**
+
+1.  Wujud Hubungan Warga Negara dengan Negara Wujud hubungan warga negara dan negara pada umumnya berupa peranan (role).
+
+2.  Hak dan Kewajiban Warga Negara Indonesia Hak kewajiban warga negara Indonesia tercantum dalam pasal 27 sampai dengan pasal 34 UUD 1945.
+
+**Hak Warga Negara Indonesia :**
+
+–   Hak atas pekerjaan dan penghidupan yang layak : “Tiap warga negara berhak atas
+
+pekerjaan dan penghidupan yang layak bagi kemanusiaan” (pasal 27 ayat 2).
+
+–   Hak untuk hidup dan mempertahankan kehidupan: “setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya.”(pasal 28A).
+
+–   Hak untuk membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah (pasal 28B ayat 1).
+
+–   Hak atas kelangsungan hidup. “Setiap anak berhak atas kelangsungan hidup, tumbuh, dan Berkembang”
+
+–   Hak untuk mengembangkan diri dan melalui pemenuhan kebutuhan dasarnya dan berhak mendapat pendidikan, ilmu pengetahuan dan teknologi, seni dan budaya demi
+
+meningkatkan kualitas hidupnya demi kesejahteraan hidup manusia. (pasal 28C ayat 1)
+
+–   Hak untuk memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa, dan negaranya. (pasal 28C ayat 2).
+
+–   Hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta
+
+perlakuan yang sama di depan hukum.(pasal 28D ayat 1).
+
+–   Hak untuk mempunyai hak milik pribadi Hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani,hak beragama, hak untuk tidak diperbudak,
+
+hak untuk diakui sebagai pribadi di hadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku surut adalah hak asasi manusia yang tidak dapat dikurangi dalam keadaan apapun. (pasal 28I ayat 1).
+
+**Kewajiban Warga Negara Indonesia  :**
+
+–   Wajib menaati hukum dan pemerintahan. Pasal 27 ayat (1) UUD 1945 berbunyi :
+
+segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan
+
+dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.
+
+–   Wajib ikut serta dalam upaya pembelaan negara. Pasal 27 ayat (3) UUD 1945
+
+menyatakan  : setiap warga negara berhak dan wajib ikut serta dalam upaya
+
+pembelaan negara”.
+
+–   Wajib menghormati hak asasi manusia orang lain. Pasal 28J ayat 1 mengatakan :
+
+Setiap orang wajib menghormati hak asai manusia orang lain
+
+–   Wajib tunduk kepada pembatasan yang ditetapkan dengan undang-undang. Pasal 28J ayat 2 menyatakan : “Dalam menjalankan hak dan kebebasannya,setiap orang wajib tunduk kepada pembatasan yang ditetapkan dengan undang-undang dengan maksud untuk menjamin pengakuan serta penghormatan atas hak kebebasan orang lain dan untuk memenuhi tuntutan yang adil sesuai dengan pertimbangan moral, nilai-nilai agama, keamanan, dan ketertiban umum dalam suatu masyarakat demokratis.”
+
+–   Wajib ikut serta dalam usaha pertahanan dan keamanan negara. Pasal 30 ayat (1) UUD 1945. menyatakan: “tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.”
+
+**Hak dan Kewajiban telah dicantumkan dalam UUD 1945 pasal 26, 27, 28, dan 30, yaitu :**
+
+1.  Pasal 26, ayat (1), yang menjadi warga negara adalah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara. Dan pada ayat (2), syarat-syarat mengenai kewarganegaraan ditetapkan dengan undang-undang.
+
+2.  Pasal 27, ayat (1), segala warga negara bersamaan dengan kedudukannya di dalam
+
+hukum dan pemerintahannya, wajib menjunjung hukum dan pemerintahan itu. Pada ayat (2), taip-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.
+
+3.  Pasal 28, kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran dengan lisan, dan sebagainya ditetapkan dengan undang-undang.
+
+4.  Pasal 30, ayat (1), hak dan kewajiban warga negara untuk ikut serta dalam pembelaan negara. Dan ayat (2) menyatakan pengaturan lebih lanjut diatur dengan undang-undang.
 # Kemerdekaan Berpendapat
+**Kebebasan berbicara** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _Freedom of speech_) adalah kebebasan yang mengacu pada sebuah hak untuk berbicara secara bebas tanpa adanya tindakan sensor atau pembatasan akan tetapi dalam hal ini tidak termasuk dalam hal untuk menyebarkan kebencian. Dapat diidentikkan dengan istilah kebebasan berekspresi yang kadang-kadang digunakan untuk menunjukkan bukan hanya kepada kebebasan berbicara lisan, akan tetapi, pada tindakan pencarian, penerimaan dan bagian dari informasi atau ide apapun yang sedang dipergunakan. Walaupun kebebasan berbicara dan kebebasan berekspresi terkait erat dengan sebuah kebebasan, tetapi berbeda dan tidak terkait dengan konsep [kebebasan berpikir](https://id.wikipedia.org/wiki/Kebebasan_berpikir "Kebebasan berpikir") atau kebebasan hati nurani.
+
+Kebebasan berbicara atau berekspresi, menurut [Pernyataan Umum tentang Hak-Hak Asasi Manusia](https://id.wikipedia.org/wiki/Pernyataan_Umum_tentang_Hak-Hak_Asasi_Manusia "Pernyataan Umum tentang Hak-Hak Asasi Manusia"), mencakup kebebasan untuk bebas berpendapat tanpa adanya intervensi.
+
+Kebebasan berekspresi atau berbicara merupakan hak dasar dari setiap manusia sesuai amanat dari Undang-Undang Dasar 1945 yang telah di amandemen. Hak kebebasan dalam berpendapat yang disesuaikan pada pasal 28 Undang-Undang Dasar Negara Republik Indonesia tahun 1945 sepatutnya dilaksanakan oleh semua pihak karena Undang-Undang Dasar telah mengamanatkan tentang kebebasan dalam berbicara dan mengeluarkan pendapat. Keharusan bagi kita sebagai warga masyarakat yang bernaung dalam wilayah administrasi Indonesia. Bung Hatta menggagas sebuah ide tentang kebebasan berpendapat yang berbunyi hak rakyat untuk menyatakan perasaan baik itu berbentuk lisan dan tulisan, berkumpul dan bersidang diakui oleh negara dan ditentukan oleh Undang-Undang Dasar 1945. Kebebasan berpendapat atau menyatakan pendapat dimuka umum merupakan bagian dari wujud demokrasi dan dijamin oleh negara. Masyarakat yang maju adalah masyarakat yang memiliki persamaan hak sesuai dengan kaidah dan normal yang berlaku pada masyarakat itu sendiri. Bisa dikatakan kebebasan berbicara dijamin oleh negara selama tidak menyalahi dan merugikan pihak lain serta disampaikan secara sopan.
+
+Proses demokratisasi di Indonesia saat ini menempatkan publik sebagai pemilik atau pengendali utama kebebasan dalam berbicara. Kebebasan berbicara begitu penting untuk dimiliki oleh setiap manusia untuk mengungkapkan ide, opini, pendapat dan ungkapan perasaannya untuk didengar oleh pihak lain. Kebebasan ini merupakan bagian dari Hak Asasi Manusia dan sudah barang tentu kebebasan ini jangan sampai melanggar kepentingan publik pihak lain. Wahid mengatakan bahwa kebebasan berpendapat dan berekspresi berlaku untuk semua jenis ide termasuk yang mungkin sangat offensive atau menyanggung namun dapat dipertanggung jawabkan dan dapat dibatasi secara sah oleh pemerintah apabila melanggar etika kesopanan. Pemerintah memiliki kewajiban untuk melarang perkataan yang mendorong kebencian dan hasutan dan pembatasan tersebut dapat dibenarkan. Hak berpendapat atau berbicara boleh disampaikan dengan terbuka berdasarkan norma ketentuan yang berlaku di masyarakat demi melindungi kepentingan publik dan hak reputasi orang lain. Baik itu hak berbicara dan berekspresi kedua-duanya terkait erat satu sama lain, namun berbeda dengan konsep hak kebebasan berpikir dan hati nurani.
 # Makna Tradisi, Kearifan Lokal dan Budaya dalam Masyarakat Global
+
 # Menjaga Pertahanan dan Keamanan Negara dimulai dari Link. Sekitar
 Membantu pemerintah menjaga pertahanan dan keamanan negara dapat dimulai dari linkungan sekitar seperti:
 1. Melakukan ronda
@@ -1258,15 +1826,29 @@ Membantu pemerintah menjaga pertahanan dan keamanan negara dapat dimulai dari li
 4. Mematuhi segala surat-surat dan dokumen lainnya
 5. Menghindari memperlihatkan senjata kepada publik
 # Mempertahankan Kesatuan dan Persatuan NKRI
-## Komitmen
-### Apa itu Komitmen?
-Komitmen merupakan dedikasi yang kuat terhadap suatu tugas atau aktivitas atau hubungan. Berikut aspek-aspek dari komitmen yaitu:
-1. Konsistensi
-2. Tanggung jawab
-3. Kesetiaan
-4. Pengorbanan
-5. Keputusan jangka panjang
-6. Kepercayaan
-7. Motivasi
-8. Hubungan yang kuat
-9.  Keteguhan hati
+## Menciptakan Negara Kesatuan Republik Indonesia sebagai Negara Kebangsaan dan Demokratis yang Meliputi Wilayah dari Sabang hingga Merauke
+
+Mewujudkan NKRI sebagai negara kebangsaan yang demokratis dan memiliki wilayah yang luas dari Sabang hingga Merauke adalah sebuah tujuan yang sangat fundamental dan strategis. Proses penciptaan dan pemeliharaan NKRI ini melibatkan beberapa aspek penting yaitu sebagai berikut:
+- Pembentukan negara kesatuan
+	- Penguatan identitas nasional
+		Menggunakan Pancasila sebagai pijakan, upaya untuk menguatkan rasa kebangsaan dan identitas nasional terus dilakukan, memastikan bahwa meskipun Indonesia terdiri dari berbagai suku bangsa dan budaya, semuanya terikat dalam suatu kesatuan NKRI
+	- Pemeliharaan integritas wilayah
+		Menjaga dan memelihara integritas wilayah nasional adalah prioritas, memastikan bahwa seluruh wilayah Indonesia, mulai dari Sabang di ujung barat hingga Merauke di ujung timur, tetap berada dalam satu-kesatuan yang tidak terpecah.
+- Pembentukan negara kebangsaan
+	- Pengakuan dan penghormatan terhadap keragaman
+		Sebagai negara kebangsaan, Indonesia mengakui dan menghormati keragaman yang ada, menjadikannya sebagai kekayaan dan kekuataan bangsa, bukan sebagai sumber perpecahan.
+	- Pembinaan rasa persaudaraan
+		Membina rasa persaudaraan dan solidaritas nasional adalah kunci, mengingatkan seluruh elemen bangsa bahwa meskipun berbeda-beda, mereka adalah bagian dari satu bangsa yang sama.
+- Pembentukan negara demokratis
+	- Penegakan hak dan kewajiban negara
+		Pancasila menjadi acuan dalam penegakan hak dan kewajiban warga negara, memastikan bahwa setiap individu memiliki ruang untuk berpartisipasi dalam kehidupan berbangsa dan bernegara.
+	- Penerapan sistem demokrasi Pancasila
+		Sistem demokrasi yang dianut oleh Indonesia adalah demokrasi Pancasila, dimana proses pengambilan keputusan diupayakan melalui musyawarah untuk mencapai mufakat, mencerminkan nilai-nilai kekeluargaan dan kebersamaan.
+## Membentuk Satu Masyarakat Adil dan Makmur Materiel dan Spiritual dalam Wadah Negara Kesatuan Republik Indonesia
+
+Menciptakan masyarakat yang adil dan makmur baik secara materi maupun spiritual merupakan salah satu tujuan utama dari NKRI, sebagaimana diamanatkan oleh Pancasila, khususnya pada sila kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia.
+- Keseimbangan hak dan kewajiban
+	- Pemenuhan hak
+		Memastikan bahwa hak-hak dasar setiap warga negara, seperti hak atas pendidikan, kesehatan dan kesempatan bekerja, terpenuhi secara memadai.
+	- Penegakan kewajiban
+		Menumbuhkan kesadaran dan tanggung jawab warga negara untuk memenuhi
