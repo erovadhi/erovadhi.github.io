@@ -39,6 +39,15 @@ Tuhan yang mahakuasa memiliki empat sakti/kekuatan yaitu Cadhu Sakti:
 # Asta Aiswarya
 Asta -> delapan, Aiswarya -> Kemahakuasaan. Asta Aiswarya adalah delapan kemahakuasaan Tuhan.
 
+- **Anima:** Sifat sangat halus, seperti atom, yang sulit dilihat dengan mata manusia.
+- **Laghima:** Sifat sangat ringan.
+- **Mahima:** Sifat sangat besar dan luas, tak terbatas.
+- **Prapti:** Kemampuan untuk mencapai segala tempat.
+- **Prakamya:** Kehendak Tuhan selalu tercapai.
+- **Isitwa:** Melebihi segala-galanya.
+- **Wasitwa:** Sangat berkuasa.
+- **Yatrakamawasayitwa:** Kodrati tidak dapat diubah.
+
 Asta Aiswarya adalah sifat kemahakuasaan Tuhan yang disimbulkan dengan Padma Asta Dala (Teratai Berkelopak Delapan). Padma dianggap suci dikarenakan dapat tumbuh sendiri di tanah, air dan udara. Dapat berakar di lumpur atau tanah dan batangnya bisa berada di dalam air selain itu daunnya terlihat di atas permukaan air. Padma dianggap singgasana para Dewa.
 ## 1. Anima
 Kata Anima berasal dari akar kata “anu” yang artinya kecil, atom. Jadi, Anima sebagai salah satu sifat kemahakuasaan Hyang Widhi Wasa sebagai Sada Siwa mengandung pengertian bahwa Hyang Widhi Wasa dapat menjadi sangat kecil.

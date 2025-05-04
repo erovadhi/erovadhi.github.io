@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Erov's Archive",
-    pageTitleSuffix: "REDRARS",
+    pageTitleSuffix: " REDRARS",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
