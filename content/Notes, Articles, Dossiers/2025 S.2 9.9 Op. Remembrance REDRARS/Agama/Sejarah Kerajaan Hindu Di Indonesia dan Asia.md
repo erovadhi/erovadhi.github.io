@@ -18,7 +18,7 @@ Kerajaan Tarumanagara memiliki peninggalan berupa prasasti. Setidaknya ditemukan
 
 ### Prasasti-Prasasti dari Tarumanagara
 1. Prasasti Tugu
-	Prasasti Tugu ditemukan di Kampung Batutumbuh, Desa Tugu, DKI Jakarta. Prasasti ini menceritakan tentang penggalian Sungai Candrabhaga sebagai upaya untuk mencegah terjadinya banjir.
+	Prasasti Tugu ditemukan di Kampung **Batutumbuh, Desa Tugu, DKI Jakarta**. Prasasti ini menceritakan tentang penggalian Sungai Candrabhaga sebagai upaya untuk mencegah terjadinya banjir.
 ![[Prasasti Tugu.png]]
 > [!Prasasti Tugu] Prasasti Tugu
 > "Dulu (kali yang bernama) Candrabhaga telah digali oleh Maharaja yang mulia dan mempunyai lengan kencang dan kuat, (yakni Raja Purnawarman), untuk mengalirkannya ke laut, setelah (kali ini) sampai di istana kerajaan yang termashur. Pada tahun ke-22 dari tahta Yang Mulia Raja Purnawarman yang berkilauan-kilauan karena kepandaian dan kebijaksanaannya serta menjadi panji-panji segala raja, (maka sekarang) beliau memerintahkan pula menggali kali yang permai dan berair jernih, Gomati namanya, setelah kali itu mengalir di tengah-tengah tanah kediaman Yang Mulia Sang Pandeta Nenekda (Sang Purnawarman). Pekerjaan ini dimulai pada hari yang baik, tanggal delapan paroh gelap bulan Phalguna dan selesai pada tanggal 13 paroh terang bulan Caitra, jadi hanya dalam 21 hari saja, sedang galian itu panjangnya 6.122 busur (± 11 km). Selamatan baginya dilakukan oleh brahmana disertai persembahan 1.000 ekor sapi”.
@@ -256,7 +256,7 @@ Bangsa Arya mendatangi lembah Sungai Sindhu dengan memasuki wilayah India dari b
 
 ## Sejarah Agama Hindu di Afghanistan
 Masyarakat Afganistan di masa lampau memiliki hubungan budaya yang erat dengan India. Hal ini ditunjukkan dengan dijalankannya pemujaan terhadap dewa-dewi Hindu. Agama Hindu masuk ke Afganistan diperkirakan ketika di India masih berlangsung zaman Weda. Dalam cerita Mahabharata, dikisahkan bahwa Raja Sangkuni merupakan penguasa kerajaan yang wilayahnya pada masa kini diperkirakan berada di K ndahar, Afganistan.
-![[Pasted image 20250316200938.png]]
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97bvLpHnl_-5Qsh-8jLFqPT01u3jH-x-zHw&s)
 Beberapa peninggalan kebudayaan Hindu di Afganistan adalah dengan ditemukannya arca Ganesha pada abad ke-5 M di daerah Gandez, Afganistan sekarang (Dargah Pir Rattan Nath, Kabul). Pada arca Ganesha tersebut terdapat tulisan “besar dan citra indah Mahavinayaka” disucikan oleh Shahi Raja Khingala Hal ini mencerminkan bahwa pemujaan Ganesha adalah hal yang populer di wilayah tersebut. Dari arca Ganesha tersebut membuktikan bahwa agama Hindu merupakan agama yang dianut oleh penduduk Afganistan pada abad ke-5 hingga abad ke-7. Dewa Ganesha khususnya dipuja oleh para pedagang yang keluar India untuk mengadakan hubungan dagang. Bukti lain perkembangan agama Hindu di Afganistan adalah dengan ditemukan koin emas bergambar Dewa Siwa.
 
 ## Sejarah Agama Hindu di Nepal
