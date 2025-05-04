@@ -159,4 +159,6 @@ Karena sistem Sūrya Pramāṇa menghasilkan 365 atau 366 hari dalam setahun, se
 Sasih yang umurnya ditambahkan ini akan menjadi sasih mala. Artinya jika terjadi pada sasih Jyeṣṭhā, maka penambahannya akan menjadi Mala Jyeṣṭhā, begitu pula jika terjadi pada sasih Sadā maka akan menjadi Mala Sadā. Dengan penambahan sasih ini, maka setiap 3 tahun antara Candra Pramāṇa dan Sūrya Pramāṇa ini akan mengalami perpaduan yang disebut nêmu gêlang.
 
 Dengan demikian, pada sistem Sūrya-Candra Pramāṇa yang diterapkan pada kalender Hindu di Indonesia, setiap 3 tahun sekali akan ditemukan bulan ke-13 yang disebut mala. Sasih mala ini dianggap tidak baik untuk padewasan atau kurang baik untuk melakukan karya agung atau upacara besar.
+# 2. Menentukan Wewaran dan Rerainan dengan Telapak Tangan
+![](https://scontent.fdps5-1.fna.fbcdn.net/v/t1.6435-9/76994119_422237938716349_868836282996883456_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=UgdOvQoyOkgQ7kNvwEdx0lG&_nc_oc=AdlwD2kzuf1dS8cTTKQgD2MMPBc7QqULjC8X8J_C23UP6_RLlsONpE0bVNbvqINOX6M&_nc_zt=23&_nc_ht=scontent.fdps5-1.fna&_nc_gid=lPXDmvQZ2mZfcWueD1JDsg&oh=00_AfE0AxPEP-aGxDi4jpjg_ipUhX20IRrHK2FB7Ksid7qnWw&oe=683E8837)
 
