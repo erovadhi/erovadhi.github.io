@@ -548,3 +548,196 @@ Misalnya akan dipindahkan variabel x ke ruas lainnya dari persamaan
 Jadi, solusi persamaan di atas adalah x = 1
 ```
 
+## **C. Contoh Soal SPLSV** 
+
+Berikut contoh soal SPLSV dan penyelesaiannya. Untuk memastikan solusi yang ditemukan benar, dapat dilakukan pengujian dengan substitusi (memasukkan) nilai x ke persamaan.
+
+1. ##### **Tentukan solusi dari sistem persamaan linear 3x - 4 = 2** 
+    
+    [![Tentukan solusi dari sistem persamaan linear 3x - 4 = 2](https://www.advernesia.com/wp-content/uploads/2020/06/Tentukan-solusi-dari-sistem-persamaan-linear-3x-4-2.png)](https://www.advernesia.com/wp-content/uploads/2020/06/Tentukan-solusi-dari-sistem-persamaan-linear-3x-4-2.png)
+    
+    **Jawaban: Solusi persamaan tersebut adalah x = 2**
+    
+    Untuk memastikan solusi yang diperoleh benar,  
+    jika x = 2, maka substitusi 3x - 4 = 2 sebagai berikut  
+      
+    3x - 4 = 2  
+    3.(2) - 4 = 2  
+    6 - 4 = 2  
+    2 = 2 (Benar)
+    
+2. ##### **Tentukan solusi dari sistem persamaan linear x + 3 = 2x + 6**
+    
+    [![Tentukan solusi dari sistem persamaan linear x+3=2x+6](https://www.advernesia.com/wp-content/uploads/2020/06/Tentukan-solusi-dari-sistem-persamaan-linear-x32x6.png)](https://www.advernesia.com/wp-content/uploads/2020/06/Tentukan-solusi-dari-sistem-persamaan-linear-x32x6.png)
+    
+    **Jawaban: Solusi persamaan tersebut adalah x = -3**
+    
+    Untuk memastikan solusi yang diperoleh benar,  
+    jika x = -3, maka substitusi x + 3 = 2x + 6 sebagai berikut  
+      
+    x + 3 = 2x + 6  
+    (-3) + 3 = 2.(-3) + 6  
+    0 = -6 + 6  
+    0 = 0 (Benar)
+---
+
+## **D. Contoh Soal Cerita SPLSV**
+
+Eddy membeli 3 buku tulis dan sebuah pensil. Diketahui harga pensil adalah Rp 2.000 dan total belanja Rp 11.000. Hitunglah harga sebuah buku yang dibeli Eddy?
+
+Diketahui:
+
+3 Buku = 3x  
+Pensil = Rp 2.000  
+Total = Rp 11.000
+
+Penyelesaian:
+
+Dari informasi yang ada ditemukan satu variabel buku yaitu x yang akan dicari. Sehingga dapat digunakan sistem persamaan linear satu variabel pada permasalahan di atas.
+
+3 Buku + Pensil = Total  
+3x + Rp 2.000 = Rp 11.000  
+3x = Rp 11.000 - Rp 2.000  
+3x = Rp 9.000  
+(3x)/3 = Rp 9.000/3  
+x = Rp 3.000  
+Buku = Rp 3.000
+
+**Jawaban: Harga buku yang dibeli Eddy adalah Rp 3.000 per buah**
+
+Untuk memastikan harga buku, dapat dilakukan substitusi harga buku  
+3 Buku + Pensil = Total  
+(3 × Rp 3.000) + Rp 2.000 = Rp 11.000  
+Rp 9.000 + Rp 2.000 = Rp 11.000  
+Rp 11.000 = Rp 11.000 (Benar)
+
+# Pertidaksamaan Linear Satu Variabel (SPtLSV)
+## Konsep Pertidaksamaan Linear Satu Variabel (PtLSV)
+
+Pertidaksamaan Linier Satu Variabel (PtLSV) adalah **pertidaksamaan yang hanya mempunyai satu variabel saja, misalnya variabel x.** Pertidaksamaan ini, menggunakan salah satu **tanda ketidaksamaan**, yakni:
+
+| **Tanda Ketidaksamaan** | **Dibaca atau Diartikan** |
+| ----------------------- | ------------------------- |
+| >                       | Lebih besar dari          |
+| ≥                       | Lebih besar sama dengan   |
+| <                       | Lebih kecil dari          |
+| ≤                       | Lebih kecil sama dengan   |
+
+Apa sih maksudnya? Oke kalau begitu, kita lihat contoh di bawah ini, ya:
+
+Misalnya:
+
+x < 5, berarti nilai x _lebih kecil dari_ atau _kurang dari_ 5, nggak termasuk angka 5 itu sendiri. Kalo dijabarkan, nilai x adalah 4, 3, 2, 1, 0, -1, …, dst.
+
+atau,
+
+x ≥ 7, berarti nilai x _lebih besar sama dengan_ 7, termasuk angka 7 itu sendiri. Kalo dijabarkan, nilai x adalah 7, 8, 9, 10, 11, …, dst.
+
+## Bentuk Umum Sistem Pertidaksamaan Linear Satu Variabel (SPtLSV)
+
+Seperti halnya Sistem Persamaan Linear Satu Variabel (SPLSV)**_,_** pada Sistem Pertidaksamaan Linear Satu Variabel (SPtLSV) juga terdapat bentuk umumnya, _guys_. Bentuk umum SPtLSV, yaitu:
+
+**ax + b < c**
+
+Keterangan:
+
+a = koefisien x;
+
+x = variabel; dan
+
+b, c = konstanta.
+
+Nah, kamu masih ingat nggak, apa bedanya variabel, koefisien, dan konstanta?
+
+Variabel digunakan untuk menunjukkan nilai yang berubah. Kamu bisa menggunakan simbol berupa huruf, seperti a, b, x, y, z, dan sebagainya. Jadi, variabel tidak harus selalu x ya. Kemudian, konstanta merupakan nilai tetap (konsisten), dan koefisien merupakan faktor pengali dalam operasi Matematika.
+
+**Contoh:**
+
+3x + 1 > 2
+
+Berarti, 3 merupakan koefisiennya, x merupakan variabelnya, 1 dan 2 merupakan konstantanya. Oh iya, tanda pertidaksamaan juga bisa menyesuaikan ya, misalnya “<”, “>”, “≤” atau “≥”.
+
+## Sifat-Sifat Sistem Pertidaksamaan Linear Satu Variabel (SPtLSV)
+
+Sebelum masuk ke cara menyelesaikan Sistem Pertidaksamaan Linear Satu Variabel, kamu perlu tahu dulu nih mengenai sifat-sifat Sistem Pertidaksamaan Linear Satu Variabel, agar kamu tidak salah perhitungan. Berikut penjelasannya:
+
+### 1. Tanda Pertidaksamaan Tidak Berubah pada Operasi Penjumlahan dan Pengurangan
+
+Untuk menyelesaikan SPtLSV, terkadang kamu harus melakukan operasi penjumlahan atau pengurangan pada kedua ruas yang memiliki suku sama. Nah, operasi penjumlahan dan pengurangan, tidak akan mengubah tanda pertidaksamaan. Contoh:
+
+x – 2 < 6     (kedua ruas sama-sama ditambah 2)  
+x – 2 + 2 < 6 + 2  
+x < 8
+
+Sehingga, didapat nilai x < 8.
+
+### 2. Tanda Pertidaksamaan Tidak Berubah pada Operasi Perkalian Positif
+
+Sama halnya dengan operasi penjumlahan dan pengurangan, jika kedua ruas sama-sama dilakukan operasi perkalian positif, hal ini tidak akan mengubah tanda pertidaksamaan. Supaya kamu lebih paham, coba perhatikan contoh di bawah ini, deh:
+
+2x + 4 > 6
+
+Untuk menyelesaikan pertidaksamaan di atas, pertama-tama, kurangkan kedua ruas dengan -4.
+
+2x + 4 – 4 > 6 – 4
+
+2x > 2
+
+Selanjutnya, kalikan kedua ruas dengan ½.
+
+2x · ½ > 2 · ½
+
+x > 1
+
+Sehingga, didapat nilai x > 1.
+
+### 3. Tanda Pertidaksamaan Berubah pada Operasi Perkalian Negatif
+
+Nah, kalo kedua ruas dikalikan dengan bilangan negatif, maka ini akan menggantikan tanda pertidaksamaan, _guys_. Misalnya, dari yang awalnya <, berubah menjadi >, begitu juga sebaliknya. Kemudian, dari yang awalnya ≥, berubah menjadi ≤, begitu juga sebaliknya. Contoh:
+
+-2x + 2 ≥ 0     (pertama-tama, kedua ruas sama-sama dikurangi 2)
+
+-2x + 2 – 2 ≥ 0 – 2
+
+-2x ≥ -2     (kemudian, kedua ruas sama-sama dikali -½)
+
+-2x · -½ **≤** -2 · -½     (karena kedua ruas dikali bilangan negatif, maka tanda pertidaksamaannya berubah/dibalik)
+
+x **≤** 1
+
+Sehingga, didapat nilai x **≤** 1.
+
+## Cara Menyelesaikan Sistem Pertidaksamaan Linear Satu Variabel (SPtLSV)
+
+Gimana nih? Sudah paham apa itu pengertian Pertidaksamaan Linear satu Variabel, bentuk dasar dari SPtLSV, dan juga sifat-sifatnya? Nah, kamu masih nggak dengan cerita Rogu di atas? Sekarang, kita bantu Rogu yukKita ulangi lagi yaaa ceritanya.
+
+Rogu memiliki tugas untuk meletakkan beberapa bungkus bendera ke dalam suatu kotak. Tapi, satu kotak hanya bisa memuat kurang dari 65 buah bendera. Jika satu bungkus bendera, hanya berisi 10 buah bendera, berapa jumlah maksimal bungkus bendera yang dapat masuk ke dalam kotak tersebut?
+
+**Penyelesaian:**
+
+Pertama-tama, **kita tentukan dulu variabelnya**. Di sini, **variabel yang belum diketahui** adalah **banyaknya bungkus bendera yang dapat dimasukkan ke dalam kotak**, misalnya kita simbolkan dengan x.
+
+Setelah itu, diketahui satu bungkus bendera berisi 10 buah bendera. Sementara satu kotak hanya dapat memuat kurang dari 65 buah bendera.
+
+Nah, dari kedua pernyataan di atas**, kita dapat tentukan model matematikanya**, yaitu 10x < 65 yang dapat dibaca: “10 buah bendera dikali banyaknya bungkus yaitu kurang dari 65 buah bendera”.
+
+Lain lagi nih, kalo semisal di dalam kotak sudah terisi 5 buah bendera. Maka, model matematikanya bisa kita tulis menjadi, 10x + 5 < 65 yang dapat dibaca: “10 buah bendera dikali banyaknya bungkus ditambah 5 bendera yaitu kurang dari 65 buah bendera”.
+
+Terus, berapa sih jumlah maksimal bungkus bendera yang dapat masuk ke dalam kotak?
+
+Oke, coba kita kerjakan sama-sama, ya!
+
+10x + 5 < 65     (kedua ruas sama-sama dikurangi 5)
+
+10x + 5 – 5 < 65 – 5
+
+10x < 60      (kemudian, kedua ruas sama-sama dikali 1/10)
+
+10x · 1/10 < 60 · 1/10
+
+x < 6
+
+Jadi, banyaknya bungkus bendera yang dapat masuk ke dalam kotak adalah 6 bungkus.
+
+untuk menyelesaikan masalah di kegiatan Agustus-an!
+
