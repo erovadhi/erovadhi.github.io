@@ -1467,3 +1467,120 @@ Reaksi asam dan basa merupakan pusat kimiawi sistem kehidupan, lingkungan, dan p
 Reaksi antara asam dan basa akan menghasilkan garam dan air. Jadi, reaksi asam dengan basa juga bisa disebut dengan penggaraman.
 
 # 36. Mencari Fenotipe keturunan F1
+https://www.zenius.net/blog/rumus-hukum-i-mendel-dan-penerapannya/
+https://www.ruangguru.com/blog/biologi-kelas-12-persilangan-monohibrid-dan-dihibrid-pada-hukum-mendel
+# 37. Mencari Genotipe Keturunan F2
+![[Pasted image 20250507234856.png]]
+# 38. Ciri-Ciri Bioteknologi
+## [Pengertian bioteknologi](https://www.kompas.com/tag/pengertian-bioteknologi)
+
+Dikutip dari buku _Konsep Dasar Biologi_ (2022) karya Ina Magdalena dkk, istilah bioteknologi berasal dari bahasa Latin, yakni _bio,_ _tenos,_ dan _logos_.
+
+_Bio_ artinya hidup, _tenos_ berarti teknologi, dan _logos_ artinya ilmu. Dengan demikian, bioteknologi adalah ilmu yang mempelajari penerapan prinsip biologi.
+
+Bioteknologi merupakan cabang biologi yang mempelajari penggunaan organisme dengan bantuan teknologi untuk menyediakan barang serta pelayanan bagi kepentingan manusia.
+
+Menurut Taryono dalam buku _Pengantar Bioteknologi untuk Pemuliaan Tanaman_ (2016), berikut [pengertian bioteknologi](https://www.kompas.com/tag/pengertian-bioteknologi):
+
+_"Bioteknologi adalah kumpulan teknik yang menggunakan makhluk hidup atau senyawa yang dihasilkannya untuk menghasilkan atau mengubah produk, memperbaiki tanaman atau hewan, atau mengembangkan jasad renik untuk tujuan tertentu."_
+
+**Baca juga: [Bioteknologi: Jenis, Contoh, dan Penerapannya](https://www.kompas.com/skola/read/2021/07/19/135332069/bioteknologi-jenis-contoh-dan-penerapannya)**
+
+## [Ciri-ciri bioteknologi](https://www.kompas.com/tag/ciri-ciri-bioteknologi)
+
+Dalam buku _Bisnis Super Kreatif Produk Bioteknolog__i_ (2020) karangan Siti Nur Aidah dan Tim Penerbit KBM Indonesia, bioteknologi biasanya menggunakan mikroorganisme atau bagiannya untuk meningkatkan nilai tambah suatu bahan.
+
+Bioteknologi umumnya mencakup penggunaan bakteri, jamur, dan kultur tumbuhan serta hewan, termasuk teknik hidroponik serta kultur jaringan.
+
+Adapun [ciri-ciri bioteknologi](https://www.kompas.com/tag/ciri-ciri-bioteknologi) adalah:
+
+- Adanya agen biologi berupa mikroorganisme, tumbuhan, atau hewan
+- Terdapat pendayagunaan secara teknologi dan industri
+- Produk yang dihasilkan biasanya berupa hasil ekstraksi serta pemurnian
+- Adanya produk turunan atau jasa yang dipakai dari proses penggunaan agen biologi. Adapun agen yang digunakan ini tidak hanya berbentuk fisik, melainkan hasil metabolit sekunder atau enzim yang dihasilkan
+- Penggunaan agen biologi dilakukan lewat suatu cara atau metode.
+# 39. Dampak Negatif Bioteknologi
+Munculnya mutan dan terorisme biologi.
+
+Dampak negatif bioteknologi mencakup hilangnya keragaman genetik tanaman, ancaman terhadap keanekaragaman hayati, potensi toksisitas pada bahan pangan akibat transfer genetik, serta resistensi antibiotik akibat penggunaan berlebihan dalam proses bioteknologi. 
+
+Berikut adalah penjelasan lebih detail tentang dampak negatif bioteknologi:
+
+1. Hilangnya Keragaman Genetik:
+
+- Penggunaan benih bioteknologi, seperti tanaman transgenik, secara luas dapat menyebabkan homogenisasi genetik tanaman, yaitu hilangnya keragaman genetik.
+- Hal ini dapat membuat tanaman lebih rentan terhadap hama, penyakit, dan dampak negatif lingkungan lainnya.
+
+- Contohnya, penggunaan tanaman transgenik yang tahan terhadap hama dapat menyebabkan populasi hama menjadi lebih resisten terhadap pestisida, sehingga membutuhkan penggunaan pestisida yang lebih kuat, dan dampak yang lebih besar pada lingkungan. 
+
+2. Ancaman Keanekaragaman Hayati:
+
+- Tanaman transgenik yang ditanam secara luas dapat menggeser varietas tanaman lokal yang beragam.
+
+- Hal ini dapat mengurangi keragaman hayati dalam ekosistem pertanian dan menyebabkan hilangnya spesies tanaman lokal yang berharga.
+
+- Selain itu, tanaman transgenik juga berpotensi menularkan gen transgenik ke tanaman liar di sekitarnya, yang dapat menyebabkan terjadinya perubahan pada ekosistem alami. 
+
+3. Potensi Toksisitas Bahan Pangan:
+
+- Transfer genetik dalam organisme transgenik dapat menghasilkan bahan kimia baru yang berpotensi menimbulkan efek toksis pada bahan pangan.
+
+- Beberapa penelitian juga menunjukkan bahwa konsumsi bahan pangan yang mengandung gen transgenik dapat memicu reaksi alergi pada sebagian orang. 
+
+4. Resistensi Antibiotik:
+
+- Penggunaan antibiotik yang berlebihan dalam proses bioteknologi, seperti dalam produksi vaksin atau pengobatan penyakit, dapat menyebabkan bakteri menjadi resisten terhadap antibiotik.
+
+- Hal ini dapat menyebabkan penyakit infeksi bakteri menjadi lebih sulit diobati dan meningkatkan risiko kematian. 
+
+5. Dampak Sosial-Ekonomi:
+
+- Bioteknologi, terutama dalam pertanian, dapat berdampak pada petani kecil, karena mereka mungkin tidak mampu membeli benih transgenik yang mahal atau menghadapi persaingan dengan perusahaan besar yang menguasai teknologi ini.
+
+- Selain itu, penggunaan bioteknologi dalam pertanian dapat menyebabkan perubahan pola pertanian dan mengancam keberlangsungan mata pencaharian petani tradisional.
+# 40. Isu lingkungan dan dampaknya kepada manusia
+Banyak hal yang dapat mempengaruhi Kesehatan, diantaranya faktor lingkungan. Apa saja sih factor lingkungan yang dapat menimbulkan gangguan kesehatan, yuk kita simak bersama.
+
+1.      Polusi Udara
+
+Menurut Wikipedia, Polusi atau Pencemaran Udara adalah kehadiran satu atau lebih substansi [fisik](https://id.wikipedia.org/wiki/Fisik "Fisik"), [kimia](https://id.wikipedia.org/wiki/Kimia "Kimia"), atau [biologi](https://id.wikipedia.org/wiki/Biologi "Biologi") di [atmosfer](https://id.wikipedia.org/wiki/Atmosfer "Atmosfer") dalam jumlah yang dapat membahayakan kesehatan manusia, hewan, dan tumbuhan, mengganggu estetika dan kenyamanan, atau merusak properti.
+
+Pencemaran udara dapat ditimbulkan oleh sumber-sumber alami maupun kegiatan manusia. Beberapa definisi gangguan fisik seperti [polusi suara](https://id.wikipedia.org/wiki/Polusi_suara "Polusi suara"), [panas](https://id.wikipedia.org/wiki/Panas "Panas"), [radiasi](https://id.wikipedia.org/wiki/Radiasi "Radiasi") atau [polusi cahaya](https://id.wikipedia.org/wiki/Polusi_cahaya "Polusi cahaya") dianggap sebagai polusi udara. Sifat alami udara mengakibatkan dampak pencemaran udara dapat bersifat langsung dan [lokal](https://id.wikipedia.org/wiki/Lokal "Lokal"), [regional](https://id.wikipedia.org/wiki/Regional "Regional"), maupun [global](https://id.wikipedia.org/wiki/Global "Global").
+
+Substansi pencemar yang terdapat di udara dapat masuk ke dalam tubuh melalui [sistem pernapasan](https://id.wikipedia.org/wiki/Sistem_pernapasan "Sistem pernapasan"). Jauhnya penetrasi zat pencemar ke dalam tubuh bergantung kepada jenis pencemar. Partikulat berukuran besar dapat tertahan di saluran pernapasan bagian atas, sedangkan partikulat berukuran kecil dan gas dapat mencapai paru-paru. Dari paru-paru, zat pencemar diserap oleh [sistem peredaran darah](https://id.wikipedia.org/wiki/Sistem_peredaran_darah "Sistem peredaran darah") dan menyebar ke seluruh tubuh.
+
+Dampak kesehatan yang paling umum dijumpai adalah [ISPA](https://id.wikipedia.org/w/index.php?title=ISNA&action=edit&redlink=1 "ISNA (halaman belum tersedia)") (infeksi saluran pernapasan atas), termasuk di antaranya, [asma](https://id.wikipedia.org/wiki/Asma "Asma"), [bronkitis](https://id.wikipedia.org/wiki/Bronkitis "Bronkitis"), dan gangguan pernapasan lainnya.
+
+2.      Perubahan Iklim dan Bencana Alam
+
+Beberapa faktor penyebab perubahan iklim, diantaranya efek gas rumah kaca, pemanasan global, kerusakan lapisan ozon, kerusakan fungsi hutan, penggunaan Cloro Flour Carbon (CFC) yang tidak terkontrol, serta gas buang industri.
+
+Perubahan iklim yang terjadi secara terus menerus dapat menimbulkan dampak tersendiri bagi kehidupa Masyarakat, diantaranya curah hujan tinggi, musim kemarau yang berkepanjangan, peningkatan volume air akibat mencairnya es di kutub, terjadinya bencana alam angin puting beliung, berkurangnya sumber air. Karena itu, mari jaga bumi dari perubahan iklim untuk mengurangi dampak pemanasan global.
+
+3.      Kualitas Air yang Buruk
+
+Air merupakan salah satu sumber penting bagi kehidupan manusia. Pemakaian air di Indonesia tergolong tinggi dan telah masuk dalam status kritis sedang hingga berat.
+
+Pencemaran air dari berbagai zat kimia merusak kualitas air, ditambah limbah rumah tangga yang dibuang sembarangan ke sungai dapat mengkontaminasi air dan makhluk hidup. Kualitas air yang buruk akan berdampak pada kesehatan meskipun tidak muncul dalam waktu dekat, tapi dalam jangka waktu lama.
+
+Jika terlalu sering mengonsumsi air yang terkontaminasi akan berpotensi terkena berbagai penyakit, seperti gastrointestinal, sistem saraf atau efek reproduksi dan penyakit kronis seperti kanker.
+
+4.      Masalah Infrastruktur
+
+Masalah infrastruktur juga dapat berdampak besar pada kesehatan masyarakat seperti jalan yang tidak terawat dapat meningkatkan risiko kecelakaan di jalan serta kurangnya akses terhadap air minum bersih yang dapat menjangkau berbagai daerah.
+
+  
+
+5.      Penyakit yang Disebabkan oleh Mikroba
+
+Mikroba atau yang juga dikenal sebagai mikroorganisme ini juga hidup di air, tanah, dan udara. Sebagian besar tidak memiliki efek negatif bagi kesehatan, malah banyak mikroba melakukan fungsi biologis penting seperti membantu sistem pencernaan dan kekebalan tubuh kita.
+
+Sedangkan mikroba berbahaya yang dapat menginfeksi manusia dan menyebabkan penyakit lebih sering disebut patogen atau kuman. Makan adalah salah satu cara utama di mana manusia dapat tertular penyakit yang disebabkan oleh mikroba. Salah satu contohnya adalah keracunan makanan dari E. coli, sejenis bakteri yang dapat ditemukan di lingkungan dan makanan dan yang dapat menyebabkan penyakit pernapasan, infeksi saluran kemih, dan efek buruk lainnya bagi kesehatan.
+
+Ada juga sejumlah mikroba berbahaya yang hidup di tanah. Manusia dapat melakukan kontak dengan menelannya (melalui makanan yang terkontaminasi) atau dengan menghirupnya (melalui partikel tanah di udara). Tetanus dan botulisme adalah contoh penyakit yang disebabkan oleh mikroba yang tertular melalui tanah.
+
+6.      Bahan Kimia Berbahaya
+
+Menurut Organisasi Kesehatan Dunia (World Health Organization, WHO), lebih dari 1,6 juta kematian pada tahun 2016 disebabkan oleh paparan bahan kimia tertentu. Beberapa contoh bahan kimia berbahaya di lingkungan adalah logam berat dan racun yang masuk ke pasokan air dan pestisida berbahaya yang masuk ke rantai pasokan makanan.
+
+Demikian beberapa faktor lingkungan yang dapat mempengaruhi kesehatan, sedapat mungkin mari kita hindari faktor-faktor yang dapat mengakibatkan kesehatan terganggu.
