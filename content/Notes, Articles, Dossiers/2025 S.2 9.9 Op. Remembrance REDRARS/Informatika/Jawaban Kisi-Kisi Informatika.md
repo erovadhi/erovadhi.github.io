@@ -1670,7 +1670,7 @@ LAN merupakan sistem yang saling terhubung, yang terbatas pada ukuran dan geogra
 Jaringan korporasi yang mencakup gedung, kota, dan bahkan negara disebut sebagai jaringan area luas (WAN). Jaringan area lokal digunakan untuk mentransmisikan data dengan kecepatan lebih tinggi dalam jarak dekat, sedangkan WAN digunakan untuk komunikasi jarak jauh yang aman dan dapat diandalkan.
 
 SD-WAN atau WAN yang ditentukan oleh perangkat lunak adalah arsitektur WAN yang dikontrol oleh teknologi perangkat lunak. SD-WAN menawarkan layanan konektivitas yang lebih fleksibel dan dapat diandalkan, yang dapat dikontrol pada tingkat aplikasi tanpa menurunkan keamanan dan kualitas layanan.
-
+- [ ] 
 ### Jaringan penyedia layanan
 
 Jaringan penyedia layanan memungkinkan pelanggan untuk menyewakan kapasitas dan fungsionalitas jaringan dari penyedia. Penyedia layanan jaringan dapat terdiri atas perusahaan telekomunikasi, operator data, penyedia komunikasi nirkabel, penyedia layanan internet, dan operator televisi kabel yang menawarkan akses internet berkecepatan tinggi.
