@@ -233,3 +233,277 @@ Sebagai keturunan Aswawarman, Mulawarman juga melakukan upacara "Vratyastoma", y
 
 ## Kejatuhan
 Pada 1635 Kerajaan Kutai Kertanegara yang masih berpusat di Kutai Lama melakukan agresi ke Muara Kaman. Konflik bersenjata antara dua kerajaan terjadi dalam durasi 7 hari 7 malam. Kerajaan Kutai Martapura kalah saat rajanya yang bernama _Maharaja Dermasatia_ terbunuh di tangan Raja Kutai Kertanegara ke-8, _Pangeran Sinum Panji Mendapa_. Kekalahan ini mengakibatkan Kerajaan Martapura runtuh. Wilayahnya dianeksasi oleh Kutai Kertanegara.
+# 10. Peninggalan Kerajaan Tarumanegara yang berupa prasasti
+1. Prasasti Tugu
+	Prasasti Tugu ditemukan di Kampung **Batutumbuh, Desa Tugu, DKI Jakarta**. Prasasti ini menceritakan tentang penggalian Sungai Candrabhaga sebagai upaya untuk mencegah terjadinya banjir.
+2. Prasasti Ciaruteun
+	   Prasasti Ciaruteun ditemukan di Kampung Muara, Desa Ciaruteun Hilir, Cibungbulang, Bogor. Prasasti ini terdiri atas 2 bagian, yaitu Inskripsi (batu bertulis) A yang pahatannya terdiri atas empat baris tulisan berakasara Pallawa dan Bahasa Sanskerta, dan Inskripsi (batu bertulis) B yang terdiri atas satu baris, tulisannya tidak dapat dibaca dengan jelas. Inskripsi ini disertai pula gambar sepasang telapak kaki.
+3. Prasasti Jambu
+	Prasasti Jambu terletak di sebuah Bukit (pasir) Koleangkak, Desa Parakan Muncang, Nanggung, Bogor. Terdapat dua baris tulisan dengan Aksara Pallawa dan Bahasa Sansekerta.
+4. Prasasti Kebonkopi
+	Prasasti Kebonkopi ditemukan di Kampung Muara, Desa Ciaruetun Hilir, Cibungbulang, Bogor. Prasastinya dipahatkan dalam satu baris yang diapit oleh dua buah pahatan telapak kaki gajah Airawata, tunggangan dewa Indra. Isi dari prasasti kebonkopi adalah sebagai berikut.
+5. Prasasti Muara Cianten
+	Prasasti Muara Cianten terletak di Muara Kali Cianten, Kampung Muara, Desa Ciaruteun Hilir, Cibungbulang, Bogor. Inskripsi ini dipahatkan dalam
+	bentuk "aksara" yang menyerupai sulur-suluran, dan oleh para ahli disebut aksara ikal.
+6. Prasasti Pasir Awi
+	Prasasti Pasir Awi ditemukan di sebuah bukit bernama Pasir Awi, di kawasan
+	perbukitan Desa Sukamakmur, Jonggol, Bogor. Inskripsi prasasti ini tidak
+	dapat dibaca karena inskripsi ini lebih berupa gambar (piktograf) dari pada
+	tulisan. Di bagian atas inskripsi terdapat sepasang telapak kaki.
+7. Prasasti Cidanghiang
+	   Prasasti Cidanghiang terletak di tepi Kali Cidanghiang, Desa Lebak, Munjul, Banten Selatan. Terdapat dua baris tulisan beraksara Pallawa dengan bahasa Sanskerta. Isi dari Prasasti Cidanghiang adalah sebagai berikut.
+# 11. Bagian-bagian Weda Smerti
+_**Smerti**_ ([Dewanagari](https://id.wikipedia.org/wiki/Aksara_Dewanagari): स्मॄति; [IAST](https://id.wikipedia.org/wiki/IAST "IAST"): _Smṛti_; [arti harfiah](https://id.wikipedia.org/wiki/Arti_harfiah "Arti harfiah"): "yang di ingat") merupakan satu dari dua kelompok pembagian susastra [Hindu](https://id.wikipedia.org/wiki/Hindu "Hindu"). Smerti bukanlah [wahyu](https://id.wikipedia.org/wiki/Wahyu "Wahyu") sebagaimana hal-nya [Sruti](https://id.wikipedia.org/wiki/%C5%9Aruti "Śruti"), dan diposisikan setelah Śruti sebagai sastra utama.
+## Wedangga
+Kitab-kitab Wedangga ditulis agar dapat memahami bentuk nyata dari Weda dan melaksanakannya sesuai dengan ajaran Weda. Dengan cara inilah Weda ditafsirkan dengan benar dan proses yang benar mengenai pelaksanaan Yajna dipelajari.
+1. Siksa -> Phonetika atau pengucapan mantra
+2. Wyakarana -> Ilmu tata bahasa, linguistik
+3. Chanda -> Lagu
+4. Nirukta -> Etimologi, susunan kata, dan sintaksis
+5. Jyotisa -> Astronomi
+6. Kalpa -> Ritual
+## Upaweda
+Upaweda memiliki fungsi utama ==sebagai kitab suci tambahan yang menjelaskan dan mengaplikasikan ajaran Weda dengan bahasa yang lebih mudah dipahami dan spesifik dalam kehidupan sehari-hari==. Upaweda memperluas pemahaman tentang Weda dan memberikan contoh penerapan ajaran Weda dalam berbagai bidang kehidupan, seperti ilmu pengobatan, pemerintahan, seni, dan lain-lain.
+1. Itihasa -> Epos/epik
+	- Ramayana -> Kisah Rama
+	- Bharatayudha -> Pertempuran keluarga bharata
+2. Purana -> Cerita jaman kuno
+3. Arthasastra -> Ilmu politik dan pemerintahan
+4. Ayurweda -> Ilmu pengobatan
+5. Gandharwaweda -> Ilmu seni dan budaya
+6. Kamasutra -> Menjabarkan asmara
+7. Agama -> Menjabarkan ritual keaagamaan.
+# 12. Bagian-bagian Wedangga
+1. Siksa -> Phonetika
+2. Wyakarana -> Tata bahasa
+3. Chanda -> Lagu
+4. Nirkuta -> Etimologi
+	- Naighantuka Kanda -> Sinonim
+	- Naighama Kanda -> Kata berarti ganda
+	- Daiwa Kanda -> Nama para dewa di bumi, langit dan Surga
+5. Jyotisa -> Astronomi
+6. Kalpa -> Ritual
+	- Srauta -> Yajna
+	- Grhyasutra -> Upacara oleh yang berumah tangga
+	- Dharmasutra -> Aspek kehidupan bermasyarakat dan bernegara
+	- Sulwasutra -> Ilmu arsitektur
+# 13. Simbol Kemahakuasaan Sang Hyang Widhi Wasa
+Padma Asta Dala
+
+Padma [Astadala](http://sejarahharirayahindu.blogspot.com/2011/11/asta-dala.html) adalah lambang perputaran alam, [Bhuwana Agung](http://sejarahharirayahindu.blogspot.com/2012/06/bhuwana-agung.html) ini sebagai stana [Hyang Widhi](http://sejarahharirayahindu.blogspot.com/2011/12/hyang-widhi.html) dengan delapan penjuru mata anginnya yang dengan keseimbangan dan berkeadaan stabil;
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wqk35wXnzgEHtmCLwikQHohG9x_mBJ7w0Q&s)
+![[Pasted image 20250518150540.png]]
+![](https://www.researchgate.net/publication/340463580/figure/fig2/AS:877373918564355@1586193651574/Padma-Asta-Dala-Type-of-Padmasana-and-Position-of-Padmasana-Tiga-on-the-Mandala-of-the.png)
+# 14. Bagian-bagian [[Asta Aiswarya]]
+- **Anima:** Sifat sangat halus, seperti atom, yang sulit dilihat dengan mata manusia.
+- **Laghima:** Sifat sangat ringan.
+- **Mahima:** Sifat sangat besar dan luas, tak terbatas.
+- **Prapti:** Kemampuan untuk mencapai segala tempat.
+- **Prakamya:** Kehendak Tuhan selalu tercapai.
+- **Isitwa:** Melebihi segala-galanya.
+- **Wasitwa:** Sangat berkuasa.
+- **Yatrakamawasayitwa:** Kodrati tidak dapat diubah.
+# 15. Catur Purusa Artha
+1. Dharma -> Kebenaran
+2. Artha -> Harta
+![[Pasted image 20250518154808.png]]
+
+3. Kama -> Keinginan
+4. Moksha -> Pembebasan dari siklus samsara
+	1. Samipya -> Moksha saat masih hidup dengan mendapat wahyu
+	2. Sarupya ->  Moksha saat masih hidup dengan mampu mengatasi unsur maya
+	3. Salokya -> Moksha dan mencapai tingkat Dewa
+	4. Sayujya Moksha dan mencapai tingkat yang setara dan bersatu denga Tuhan (tidak terbatas)
+# 16. Sloka yang berkaitan dengan Catur Purusa Artha
+## Sloka mengenai Pengertian
+“Dharmartha kama Moksharam sariram sadhanam“ 
+(Brahma Purana, 228:45) Terjemahan: Tubuh adalah alat untuk mendapatkan Dharma, Artha, Kama dan Moksha
+
+“Ikang kayatnan ri kagawayaning kama, artha, mwang Moksha, dadi ika tan paphala, kunang ikang kayatnan ring Dharmasadhana, niyata maphala ika, yadyapin angena-ngenan, maphala atika” 
+(Sarasamuscaya, 15)
+Terjemahan: Usaha tekun pada kerja mencari Kama, Artha dan Moksa, dapat terjadi ada kalanya tidak berhasil, tetapi usaha tekun pada pelaksanaan Dharma, tak tersangsikan lagi, pasti berhasil sekalipun baru hanya di dalam angan-angan. (I Nyoman Kajeng,DKK. 1997:18)
+
+“ Nihan mata kami mangke, manawai, manguwuh, mapitutur, ling mami, ikang artha, kama malamaken Dharma juga ngulaha, haywa palangpang lawan Dharma mangkana ling mami, ndatan juga angrengo ri haturnyan eweh sang makolah Dharmasadhana, apa kunang hetunya.” (Sarasamuscaya, 11) 
+Terjemahan: Itulah sebabnya hamba, melambai-lambai, berseru-seru memberi ingat; kata hamba : “dalam mencari Artha dan Kama itu hendaknya selalu dilandasi oleh Dharma; jangan sekali-kali bertindak bertentangan dengan Dharma” demikian kata hamba; namun demikian, tidak ada yang diperhatikannya, oleh karena katanya, adalah sukar berbuat atau bertindak bersandarkan Dharma, Apa gerangan sebabnya? (I Nyoman Kajeng,DKK. 1997:14)
+
+“Ikang Dharma ngaranya, hetuning mara ring swarga ika, kadi gatining perahu, an hetuning banyaga nentasing Tasik”
+(Undyoga Parwa)
+Terjemahan: Yang disebut Dharma adalah jalan untuk pergi ke sorga, sebagai halnya perahu, sesungguhnya merupakan alat bagi pedagang dalam mengarungi lautan.
+
+“Yan paramarthanya, yan arthakama sadhyan, dharma juga lekasakena rumuhun, niyata katemwaning arthakama mene tan paramartha wi katemwanning arthakama deninganasar sakeng Dharma” 
+(Sarasamuscaya, 12)
+Terjemahan: Pada hakekatnya, jika artha dan kama dituntut, maka seharusnya Dharma dilakukan terlebih dahulu, tak disangsikan lagi, pasti akan diperoleh menyimpang dari Dharma. (I Nyoman Kajeng,DKK. 1997:1)
+## Sloka mengenai Dharma
+“Dharma eva plavo nanyah svargam samabhivanchatam, Sa ca naurpwanijasstatam jaladheh paramicchatah”. “Ikang dharma ngaranya, henuning mara ring swarga ika, kadi gatining perahu, an henuning banyaga nentasing tasik”. Terjemahannya: “Yang disebut Dharma adalah jalan untuk pergi ke surga, sebagai halnya perahu yang merupakan alat bagi saudagar untuk mengarungi lautan”. (I Nyoman Kajeng,DKK. 1997:17)
+
+## Sloka mengenai Artha
+
+“Dharmo dharma nuban dharto Dharmo notmantha pidakah”
+(Brahmana Purana, 221:16)
+Terjemahan:
+Dharma bertalian erat dengan Artha dan Dharma tidak menentang Artha itu sendiri (tetapi mengendalikan).
+
+“Dharma mullah sadaiwartah, dharma sadai wartah, Kamartha phalam utyata” 
+(Santhi PArwa, 123:4)
+Terjemahan: Walaupun Artha dikatakan alat untuk kama, tetapi Artha selalu sebagai sumber untuk Dharma.
+
+“Apan ikang artha, yan dharma luirning karjanaya, ya ika labba ngaranya paramartha ning amanggih sukha sang tumemwaken ika, kuneng yan dharma luirning karjanya, kasmala ika, sininggahan de sang sai jana, matangnya haywa anasar sangkeng Dharma, yan tangarjana” (Sarasamuscaya, 263)
+Terjemahan: Sebab Artha itu, jika Dharma landasan memperolehnya, laba atau untung namanya, sungguh-sungguh mengalami kesenengan orang yang memperoleh artha tersebut, namun jika artha itu diperoleh dengan jalan adharma, maka artha itu adalah merupakan noda, hal itu dihindari oleh orang yang berbudhi utama, oleh karenanya janganlah bertindak menyalahi Adharma, jika hendak berusaha menuntun sesuatu
+## Sloka mengenai Kama
+
+
+---
+
+# 17. Tingkatan Moksha
+1. Samipya -> Tingkatan moksha yang dicapai ketika masih hidup. Biasanya dicapai oleh Rsi ketika melakukan yoga dan samadhi sehingga menerima wahyu dari Hyang Widhi Wasa. Samipya identik sifatnya denga Jiwan Mukti.
+2. Sarupya
+	Sarupya yaitu tingkatan moksha semasih hidup yang kedudukannya sebagai atman mampu mengatasi unsur maya (unsur yang tidak terlihat). Contohnya, antara lian pada awatara, seperti Budha Awatara, Rama, Krishna Awatara, dan sebagainya.
+3. Salokya
+	Salokya yaitu tingkatan mokhsa yang dicapai oleh atman saat berada dalam posisi kesadaran dengan Tuhan, tetapi belum dapat bersatu dengan-Nya. Dalam keadaan ini atman telah mencapai tingkat “Dewa” yang merupakan manifestasi Tuhan.
+4. Sayujya
+	Sayujya yaitu tingkatan mokhsa yang paling tinggi dan sempurna. Pada tingkatan ini atman dapat bersatu dengan Tuhan dan tidak terbatas oleh  apapun sehingga mencapai “Brahman Atman Aikyam”, yaitu atman dengan Tuhan benar-benar bersatu.
+# 18. Jenis-jenis Dharmagita
+- [1. Sekar Rare (Lagu Anak-Anak)](https://erovadhi.github.io/redrars/Notes,-Articles,-Dossiers/2025-S.2-9.9-Op.-Remembrance-REDRARS/Agama/Dharmagita-dan-Yajna#1-sekar-rare-lagu-anak-anak)
+	  Sekar Rare adalah nyanyian atau lagu yang dinyanyikan oleh anak-anak atau nyanyian ketika mengasuh anak. Sekar rare juga merupakan kumpulan lagu-lagu dolanan yang dinyanyikan oleh anak-anak dalam permainan tradisional. mengasuh anak. Di dalam Sekar Rare terdapat lirik lagu yang berisi pesan moral, budi pekerti, cerita tentang pengetahuan dan kesusilaan.
+- [2. Sekar Alit (Pupuh)](https://erovadhi.github.io/redrars/Notes,-Articles,-Dossiers/2025-S.2-9.9-Op.-Remembrance-REDRARS/Agama/Dharmagita-dan-Yajna#2-sekar-alit-pupuh)
+	Istilah lain dari Sekar Alit, yaitu tembang macepat, pupuh, atau geguritan. Lirik-lirik yang terkandung di dalamnya sarat akan nilai kerohanian, kesusilaan, dan pengetahuan maupun yang bersifat romantis. Tembang Sekar Alit diatu oleh “padalingsa” yang berupa pupuh (Macapat) dimana masing-masing nama pupuh memiliki jumlah padalingsa yang berbeda. Contoh pupuh antara lain: Pupuh Ginada, Mijil, Pucung, Pupuh Maskumambang, Ginanti, Dandang Gula, Sinom, Durma, Pangkur, dan pupuh Semarandana.
+![[Pasted image 20250315193627.png]]
+- [3. Sekar Madya (Kidung)](https://erovadhi.github.io/redrars/Notes,-Articles,-Dossiers/2025-S.2-9.9-Op.-Remembrance-REDRARS/Agama/Dharmagita-dan-Yajna#3-sekar-madya-kidung)
+	Sekar Madya disebut juga dengan kekidungan atau tembang tengahan, yaitu nyanyian yang ditembangkan untuk mengiringi upacara (Yajna). Isi tembangnya disesuaikan dengan jenis upacara yang dilaksanakan dalam agama Hindu. Sekar madya memakai aturan padalingsa, dan biasanya menggunakan bahasa jawa kuno yang berpadu dengan bahasa Bali. contohnya antara lain berbagai jenis kidung Panca Yajna.
+- [4. Sekar Agung (Kekawin)](https://erovadhi.github.io/redrars/Notes,-Articles,-Dossiers/2025-S.2-9.9-Op.-Remembrance-REDRARS/Agama/Dharmagita-dan-Yajna#4-sekar-agung-kekawin)
+	Sekar Agung sering disebut dengan istilah wirama atau kekawin. Kekawin diikat oleh guru-laghu, yaitu panjang pendeknya suara yang dilantunkan. Jenis-jenis kekawin sangat banyak. dimana jenis dharma gita ini berisi ajaran keagamaan yang disajikan dalam bahasa Jawa Kuno maupun berbahasa  Sanskerta. Isinya sarat akan nilai-nilai filsafat rohani serta nilai filsafat kehidupan yang sangat tinggi.
+- [5. Sloka (Kutipan dari Kitab Suci)](https://erovadhi.github.io/redrars/Notes,-Articles,-Dossiers/2025-S.2-9.9-Op.-Remembrance-REDRARS/Agama/Dharmagita-dan-Yajna#5-sloka-kutipan-dari-kitab-suci)
+	Sloka merupakan bait-bait dari kitab suci yang dilantunkan menggunakan irama mantra. Isi dari sloka sendiri mengandung nilai-nilai pujaan kepada Hyang Widhi Wasa beserta manifestasi-Nya
+- [6. Palawakya (Sloka yang dilantunkan dengan irama)](https://erovadhi.github.io/redrars/Notes,-Articles,-Dossiers/2025-S.2-9.9-Op.-Remembrance-REDRARS/Agama/Dharmagita-dan-Yajna#6-palawakya-sloka-yang-dilantunkan-dengan-irama)
+	Palawakya yaitu pembacaan sloka yang menggunakan irama tertentu
+	dan menggunakan bahasa Jawa Kuno. Dalam Kitab Sarasamuscaya yang
+	menggunakan bahasa Jawa Kuno sering dibaca menggunakan irama Palawakya.
+# 19. Jenis-jenis Pupuh Sekar Alit
+![[Pasted image 20250518162053.png]]
+# 20. Orten-orten Pada Lingsa pupuh Ginanti
+_Pupuh Ginanti_ (8u,8i,8a,8i,8a,8i)
+# 21. Sekar Madya yang dilantukan pada Dewa Yajna
+- Upacara Mapiuning: Kidung Brahmara Angisep Sari, Kawitan Warga Sari dan Kidung Wargasari
+- Menghaturkan byakaon dan prayascita: kidung Wargasari.
+- Memendak atau melasti: kidung Wargasari.
+- Muspa: kakawin Mredu Komala dan kakawin Totaka
+- NunasTirtha: kidung Wargasari, Pupuh Adri, dan Rare Kadiri.
+- Maprani: kidung Wargasari dan kidung Warga Sirang.
+- Nyineb (mengakhiri Upacara): kidung Warga Sirang.
+# 22. Pengertian Catur Marga
+Catur Marga berasal dari dua kata yaitu Catur yang berarti empat dan Marga yang berarti Jalan. Secara etimologis Catur Marga berarti empat jalan menuju kebahagiaan/kesempurnaan.
+# 23. Bagian-bagian Catur Marga
+1. Bhakti Marga -> Jalan berbakti
+2. Karma Marga -> Jalan berjasa/kerja/karma baik
+3. Jnana marga -> Jalan pengetahuan/ilmu suci
+4. Yoga marga -> Jalan bertapa/yoga
+# 24. Bhakti Marga
+Berbakti, menyembah Tuhan dengan tulus, ikhlas dan setia.
+# 25. Pengertian kata Wedangga
+Batang tubuh weda
+# 26. Istilha bagian-bagian dari Weda Smerti
+Weda -> Pengetahuan Suci
+Smerti -> Diingat
+Upaweda -> Dekat dengan pengetahuan suci
+# 27. Nama-nama planet dalam Nawagraha
+Setiap anggota nawagraha memiliki atribut dan hal-hal lain yang dikaitkan kepadanya, seperti warna, logam, unsur, dan sebagainya.
+Versi 1:
+![[Pasted image 20250518163835.png]]
+
+Versi 2:
+![[Pasted image 20250518163552.png]]
+# 28. Nama-nama hari dalam Jyotisa
+
+| Sanskrit   | Kawi      | Indonesia |
+| ---------- | --------- | --------- |
+| Rawi       | Redite    | Senin     |
+| Soma       | Soma      | Selasa    |
+| Manggala   | Anggara   | Rabu      |
+| Budha      | Buda      | Kamis     |
+| Brihaspati | Wrespati  | Jumat     |
+| Sukra      | Sukra     | Sabtu     |
+| Sani       | Saniscara | Minggu    |
+# 29. Pengertian kata Wariga
+Wariga adalah ==pengetahuan tradisional yang digunakan di Bali untuk menentukan hari baik dan buruk dalam memulai suatu pekerjaan atau upacara==. Wariga merupakan sistem kalender tradisional yang membantu menentukan hari-hari baik dan buruk berdasarkan perhitungan astrologi.
+# 30. Fungsi Wariga
+Wariga ini banyak digunakan **untuk mengetahui kapan memulai aktivitas terlebih dalam bidang pertanian**. Hal ini kaitannya dengan posisi perbintangan, melihat fenomena alam hingga aktivitas flora dan fauna.
+# 31. Nama-nama hari dalam seminggu
+| Sanskrit   | Kawi      | Indonesia |
+| ---------- | --------- | --------- |
+| Rawi       | Redite    | Senin     |
+| Soma       | Soma      | Selasa    |
+| Manggala   | Anggara   | Rabu      |
+| Budha      | Buda      | Kamis     |
+| Brihaspati | Wrespati  | Jumat     |
+| Sukra      | Sukra     | Sabtu     |
+| Sani       | Saniscara | Minggu    |
+# 32. Panca Wara
+1. Umanis
+2. Paing
+3. Pon 
+4. Wage
+5. Kliwon
+# 33. Catur Wara
+1. Sri
+2. Laba
+3. Jaya
+4. Menala
+# 34. Menentukan hari raya hindu dengan Tri Wara dan Panca Wara
+![](https://scontent.fdps5-1.fna.fbcdn.net/v/t1.6435-9/76994119_422237938716349_868836282996883456_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=UgdOvQoyOkgQ7kNvwEdx0lG&_nc_oc=AdlwD2kzuf1dS8cTTKQgD2MMPBc7QqULjC8X8J_C23UP6_RLlsONpE0bVNbvqINOX6M&_nc_zt=23&_nc_ht=scontent.fdps5-1.fna&_nc_gid=lPXDmvQZ2mZfcWueD1JDsg&oh=00_AfE0AxPEP-aGxDi4jpjg_ipUhX20IRrHK2FB7Ksid7qnWw&oe=683E8837)
+Kajeng Kliwon
+# 35. Nama-Nama Wuku untuk hari raya Budha Kliwon
+
+**1. Wuku Sinta**
+
+**2. Wuku Landep**
+
+**3. Wuku Ukir**
+
+**4. Wuku Kulantir**
+
+**5. Wuku Wariga**
+
+**6. Wuku Warigadian**
+
+**7. Wuku Sungsang**
+
+**8. Wuku Dunggulan**
+
+**9. Wuku Kuningan**
+
+**10. Wuku Pahang**
+
+**11. Wuku Merakih**
+
+**12. Wuku Uye**
+
+**13. Wuku Wayang**
+
+**14. Wuku Watugunung**
+
+# 36. Panca Wara Rabu Sinta
+![[Pasted image 20250518170006.png]]
+# 37. Arti kata Panca Yama Brata
+Lima pengendalian diri tingkat jasmani
+# 38. Bagian-bagian Panca Yama Brata
+1. Ahimsa -> Tidak membunuh
+2. Brahmacari -> Menuntut ilmu
+3. Satya -> Kejujuran
+4. Awyawaharika -> Melakukan usaha menurut Dharma
+5. Astenya -> Tidak mencuri
+# 39. Jenis-jenis Brahmacari
+1. Sukla -> Tidak menikah seumur hidup
+2. Swala -> Menikah sekali walaupun ditinggal mati
+3. Trsna -> Menikah lebih dari sekali; max 4
+# 40. Catur Guru
+1. Guru wisesa -> Pemerintah
+2. Guru rupaka -> Orang tua
+3. Guru pengajian -> Guru sekolah/orang suci/pendidik
+4. Guru Swadhyaya -> Tuhan
+# 41. Budaya Hidup Bersih dan Sehat menurut Manawa Dharma Sastra
+Weda mengajarkan betapa pentingnya budaya hidup bersih untuk menjaga kesehatan, seperti yang diuraikan dalam sebuah sloka sebagai berikut: tubuh dibersihkan dengan air, pikiran dibersihkan dengan kejujuran, jiwa (atman) dibersihkan dengan ilmu, dan tapa, akal (budi) dibersihkan dengan kebijaksanaan.
+# 42. Sumber sastra dalam Hidup Sehat menurut ajara Agama Hindu
+Manawa dharma sastra (V.145)
+Ayur Veda
+Bhagavadgita
