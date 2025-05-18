@@ -121,7 +121,8 @@ Kitab Itihasa adalah salah satu bagian dari Kitab Upaweda. Kata Itihasa dapat di
 
 Kitab Purana merupakan kitab kedua dari Upaweda. Kata Purana berasal dari dua kata, yaitu pura dan ana. “Pura” berarti kuno atau jaman kuno dan “ana” berarti mengatakan. Jadi Purana berarti mengatakan atau menceritakan sejarah jaman kuno atau jaman dahulu kala. Kitab Purana berisi tentang pokok-pokok ajaran yang menguraikan cerita kejadian alam semesta, doa-doa, mantra, dan lain sebagainya yang dilakukan untuk menghubungkan diri dengan Sang Pencipta. Selain itu, Kitab Purana juga berisi tentang tata cara pelaksanaan puasa, upacara keagamaan, dan Tirtayatra, maupun Dharmayatra di tempat suci. Purana juga berisi pokokpokok ajaran ketuhanan yang dilaksanakan menurut keyakinan Hindu
 
-Pada garis besarnya, pokok-pokok Kitab Purana dapat dibagi menjadi 5 kelompok sebagai berikut. • Sarga berisi tentang penciptaan alam semesta yang pertama. 
+Pada garis besarnya, pokok-pokok Kitab Purana dapat dibagi menjadi 5 kelompok sebagai berikut.
+	• Sarga berisi tentang penciptaan alam semesta yang pertama. 
 	• Pratisarga berisi tentang penciptaan alam semesta untuk yang kedua. 
 	• Wamsa berisi tentang keturunan dewa-dewa, raja-raja, atau dan rsi-rsi. 
 	• Manwantara berisi tentang perubahan manu-manu. 
@@ -131,7 +132,7 @@ Pada garis besarnya, pokok-pokok Kitab Purana dapat dibagi menjadi 5 kelompok se
 
 ## 3. Kitab Arthasastra
 Kitab Arthasastra ini merupakan salah satu bagian dari Kitab Upaweda. Arthasastra adalah salah satu cabang Weda yang berisi tentang ilmu pemerintahan atau ilmu politik. Berdasarkan ajaran Arthasastra hampir tertuang sebagian besar kitab-kitab sastra yang bersumber pada Weda. Kitab Arthasastra ditulis oleh Kautilya atau disebut juga dengan nama Canakya. Ajaran Arthasastra ini muncul pada saat pemimpin-pemimpin di kerajaan India tidak memerintah rakyatnya dengan baik. Sebagian besar pejabat hidup bersenang-senang, pesta-pesta, dan memungut pajak yang besar. Sedangkan rakyat tidak mendapatkan pelayanan sebagaimana mestinya. Akhirnya Kautilya membangun kekuatan rakyat untuk melawan pemerintahan yang korupsi. Pemerintahan tersebut akhirnya dapat dihancurkan dan kemudian diangkatlah Chandragupta sebagai pemimpin baru menggantikan raja yang korupsi. Chandragupta menghapus segala bentuk diskriminasi dan memberlakukan hak-hak dan kewajiban secara seimbang.
-### 4. Kitab Ayurweda
+## 4. Kitab Ayurweda
 Kitab Ayurweda adalah salah satu cabang Weda yang berisi tentang ilmu kesehatan atau ilmu kedokteran. Kitab ini bersumber pada Upaweda, dan kitab Upaweda sendiri bersumber pada Weda Smrti. Ayurweda menekankan pada cara-cara pengobatan untuk mendapatkan kondisi badan yang prima dan memperoleh umur yang panjang.
 1. Salya -> Ilmu Bedah
 2. Salkya -> Ilmu Penyakit
@@ -141,7 +142,7 @@ Kitab Ayurweda adalah salah satu cabang Weda yang berisi tentang ilmu kesehatan 
 6. Agada Tantra -> Ilmu Toksikologi
 7. Rasayama Tantra -> Ilmu Mujizat
 8. Wajikarana -> Ilmu Jiwa Remaja
-### 5. Kitab Gandhawaweda
+## 5. Kitab Gandhawaweda
 Kitab Gandharwaweda adalah salah satu bagian dari Kitab Upaweda. Gandharwaweda adalah cabang Weda yang menguraikan ilmu seni dan budaya. Gandharwaweda sangat erat kaitannya dengan Samaweda. Sebagai kelompok Upaweda, Gandharwaweda menduduki tempat yang penting. 
 Beberapa contoh yang termasuk Gandharwaweda di antaranya adalah: 
 • Natyawedagama 
@@ -149,8 +150,8 @@ Beberapa contoh yang termasuk Gandharwaweda di antaranya adalah:
 • Dewadasasahasri 
 • Rasarnawa 
 • Rasaratnasamuscaya
-### 6. Kitab Kamasutra
+## 6. Kitab Kamasutra
 
 Apakah kalian pernah mendengar nama Bhagawan Watsyayana? Bhagawan Watsyayana adalah tokoh penulis kitab Kamasutra. Kitab Kamasutra merupakan bagian dari Kitab Upaweda yang menguraikan tentang hal yang berkaitan dengan asmara, seni, atau yang berkaitan dengan rasa indah. Dalam kitab ini dijelaskan bahwa segala sesuatu yang tercipta dari keindahan atau seni ini harus mempunyai tujuan sebagai bhakti kepada Hyang Widhi Wasa. Sehingga akan bernilai positif dan terarah sesuai dengan tuntunan dalam Kitab Kamasutra.
-### 7. Kitab Agama
+## 7. Kitab Agama
 Di samping kitab Weda sebagai sumber kebenaran, agama Hindu juga berpegang pada kitab agama yang sama-sama menekankan pada kebenaran. Agama Hindu mengenal adanya empat zaman, yaitu zaman Kerta/satya yuga, Treta yuga, Dwapara yuga, dan Kali yuga. Pada zaman Kaliyuga, dinyatakan sangat baik berpegangan pada kitab agama, karena pada zaman ini manusia memiliki kemampuan untuk dapat mendekatkan diri kepada Hyang Widhi Wasa. Berdasarkan teori ajaran relativitas dinyatakan bahwa tiap Yuga ada kecenderungan tertentu terutama mengenai kemampuan dan sifat-sifat manusia. Oleh karena itu pedoman dan pegangannya pun berbedabeda.
