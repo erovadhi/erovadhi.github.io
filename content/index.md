@@ -12,4 +12,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 *Veritas Omnia Vincula Vincit | Sine Pari | Semper Supra | Sua Sponte*
 
-**These Things We Do, That Others May Live"**
+**"These Things We Do, That Others May Live"**
