@@ -1,9 +1,15 @@
 ---
 title: Welcome to Quartz
 ---
-*"DENKT NICHT AN HUNGER ODER ERSCHÖPFUNG! DENKT NUR AN DAS GROSSARTIGE DEUTSCHE REICH! DAS PREUSSISCHE VOLK ERWARTET EINEN UNVERGLEICHLICHEN SIEG! FUR DEN KAISER!"*
+***Sepius Exertus - Always Tested***
 
-****This site is currently on hibernation and will be updated once the exam is over.****
+***Semper Fidelis - No Man's Left Behind***
+
+***Fraters Infitas - Loyal Forever***
 
 On your left / Di kiri mu.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+*Veritas Omnia Vincula Vincit | Sine Pari | Semper Supra | Sua Sponte*
+
+**These Things We Do, That Others May Live"**

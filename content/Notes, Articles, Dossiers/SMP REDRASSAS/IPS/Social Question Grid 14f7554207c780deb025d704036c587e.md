@@ -279,7 +279,7 @@ melancarkan berbagai kegiatan produksi dan membangun berbagai sarana dan
     luas, termasuk kegiatan yang mencakup eksploitasi sumber daya laut, baik
      itu perikanan, penelitian kelautan, atau industri kelautan.
     
-    ![image.png](content/Notes,%20Articles,%20Dossiers/2025%20S.2%209.9%20Op.%20Remembrance%20REDRARS/IPS/Social%20Question%20Grid%2014f7554207c780deb025d704036c587e/image.png)
+    ![image.png](content/Notes,%20Articles,%20Dossiers/SMP%20REDRASSAS/IPS/Social%20Question%20Grid%2014f7554207c780deb025d704036c587e/image.png)
     
 2. Contoh Mobilitas Sosial Horizontal dan Vertikal:
     

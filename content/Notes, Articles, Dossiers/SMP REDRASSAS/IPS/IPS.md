@@ -1,5 +1,5 @@
 [[ASEAN]]
-[[Ekonomi]]
+[[content/Notes, Articles, Dossiers/SMP REDRASSAS/IPS/Ekonomi]]
 [[Fungsi APBN]]
 [[Interaksi Antar Ruang]]
 [[Interaksi Sosial]]
