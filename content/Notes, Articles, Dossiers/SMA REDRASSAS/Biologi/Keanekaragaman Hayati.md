@@ -20,9 +20,26 @@ Keanekaragaman ekosistem merupakan keanekaragaman suatu komunitas yang terdiri d
 Tipe-Tipe ekosistem
 1. Ekosistem Perairan (Akuatik)
 	Ekosistem perairan adalah komponen abiotiknya sebagian besar terdiri atas air. Makhluk hidup (komponen biotik) dalam ekosistem perairan dibagi menjadi beberapa kelompok, yaitu sebagai berikut.
-	- Plankton 
-	 Plaknton terdiri atas fitoplanktoon (fotosintesis) dan zooplankton (makan hewan lain) . Organisme ini dapat berpindah tempat secara pasif karena pengaruh arus arus air, misalnya ganggang uniseluler dan protozoa
-	- Nekton
-	Organisme yang bergerak aktif (berenang), e.g ikan dan katak
-	- Neuston
-	Merupakan organisme yang mengapung dipermukaan misalnya serangga, air, teratai, eceng gondok dan ganggang.
+		- Plankton 
+		 Plaknton terdiri atas fitoplanktoon (fotosintesis) dan zooplankton (makan hewan lain) . Organisme ini dapat berpindah tempat secara pasif karena pengaruh arus arus air, misalnya ganggang uniseluler dan protozoa
+		- Nekton
+		Organisme yang bergerak aktif (berenang), e.g ikan dan katak
+		- Neuston
+		Merupakan organisme yang mengapung dipermukaan misalnya serangga, air, teratai, eceng gondok dan ganggang.
+		- Perifiton
+		Merupakan organisme yang melekat pada organisme lain misalnya ganggang dan siput.
+	Ekosistem perairan dibedakan menjadi dua macam, yaitu ekosistem air tawar dan ekosistem air laut.
+	1. Ekosistem Air Tawar
+		Ekosistem air tawar memiliki ciri sebagai berikut:
+			1. Memiliki salinitas rendah, bahkan lebih rendah daripada cairan sel yang makhluk hidup
+			2. Dipengaruhi oleh iklim dan cuaca
+			3. Penetrasi cahaya matahari dibagi menjadi beberapa zona seperti:
+				- Zona Litoral --> Zona dangkal bahkan matahari dapat menembus ke dasar perairan
+				- Zona Limnetik atau Photic --> Daerah terbuka yang jauh dari tepian sampai kedalaman tapi masih dapat ditembus sinar matahari
+				- Zona Profundal atau Aphotic --> 
+	2. Ekosistem Air Laut
+	Ekosistem air laut memiliki ciri sebagai berikut :
+		1. Memiliki salinitas tinggi
+		2. Tidak dipengaruhi iklim atau cuaca
+		3. Habitat air laut saling berhubungan antara laut yang satu dengan laut yang lain.
+		4. Memiliki variasi perbedaan suhu dibagian permukaan dengan di kedalaman.iki variasi perbedaan suhu dibagian permukaan dengan di kedalaman.
