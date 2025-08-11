@@ -1,1 +1,1 @@
-[[Agama Hindu]][[B.Indo]][[B.Bali]][[English]][[Informatika]][[IPA]][[IPS]][[Matematika]][[Penjaskes]][[PKn]][[Seni Budaya]]
+[[Agama Hindu]][[B.Indo]][[B.Bali]][[English]][[Informatika]][[IPA]][[IPS]][[Matematika]][[Penjaskes]][[PKn]][[content/Notes, Articles, Dossiers/SMP REDRASSAS/SBdP/Seni Budaya]]
