@@ -86,3 +86,4 @@ Tipe-Tipe ekosistem
 		Sabana merupakan padang rumput yang diselingi pohon-pohon. Sabana terdapat didaerah tropis, dengan curah hujan 90- 150cm/tahun, misalnya di Kenya (Afrika) dan Australia Utara. Sabana dibedakan menjadi 2 macam yaitu sabana murni (satu jenis pohon) dan sabana campuran (beberapa jenis pohon)
 		
 Indonesia memiliki keragaman flora dan fauna (keanekaragaman hayati) yang sangat besar. Bahkan, keanekaragaman hayati Indonesia termasuk tiga besar di dunia bersama-sama dengan Brazil di Amerika Selatan dan Zaire di Afrika. Besarnya keanekaragaman hayati di Indonesia berkaitan erat dengan kondisi iklim dan kondisi fisik wilayah. Suhu dan curah hujan yang besar memungkinkan tumbuhnya beragam jenis tumbuhan.
+

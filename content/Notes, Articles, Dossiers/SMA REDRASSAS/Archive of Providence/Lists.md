@@ -1,1 +1,8 @@
-Biology -> https://repositori.kemendikdasmen.go.id/22124/1/X_Biologi_KD-3.2_Final.pdf
+1. Agama Hindu X → [https://repositori.kemendikdasmen.go.id/11632/1/Pendidikan Agama Hindu dan Budi Pekerti Kelas X.pdf](https://repositori.kemendikdasmen.go.id/11632/1/Pendidikan%20Agama%20Hindu%20dan%20Budi%20Pekerti%20Kelas%20X.pdf)
+2. IPS X → [https://penerbitcmedia.com/download1/BSE/SMA/Kelas-X/IPS-BS-KLS-X.pdf](https://penerbitcmedia.com/download1/BSE/SMA/Kelas-X/IPS-BS-KLS-X.pdf)
+3. IPA X → [https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS X.pdfPPKn](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS%20X.pdfPPKn) → [https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-X.pdf](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-X.pdf)
+4. PPKn → [https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-X.pdf](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-X.pdf)
+5. Bahasa Bali → -
+6. PJOK → [https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/PJOK-BG-KLS-X.pdfa](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/PJOK-BG-KLS-X.pdfa)
+7. English → [https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Inggris-BS-KLS-X.pdf](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Inggris-BS-KLS-X.pdf)
+8. Seni Budaya → [https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/k13/bukusiswa/Kelas X Seni Budaya BS Sem 1 press.pdf](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/k13/bukusiswa/Kelas%20X%20Seni%20Budaya%20BS%20Sem%201%20press.pdf)
