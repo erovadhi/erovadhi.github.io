@@ -90,6 +90,12 @@ Secara garis besar, objek kajian geografi terbagi menjadi dua nih, ada **objek 
 
 Kalau objek material, yang dibahas adalah fenomena yang terjadi di bumi, atau yang dikenal sebagai fenomena geosfer. Si geosfer ini ada lima lapisan, yaitu litosfer, hidrosfer, atmosfer, biosfer, dan antroposfer.
 
+- Geofisika -> Mempelajari fenomena fisik di permukaan bumi
+- Geososial -> Mempelajari hal dan fenomena sosial di permukaan bumi
+- Georegional -> Membahas wilayah secara komprehensif secara fisik dan sosial
+- Geopolitik -> Memvisualisasikan dan analisa data informasi geografis
+
+
 1. [**Litosfer**](https://www.ruangguru.com/blog/mengenal-lapisan-litosfer-bumi) (lapisan batuan). Litosfer merupakan lapisan luar dari bumi kita. Contohnya seperti gempa bumi, pergerakan lempeng, dan erupsi gunung api.
 2. [**Atmosfer**](https://www.ruangguru.com/blog/lapisan-atmosfer-bumi) (lapisan udara), contohnya iklim, cuaca, dan pergantian musim.
 3. [**Hidrosfer**](https://www.ruangguru.com/blog/mengenal-lapisan-bumi-hidrosfer) (lapisan air), baik yang berupa samudra, danau, sungai, dan air tanah.
@@ -99,3 +105,26 @@ Kalau objek material, yang dibahas adalah fenomena yang terjadi di bumi, atau ya
 ## Objek Formal
 
 Sementara, kalau objek formal geografi membahas cara berpikir manusia terhadap fenomena geosfer. Cara berpikir tersebut mencakup keruangan (spasial), kelingkungan (ekologi), dan kewilayahan (kompleks wilayah).
+
+# Aspek Geografi
+## Aspek Fisik
+Mengkaji segala fenomena geosfer yang berupa alam dan berpengaruh dengan kehidupan manusia.
+- Topologi -> Membahas letak bumi.
+- Biotik -> Membahas flora/fauna/penduduk.
+- Non-biotik -> Kondisi tanah dan hidrologi.
+## Aspek Sosial
+Mengkaji hubungan manusia dengan fenomena geosfer.
+- Sosial -> Membahas individu, kelompok dengan satu dan lainnya.
+- Ekonomi -> Membahas pasar, produksi, pertanian, dll.
+- Budaya -> Membahas unsur tradisi, adat istiadat, bahasa, dll.
+- Politik -> Membahas kepemerintahan
+
+# Pendekatan Geografi
+## Keruangan
+Menekankan aspek ruang, mempelajari kesamaan dan perbedaan serta suatu karakteristik fenomena-fenomena yang terjadi di geosfer.
+
+## Ekologi
+Menekankan interkasi, makhluk hidup dengan alam.
+
+## Wilayah
+Mengkaji objek/fenomena/peristiwa yang melibatkan suatu wilayah dan batas-batasnya.

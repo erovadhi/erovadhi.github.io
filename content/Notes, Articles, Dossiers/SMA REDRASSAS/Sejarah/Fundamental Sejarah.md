@@ -35,3 +35,41 @@ Mengapa Herodotus Dijuluki "Bapak Sejarah"?
     
 
 Meskipun ia juga mencatat beberapa cerita yang kini dianggap tidak akurat atau "kebohongan", pendekatannya yang sistematis dan rintisannya dalam penulisan sejarah menjadikannya tokoh fundamental dalam perkembangan sejarah sebagai disiplin ilmu.
+
+# Cara Berpikir Sejarah
+## **Sejarah sebagai Ilmu Pengetahuan yang Sistematis dan Teruji Kebenarannya:**
+
+- Sejarah didefinisikan sebagai "ilmu pengetahuan yang memuat peristiwa atau cerita di masa lampau yang disusun secara sistematis agar teruji kebenarannya."
+- Konsep ruang dan waktu (sinkronik dan diakronik) sangat penting "sebagai bukti bahwa peristiwa yang terjadi memang benar adanya sesuai dengan fakta." Hal ini membantu menghindari "cerita yang tidak lengkap" yang dapat berujung pada "hoax alias berita palsu!"
+
+## **Cara Berpikir Diakronik (Memanjang dalam Waktu, Terbatas pada Ruang):**
+
+- **Pengertian:** Berasal dari Bahasa Yunani, 'Dia' (melalui/melampaui) dan 'chronicus' (waktu). Diakronik berarti "memanjang dalam waktu, namun terbatas pada ruang."
+- **Ciri-ciri:Memanjang dalam waktu, menyempit dalam ruang:** Mengutamakan urutan waktu dengan sedikit perhatian pada keluasan ruang.
+- **Fokus pada kronologis:** Peristiwa disusun "berdasarkan urutan waktu dari awal hingga akhir, supaya tidak melompat-lompat dan berujung pada kekeliruan." Lawan katanya adalah "anakronis" (kesalahan dalam penempatan peristiwa yang tidak sesuai semestinya).
+- **Bersifat vertikal:** Alur waktu berjalan lurus tanpa penjelasan mendalam tentang kejadian tersebut.
+- **Contoh:**Sejarah Penerapan Demokrasi di Indonesia (urutan periode waktu).
+- Urutan Presiden Indonesia Sejak Kemerdekaan hingga Sekarang (daftar presiden dan masa jabatannya).
+
+## **Cara Berpikir Sinkronik (Meluas dalam Ruang, Terbatas pada Waktu):**
+
+- **Pengertian:** Berasal dari Bahasa Yunani, 'syn' (bersamaan) dan 'chronos' (waktu). Sinkronik adalah "cara berpikir yang meluas dalam ruang, tetapi terbatas pada waktu."
+- **Fokus:** Berfokus pada "aspek-aspek peristiwa. Seperti penyebab, dampak, tokoh, tempat, dan lain-lain," sehingga "berusaha menceritakan kejadian secara lebih mendalam."
+- **Ciri-ciri:Mengkaji waktu tertentu:** Hanya fokus mengkaji satu periode atau waktu tertentu.
+- **Bersifat horizontal:** Memandang peristiwa pada ruang yang lebih luas dalam berbagai aspek (politik, ekonomi, sosial budaya, dll.).
+- **Menitikberatkan pengkajian pada strukturnya:** Menganalisis peristiwa dengan mengaitkannya pada aspek tertentu (misalnya, kepemimpinan Presiden Joko Widodo dikaitkan dengan aspek politik).
+- **Contoh:**Latar Belakang Diterapkannya Masa Demokrasi Terpimpin (menjelaskan pokok-pokok demokrasi terpimpin dan penyimpangannya).
+- Demonstrasi Rancangan Kitab Undang-Undang Hukum Pidana (RUKHP) (menjelaskan latar belakang, tuntutan mahasiswa, dan dampaknya pada waktu tertentu).
+
+## **Periodesasi (Pembabakan Zaman):**
+
+- **Pengertian:** Konsep di mana sejarah disusun "menurut klasifikasi tertentu dari peristiwa-peristiwa yang telah terjadi."
+- **Tujuan:**Menyederhanakan rangkaian peristiwa sejarah.
+- Mempermudah pembaca untuk memahami sejarah.
+- Membantu mengklasifikasikan peristiwa-peristiwa sejarah.
+- Memudahkan dalam menganalisis perkembangan dan perubahan yang terjadi di setiap periode.
+- **Contoh Periodesasi Sejarah Indonesia:Zaman Prasejarah:** Zaman manusia sebelum mengenal tulisan. Penelitian didasarkan pada peninggalan purbakala seperti artefak, fiture, ekofak, dan situs.
+- **Zaman Sejarah:** Zaman di mana manusia sudah mengenal tulisan. Dibagi menjadi:
+- **Zaman Kuno:** Kerajaan tertua hingga abad ke-14, dipengaruhi Hindu dan Buddha.
+- **Zaman Indonesia Baru:** Abad ke-15 hingga abad ke-18, dipengaruhi perkembangan kerajaan Islam.
+- **Zaman Indonesia Modern:** Sejak pemerintahan Hindia Belanda, Indonesia merdeka, hingga sekarang.

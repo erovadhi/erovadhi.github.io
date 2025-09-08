@@ -49,3 +49,15 @@ $$ n\sqrt{a^m} = a^{\frac{m}{n}} $$
 ## Pangkat Nol
 
 $$ a^0=1 $$
+## Tambahan Penting
+Jika:
+$$
+\frac{27^2 \space 32^2}{16^3 \space 3^3}
+$$
+$$
+\frac{(3^3)^2 \space (2^5)^2}{(2^4)^3(3^3)}
+$$
+
+$$
+3^{6-3} \space \cdot \space 2^{10-12}
+ = 3^6$$
