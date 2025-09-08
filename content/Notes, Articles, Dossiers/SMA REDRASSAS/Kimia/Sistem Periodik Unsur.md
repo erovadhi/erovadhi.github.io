@@ -122,17 +122,11 @@ Pembahasan: 
 
 ### Larangan Pauli
 
-Larangan Pauli ditemukan oleh seorang ilmuwan asal Austria, yaitu Wolfgang Pauli. Larangan ini menyatakan bahwa dalam satu atom, tidak ada elektron yang memiliki bilangan kuantum sama. Jika dua elektron berada di orbital yang sama, pasti spin keduanya berbeda. Perhatikan contoh contoh:
-
-![](https://lh3.googleusercontent.com/-B60AC3EatAZlotDSk5EspIhFq4YuZXbNTmkThNLtyGvRxr_mIMsMA4DjhVMss_1JXYi9kJCd1F_uinRc5cFaQOGYzA-HcZYEm7Jf-BwMXsOV8BGa_yRtKGRxfXGcQK1BebPXF7e8puf_F9a1-UrNWb59VzndhFltROComG48brhHRj4kIGKzaILT2vVCtbIRxIYDgF_yw)
+Larangan Pauli ditemukan oleh seorang ilmuwan asal Austria, yaitu Wolfgang Pauli. Larangan ini menyatakan bahwa dalam satu atom, tidak ada elektron yang memiliki bilangan kuantum sama. Jika dua elektron berada di orbital yang sama, pasti spin keduanya berbeda.
 
 ### Kaidah Hund
 
 Seorang ilmuwan asal Jerman, yaitu Friedrich Hund, menyatakan bahwa pengisian elektron pada orbital dengan tingkat energi yang sama harus didistribusikan secara merata, dimulai dari elektron yang tidak berpasangan. Setelah semua orbital berisi penuh elektron yang tidak berpasangan, barulah diisi elektron lain dengan spin yang berbeda arah, sehingga membentuk pasangan elektron. Perhatikan contoh berikut.
-
-![](https://lh3.googleusercontent.com/_STa5-9omKDaKgXEYtLJ5pNkxAAE38j-LCDZypBj5EGXyYuYVjM5Jcd6lkJAhG043daBFtE2_PSoqUbdbSkTEXOD-9wrEVtF6ExUQ-Q7Xkl0Rw4hnNufnJZ3lsvs1ALosYgROfkUG71p83kW0liJUWobtqPVhxRG4WvM6gIMI3tIwxTXO8EkP-fqAuDZZvc5XDAT3uB70w)
-
-![](https://lh6.googleusercontent.com/1TOb0LBPDuVKnMegLS6T0of6B_gsuGNaVfYB-xT-yP3qpRjfGda8gPlf8o4qz0bQMZLc4_M-iJqOPuyQgqVWFo5ofT-X4dHOAQYhW5YGvLDGLHfrDzAAEOojKGPxSCIStJ7N8KDLWCSH7OkBghroLXkpuZDG4lywviKI-9vWJ9vZJxCZ0Pb6eEvFtNOGAtCpcSiRNAoHJA)
 
 ### Aturan setengah penuh
 
@@ -174,7 +168,9 @@ Proton (sama dengan no atom) ->  17
 Elektron (sama dengan no atom ketika tidak bermuatan, ketika bermuatan = e = atomic # - charge) -> 17 - (-2) = 19
 Neutron (No massa - proton) ->  35-17=18
 Charge = 2-
-Valency = 
+Valency = (Kulit terluar)
+Golongan = (Valency)
+Periode = (Kulit terbesar)
 TBA
 
 https://www.youtube.com/watch?v=N8PaCCDplRw
