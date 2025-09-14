@@ -17,4 +17,6 @@ bilangan pokok → $a^m$
 3. $\sqrt{\frac{a}{b}}$ = $\sqrt{\frac{a}{b}}$ ; a $\geq$ 0 dan b > 0
 
 # Syarat Merasionalkan Bentuk Akar
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/Cara%20Merasionalkan%20Bentuk%20Akar.jpg)
+
 ![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/MAT09%20-%20Bentuk%20Akar%20dan%20Cara%20Merasionalkannya-06.jpg)
